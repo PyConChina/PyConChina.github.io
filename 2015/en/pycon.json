@@ -1,0 +1,261 @@
+{
+  "agenda": {
+    "beijing": {
+      "address": "TBD", 
+      "afternoon": null, 
+      "cancel_talks": null, 
+      "date": "2015-09-17 09:00~18:00", 
+      "lightening_talks": null, 
+      "maplink": null, 
+      "morning": null, 
+      "noon": null, 
+      "notices": "...", 
+      "traffic": "TBD", 
+      "venue": "TBD"
+    }, 
+    "guangzhou": {
+      "address": "TBD", 
+      "afternoon": null, 
+      "cancel_talks": null, 
+      "date": "2015-09-17 09:30~18:05", 
+      "lightening_talks": null, 
+      "morning": null, 
+      "noon": null, 
+      "notices": "(\uffe3\u25bd\uffe3)", 
+      "traffic": "TBD", 
+      "venue": "TBD"
+    }, 
+    "hangzhou": {
+      "address": "TBD", 
+      "afternoon": [
+        {
+          "time": "13:20", 
+          "topic": "TBD"
+        }
+      ], 
+      "date": "2015-09-17 13:00~18:00", 
+      "noon": [
+        {
+          "time": "13:00", 
+          "topic": "Check in"
+        }
+      ], 
+      "notices": "...", 
+      "traffic": "TBD", 
+      "venue": "TBD"
+    }, 
+    "shanghai": {
+      "address": "TBD", 
+      "afternoon": null, 
+      "date": "2015-09-17 09:00~18:00", 
+      "lightening_talks": null, 
+      "morning": null, 
+      "noon": null, 
+      "notices": "", 
+      "traffic": "TBD", 
+      "venue": "TBD"
+    }, 
+    "suzhou": {
+      "address": "TBD", 
+      "afternoon": null, 
+      "date": "2015-09-17 13:00~17:00", 
+      "noon": [
+        {
+          "time": "13:00", 
+          "topic": "Check in"
+        }
+      ], 
+      "notices": "\u6b22\u8fce\u53c2\u52a0!", 
+      "traffic": "TBD", 
+      "venue": "TBD"
+    }, 
+    "zhuhai": {
+      "address": "TBD", 
+      "afternoon": null, 
+      "cancel_talks": null, 
+      "date": "2015-09-17 09:30~18:05", 
+      "lightening_talks": null, 
+      "morning": null, 
+      "noon": null, 
+      "notices": "(\uffe3\u25bd\uffe3)", 
+      "traffic": "TBD", 
+      "venue": "TBD"
+    }
+  }, 
+  "cachebuster_qs": "?_t=1438661968", 
+  "donators": null, 
+  "lang": "en", 
+  "lang_dir": "en", 
+  "lang_suffix": "_en", 
+  "message": {
+    "address": "Address", 
+    "afternoon": "Afternoon", 
+    "audio": "audio", 
+    "beijing": "Beijing", 
+    "cancel_talks": "Canceled Talks", 
+    "conference": "Conference Volunteers", 
+    "date": "Date", 
+    "donators": "Personal Sponsorship", 
+    "donators_orderby": "(sorted by time of sponsorship)", 
+    "global": "Online", 
+    "guangzhou": "GuangZhou", 
+    "hangzhou": "Hangzhou", 
+    "home_sponsors": "Sponsors", 
+    "home_title": "PyCon2015China comming soon!", 
+    "lighting_talks": "Lighting Talks", 
+    "morning": "Morning", 
+    "noon": "Noon", 
+    "notices": "Notices", 
+    "organizers": "Coordinators", 
+    "page_title_beijing": "Schedule in Beijing", 
+    "page_title_guangzhou": "Schedule in GuangZhou", 
+    "page_title_hangzhou": "Schedule in Hangzhou", 
+    "page_title_index": "HOME", 
+    "page_title_proposals": "Proposals", 
+    "page_title_shanghai": "Schedule in Shanghai", 
+    "page_title_sponsors": "Sponsors", 
+    "page_title_suzhou": "Schedule in Suzhou", 
+    "page_title_tshirt": "TEE", 
+    "page_title_volunteers": "Volunteers", 
+    "page_title_zhuhai": "Schedule in Zhuhai", 
+    "pythoneer": "<b><A NAME=\"anchor\">pythoneer</a></b> ~ \"A pioneer within the Python programming language community.\" means, Pythoneer COOL than Pythonista, btw Pythoner just Python beginner.", 
+    "schedule": "Schedule", 
+    "shanghai": "Shanghai", 
+    "slide": "slide", 
+    "speechmaker": "Speechmaker", 
+    "sponsors": "SPONSORS", 
+    "sponsors_bronze": "Bronze", 
+    "sponsors_diamond": "Diamond", 
+    "sponsors_gold": "Gold", 
+    "sponsors_hint": "Supports from sponors are necessary for the success of PyCon. If you or your organization is willing to help the Python community of China, please contact PyCon committee (<a href=\"mailto:stingchen@topgeek.org\">stingchen@topgeek.org</a>). We will show the logo and introduction of all sponsors on the home page of our official website\n", 
+    "sponsors_partner": "Partner", 
+    "sponsors_platinum": "Platinum", 
+    "sponsors_silver": "Silver", 
+    "suzhou": "Suzhou", 
+    "technicians": "Technical Volunteers", 
+    "traffic": "Traffic", 
+    "venue": "Venue", 
+    "video": "video", 
+    "video_and_slides": "Video and Slides", 
+    "volunteers": "Volunteers", 
+    "zhuhai": "Zhuhai"
+  }, 
+  "nav": [
+    {
+      "title": "PROPOSALS", 
+      "url": "en/proposals.html"
+    }, 
+    {
+      "children": [
+        {
+          "title": "SPONSORS", 
+          "url": "en/sponsor_com.html"
+        }, 
+        {
+          "title": "TEE", 
+          "url": "en/tshirt.html"
+        }, 
+        {
+          "title": "DONATOR", 
+          "url": "en/donators.html"
+        }
+      ], 
+      "title": "SUPPORT"
+    }, 
+    {
+      "children": [
+        {
+          "title": "BEIJING", 
+          "url": "en/beijing.html"
+        }, 
+        {
+          "title": "SHANGHAI", 
+          "url": "en/shanghai.html"
+        }, 
+        {
+          "title": "GUANGZHOU", 
+          "url": "en/guangzhou.html"
+        }
+      ], 
+      "title": "SCHEDULE"
+    }, 
+    {
+      "title": "VOLUNTEERS", 
+      "url": "en/volunteers.html"
+    }, 
+    {
+      "children": [
+        {
+          "title": "2011", 
+          "url": "http://cn.pycon.org/2011", 
+          "url_external": 1
+        }, 
+        {
+          "title": "2012", 
+          "url": "http://cn.pycon.org/2012", 
+          "url_external": 1
+        }, 
+        {
+          "title": "2013", 
+          "url": "http://cn.pycon.org/2013", 
+          "url_external": 1
+        }, 
+        {
+          "title": "2014", 
+          "url": "http://cn.pycon.org/2014", 
+          "url_external": 1
+        }
+      ], 
+      "title": "HISTORY"
+    }, 
+    {
+      "title": "\u4e2d\u6587", 
+      "url": "index.html"
+    }
+  ], 
+  "site": {
+    "author": "support@PyChina.org", 
+    "base_url": "..", 
+    "description": "The official site for PyCon China 2015", 
+    "home_url": "../en/", 
+    "name": "PyCon2015China", 
+    "url": "http://cn.pycon.org/"
+  }, 
+  "speakers": null, 
+  "sponsors": [
+    {
+      "intro": "SegmentFault is China's leading developer community. After more than two years of development, SegmentFault is already have more than ten developer. SegmentFault's goal is to provide Chinese developers to one of the most pure technical exchange platform,  create belong to the age of developers together", 
+      "level": "partner", 
+      "level_partner": 1, 
+      "link": "http://segmentfault.com/", 
+      "logo": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/logo/sf-logo-cmyk.png?imageView2/2/w/200"
+    }, 
+    {
+      "intro": "\u4e2d\u56fd\u79d1\u6280\u7f51\u662f\u4e2d\u56fd\u79d1\u5b66\u9662\u9886\u5bfc\u4e0b\u7684\u5b66\u672f\u6027,\u975e\u76c8\u5229\u7684\u79d1\u7814\u8ba1\u7b97\u673a\u7f51\u7edc. \u4e2d\u56fd\u79d1\u6280\u7f51(CSTNET)\u5df2\u7ecf\u6210\u4e3a\u4e2d\u56fd\u4e92\u8054\u7f51\u884c\u4e1a\u5feb\u901f\u53d1\u5c55\u7684\u4e00\u652f\u91cd\u8981\u529b\u91cf,\u4e3a\u5e7f\u5927\u7528\u6237\u63d0\u4f9b\u4e92\u8054\u7f51\u63a5\u5165,\u5c0f\u533a\u5bbd\u5e26,\u79d1\u7814\u6570\u636e\u4e2d\u5fc3(IDC),\u7f51\u7edc\u7ba1\u7406\u4e0e\u5b89\u5168\u670d\u52a1,\u89c6\u9891\u4f1a\u8bae\u7cfb\u7edf,\u90ae\u4ef6\u7cfb\u7edf,\u684c\u9762\u4f1a\u8bae\u7cfb\u7edf,\u4f1a\u8bae\u670d\u52a1\u5e73\u53f0,\u79d1\u7814\u5728\u7ebf\u6587\u6863\u5e93,\u7ec4\u7ec7\u901a\u8baf\u5f55,\u5b9e\u9a8c\u5ba4\u4fe1\u606f\u7cfb\u7edf,\u79d1\u7814\u4e3b\u9875,\u79d1\u4fe1,\u4e2d\u56fd\u79d1\u6280\u7f51\u901a\u884c\u8bc1\u7b49\u670d\u52a1,\u4ee5\u53ca\u7f51\u7edc\u524d\u6cbf\u6280\u672f\u7814\u53d1\u7b49,\u4e3a\u56fd\u5bb6\u79d1\u5b66\u6280\u672f\u7684\u521b\u65b0\u53d1\u5c55\u63d0\u4f9b\u57fa\u7840\u6027\u7684\u4fe1\u606f\u5316\u652f\u6491\u4e0e\u4fdd\u969c. ", 
+      "level": "partner", 
+      "level_partner": 1, 
+      "link": "http://www.cstnet.net.cn/overview.htm", 
+      "logo": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/logo/cstnet-logo.png?imageView2/2/w/200"
+    }
+  ], 
+  "volunteers": [
+    {
+      "avatar": "http://pyconcn.qiniudn.com/images/volunteer/chenshixin_2013.png?imageView2/2/h/80", 
+      "blog": "http://sting.topgeek.org/", 
+      "intro": "\u6c38\u6cf0\u7ea2\u78e1\u517b\u8001\u4ea7\u4e1a\u6295\u8d44\u96c6\u56e2\u7684\u4fe1\u606f\u6280\u672f\u603b\u76d1;\u572814\u5e74\u7684\u4e92\u8054\u7f51\u751f\u6daf\u540e,\u6295\u8eab\u5230\u5230\u6c38\u6cf0\u7ea2\u78e1\u517b\u8001\u4ea7\u4e1a\u6295\u8d44\u96c6\u56e2\u505a\u5915\u9633\u4e8b\u4e1a,\u8de8\u754c\u53d1\u5c55. \u4ed6\u662fTopGeek\u6280\u672f\u793e\u533a\u7684\u521b\u529e\u4eba\u4e5f\u662f\u4e0a\u6d77GDG\u7684\u8d1f\u8d23\u4eba,\u5e76\u53c2\u4e0eCPyUG\u793e\u533a\u7684\u7ba1\u7406. \u8fd8\u53d1\u8d77PMCamp\u4ea7\u54c1\u7ecf\u7406\u793e\u533a,\u513f\u7ae5\u793e\u533a\u4e50\u521b\u56ed\u7b49", 
+      "name": "StingChen(\u9648\u4e16\u6b23)", 
+      "role": "organizer", 
+      "role_organizer": 1, 
+      "weibo": "http://weibo.com/stingchen"
+    }, 
+    {
+      "avatar": "http://pyconcn.qiniudn.com/images/volunteer/zhouqi.png?imageView2/2/h/80", 
+      "blog": "http://blog.zoomquiet.io/", 
+      "intro": "One of originator for CPyUG(China Python User Group) / administrator; Enthusiastic python community welfare, well-known community \"DAMA\"; OBP and PythoniCamp project designer / manager; attend and originator all kinds of  online / offline tech evnets, presided compiled \"lovely Python\"; keeping usage Pythonic to reclaim people entering the FLOSS world learning / sharing / innovate! currently work for CMCM.", 
+      "name": "Zoom.Quiet (\u5927\u5988)", 
+      "role": "organizer", 
+      "role_organizer": 1, 
+      "weibo": "http://weibo.com/zoomquiet"
+    }
+  ]
+}
