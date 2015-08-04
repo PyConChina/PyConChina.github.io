@@ -82,7 +82,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1438683194", 
+  "cachebuster_qs": "?_t=1438683326", 
   "donators": null, 
   "lang": "en", 
   "lang_dir": "en", 
@@ -101,7 +101,7 @@
     "guangzhou": "GuangZhou", 
     "hangzhou": "Hangzhou", 
     "home_sponsors": "Sponsors", 
-    "home_title": "PyCon2015China comming soon!", 
+    "home_title": "PyCon 2015 China coming soon!", 
     "lighting_talks": "Lighting Talks", 
     "morning": "Morning", 
     "noon": "Noon", 
@@ -243,6 +243,13 @@
       "level_gold": 1, 
       "link": "https://coding.net/home.html", 
       "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff14/logo/coding_logo.png?imageView2/2/h/66"
+    }, 
+    {
+      "intro": "HZ Book is a joint venture set up with China Machine Press and (US)WanGuo.", 
+      "level": "gold", 
+      "level_gold": 1, 
+      "link": "http://www.hzbook.com/About/About.html", 
+      "logo": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/logo/books-hz-logo_nowords.png?imageView2/2/h/90"
     }
   ], 
   "volunteers": [
