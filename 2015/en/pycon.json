@@ -82,7 +82,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1438683707", 
+  "cachebuster_qs": "?_t=1438684261", 
   "donators": null, 
   "lang": "en", 
   "lang_dir": "en", 
@@ -118,7 +118,7 @@
     "page_title_tshirt": "TEE", 
     "page_title_volunteers": "Volunteers", 
     "page_title_zhuhai": "Schedule in Zhuhai", 
-    "pythoneer": "<b><A NAME=\"anchor\">pythoneer</a></b> ~ \"A pioneer within the Python programming language community.\" means, Pythoneer COOL than Pythonista, btw Pythoner just Python beginner.", 
+    "pythoneer": "<b><A NAME=\"anchor\">pythoneer</a></b> ~ \"A pioneer within the Python programming language community.\" means Pythoneer COOL than Pythonista. btw Pythoner just Python beginner.", 
     "schedule": "Schedule", 
     "shanghai": "Shanghai", 
     "slide": "slide", 
@@ -235,7 +235,7 @@
       "level": "partner", 
       "level_partner": 1, 
       "link": "http://www.cstnet.net.cn/overview.htm", 
-      "logo": "http://dn-pyconcn.qbox.me/zoomquiet/stuff14/logo/cstnet-logo.png?imageView2/2/w/200"
+      "logo": "http://dn-pyconcn.qbox.me/zoomquiet/stuff14/logo/cstnet-logo.png?imageView2/2/h/160"
     }, 
     {
       "intro": "SpeedyCloud is the IaaS brand owned by Beijing SpeedyCloud Technology Co., Ltd.,, who is one of the leaders in cloud industry.The company was setup in 2012, with the capital of 10 million RMB invested all by ourselves.Being the general solution provider,  our focus is to provide IaaS for Internet and enterprises companies. Most of the team came from public IT operating and service companies like ChinaCache, 21ViaNet, etc. We are helping our customers with the most cutting-edge cloud computing technologies to expand their online businesses. ", 
@@ -266,7 +266,7 @@
       "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff14/logo/turingbook-Logo.jpg?imageView2/2/w/120"
     }, 
     {
-      "intro": "\u5e7f\u5dde\u9f50\u660c\u7f51\u7edc\u79d1\u6280\u6709\u9650\u516c\u53f8\uff0c\u4e13\u6ce8\u4e8e\u6280\u672f\u54a8\u8be2\u548c\u5f00\u53d1\u5916\u5305\u4e1a\u52a1\uff0c\u627f\u63a5\u57fa\u4e8eWeb\u6280\u672f\u7684\u5f00\u53d1\u4e1a\u52a1\u5916\u5305,\u5305\u62ec\u57fa\u4e8e\u6d4f\u89c8\u5668/\u670d\u52a1\u5668\u6a21\u5f0f\u7684\u5e94\u7528\u8f6f\u4ef6\u3001\u7535\u5b50\u5546\u52a1\u548c\u7535\u5b50\u653f\u52a1\u7cfb\u7edf\u7814\u53d1\uff0c\u627f\u63a5\u57fa\u4e8eiOS\u3001Android\u7684\u8f6f\u4ef6\u5f00\u53d1\u4e1a\u52a1\u5916\u5305\uff0c\u627f\u63a5\u57fa\u4e8e Linux\u7684\u7cfb\u7edf\u8f6f\u4ef6\u5f00\u53d1\u5916\u5305\u3002\u9f50\u660c\u7f51\u7edc\u7531\u8d56\u52c7\u6d69\u4e8e2014\u5e74\u5e95\u521b\u529e\uff0c\u8d56\u52c7\u6d69\u4e5f\u662f\u591a\u5c4a\u7684PyCon\u5206\u4eab\u8bb2\u5e08\uff0c\u5728Python\u76f8\u5173\u6280\u672f\u4e0a\u6709\u6df1\u5165\u7814\u7a76\uff0c\u9664\u6280\u672f\u535a\u5ba2\u6709\u8fd1250\u4e07\u6d4f\u89c8\u91cf\u5916\u8fd8\u5408\u8457\u6709\u300a\u7f16\u5199\u9ad8\u8d28\u91cf\u4ee3\u7801\uff1a\u6539\u5584Python\u7a0b\u5e8f\u768491\u4e2a\u5efa\u8bae\u300b\u4e00\u4e66\u3002", 
+      "intro": "\u5e7f\u5dde\u9f50\u660c\u7f51\u7edc\u79d1\u6280\u6709\u9650\u516c\u53f8,\u4e13\u6ce8\u4e8e\u6280\u672f\u54a8\u8be2\u548c\u5f00\u53d1\u5916\u5305\u4e1a\u52a1,\u627f\u63a5\u57fa\u4e8eWeb\u6280\u672f\u7684\u5f00\u53d1\u4e1a\u52a1\u5916\u5305,\u5305\u62ec\u57fa\u4e8e\u6d4f\u89c8\u5668/\u670d\u52a1\u5668\u6a21\u5f0f\u7684\u5e94\u7528\u8f6f\u4ef6,\u7535\u5b50\u5546\u52a1\u548c\u7535\u5b50\u653f\u52a1\u7cfb\u7edf\u7814\u53d1,\u627f\u63a5\u57fa\u4e8eiOS,Android\u7684\u8f6f\u4ef6\u5f00\u53d1\u4e1a\u52a1\u5916\u5305,\u627f\u63a5\u57fa\u4e8e Linux\u7684\u7cfb\u7edf\u8f6f\u4ef6\u5f00\u53d1\u5916\u5305. \u9f50\u660c\u7f51\u7edc\u7531\u8d56\u52c7\u6d69\u4e8e2014\u5e74\u5e95\u521b\u529e,\u8d56\u52c7\u6d69\u4e5f\u662f\u591a\u5c4a\u7684PyCon\u5206\u4eab\u8bb2\u5e08,\u5728Python\u76f8\u5173\u6280\u672f\u4e0a\u6709\u6df1\u5165\u7814\u7a76,\u9664\u6280\u672f\u535a\u5ba2\u6709\u8fd1250\u4e07\u6d4f\u89c8\u91cf\u5916\u8fd8\u5408\u8457\u6709<<\u7f16\u5199\u9ad8\u8d28\u91cf\u4ee3\u7801:\u6539\u5584Python\u7a0b\u5e8f\u768491\u4e2a\u5efa\u8bae>>\u4e00\u4e66. ", 
       "level": "bronze", 
       "level_bronze": 1, 
       "link": "http://gzqichang.com", 
