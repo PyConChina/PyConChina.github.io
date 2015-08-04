@@ -82,7 +82,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1438678502", 
+  "cachebuster_qs": "?_t=1438683194", 
   "donators": null, 
   "lang": "en", 
   "lang_dir": "en", 
@@ -236,6 +236,13 @@
       "level_partner": 1, 
       "link": "http://www.cstnet.net.cn/overview.htm", 
       "logo": "http://dn-pyconcn.qbox.me/zoomquiet/stuff14/logo/cstnet-logo.png?imageView2/2/w/200"
+    }, 
+    {
+      "intro": "Coding is a cloud development platform for developers, Provide code hosting, space operation, quality control, project management, etc., Coding provide social collaboration capabilities, including the SNS to provide developers with technical discussion and collaboration platform.", 
+      "level": "gold", 
+      "level_gold": 1, 
+      "link": "https://coding.net/home.html", 
+      "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff14/logo/coding_logo.png?imageView2/2/h/66"
     }
   ], 
   "volunteers": [

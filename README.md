@@ -13,9 +13,9 @@ base Nginx:
 
     upstream pycon-frontends {
         server 127.0.0.1:12306      weight=10 max_fails=4 fail_timeout=30s;
-        server SS1:12306   weight=5  max_fails=4 fail_timeout=30s;
-        server SS2:12306   weight=5  max_fails=4 fail_timeout=30s;
-        server SS3:12306    weight=3  max_fails=4 fail_timeout=30s;
+        server SS1   weight=5  max_fails=4 fail_timeout=30s;
+        server SS2   weight=5  max_fails=4 fail_timeout=30s;
+        server SS3   weight=3  max_fails=4 fail_timeout=30s;
         server pyconchina.github.io weight=3  max_fails=4 fail_timeout=30s;
         }
 

@@ -82,7 +82,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1438678502", 
+  "cachebuster_qs": "?_t=1438683194", 
   "donators": null, 
   "lang": "cn", 
   "lang_dir": "", 
@@ -236,6 +236,13 @@
       "level_partner": 1, 
       "link": "http://www.cstnet.net.cn/overview.htm", 
       "logo": "http://dn-pyconcn.qbox.me/zoomquiet/stuff14/logo/cstnet-logo.png?imageView2/2/w/200"
+    }, 
+    {
+      "intro": "Coding \u662f\u4e00\u4e2a\u8f6f\u4ef6\u5f00\u53d1\u5e73\u53f0\u2014\u2014 \u63d0\u4f9b\u5feb\u901f\u7684\u8f6f\u4ef6\u5f00\u53d1\u73af\u5883\uff0c\u5305\u62ec Web IDE\u3001\u4ee3\u7801\u6258\u7ba1\u3001\u9879\u76ee\u534f\u4f5c\u3001\u90e8\u7f72\u6f14\u793a\u7b49\uff0c\u540c\u65f6\u8fd8\u6709Coding \u60ac\u8d4f\u5e73\u53f0\uff0c\u5e2e\u52a9\u8f6f\u4ef6\u9879\u76ee\u7684\u9700\u6c42\u65b9\u5feb\u901f\u627e\u5230\u5408\u9002\u7684\u5f00\u53d1\u8005\u5b8c\u6210\u9879\u76ee\u5f00\u53d1\u5de5\u4f5c\uff0c\u4e5f\u5e2e\u52a9\u5f00\u53d1\u8005\u80fd\u591f\u627e\u5230\u5408\u9002\u7684\u9879\u76ee\u5c06\u81ea\u5df1\u7684\u80fd\u529b\u53d8\u6210\u8d22\u5bcc.", 
+      "level": "gold", 
+      "level_gold": 1, 
+      "link": "https://coding.net/home.html", 
+      "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff14/logo/coding_logo.png?imageView2/2/h/66"
     }
   ], 
   "volunteers": [
