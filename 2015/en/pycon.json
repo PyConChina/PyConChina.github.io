@@ -82,7 +82,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1438683326", 
+  "cachebuster_qs": "?_t=1438683465", 
   "donators": null, 
   "lang": "en", 
   "lang_dir": "en", 
@@ -249,7 +249,14 @@
       "level": "gold", 
       "level_gold": 1, 
       "link": "http://www.hzbook.com/About/About.html", 
-      "logo": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/logo/books-hz-logo_nowords.png?imageView2/2/h/90"
+      "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff14/logo/books-hz-logo_nowords.png?imageView2/2/h/90"
+    }, 
+    {
+      "intro": "Turing Co., Ltd  persists in planning publishing high quality books of science and technology as the core business, launched a series of high quality best-selling technology books, it's one of China famous and influential computer books publisher and Professional technical & Reading community. Set up nine years, accumulative total sold more than 500 copies of books and have impress millions of readers. Turing Co., Ltd that provide first-class content is its responsibility. Rapid growth in recent years has been for domestic famous ebook sales platform of science and technology.", 
+      "level": "silver", 
+      "level_silver": 1, 
+      "link": "http://www.ituring.com.cn", 
+      "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff14/logo/turingbook-Logo.jpg?imageView2/2/w/120"
     }
   ], 
   "volunteers": [
