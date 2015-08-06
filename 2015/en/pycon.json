@@ -82,7 +82,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1438826906", 
+  "cachebuster_qs": "?_t=1438831980", 
   "donators": null, 
   "lang": "en", 
   "lang_dir": "en", 
@@ -242,7 +242,7 @@
       "level": "platinum", 
       "level_platinum": 1, 
       "link": "http://www.speedycloud.cn/", 
-      "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff14/logo/seeedstudio-2014-LOGO03.png?imageView2/2/h/160"
+      "logo": "http://www.speedycloud.cn/statics/images/logo.png"
     }, 
     {
       "intro": "Coding is a cloud development platform for developers, Provide code hosting, space operation, quality control, project management, etc., Coding provide social collaboration capabilities, including the SNS to provide developers with technical discussion and collaboration platform.", 
