@@ -2,87 +2,216 @@
   "agenda": {
     "beijing": {
       "address": "TBD", 
-      "afternoon": null, 
-      "cancel_talks": null, 
-      "date": "2015-09-17 09:00~18:00", 
-      "lightening_talks": null, 
-      "maplink": null, 
-      "morning": null, 
-      "noon": null, 
+      "afternoon": [
+        {
+          "speaker": "id_dinglaiqiang", 
+          "time": "14:00"
+        }, 
+        {
+          "speaker": "id_liaoxinxi", 
+          "time": "14:40"
+        }, 
+        {
+          "speaker": "id_dujun", 
+          "time": "15:20"
+        }, 
+        {
+          "time": "16:00", 
+          "topic": "Intermission"
+        }, 
+        {
+          "speaker": "id_huangjin", 
+          "time": "16:10"
+        }, 
+        {
+          "speaker": "id_linpan", 
+          "time": "17:00"
+        }
+      ], 
+      "cancel_talks": [
+        {
+          "speaker": "id_none", 
+          "time": "(\u30fc`\u00b4\u30fc)"
+        }
+      ], 
+      "date": "2015-09-19 09:00~18:00", 
+      "lightening_talks": [
+        {
+          "speaker": "id_wangzhili", 
+          "time": "17:30"
+        }
+      ], 
+      "maplink": "...", 
+      "morning": [
+        {
+          "time": "09:00", 
+          "topic": "Check-in"
+        }, 
+        {
+          "time": "09:45", 
+          "topic": "Opening"
+        }, 
+        {
+          "speaker": "id_yankaibj", 
+          "time": "10:00"
+        }, 
+        {
+          "speaker": "id_none", 
+          "time": "11:00"
+        }
+      ], 
+      "noon": [
+        {
+          "time": "12:00", 
+          "topic": "Lunch + Photo"
+        }
+      ], 
       "notices": "...", 
-      "traffic": "TBD", 
+      "traffic": "(...)", 
       "venue": "TBD"
     }, 
     "guangzhou": {
       "address": "TBD", 
-      "afternoon": null, 
-      "cancel_talks": null, 
-      "date": "2015-09-17 09:30~18:05", 
-      "lightening_talks": null, 
-      "morning": null, 
-      "noon": null, 
-      "notices": "(\uffe3\u25bd\uffe3)", 
-      "traffic": "TBD", 
-      "venue": "TBD"
-    }, 
-    "hangzhou": {
-      "address": "TBD", 
       "afternoon": [
         {
-          "time": "13:20", 
-          "topic": "TBD"
+          "speaker": "id_river", 
+          "time": "14:00"
+        }, 
+        {
+          "speaker": "id_nonegz", 
+          "time": "14:40"
+        }, 
+        {
+          "speaker": "id_zuozhenjie", 
+          "time": "15:20"
+        }, 
+        {
+          "time": "16:00", 
+          "topic": "Intermission"
+        }, 
+        {
+          "speaker": "id_nonegz", 
+          "time": "16:10"
+        }, 
+        {
+          "speaker": "id_nonegz", 
+          "time": "17:00"
         }
       ], 
-      "date": "2015-09-17 13:00~18:00", 
+      "cancel_talks": [
+        {
+          "speaker": "id_nonegz", 
+          "time": "(\u30fc`\u00b4\u30fc)"
+        }
+      ], 
+      "date": "2015-09-13 09:00~18:00", 
+      "lightening_talks": [
+        {
+          "speaker": "id_nonegz", 
+          "time": "17:30"
+        }
+      ], 
+      "maplink": "...", 
+      "morning": [
+        {
+          "time": "09:00", 
+          "topic": "Check-in"
+        }, 
+        {
+          "time": "09:45", 
+          "topic": "Opening"
+        }, 
+        {
+          "speaker": "id_shenweigz", 
+          "time": "10:00"
+        }, 
+        {
+          "speaker": "id_JokerQyou", 
+          "time": "11:00"
+        }
+      ], 
       "noon": [
         {
-          "time": "13:00", 
-          "topic": "Check in"
+          "time": "12:00", 
+          "topic": "Lunch + Photo"
         }
       ], 
       "notices": "...", 
-      "traffic": "TBD", 
+      "traffic": "(...)", 
       "venue": "TBD"
     }, 
     "shanghai": {
       "address": "TBD", 
-      "afternoon": null, 
-      "date": "2015-09-17 09:00~18:00", 
-      "lightening_talks": null, 
-      "morning": null, 
-      "noon": null, 
-      "notices": "", 
-      "traffic": "TBD", 
-      "venue": "TBD"
-    }, 
-    "suzhou": {
-      "address": "TBD", 
-      "afternoon": null, 
-      "date": "2015-09-17 13:00~17:00", 
-      "noon": [
+      "afternoon": [
         {
-          "time": "13:00", 
-          "topic": "Check in"
+          "speaker": "id_nonesh", 
+          "time": "14:00"
+        }, 
+        {
+          "speaker": "id_dinglaiqiangsh", 
+          "time": "14:40"
+        }, 
+        {
+          "speaker": "id_wangliqi", 
+          "time": "15:20"
+        }, 
+        {
+          "time": "16:00", 
+          "topic": "Intermission"
+        }, 
+        {
+          "speaker": "id_chenhaibo", 
+          "time": "16:10"
+        }, 
+        {
+          "speaker": "id_xuzhou", 
+          "time": "17:00"
         }
       ], 
-      "notices": "\u6b22\u8fce\u53c2\u52a0!", 
-      "traffic": "TBD", 
-      "venue": "TBD"
-    }, 
-    "zhuhai": {
-      "address": "TBD", 
-      "afternoon": null, 
-      "cancel_talks": null, 
-      "date": "2015-09-17 09:30~18:05", 
-      "lightening_talks": null, 
-      "morning": null, 
-      "noon": null, 
-      "notices": "(\uffe3\u25bd\uffe3)", 
-      "traffic": "TBD", 
+      "cancel_talks": [
+        {
+          "speaker": "id_nonesh", 
+          "time": "(\u30fc`\u00b4\u30fc)"
+        }
+      ], 
+      "date": "2015-09-12 09:00~18:00", 
+      "lightening_talks": [
+        {
+          "speaker": "id_xiaokai", 
+          "time": "17:30"
+        }
+      ], 
+      "maplink": "...", 
+      "morning": [
+        {
+          "time": "09:00", 
+          "topic": "Check-in"
+        }, 
+        {
+          "time": "09:45", 
+          "topic": "Opening"
+        }, 
+        {
+          "speaker": "id_yankaish", 
+          "time": "10:00"
+        }, 
+        {
+          "speaker": "id_shenweish", 
+          "time": "11:00"
+        }
+      ], 
+      "noon": [
+        {
+          "time": "12:00", 
+          "topic": "Lunch + Photo"
+        }
+      ], 
+      "notices": "...", 
+      "traffic": "(...)", 
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1439537767", 
+  "cachebuster_qs": "?_t=1439542445", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -241,13 +370,289 @@
   ], 
   "site": {
     "author": "support@PyChina.org", 
-    "base_url": "..", 
+    "base_url": ".", 
     "description": "The official site for PyCon China 2015", 
-    "home_url": "../en/", 
+    "home_url": "./en/", 
     "name": "PyCon2015China", 
-    "url": "http://cn.pycon.org/"
+    "url": "http://cn.pycon.org/2015/"
   }, 
-  "speakers": null, 
+  "speakers": {
+    "id_JokerQyou": {
+      "avatar": "http://pyconcn.qiniucdn.com/stuff15/id/gz_JokerQyou.png?imageView2/2/h/80", 
+      "city": "Guangzhou", 
+      "city_guangzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u90b1\u6587\u6b66", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_alexdong": {
+      "avatar": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/id/g_alexdong.jpg?imageView2/2/h/80", 
+      "city_global": 1, 
+      "intro": "\u5bf9\u89d2\u5df7\u521b\u59cb\u4eba; \u597d\u770b\u7c3f\u521b\u59cb\u4eba\u4e4b\u4e00; \u5fae\u8f6f2004\u5e74\u8bc4\u51fa\u7684\u5168\u740356\u4e2a\u67b6\u6784\u5e08MVP\u4e2d\u552f\u4e00\u7684\u4e2d\u56fd\u4eba. \u4ed6\u5bf9\u5386\u53f2\u548c\u827a\u672f\u6709\u6d53\u539a\u7684\u5174\u8da3; \u76f8\u4fe1\u7ed3\u6784\u7684\u529b\u91cf. \u5728\u4e0d\u5de5\u4f5c\u7684\u65f6\u5019;\u4ed6\u559c\u6b22\u54c1\u5357\u65b9\u7eff\u8336;\u542c\u5404\u5f0f\u97f3\u4e50;\u770b\u5386\u53f2/\u7ecf\u6d4e/\u79d1\u5e7b/\u6280\u672f\u4e66\u7c4d; \u66fe\u7ecf\u662f\u534a\u804c\u4e1a\u6e38\u6cf3\u8fd0\u52a8\u5458\u7684\u4ed6\u66f4\u559c\u6b22\u7ed5\u7740\u7389\u6e0a\u6f6d\u8dd1\u4e0a15\u516c\u91cc;\u51fa\u4e00\u8eab\u6c57; \u4ed6\u8fd8\u559c\u6b22\u6253\u7bee\u7403;\u4e2d\u6295\u81ea\u8ba4\u8fd8\u4e0d\u8d56.", 
+      "name": "Alex Dong", 
+      "topic": {
+        "preview": "TBD", 
+        "slide": null, 
+        "title": "TBD"
+      }
+    }, 
+    "id_chenhaibo": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u9648\u6d77\u6ce2", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_dinglaiqiang": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u4e01\u6765\u5f3a", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_dinglaiqiangsh": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u4e01\u6765\u5f3a", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_dujun": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u675c\u519b", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_huangjin": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u9ec4\u946b", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_liaoxinxi": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u5ed6\u65b0\u559c", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_linpan": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u6797\u6500", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_none": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "TBD", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_nonegz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Guangzhou", 
+      "city_guangzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "TBD", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_nonesh": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "Pythoneer...", 
+      "name": "TBD", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_river": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Guangzhou", 
+      "city_guangzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "River", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_sezhanyong": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u4f59\u5360\u52c7", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_shenweigz": {
+      "avatar": "http://pyconcn.qiniucdn.com/2012/static/images/speakers/shenwai.jpg?imageView2/2/h/80", 
+      "city": "Guangzhou", 
+      "city_guangzhou": 1, 
+      "intro": "A senior python developer", 
+      "name": "\u6c88\u5d34", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "TDB"
+      }
+    }, 
+    "id_shenweish": {
+      "avatar": "http://pyconcn.qiniucdn.com/2012/static/images/speakers/shenwai.jpg?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "A senior python developer", 
+      "name": "\u6c88\u5d34", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "TDB"
+      }
+    }, 
+    "id_wangliqi": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u738b\u7acb\u5947", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_wangzhili": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u738b\u5fd7\u5229", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_xiaokai": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u8096\u51ef", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_xuzhou": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u5f90\u6d32", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_yankaibj": {
+      "avatar": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/id/DaoCloud-yankai.JPG?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u989c\u5f00", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "from virtualenv to Docker"
+      }
+    }, 
+    "id_yankaish": {
+      "avatar": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/id/DaoCloud-yankai.JPG?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u989c\u5f00", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "base Python build DaoCloud"
+      }
+    }, 
+    "id_zuozhenjie": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Guangzhou", 
+      "city_guangzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u5353\u632f\u6770", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }
+  }, 
   "sponsors": [
     {
       "intro": "SegmentFault is China's leading developer community. After more than two years of development, SegmentFault is already have more than ten developer. SegmentFault's goal is to provide Chinese developers to one of the most pure technical exchange platform,  create belong to the age of developers together", 
