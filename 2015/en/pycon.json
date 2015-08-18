@@ -211,7 +211,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1439883714", 
+  "cachebuster_qs": "?_t=1439884593", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -280,6 +280,7 @@
     "speechmaker": "Speechmaker", 
     "sponsors": "SPONSORS", 
     "sponsors_bronze": "Bronze", 
+    "sponsors_customization": "Diamond", 
     "sponsors_diamond": "Diamond", 
     "sponsors_gold": "Gold", 
     "sponsors_hint": "Supports from sponors are necessary for the success of PyCon. If you or your organization is willing to help the Python community of China, please contact PyCon committee (<a href=\"mailto:stingchen@topgeek.org\">stingchen@topgeek.org</a>). We will show the logo and introduction of all sponsors on the home page of our official website\n", 
@@ -667,6 +668,13 @@
       "level_partner": 1, 
       "link": "http://www.cstnet.net.cn/overview.htm", 
       "logo": "http://dn-pyconcn.qbox.me/zoomquiet/stuff14/logo/cstnet-logo.png?imageView2/2/w/200"
+    }, 
+    {
+      "intro": "\u730e\u8058\u7f51\uff08www.liepin.com\uff09\uff0c\u96b6\u5c5e\u4e8e\u4e07\u4ed5\u9053\uff08\u5317\u4eac\uff09\u7ba1\u7406\u54a8\u8be2\u6709\u9650\u516c\u53f8\uff0c\u4e8e2011\u5e74\u6b63\u5f0f\u4e0a\u7ebf\uff0c\u662f\u56fd\u5185\u552f\u4e00\u771f\u6b63\u5b9e\u73b0\u4f01\u4e1a\u3001\u730e\u5934\u548c\u804c\u4e1a\u7ecf\u7406\u4eba\u4e09\u65b9\u4e92\u52a8\u7684\u804c\u4e1a\u53d1\u5c55\u5e73\u53f0\u3002\u730e\u8058\u7f51\u59cb\u7ec8\u4e13\u6ce8\u4e8e\u6253\u9020\u4ee5\u7ecf\u7406\u4eba\u4e2a\u4eba\u7528\u6237\u4f53\u9a8c\u4e3a\u6838\u5fc3\u7684\u804c\u4e1a\u53d1\u5c55\u5e73\u53f0\uff0c\u5168\u9762\u98a0\u8986\u4f20\u7edf\u7f51\u7edc\u62db\u8058\u4ee5\u4f01\u4e1a\u4e3a\u6838\u5fc3\u7684\u5e7f\u544a\u53d1\u5e03\u5e73\u53f0\u3002\u622a\u81f32015\u5e746\u6708\uff0c\u730e\u8058\u7f51\u62e5\u6709\u8d85\u8fc72000\u4e07\u7684\u6ce8\u518c\u4f1a\u5458\uff0c\u5df2\u670d\u52a1\u8d85\u8fc739\u4e07\u5bb6\u4f18\u8d28\u4f01\u4e1a\u3002\u76ee\u524d\uff0c\u6709\u8d85\u8fc720\u4e07\u540d\u730e\u5934\u5728\u730e\u8058\u7f51\u5e73\u53f0\u4e0a\u5bfb\u627e\u6838\u5fc3\u5c97\u4f4d\u7684\u5019\u9009\u4eba\u3002\u730e\u8058\u7f51\u7684\u4e1a\u52a1\u904d\u53ca\u4e2d\u56fd\u5317\u4eac\u3001\u4e0a\u6d77\u3001\u5e7f\u5dde\u3001\u6df1\u5733\u3001\u5929\u6d25\u3001\u5927\u8fde\u3001\u676d\u5dde\u3001\u5357\u4eac\u3001\u6b66\u6c49\u3001\u53a6\u95e8\u3001\u6210\u90fd\u3001\u9752\u5c9b\u3001\u91cd\u5e86\u3001\u90d1\u5dde\u7b49\u5341\u4f59\u4e2a\u57ce\u5e02\u3002 ", 
+      "level": "customization", 
+      "level_customization": 1, 
+      "link": "http://www.liepin.com/", 
+      "logo": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/logo/liepin.png?imageView2/2/w/210"
     }, 
     {
       "intro": "CloudSmart (Beijing)  technology co., LTD founded in 2009 ,that is a leading domestic application performance management service providers. Based on big data analysis, for enterprise users to provide the solution of End To End Application Performance Management comprehensive. For electronic commerce, mobile Internet, cloud IaaS service, online game, education and  the medical industry users provided a forward-looking & wisdom application performance management", 
