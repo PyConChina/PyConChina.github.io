@@ -211,7 +211,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1439882409", 
+  "cachebuster_qs": "?_t=1439883714", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -687,7 +687,28 @@
       "level": "platinum", 
       "level_platinum": 1, 
       "link": "http://mos.meituan.com/", 
-      "logo": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/logo/meituan.png?imageView2/2/h/90"
+      "logo": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/logo/meituan.png?imageView2/2/h/80"
+    }, 
+    {
+      "intro": "qiniu cloud storage by domestic industry one of the leading Xu Shiwei was founded in 2011, Committed to providing the most suitable for developers of online hosting, transmission speed, and the cloud data processing services.", 
+      "level": "platinum", 
+      "level_platinum": 1, 
+      "link": "http://www.qiniu.com/", 
+      "logo": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/logo/qiniu-logo.png?imageView2/2/w/200"
+    }, 
+    {
+      "intro": "...", 
+      "level": "platinum", 
+      "level_platinum": 1, 
+      "link": "http://www.daocloud.io/", 
+      "logo": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/logo/daocloud-logo.png?imageView2/2/w/200"
+    }, 
+    {
+      "intro": "...", 
+      "level": "platinum", 
+      "level_platinum": 10, 
+      "link": "http://www.360.cn", 
+      "logo": "http://w.qhimg.com/images/v2/site/360/about/logo.png"
     }, 
     {
       "intro": "Coding is a cloud development platform for developers, Provide code hosting, space operation, quality control, project management, etc., Coding provide social collaboration capabilities, including the SNS to provide developers with technical discussion and collaboration platform.", 
@@ -695,6 +716,13 @@
       "level_gold": 1, 
       "link": "https://coding.net/home.html", 
       "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff14/logo/coding_logo.png?imageView2/2/h/62"
+    }, 
+    {
+      "intro": "...", 
+      "level": "gold", 
+      "level_gold": 1, 
+      "link": "http://www.meizu.com", 
+      "logo": "http://www2.res.meizu.com/zh_cn/images/common/logo.jpg"
     }, 
     {
       "intro": "HZ Book is a joint venture set up with China Machine Press and (US)WanGuo.", 
@@ -716,6 +744,13 @@
       "level_bronze": 1, 
       "link": "http://gzqichang.com", 
       "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/qichang_w2048.png?imageView2/2/w/120"
+    }, 
+    {
+      "intro": "\u5e7f\u5dde\u6da6\u666e\u7f51\u7edc\u79d1\u6280\u6709\u9650\u516c\u53f8\u81f4\u529b\u4e8e\u63d0\u4f9b\u66f4\u597d\u7684\u4f01\u4e1a\u5728\u7ebf\u5de5\u4f5c\u73af\u5883\u3002\u4e00\u65b9\u9762\uff0c\u6211\u4eec\u5e0c\u671b\u80fd\u8ba9\u521b\u4e1a\u8005\u51cf\u5c11\u521b\u4e1a\u98ce\u9669\uff0c\u8ba9\u521b\u4e1a\u4e0d\u90a3\u4e48\u96be\uff0c\u8fdb\u800c\u4e3a\u6574\u4f53\u63d0\u5347\u4e2d\u56fd\u7ecf\u6d4e\u505a\u8d21\u732e\uff1b \u53e6\u4e00\u65b9\u9762\uff0c\u6211\u4eec\u5e0c\u671b\u80fd\u8ba9\u5de5\u4f5c\u66f4\u9ad8\u6548\u3001\u66f4\u5bb9\u6613\u3001\u66f4\u8f7b\u677e\uff0c\u6539\u5584\u5458\u5de5\u529e\u516c\u8f6f\u73af\u5883\u3002\u5e7f\u5dde\u6da6\u666e\u7f51\u7edc\u79d1\u6280\u6709\u9650\u516c\u53f8\u8fd1\u671f\u7684\u613f\u666f\uff0c\u662f\u6210\u4e3a\u56fd\u5185\u6587\u6863\u7ba1\u7406\u4e13\u4e1a\u4f9b\u5e94\u5546\uff0c\u5c06\u6587\u6863\u7ba1\u7406\u8fd9\u4e00\u6b3e\u4ea7\u54c1\u505a\u5230\u6781\u81f4\u3002 \u957f\u671f\u6765\u8bf4\uff0c\u5e0c\u671b\u5efa\u7acb\u5168\u9762\u7684\u4e92\u8054\u7f51\u5de5\u4f5c\u5e73\u53f0\uff0c\u6574\u4f53\u89e3\u51b3\u4f01\u4e1a\u7684\u529e\u516c\u9700\u6c42\u3002 ", 
+      "level": "bronze", 
+      "level_bronze": 1, 
+      "link": "http://edodocs.com", 
+      "logo": "http://download.zopen.cn/themes/docs/img/logo.gif"
     }
   ], 
   "volunteers": [
