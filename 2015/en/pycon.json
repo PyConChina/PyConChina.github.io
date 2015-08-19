@@ -211,7 +211,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1439885897", 
+  "cachebuster_qs": "?_t=1439948508", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -717,6 +717,13 @@
       "level_platinum": 10, 
       "link": "http://www.360.cn", 
       "logo": "http://w.qhimg.com/images/v2/site/360/about/logo.png"
+    }, 
+    {
+      "intro": "...", 
+      "level": "gold", 
+      "level_gold": 1, 
+      "link": "http://www.aliyun.com/", 
+      "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/alicloud.png?imageView2/2/h/62"
     }, 
     {
       "intro": "Coding is a cloud development platform for developers, Provide code hosting, space operation, quality control, project management, etc., Coding provide social collaboration capabilities, including the SNS to provide developers with technical discussion and collaboration platform.", 
