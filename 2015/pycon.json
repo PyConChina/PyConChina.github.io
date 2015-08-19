@@ -37,16 +37,20 @@
       "date": "2015-09-19 09:00~18:00", 
       "lightening_talks": [
         {
-          "speaker": "id_wangzhili", 
+          "speaker": "id_chifeng", 
           "time": "17:30"
         }, 
         {
-          "speaker": "id_zhongww", 
+          "speaker": "id_wangzhili", 
           "time": "17:40"
         }, 
         {
-          "speaker": "id_dujun", 
+          "speaker": "id_zhongww", 
           "time": "17:50"
+        }, 
+        {
+          "speaker": "id_dujun", 
+          "time": "18:00"
         }
       ], 
       "maplink": "...", 
@@ -247,7 +251,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1439954797", 
+  "cachebuster_qs": "?_t=1439972241", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -449,6 +453,18 @@
         "title": "Python&GUI"
       }
     }, 
+    "id_chifeng": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "\u5317\u4eac", 
+      "city_beijing": 1, 
+      "intro": "QPython\u9879\u76ee\u521b\u59cb\u4eba\u4e4b\u4e00\uff0c\u76ee\u524d\u5728\u505a\u4f01\u4e1a\u534f\u4f5c\u5e94\u7528\uff0c\u591a\u5e74\u7684\u4e92\u8054\u7f51\u4ece\u4e1a\u7ecf\u9a8c\u3002", 
+      "name": "\u66f2\u6c60\u5cf0", 
+      "topic": {
+        "preview": "\u4ee5\u5f00\u53d1 PyConChina2015 \u4e3a\u4f8b\u5b50\uff0c\u4ecb\u7ecd\u5982\u4f55\u7528 QPython \u5f00\u53d1\u5e76\u5bfc\u51fa\u4e3a \u5b89\u5353 APK; \u5b89\u5353 WebApp \u7684\u8bbe\u8ba1\u601d\u8def QPython \u7684\u7b80\u4ecb\u53ca WebApp \u6a21\u5f0f QPython \u5fae\u4fe1\u53f7/qpython", 
+        "slide": null, 
+        "title": "\u7528 QPython \u6781\u901f\u5f00\u53d1 \u5b89\u5353 App"
+      }
+    }, 
     "id_dinglaiqiang": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
       "city": "\u5317\u4eac", 
@@ -642,15 +658,15 @@
       }
     }, 
     "id_river": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/bj_river4.png?imageView2/2/h/80", 
       "city": "\u5e7f\u5dde", 
       "city_guangzhou": 1, 
-      "intro": "QPython \u521b\u59cb\u4eba", 
+      "intro": "QPython\u4f5c\u8005\uff0c \u76ee\u524d\u4e0e\u670b\u53cb\u5408\u4f19\u521b\u4e1a\u505a\u4f01\u4e1a\u534f\u4f5c\u5e94\u7528\uff0c\u524dZynga\u4efb\u9ad8\u7ea7\u7cfb\u7edf\u7814\u53d1\u5de5\u7a0b\u5e08\uff0c\u524d\u7eff\u76df\u79d1\u6280\u4ea7\u54c1\u7ecf\u7406\uff0c\u524d\u65b0\u6d6a\u90ae\u4ef6\u7cfb\u7edf\u5f00\u53d1\u5de5\u7a0b\u5e08\u3002\u6211\u559c\u6b22\u5386\u53f2\uff0c\u65c5\u884c\uff0c\u7535\u5f71\u3002\u5fae\u4fe1\u53f7/river4", 
       "name": "River", 
       "topic": {
-        "preview": "...", 
+        "preview": "\u4ee5\u5f00\u53d1 PyConChina2015 \u4e3a\u4f8b\u5b50\uff0c\u4ecb\u7ecd\u5982\u4f55\u7528 QPython \u5f00\u53d1\u5e76\u5bfc\u51fa\u4e3a \u5b89\u5353 APK; \u5b89\u5353 WebApp \u7684\u8bbe\u8ba1\u601d\u8def QPython \u7684\u7b80\u4ecb\u53ca WebApp \u6a21\u5f0f QPython \u5fae\u4fe1\u53f7/qpython", 
         "slide": null, 
-        "title": "\u7528 QPy \u5f00\u53d1 Android app."
+        "title": "\u7528 QPython \u6781\u901f\u5f00\u53d1 \u5b89\u5353 App"
       }
     }, 
     "id_sezhanyong": {
