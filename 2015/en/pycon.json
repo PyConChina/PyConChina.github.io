@@ -211,7 +211,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1439948508", 
+  "cachebuster_qs": "?_t=1439952171", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -473,6 +473,42 @@
         "title": "?"
       }
     }, 
+    "id_liepin1sh": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "Pythoneer...", 
+      "name": "TBD", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_liepin2bj": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "TBD", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_liepin2sh": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "Pythoneer...", 
+      "name": "TBD", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
     "id_linpan": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
       "city": "Beijing", 
@@ -545,6 +581,18 @@
         "title": "?"
       }
     }, 
+    "id_shell909090": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/id/Shell909090-lighting.png?imageView2/2/h/80?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u8bb8\u667a\u7fd4(shell909090)", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
     "id_shenweigz": {
       "avatar": "http://pyconcn.qiniucdn.com/2012/static/images/speakers/shenwai.jpg?imageView2/2/h/80", 
       "city": "Guangzhou", 
@@ -591,6 +639,18 @@
         "preview": "...", 
         "slide": null, 
         "title": "?"
+      }
+    }, 
+    "id_wuke": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/coding_wuke.jpg?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u5434\u67ef", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "..."
       }
     }, 
     "id_xiaokai": {
@@ -719,7 +779,7 @@
       "logo": "http://w.qhimg.com/images/v2/site/360/about/logo.png"
     }, 
     {
-      "intro": "...", 
+      "intro": "Aliyun, the cloud computing business of Alibaba Group Holding Limited was established in September 2009. It develops highly scalable platforms for cloud computing and data management and provides a comprehensive suite of cloud computing services to support the participants of Alibaba Group's online and mobile commerce ecosystem, including sellers, and other third-party customers and businesses. ", 
       "level": "gold", 
       "level_gold": 1, 
       "link": "http://www.aliyun.com/", 
