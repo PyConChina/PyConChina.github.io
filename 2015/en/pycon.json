@@ -12,7 +12,7 @@
           "time": "14:40"
         }, 
         {
-          "speaker": "id_dujun", 
+          "speaker": "id_zhengfang", 
           "time": "15:20"
         }, 
         {
@@ -39,6 +39,14 @@
         {
           "speaker": "id_wangzhili", 
           "time": "17:30"
+        }, 
+        {
+          "speaker": "id_zhongww", 
+          "time": "17:40"
+        }, 
+        {
+          "speaker": "id_dujun", 
+          "time": "17:50"
         }
       ], 
       "maplink": "...", 
@@ -52,12 +60,20 @@
           "topic": "Opening"
         }, 
         {
-          "speaker": "id_yankaibj", 
+          "speaker": "id_liepin2bj", 
           "time": "10:00"
         }, 
         {
-          "speaker": "id_none", 
-          "time": "11:00"
+          "speaker": "id_yankaibj", 
+          "time": "10:40"
+        }, 
+        {
+          "speaker": "id_wuke", 
+          "time": "11:10"
+        }, 
+        {
+          "speaker": "id_jiankongbaobj", 
+          "time": "11:30"
         }
       ], 
       "noon": [
@@ -74,15 +90,15 @@
       "address": "TBD", 
       "afternoon": [
         {
-          "speaker": "id_river", 
+          "speaker": "id_shenweigz", 
           "time": "14:00"
         }, 
         {
-          "speaker": "id_nonegz", 
+          "speaker": "id_laiyonghaogz", 
           "time": "14:40"
         }, 
         {
-          "speaker": "id_zuozhenjie", 
+          "speaker": "id_river", 
           "time": "15:20"
         }, 
         {
@@ -107,7 +123,7 @@
       "date": "2015-09-13 09:00~18:00", 
       "lightening_talks": [
         {
-          "speaker": "id_nonegz", 
+          "speaker": "id_zuozhenjie", 
           "time": "17:30"
         }
       ], 
@@ -122,7 +138,7 @@
           "topic": "Opening"
         }, 
         {
-          "speaker": "id_shenweigz", 
+          "speaker": "id_jeffgz", 
           "time": "10:00"
         }, 
         {
@@ -144,7 +160,11 @@
       "address": "TBD", 
       "afternoon": [
         {
-          "speaker": "id_nonesh", 
+          "speaker": "id_liepin1sh", 
+          "time": "13:30"
+        }, 
+        {
+          "speaker": "id_jiankongbaosh", 
           "time": "14:00"
         }, 
         {
@@ -160,12 +180,16 @@
           "topic": "Intermission"
         }, 
         {
-          "speaker": "id_chenhaibo", 
+          "speaker": "id_nonesh", 
           "time": "16:10"
         }, 
         {
           "speaker": "id_xuzhou", 
-          "time": "17:00"
+          "time": "16:45"
+        }, 
+        {
+          "speaker": "id_nonesh", 
+          "time": "17:15"
         }
       ], 
       "cancel_talks": [
@@ -179,6 +203,10 @@
         {
           "speaker": "id_xiaokai", 
           "time": "17:30"
+        }, 
+        {
+          "speaker": "id_chenhaibo", 
+          "time": "17:40"
         }
       ], 
       "maplink": "...", 
@@ -188,8 +216,12 @@
           "topic": "Check-in"
         }, 
         {
-          "time": "09:45", 
+          "time": "09:15", 
           "topic": "Opening"
+        }, 
+        {
+          "speaker": "id_liepin0sh", 
+          "time": "09:30"
         }, 
         {
           "speaker": "id_yankaish", 
@@ -197,7 +229,11 @@
         }, 
         {
           "speaker": "id_shenweish", 
-          "time": "11:00"
+          "time": "10:45"
+        }, 
+        {
+          "speaker": "id_shell909090", 
+          "time": "11:30"
         }
       ], 
       "noon": [
@@ -211,7 +247,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1439952171", 
+  "cachebuster_qs": "?_t=1439954797", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -461,12 +497,72 @@
         "title": "?"
       }
     }, 
+    "id_jeffgz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Guangzhou", 
+      "city_guangzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "Jeff", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_jiankongbaobj": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/jiankongbao_neeke.jpg?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u9ad8\u9a70\u6d9b(Neeke)", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_jiankongbaosh": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/jiankongbao_neeke.jpg?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u9ad8\u9a70\u6d9b(Neeke)", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_laiyonghaogz": {
+      "avatar": "http://pyconcn.qiniudn.com/images/speakers/laiyonghao.png?imageMogr2/crop/!200x200a40a10|imageView2/2/h/80", 
+      "city": "Guangzhou", 
+      "city_guangzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u8d56\u52c7\u6d69", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
     "id_liaoxinxi": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
       "city": "Beijing", 
       "city_beijing": 1, 
       "intro": "Pythoneer...", 
       "name": "\u5ed6\u65b0\u559c", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_liepin0sh": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "Pythoneer...", 
+      "name": "TBD", 
       "topic": {
         "preview": "...", 
         "slide": null, 
@@ -489,18 +585,6 @@
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
       "city": "Beijing", 
       "city_beijing": 1, 
-      "intro": "Pythoneer...", 
-      "name": "TBD", 
-      "topic": {
-        "preview": "...", 
-        "slide": null, 
-        "title": "?"
-      }
-    }, 
-    "id_liepin2sh": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
-      "city": "Shanghai", 
-      "city_shanghai": 1, 
       "intro": "Pythoneer...", 
       "name": "TBD", 
       "topic": {
@@ -699,6 +783,30 @@
         "preview": "...", 
         "slide": null, 
         "title": "base Python build DaoCloud"
+      }
+    }, 
+    "id_zhengfang": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u90d1\u5803", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_zhongww": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u8877\u6587\u95fb", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
       }
     }, 
     "id_zuozhenjie": {
