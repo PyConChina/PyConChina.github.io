@@ -255,7 +255,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1439973360", 
+  "cachebuster_qs": "?_t=1439974330", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -423,7 +423,7 @@
   }, 
   "speakers": {
     "id_JokerQyou": {
-      "avatar": "http://pyconcn.qiniucdn.com/stuff15/id/gz_JokerQyou.png?imageView2/2/h/80", 
+      "avatar": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/id/gz_JokerQyou.png?imageView2/2/h/80", 
       "city": "Guangzhou", 
       "city_guangzhou": 1, 
       "intro": "Pythoneer...", 
