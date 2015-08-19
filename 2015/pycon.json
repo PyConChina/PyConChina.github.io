@@ -255,7 +255,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1439972400", 
+  "cachebuster_qs": "?_t=1439973360", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -458,7 +458,7 @@
       }
     }, 
     "id_chifeng": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/bj_chifeng.jpg?imageView2/2/h/80", 
       "city": "\u5317\u4eac", 
       "city_beijing": 1, 
       "intro": "QPython\u9879\u76ee\u521b\u59cb\u4eba\u4e4b\u4e00\uff0c\u76ee\u524d\u5728\u505a\u4f01\u4e1a\u534f\u4f5c\u5e94\u7528\uff0c\u591a\u5e74\u7684\u4e92\u8054\u7f51\u4ece\u4e1a\u7ecf\u9a8c\u3002", 
