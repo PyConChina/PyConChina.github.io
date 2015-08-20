@@ -106,7 +106,7 @@
           "time": "14:40"
         }, 
         {
-          "speaker": "id_nonegz", 
+          "speaker": "id_zuozhenjie", 
           "time": "15:20"
         }, 
         {
@@ -131,7 +131,7 @@
       "date": "2015-09-13 09:00~18:00", 
       "lightening_talks": [
         {
-          "speaker": "id_zuozhenjie", 
+          "speaker": "id_nonegz", 
           "time": "17:30"
         }
       ], 
@@ -259,7 +259,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1440084968", 
+  "cachebuster_qs": "?_t=1440085189", 
   "donators": [
     "tolerious", 
     "hackergodness", 
