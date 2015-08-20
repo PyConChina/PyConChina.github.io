@@ -255,7 +255,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1440060560", 
+  "cachebuster_qs": "?_t=1440066848", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -904,7 +904,7 @@
       "level": "platinum", 
       "level_platinum": 10, 
       "link": "http://www.360.cn", 
-      "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/360_logo.png?imageView2/2/w/200"
+      "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/360_logo.png?imageView2/2/h/70"
     }, 
     {
       "intro": "Aliyun, the cloud computing business of Alibaba Group Holding Limited was established in September 2009. It develops highly scalable platforms for cloud computing and data management and provides a comprehensive suite of cloud computing services to support the participants of Alibaba Group's online and mobile commerce ecosystem, including sellers, and other third-party customers and businesses. ", 
