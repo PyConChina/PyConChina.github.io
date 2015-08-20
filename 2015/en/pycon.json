@@ -255,7 +255,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1439975574", 
+  "cachebuster_qs": "?_t=1440040481", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -933,6 +933,13 @@
       "level_gold": 1, 
       "link": "http://www.hzbook.com/About/About.html", 
       "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/hzbook-word-logo_h.png?imageView2/2/h/90"
+    }, 
+    {
+      "intro": "Ganguo Mobile is the most well-known development team in Pearl River Delta. With years of experience in mobile application and web development; our specialists offer cost-effective mobile solution and maintenance program. The integration of our experience; creativity and vision has helped us to deliver concrete product with great satisfaction to our clients.  Our main business are mobile app development (iOS / Android); development and implementation of Wechat services account; big data analysis and other mobile related territory. We have been working with leading brands in information technology/ automobile/ consumer product/ real estate/ Internet/ finance/ and entertainment business.", 
+      "level": "silver", 
+      "level_silver": 1, 
+      "link": "http://www.ganguo.io", 
+      "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/ganguoio_h.png?imageView2/2/w/120"
     }, 
     {
       "intro": "Turing Co., Ltd  persists in planning publishing high quality books of science and technology as the core business, launched a series of high quality best-selling technology books, it's one of China famous and influential computer books publisher and Professional technical & Reading community. Set up nine years, accumulative total sold more than 500 copies of books and have impress millions of readers. Turing Co., Ltd that provide first-class content is its responsibility. Rapid growth in recent years has been for domestic famous ebook sales platform of science and technology.", 
