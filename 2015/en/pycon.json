@@ -259,7 +259,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1440084811", 
+  "cachebuster_qs": "?_t=1440084968", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -618,7 +618,7 @@
       }
     }, 
     "id_linpan": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_linpan?imageView2/2/h/80", 
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_linpan.png?imageView2/2/h/80", 
       "city": "Beijing", 
       "city_beijing": 1, 
       "intro": "Pythoneer...", 
@@ -678,7 +678,7 @@
       }
     }, 
     "id_shell909090": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/id/Shell909090-lighting.png?imageView2/2/h/80?imageView2/2/h/80", 
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/id/Shell909090-lighting.png?imageView2/2/h/80", 
       "city": "Shanghai", 
       "city_shanghai": 1, 
       "intro": "Pythoneer...", 
