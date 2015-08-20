@@ -51,6 +51,10 @@
         {
           "speaker": "id_dujun", 
           "time": "18:00"
+        }, 
+        {
+          "speaker": "id_yuzhanyong", 
+          "time": "18:10"
         }
       ], 
       "maplink": "...", 
@@ -255,7 +259,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1440066848", 
+  "cachebuster_qs": "?_t=1440084811", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -614,7 +618,7 @@
       }
     }, 
     "id_linpan": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_linpan?imageView2/2/h/80", 
       "city": "Beijing", 
       "city_beijing": 1, 
       "intro": "Pythoneer...", 
@@ -667,18 +671,6 @@
       "city_guangzhou": 1, 
       "intro": "Pythoneer...", 
       "name": "River", 
-      "topic": {
-        "preview": "...", 
-        "slide": null, 
-        "title": "?"
-      }
-    }, 
-    "id_sezhanyong": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
-      "city": "Beijing", 
-      "city_beijing": 1, 
-      "intro": "Pythoneer...", 
-      "name": "\u4f59\u5360\u52c7", 
       "topic": {
         "preview": "...", 
         "slide": null, 
@@ -805,6 +797,18 @@
         "title": "base Python build DaoCloud"
       }
     }, 
+    "id_yuzhanyong": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_yuzhanyong.png?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u4f59\u5360\u52c7", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
     "id_zhengfang": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
       "city": "Beijing", 
@@ -830,7 +834,7 @@
       }
     }, 
     "id_zuozhenjie": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_zuozhenjie.png?imageView2/2/h/80", 
       "city": "Guangzhou", 
       "city_guangzhou": 1, 
       "intro": "Pythoneer...", 
