@@ -259,7 +259,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1440122163", 
+  "cachebuster_qs": "?_t=1440122208", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -979,7 +979,7 @@
     }, 
     {
       "avatar": "http://dn-pyconcn.qbox.me/images/volunteer/zhouqi.png?imageView2/2/h/80", 
-      "blog": "http://blog.zoomquiet.io/", 
+      "blog": "http://zoomquiet.io/", 
       "intro": "One of originator for CPyUG(China Python User Group) / administrator; Enthusiastic python community welfare, well-known community \"DAMA\"; OBP and PythoniCamp project designer / manager; attend and originator all kinds of  online / offline tech evnets, presided compiled \"lovely Python\"; keeping usage Pythonic to reclaim people entering the FLOSS world learning / sharing / innovate! currently work for CMCM.", 
       "name": "Zoom.Quiet (\u5927\u5988)", 
       "role": "organizer", 
