@@ -12,7 +12,7 @@
           "time": "14:40"
         }, 
         {
-          "speaker": "id_zhengfang", 
+          "speaker": "id_zhengk", 
           "time": "15:20"
         }, 
         {
@@ -41,7 +41,7 @@
           "time": "17:30"
         }, 
         {
-          "speaker": "id_wangzhili", 
+          "speaker": "id_ZhiliWang", 
           "time": "17:40"
         }, 
         {
@@ -259,7 +259,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1440123403", 
+  "cachebuster_qs": "?_t=1440124444", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -432,6 +432,18 @@
       "city_guangzhou": 1, 
       "intro": "Pythoneer...", 
       "name": "\u90b1\u6587\u6b66", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_ZhiliWang": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_ZhiliWang.jpg?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u738b\u5fd7\u5229", 
       "topic": {
         "preview": "...", 
         "slide": null, 
@@ -719,18 +731,6 @@
       "city_shanghai": 1, 
       "intro": "Pythoneer...", 
       "name": "\u738b\u7acb\u5947", 
-      "topic": {
-        "preview": "...", 
-        "slide": null, 
-        "title": "?"
-      }
-    }, 
-    "id_wangzhili": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
-      "city": "Beijing", 
-      "city_beijing": 1, 
-      "intro": "Pythoneer...", 
-      "name": "\u738b\u5fd7\u5229", 
       "topic": {
         "preview": "...", 
         "slide": null, 
