@@ -259,7 +259,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1440085189", 
+  "cachebuster_qs": "?_t=1440121590", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -482,7 +482,7 @@
       "topic": {
         "preview": "...", 
         "slide": null, 
-        "title": "?"
+        "title": "Effective python functional programming: techniques, tools and practices"
       }
     }, 
     "id_dinglaiqiangsh": {
