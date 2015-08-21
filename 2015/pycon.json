@@ -259,7 +259,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1440122208", 
+  "cachebuster_qs": "?_t=1440123403", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -809,8 +809,8 @@
         "title": "python\u4e0e\u6293\u5305"
       }
     }, 
-    "id_zhengfang": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+    "id_zhengk": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_zhengk.jpg?imageView2/2/h/80", 
       "city": "\u5317\u4eac", 
       "city_beijing": 1, 
       "intro": "\u5c31\u804c\u4e8e\u77e5\u9053\u521b\u5b87\uff0c\u7a0b\u5e8f\u5458+\u9879\u76ee\u7ecf\u7406\u3002\u4ece\u4e8b\u7684\u5de5\u4f5c\u662f\u5b89\u5168\u76f8\u5173\u4ea7\u54c1\u7684\u7814\u53d1\u548c\u7ba1\u7406\u3002\u4fe1\u5949\u8f6f\u4ef6\u5f00\u53d1\u4e2d\u5982\u679c\u6709\u6240\u8c13\u201d\u94f6\u5f39\u201d\u7684\u8bdd\uff0c\u90a3\u80fd\u662f\u9760\u8c31\u7684\u56e2\u961f\u3002", 

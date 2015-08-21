@@ -259,7 +259,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1440122208", 
+  "cachebuster_qs": "?_t=1440123403", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -809,8 +809,8 @@
         "title": "?"
       }
     }, 
-    "id_zhengfang": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+    "id_zhengk": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_zhengk.jpg?imageView2/2/h/80", 
       "city": "Beijing", 
       "city_beijing": 1, 
       "intro": "Pythoneer...", 
