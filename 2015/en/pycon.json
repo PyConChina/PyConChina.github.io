@@ -232,7 +232,7 @@
           "topic": "Opening"
         }, 
         {
-          "speaker": "id_liepin0sh", 
+          "speaker": "id_nonesh", 
           "time": "09:30"
         }, 
         {
@@ -259,7 +259,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1440124444", 
+  "cachebuster_qs": "?_t=1440140625", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -587,18 +587,6 @@
       "city_beijing": 1, 
       "intro": "Pythoneer...", 
       "name": "\u5ed6\u65b0\u559c", 
-      "topic": {
-        "preview": "...", 
-        "slide": null, 
-        "title": "?"
-      }
-    }, 
-    "id_liepin0sh": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
-      "city": "Shanghai", 
-      "city_shanghai": 1, 
-      "intro": "Pythoneer...", 
-      "name": "TBD", 
       "topic": {
         "preview": "...", 
         "slide": null, 
