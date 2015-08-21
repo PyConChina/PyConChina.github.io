@@ -236,7 +236,7 @@
           "topic": "Opening"
         }, 
         {
-          "speaker": "id_nonesh", 
+          "speaker": "id_jiekong", 
           "time": "09:30"
         }, 
         {
@@ -263,7 +263,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1440141027", 
+  "cachebuster_qs": "?_t=1440147740", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -567,6 +567,18 @@
       "city_shanghai": 1, 
       "intro": "Pythoneer...", 
       "name": "\u9ad8\u9a70\u6d9b(Neeke)", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_jiekong": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/ali_jirkong.png?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u6212\u7a7a(\u59dc\u7ee7\u5fe0)", 
       "topic": {
         "preview": "...", 
         "slide": null, 

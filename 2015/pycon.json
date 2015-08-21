@@ -236,7 +236,7 @@
           "topic": "\u5f00\u573a"
         }, 
         {
-          "speaker": "id_nonesh", 
+          "speaker": "id_jiekong", 
           "time": "09:30"
         }, 
         {
@@ -263,7 +263,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1440141027", 
+  "cachebuster_qs": "?_t=1440147740", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -571,6 +571,18 @@
         "preview": "...", 
         "slide": null, 
         "title": "TBD"
+      }
+    }, 
+    "id_jiekong": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/ali_jirkong.png?imageView2/2/h/80", 
+      "city": "\u4e0a\u6d77", 
+      "city_shanghai": 1, 
+      "intro": "09\u5e74\u52a0\u5165\u963f\u91cc\uff0c\u5e76\u4e00\u76f4\u62c5\u4efbACE\u7684\u6280\u672f\u4e13\u5bb6\u89d2\u8272\uff0c\u8d1f\u8d23\u4e86ACE\u5e95\u5c42\u7684\u67b6\u6784\u4e0e\u5f00\u53d1\u5de5\u4f5c\uff0c\u4e5f\u662fPython\u7684\u5fe0\u5b9e\u7528\u6237\u3002", 
+      "name": "\u6212\u7a7a(\u59dc\u7ee7\u5fe0)", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "ACE\u7684Python\u73af\u5883\u7684\u4f7f\u7528\u548c\u67b6\u6784\u8bbe\u8ba1\u5b9e\u8df5"
       }
     }, 
     "id_laiyonghaogz": {
