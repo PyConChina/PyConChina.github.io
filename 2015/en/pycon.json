@@ -4,7 +4,7 @@
       "address": "TBD", 
       "afternoon": [
         {
-          "speaker": "id_dinglaiqiang", 
+          "speaker": "id_liepin1bj", 
           "time": "14:00"
         }, 
         {
@@ -12,7 +12,7 @@
           "time": "14:40"
         }, 
         {
-          "speaker": "id_zhengk", 
+          "speaker": "id_dinglaiqiang", 
           "time": "15:20"
         }, 
         {
@@ -64,23 +64,27 @@
           "topic": "Check-in"
         }, 
         {
-          "time": "09:45", 
+          "time": "09:15", 
           "topic": "Opening"
         }, 
         {
           "speaker": "id_liepin2bj", 
-          "time": "10:00"
+          "time": "09:30"
         }, 
         {
           "speaker": "id_yankaibj", 
-          "time": "10:40"
+          "time": "10:00"
         }, 
         {
           "speaker": "id_wuke", 
-          "time": "11:10"
+          "time": "10:40"
         }, 
         {
           "speaker": "id_jiankongbaobj", 
+          "time": "11:10"
+        }, 
+        {
+          "speaker": "id_zhengk", 
           "time": "11:30"
         }
       ], 
@@ -259,7 +263,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1440140625", 
+  "cachebuster_qs": "?_t=1440140867", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -591,6 +595,18 @@
         "preview": "...", 
         "slide": null, 
         "title": "?"
+      }
+    }, 
+    "id_liepin1bj": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "TBD", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "Python Rules Hadoop"
       }
     }, 
     "id_liepin1sh": {
