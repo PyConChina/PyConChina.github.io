@@ -77,11 +77,11 @@
         }, 
         {
           "speaker": "id_wuke", 
-          "time": "10:40"
+          "time": "10:20"
         }, 
         {
           "speaker": "id_jiankongbaobj", 
-          "time": "11:10"
+          "time": "10:55"
         }, 
         {
           "speaker": "id_zhengk", 
@@ -263,7 +263,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1440140867", 
+  "cachebuster_qs": "?_t=1440141027", 
   "donators": [
     "tolerious", 
     "hackergodness", 
