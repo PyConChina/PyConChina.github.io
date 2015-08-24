@@ -263,7 +263,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1440382104", 
+  "cachebuster_qs": "?_t=1440389038", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -502,7 +502,7 @@
       }
     }, 
     "id_dinglaiqiangsh": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_dinglaiqiang.JPG?imageView2/2/h/80", 
       "city": "\u4e0a\u6d77", 
       "city_shanghai": 1, 
       "intro": "\u4ece\u4e1a\u5341\u5e74, Splunk(\u7f8e\u56fd\u7eb3\u65af\u8fbe\u514b\u7b2c\u4e00\u5bb6\u7eaf\u5927\u6570\u636e\u7684\u4e0a\u5e02\u516c\u53f8)\u5728\u4e2d\u56fd\u5b9e\u9a8c\u5ba4\u7684Tech Lead, \u8d1f\u8d23\u5927\u6570\u636e\u5e73\u53f0\u76f8\u5173\u7684ETL\u548c\u6570\u636e\u53ef\u89c6\u5316\u76f8\u5173\u7684\u5de5\u4f5c. \u6280\u672f\u5174\u8da3\u5e7f\u6cdb. \u64c5\u957fC++/Python\u4e0eJS.", 
