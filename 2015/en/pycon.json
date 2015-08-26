@@ -263,7 +263,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1440574237", 
+  "cachebuster_qs": "?_t=1440575399", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -953,6 +953,13 @@
       "level_gold": 1, 
       "link": "http://www.hzbook.com/About/About.html", 
       "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/hzbook-word-logo_h.png?imageView2/2/h/90"
+    }, 
+    {
+      "intro": "Ganguo Mobile is the most well-known development team in Pearl River Delta. With years of experience in mobile application and web development; our specialists offer cost-effective mobile solution and maintenance program. The integration of our experience; creativity and vision has helped us to deliver concrete product with great satisfaction to our clients.  Our main business are mobile app development (iOS / Android); development and implementation of Wechat services account; big data analysis and other mobile related territory. We have been working with leading brands in information technology/ automobile/ consumer product/ real estate/ Internet/ finance/ and entertainment business.", 
+      "level": "silver", 
+      "level_silver": 1, 
+      "link": "http://uc.cn", 
+      "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/uc_logo.png?imageView2/2/w/120"
     }, 
     {
       "intro": "Ganguo Mobile is the most well-known development team in Pearl River Delta. With years of experience in mobile application and web development; our specialists offer cost-effective mobile solution and maintenance program. The integration of our experience; creativity and vision has helped us to deliver concrete product with great satisfaction to our clients.  Our main business are mobile app development (iOS / Android); development and implementation of Wechat services account; big data analysis and other mobile related territory. We have been working with leading brands in information technology/ automobile/ consumer product/ real estate/ Internet/ finance/ and entertainment business.", 
