@@ -263,7 +263,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1440399764", 
+  "cachebuster_qs": "?_t=1440574237", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -778,7 +778,7 @@
       }
     }, 
     "id_xuzhou": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_xuzhou.png?imageView2/2/h/80", 
       "city": "\u4e0a\u6d77", 
       "city_shanghai": 1, 
       "intro": "\u73b0\u4efb\u804c\u4e8eDemonware\uff0c\u81ea\u52a8\u5316\u5de5\u7a0b\u5e08\uff0c\u81f4\u529b\u4e8e infrastructure \u7684\u81ea\u52a8\u5316\u7ba1\u7406\uff0c\u8f6f\u4ef6\u7684\u6301\u7eed\u96c6\u6210\u548c\u53d1\u5e03\u3002", 
