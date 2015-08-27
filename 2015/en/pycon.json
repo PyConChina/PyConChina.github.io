@@ -196,7 +196,7 @@
           "time": "14:30"
         }, 
         {
-          "speaker": "id_wangliqi", 
+          "speaker": "id_liepin1sh", 
           "time": "15:00"
         }, 
         {
@@ -204,11 +204,11 @@
           "topic": "Intermission"
         }, 
         {
-          "speaker": "id_liepin1sh", 
+          "speaker": "id_chenhaibo", 
           "time": "15:40"
         }, 
         {
-          "speaker": "id_nonesh", 
+          "speaker": "id_wangliqi", 
           "time": "16:10"
         }, 
         {
@@ -233,7 +233,7 @@
           "time": "17:30"
         }, 
         {
-          "speaker": "id_chenhaibo", 
+          "speaker": "id_nonesh", 
           "time": "17:40"
         }
       ], 
@@ -275,7 +275,7 @@
       "venue": "TBD"
     }
   }, 
-  "cachebuster_qs": "?_t=1440642597", 
+  "cachebuster_qs": "?_t=1440644497", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -637,7 +637,7 @@
       "city": "Beijing", 
       "city_beijing": 1, 
       "intro": "Pythoneer...", 
-      "name": "TBD", 
+      "name": "\u9633\u66d9\u5149+\u82cf\u94d6", 
       "topic": {
         "preview": "...", 
         "slide": null, 
@@ -649,7 +649,7 @@
       "city": "Shanghai", 
       "city_shanghai": 1, 
       "intro": "Pythoneer...", 
-      "name": "TBD", 
+      "name": "\u77f3\u6676+\u5355\u827a", 
       "topic": {
         "preview": "...", 
         "slide": null, 
@@ -661,7 +661,7 @@
       "city": "Beijing", 
       "city_beijing": 1, 
       "intro": "Pythoneer...", 
-      "name": "TBD", 
+      "name": "\u77f3\u6676+\u5355\u827a", 
       "topic": {
         "preview": "...", 
         "slide": null, 
