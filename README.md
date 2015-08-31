@@ -8,7 +8,10 @@ the root. repo for PyConChina official sites
     https://github.com/PyConChina/staticpycon
 
 ## deploy
+基于 https://github.com/PyConChina/staticpycon
 
+
+- 进入 staticpycon
 - `fab build` 查阅本地编译效果
 - `fab pub2hub` 发布编译成果到专用仓库
     + 检出 https://github.com/PyConChina/PyConChina.github.io
