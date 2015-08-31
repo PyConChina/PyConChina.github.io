@@ -9,6 +9,14 @@ the root. repo for PyConChina official sites
 
 ## deploy
 
+- `fab build` 查阅本地编译效果
+- `fab pub2hub` 发布编译成果到专用仓库
+    + 检出 https://github.com/PyConChina/PyConChina.github.io
+    + 将 `/2015` 链接为 https://github.com/PyConChina/staticpycon 当前工作仓库的 `out` 目录
+    + 这样 `fabric` 将自动在本地完成编译,再将所有静态页面推送到对应的 github.io `pages` 发布仓库
+    + 接着多个主机定期同步到 `pages` 仓库,完成官网的均衡发布
+
+## publish
 base Nginx:
 
     upstream pycon-frontends {
