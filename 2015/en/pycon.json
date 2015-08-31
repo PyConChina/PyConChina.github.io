@@ -1,7 +1,7 @@
 {
   "agenda": {
     "beijing": {
-      "address": "TBD", 
+      "address": "No.77 MEISHUGUANHOU Street, Dongcheng, Beijing", 
       "afternoon": [
         {
           "speaker": "id_liang2", 
@@ -32,12 +32,7 @@
           "time": "17:00"
         }
       ], 
-      "cancel_talks": [
-        {
-          "speaker": "id_none", 
-          "time": "(\u30fc`\u00b4\u30fc)"
-        }
-      ], 
+      "cancel_talks": null, 
       "date": "2015-09-19 09:00~18:00", 
       "lightening_talks": [
         {
@@ -61,7 +56,7 @@
           "time": "18:10"
         }
       ], 
-      "maplink": "...", 
+      "maplink": "http://j.map.baidu.com/QifN0", 
       "morning": [
         {
           "time": "09:00", 
@@ -98,9 +93,9 @@
           "topic": "Lunch + Photo"
         }
       ], 
-      "notices": "...", 
-      "traffic": "(...)", 
-      "venue": "TBD"
+      "notices": "", 
+      "traffic": "DAFOSI Stop on Bus 108, 104, 127", 
+      "venue": "77 Hall"
     }, 
     "guangzhou": {
       "address": "TBD", 
@@ -134,12 +129,7 @@
           "time": "17:00"
         }
       ], 
-      "cancel_talks": [
-        {
-          "speaker": "id_nonegz", 
-          "time": "(\u30fc`\u00b4\u30fc)"
-        }
-      ], 
+      "cancel_talks": null, 
       "date": "2015-09-13 09:00~18:00", 
       "lightening_talks": [
         {
@@ -181,7 +171,7 @@
       "venue": "TBD"
     }, 
     "shanghai": {
-      "address": "TBD", 
+      "address": "No.2 Boyun Road, Pudong, Shanghai", 
       "afternoon": [
         {
           "speaker": "id_liang2", 
@@ -220,12 +210,7 @@
           "time": "17:15"
         }
       ], 
-      "cancel_talks": [
-        {
-          "speaker": "id_nonesh", 
-          "time": "(\u30fc`\u00b4\u30fc)"
-        }
-      ], 
+      "cancel_talks": null, 
       "date": "2015-09-12 09:00~18:00", 
       "lightening_talks": [
         {
@@ -237,7 +222,7 @@
           "time": "17:40"
         }
       ], 
-      "maplink": "...", 
+      "maplink": "http://j.map.baidu.com/ltIw5", 
       "morning": [
         {
           "time": "09:00", 
@@ -270,12 +255,12 @@
           "topic": "Lunch + Photo"
         }
       ], 
-      "notices": "...", 
-      "traffic": "(...)", 
-      "venue": "TBD"
+      "notices": "", 
+      "traffic": "Jinke Road Station at Metro Line 2", 
+      "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1440986500", 
+  "cachebuster_qs": "?_t=1440988690", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -435,7 +420,7 @@
   ], 
   "site": {
     "author": "support@PyChina.org", 
-    "base_url": ".", 
+    "base_url": "..", 
     "description": "The official site for PyCon China 2015", 
     "home_url": "./en/", 
     "name": "PyCon2015China", 

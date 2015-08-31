@@ -1,7 +1,7 @@
 {
   "agenda": {
     "beijing": {
-      "address": "77\u5267\u573a", 
+      "address": "\u5317\u4eac\u5e02\u4e1c\u57ce\u533a\u7f8e\u672f\u9986\u540e\u885777\u53f7", 
       "afternoon": [
         {
           "speaker": "id_liang2", 
@@ -32,12 +32,7 @@
           "time": "17:00"
         }
       ], 
-      "cancel_talks": [
-        {
-          "speaker": "id_none", 
-          "time": "(\u30fc`\u00b4\u30fc)"
-        }
-      ], 
+      "cancel_talks": null, 
       "date": "2015-09-19 09:00~18:00", 
       "lightening_talks": [
         {
@@ -61,7 +56,7 @@
           "time": "18:10"
         }
       ], 
-      "maplink": "...", 
+      "maplink": "http://j.map.baidu.com/QifN0", 
       "morning": [
         {
           "time": "09:00", 
@@ -98,9 +93,9 @@
           "topic": "\u5348\u9910+\u5408\u7167"
         }
       ], 
-      "notices": "...", 
-      "traffic": "(...)", 
-      "venue": "TBD"
+      "notices": "", 
+      "traffic": "\u516c\u4ea4108\uff0c104\uff0c127\u8def\u5927\u4f5b\u5bfa\u7ad9", 
+      "venue": "77\u5267\u573a"
     }, 
     "guangzhou": {
       "address": "UC \u57f9\u8bad\u5927\u5385", 
@@ -134,12 +129,7 @@
           "time": "17:00"
         }
       ], 
-      "cancel_talks": [
-        {
-          "speaker": "id_nonegz", 
-          "time": "(\u30fc`\u00b4\u30fc)"
-        }
-      ], 
+      "cancel_talks": null, 
       "date": "2015-09-13 09:00~18:00", 
       "lightening_talks": [
         {
@@ -181,7 +171,7 @@
       "venue": "TBD"
     }, 
     "shanghai": {
-      "address": "\u6d66\u8f6f\u4f1a\u8bae\u5385", 
+      "address": "\u4e0a\u6d77\u5e02\u6d66\u4e1c\u65b0\u533a\u535a\u4e91\u8def2\u53f7", 
       "afternoon": [
         {
           "speaker": "id_liang2", 
@@ -220,12 +210,7 @@
           "time": "17:15"
         }
       ], 
-      "cancel_talks": [
-        {
-          "speaker": "id_nonesh", 
-          "time": "(\u30fc`\u00b4\u30fc)"
-        }
-      ], 
+      "cancel_talks": null, 
       "date": "2015-09-12 09:00~18:00", 
       "lightening_talks": [
         {
@@ -237,7 +222,7 @@
           "time": "17:40"
         }
       ], 
-      "maplink": "...", 
+      "maplink": "http://j.map.baidu.com/ltIw5", 
       "morning": [
         {
           "time": "09:00", 
@@ -270,12 +255,12 @@
           "topic": "\u5348\u9910+\u5408\u7167"
         }
       ], 
-      "notices": "...", 
-      "traffic": "(...)", 
-      "venue": "TBD"
+      "notices": "", 
+      "traffic": "\u5730\u94c12\u53f7\u7ebf\u91d1\u79d1\u8def\u7ad9", 
+      "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1440986500", 
+  "cachebuster_qs": "?_t=1440988690", 
   "donators": [
     "tolerious", 
     "hackergodness", 
