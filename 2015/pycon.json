@@ -8,15 +8,15 @@
           "time": "13:30"
         }, 
         {
-          "speaker": "id_liepin1bj", 
+          "speaker": "id_dinglaiqiang", 
           "time": "14:00"
         }, 
         {
-          "speaker": "id_liaoxinxi", 
+          "speaker": "id_xiutao", 
           "time": "14:40"
         }, 
         {
-          "speaker": "id_dinglaiqiang", 
+          "speaker": "id_zhengk", 
           "time": "15:20"
         }, 
         {
@@ -24,7 +24,7 @@
           "topic": "\u8336\u6b47"
         }, 
         {
-          "speaker": "id_huangjin", 
+          "speaker": "id_liuchang", 
           "time": "16:10"
         }, 
         {
@@ -45,15 +45,19 @@
         }, 
         {
           "speaker": "id_zhongww", 
-          "time": "17:50"
+          "time": "17:45"
         }, 
         {
           "speaker": "id_dujun", 
-          "time": "18:00"
+          "time": "17:50"
         }, 
         {
           "speaker": "id_yuzhanyong", 
-          "time": "18:10"
+          "time": "17:55"
+        }, 
+        {
+          "speaker": "id_huangjin", 
+          "time": "18:00"
         }
       ], 
       "maplink": "http://j.map.baidu.com/QifN0", 
@@ -71,19 +75,19 @@
           "time": "09:30"
         }, 
         {
-          "speaker": "id_yankaibj", 
+          "speaker": "id_wuke", 
           "time": "10:00"
         }, 
         {
-          "speaker": "id_wuke", 
+          "speaker": "id_yankaibj", 
           "time": "10:20"
         }, 
         {
-          "speaker": "id_jiankongbaobj", 
+          "speaker": "id_liepin1bj", 
           "time": "10:55"
         }, 
         {
-          "speaker": "id_zhengk", 
+          "speaker": "id_liaoxinxi", 
           "time": "11:30"
         }
       ], 
@@ -105,11 +109,11 @@
           "time": "13:30"
         }, 
         {
-          "speaker": "id_shenweigz", 
+          "speaker": "id_jiankongbaogz", 
           "time": "14:00"
         }, 
         {
-          "speaker": "id_laiyonghaogz", 
+          "speaker": "id_JokerQyou", 
           "time": "14:40"
         }, 
         {
@@ -121,7 +125,7 @@
           "topic": "\u8336\u6b47"
         }, 
         {
-          "speaker": "id_nonegz", 
+          "speaker": "id_jeffgz", 
           "time": "16:10"
         }, 
         {
@@ -148,11 +152,11 @@
           "topic": "\u5f00\u573a"
         }, 
         {
-          "speaker": "id_jeffgz", 
+          "speaker": "id_shenweigz", 
           "time": "10:00"
         }, 
         {
-          "speaker": "id_JokerQyou", 
+          "speaker": "id_laiyonghaogz", 
           "time": "10:45"
         }, 
         {
@@ -229,7 +233,7 @@
           "time": "14:30"
         }, 
         {
-          "speaker": "id_liepin1sh", 
+          "speaker": "id_chenhaibo", 
           "time": "15:00"
         }, 
         {
@@ -237,32 +241,41 @@
           "topic": "\u8336\u6b47"
         }, 
         {
-          "speaker": "id_chenhaibo", 
+          "speaker": "id_wangliqi", 
           "time": "15:40"
         }, 
         {
-          "speaker": "id_wangliqi", 
+          "speaker": "id_xuzhou", 
           "time": "16:10"
         }, 
         {
-          "speaker": "id_xuzhou", 
+          "speaker": "id_shell909090", 
           "time": "16:45"
         }, 
         {
-          "speaker": "id_nonesh", 
+          "speaker": "id_xiaokai", 
           "time": "17:15"
         }
       ], 
-      "cancel_talks": null, 
+      "cancel_talks": [
+        {
+          "speaker": "id_nonesh", 
+          "time": "(\u30fc`\u00b4\u30fc)"
+        }
+      ], 
       "date": "2015-09-12 09:00~18:00", 
       "lightening_talks": [
         {
-          "speaker": "id_xiaokai", 
+          "speaker": "id_derek", 
           "time": "17:30"
         }, 
         {
-          "speaker": "id_nonesh", 
+          "speaker": "id_chendawei", 
           "time": "17:40"
+        }, 
+        {
+          "speaker": "id_kj", 
+          "time": "17:50"
         }
       ], 
       "maplink": "http://j.map.baidu.com/ltIw5", 
@@ -288,7 +301,7 @@
           "time": "10:45"
         }, 
         {
-          "speaker": "id_shell909090", 
+          "speaker": "id_liepin1sh", 
           "time": "11:30"
         }
       ], 
@@ -303,7 +316,7 @@
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1441104296", 
+  "cachebuster_qs": "?_t=1441105907", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -510,6 +523,18 @@
         "title": "TBD"
       }
     }, 
+    "id_chendawei": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "\u4e0a\u6d77", 
+      "city_shanghai": 1, 
+      "intro": "\u524d 17zuoye.com \u6570\u636e\u5de5\u7a0b\u5e08\uff0c\u4e1a\u52a1\u548c\u5f00\u6e90\u4ee3\u7801\u53cc\u7ebf\u5f00\u53d1\u6a21\u5f0f\u81f3\u4eca\u5df2\u6301\u7eed\u4e09\u5e74\uff0c\u5e76\u6709 Luiti \u548c Statlysis \u7b49 42 \u4e2a\u5f00\u6e90\u9879\u76ee\u3002\u719f\u6089\u7684\u4f53\u7cfb\u7ecf\u9a8c\u5305\u62ec \u57fa\u4e8eHadoop + Python + MongoDB \u7684\u6570\u636e\u5904\u7406\uff0cRuby on Rails \u5168\u6808\u5f0f\u5f00\u53d1\uff0c\u5355\u9875\u524d\u7aef\u5e94\u7528\uff0cPython \u6587\u672c\u6316\u6398", 
+      "name": "\u9648\u5927\u4f1f", 
+      "topic": {
+        "preview": "\u5728\u6570\u636e\u91cf\u7ea7\u4e0a\u5347\u5230\u5fc5\u987b\u7528 Hadoop \u53bb\u5904\u7406\u7684\u65f6\u5019\uff0c\u4e00\u4e2a\u6613\u7528\u4e14\u9ad8\u6548\u7684\u79bb\u7ebf\u4efb\u52a1\u7ba1\u7406\u6846\u67b6\u5fc5\u4e0d\u53ef\u5c11\u3002Luiti \u6b63\u662f\u8fd9\u6837\u4ece\u534a\u5e74\u591a\u5b9e\u8df5\u4e2d\u8bde\u751f\u7684\u52a1\u5b9e\u6d3e\u5f00\u6e90\u4f5c\u54c1\uff0c\u5b83\u662f\u57fa\u4e8e Spotify \u5f00\u6e90\u7684 Luigi \u6a21\u5757\u4e4b\u4e0a\u6784\u5efa\u8d77\u6765\u7684\uff0c\u53ef\u4ee5\u50cf\u4f7f\u7528 Flask \u548c Rails \u7b49 Web \u6846\u67b6\u4e00\u6837\u8fc5\u901f\u642d\u5efa\u5e76\u8fd0\u8f6c\u8d77\u6574\u4e2a\u5927\u578b\u6570\u636e\u4ed3\u5e93\u3002\u66f4\u591a\u8bf7\u8bbf\u95ee http://luiti.github.io/chinese/index.html", 
+        "slide": null, 
+        "title": "\u4f7f\u7528 Luiti \u6765\u6784\u5efa\u6570\u636e\u4ed3\u5e93"
+      }
+    }, 
     "id_chenhaibo": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/sh_chenghaibo.jpg?imageView2/2/h/80", 
       "city": "\u4e0a\u6d77", 
@@ -532,6 +557,18 @@
         "preview": "\u4ee5\u5f00\u53d1 PyConChina2015 \u4e3a\u4f8b\u5b50\uff0c\u4ecb\u7ecd\u5982\u4f55\u7528 QPython \u5f00\u53d1\u5e76\u5bfc\u51fa\u4e3a \u5b89\u5353 APK; \u5b89\u5353 WebApp \u7684\u8bbe\u8ba1\u601d\u8def QPython \u7684\u7b80\u4ecb\u53ca WebApp \u6a21\u5f0f QPython \u5fae\u4fe1\u53f7/qpython", 
         "slide": null, 
         "title": "\u7528 QPython \u6781\u901f\u5f00\u53d1 \u5b89\u5353 App"
+      }
+    }, 
+    "id_derek": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "\u4e0a\u6d77", 
+      "city_shanghai": 1, 
+      "intro": "\u4f86\u81ea Linux Deepin, \u76ee\u524d\u64d4\u4efb\u958b\u6e90\u793e\u5340\u62d3\u5c55, C, BASH, zfs, systemd \u611b\u597d\u8005", 
+      "name": "Derek \u5446", 
+      "topic": {
+        "preview": "\u8981\u5f9e Python \u4f7f\u7528 C libraries, \u901a\u5e38\u9700\u8981\u5728\u4e2d\u9593\u505a\u4e0a\u4e00\u5c64 binding, \u8b93 Python runtime \u8207 target C libraries \u80fd\u4e92\u901a, \u7dad\u8b77\u8cbb\u529b\u6613\u51fa\u932f. \u7d93\u7531\u5c0e\u5165 gobject introspection, \u914d\u5408 type information, \u8b93 Python + C \u7684\u7d44\u5408\u7522\u80fd\u6700\u5927\u5316!", 
+        "slide": null, 
+        "title": "py + gi - \u9ad8\u6548 C \u5eab\u6574\u5408\u65b9\u6848"
       }
     }, 
     "id_dinglaiqiang": {
@@ -594,10 +631,10 @@
         "title": "\u57fa\u4e8eTornado\u6253\u9020\u901a\u7528\u957f\u94fe\u63a5\u4ee3\u7406\u670d\u52a1\u5668"
       }
     }, 
-    "id_jiankongbaobj": {
+    "id_jiankongbaogz": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/jiankongbao_neeke.jpg?imageView2/2/h/80", 
-      "city": "\u5317\u4eac", 
-      "city_beijing": 1, 
+      "city": "\u5e7f\u5dde", 
+      "city_guangzhou": 1, 
       "intro": "\u4e91\u667a\u6167\u9ad8\u7ea7\u67b6\u6784\u5e08\uff0c\u662fPHP\u5f00\u53d1\u7ec4\u6210\u5458\uff0c\u540c\u65f6\u4e5f\u662fPECL/SeasLog\u7684\u4f5c\u8005.10\u5e74\u7814\u53d1\u7ba1\u7406\u7ecf\u9a8c\uff0c\u65e9\u671f\u4ece\u4e8b\u5927\u89c4\u6a21\u4f01\u4e1a\u4fe1\u606f\u5316\u7814\u53d1\u67b6\u6784\uff0c09\u5e74\u6d89\u8db3\u4e92\u8054\u7f51\u6570\u5b57\u8425\u9500\u9886\u57df\u5e76\u6df1\u5165\u7814\u7a76\u67b6\u6784\u4e0e\u6027\u80fd\u4f18\u5316\u30022014\u5e74\u52a0\u5165\u4e91\u667a\u6167\uff0c\u81f4\u529b\u4e8eAPM\u4ea7\u54c1\u7684\u67b6\u6784\u4e0e\u7814\u53d1\u3002\u5d07\u5c1a\u654f\u6377\uff0c\u9ad8\u6548\uff0cGettingReal\u3002", 
       "name": "\u9ad8\u9a70\u6d9b(Neeke)", 
       "topic": {
@@ -628,6 +665,18 @@
         "preview": "...", 
         "slide": null, 
         "title": "ACE\u7684Python\u73af\u5883\u7684\u4f7f\u7528\u548c\u67b6\u6784\u8bbe\u8ba1\u5b9e\u8df5"
+      }
+    }, 
+    "id_kj": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_kj.jpg?imageView2/2/h/80", 
+      "city": "\u4e0a\u6d77", 
+      "city_shanghai": 1, 
+      "intro": "\u9f50\u4e66\u4e91\u534f\u4f5cCEO\uff0c\u524d\u65b0\u52a0\u5761MM Games\u6280\u672f\u603b\u76d1\uff0cex-Google \u540e\u7aef\u5de5\u7a0b\u5e08\uff0c\u64c5\u957fweb\u67b6\u6784\u548ciOS\u57fa\u672c\u7a0b\u5e8f\u8bbe\u8ba1 2013\u5e74 - \u73b0\u4eca \u521b\u4e1a\u4e2d 2010\u5e74 - 2013\u5e748\u6708 \u65b0\u52a0\u5761 MM Games \u6e38\u620f\u5e73\u53f0 CTO 2009\u5e74 - 2010\u5e747\u6708 Slide.com \u4e0a\u6d77\u65e9\u671f\u5de5\u7a0b\u5e08\uff08PayPal\u9ed1\u5e2e\u4f01\u4e1a\uff09\uff0c\u540e\u88ab\u8c37\u6b4c\u6536\u8d2d 2007\u5e74 - 2009\u5e74 \u6d1b\u6749\u77f6 Protohaus LLC \u9ad8\u7ea7\u7a0b\u5e8f\u8bbe\u8ba1\u5e08 2005\u5e74 - 2007\u5e74 VeryCD.com \u5de5\u7a0b\u5e08\uff0c\u8d1f\u8d23P2P\u4e0b\u8f7d\u7a0b\u5e8f\u5f00\u53d1", 
+      "name": "KJ\uff08\u961a\u5609\uff09", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "TBD"
       }
     }, 
     "id_laiyonghaogz": {
@@ -711,6 +760,18 @@
         "preview": "\u5982\u4f55\u8ba9\u5b69\u5b50\u7231\u4e0a\u7f16\u7a0b\uff0cpython\u662f\u4f17\u591a\u8bed\u8a00\u9996\u9009\uff01Python\u4f5c\u4e3a\u52a8\u6001\u8bed\u8a00\u66f4\u9002\u5408\u521d\u5b66\u7f16\u7a0b\u8005\u3002Python\u53ef\u4ee5\u8ba9\u521d\u5b66\u8005\u628a\u7cbe\u529b\u96c6\u4e2d\u5728\u7f16\u7a0b\u5bf9\u8c61\u548c\u601d\u7ef4\u65b9\u6cd5\u4e0a\uff0c\u800c\u4e0d\u7528\u53bb\u62c5\u5fc3\u8bed\u6cd5\u3001\u7c7b\u578b\u7b49\u7b49\u5916\u5728\u56e0\u7d20\u3002\u800cPython\u6e05\u6670\u7b80\u6d01\u7684\u8bed\u6cd5\u4e5f\u4f7f\u5f97\u5b83\u8c03\u8bd5\u8d77\u6765\u6bd4Java\u7b80\u5355\u7684\u591a\u3002\u81f3\u4e8e\u54ea\u4e2a\u66f4\u201c\u4f18\u96c5\u201d\u7eaf\u5c5e\u4e2a\u4eba\u559c\u597d\uff0c\u4f46\u5bf9\u4e8e\u521d\u5b66\u7f16\u7a0b\u7684\u4ebaPython\u66f4\u76f4\u89c2\u5e94\u8be5\u6ca1\u4ec0\u4e48\u5f02\u8bae\u3002", 
         "slide": null, 
         "title": "python \u8ba9\u66f4\u591a\u7684\u4eba\u7231\u4e0a\u7f16\u7a0b\u8bed\u8a00"
+      }
+    }, 
+    "id_liuchang": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "\u5317\u4eac", 
+      "city_beijing": 1, 
+      "intro": "\u66fe\u5c31\u804c\u4e8e\u5fae\u8f6f\u4e0e\u963f\u91cc\u4e91\uff0c\u73b0\u5728Genedock\u521b\u4e1a\uff0c\u8bed\u8a00\u7231\u597d\u8005", 
+      "name": "\u5218\u7545", 
+      "topic": {
+        "preview": "\u4eba\u751f\u82e6\u77ed\uff0c\u6211\u7528python\u3002\u4f46\u662f\uff0c\u5728\u4f7f\u7528python\u7684\u8fc7\u7a0b\u4e2d\uff0c\u6700\u8ba9\u4eba\u75db\u82e6\u7684\u4e8b\u60c5\u6709\u4e8c\u4ef6\uff0c\u4e00\u4e2a\u662f\u7f16\u7801\u95ee\u9898\uff0c\u53e6\u4e00\u4e2a\u5219\u662fimport\u4e0d\u4e86\u5305\u3002\u672c\u6587\u5c06\u8be6\u7ec6\u4ecb\u7ecd\u5173\u4e8epython\u7684\u5305\u7ba1\u7406\u673a\u5236\uff0cpython\u5982\u4f55\u5f15\u7528\u5305\uff0cPYTHONPATH\u662f\u600e\u4e48\u56de\u4e8b\uff0csys.path\u4e0e\u5176\u6709\u4ec0\u4e48\u4e0d\u540c\u3002\u4e3a\u4ec0\u4e48py3\u628apy2\u7684\u5305\u5f15\u5165\u673a\u5236\u5f7b\u5e95\u5e9f\u5f03\u3002py3\u7684absolute import\u53c8\u662f\u600e\u4e48\u56de\u4e8b\u3002\u6700\u540e\uff0c\u6f14\u8bb2\u5c06\u4ecb\u7ecd\u5173\u4e8epython\u9879\u76ee\u76ee\u5f55\u7684\u6700\u4f73\u5b9e\u8df5\uff0c\u907f\u514d\u5404\u79cd\u5f15\u7528\u7684\u95ee\u9898\u3002", 
+        "slide": null, 
+        "title": "python\u7684module\u673a\u5236\u4e0e\u6700\u4f73\u5b9e\u8df5"
       }
     }, 
     "id_none": {
@@ -855,6 +916,18 @@
         "preview": "\u4ecb\u7ecd\u8fd1\u5e74\u6765python\u793e\u533a\u6d8c\u73b0\u7684\u4e00\u4e9b\u6570\u636e\u5206\u6790\u5de5\u5177\uff0c\u5305\u62ecnumpy/scipy/pandas/sklearn/theano\u7b49\u7b49\u3002\u8fd8\u4f1a\u4ecb\u7ecd\u8fd9\u4e9b\u5de5\u5177\u7bb1\u5728\u6570\u636e\u5206\u6790\u5de5\u4f5c\u6d41\u7a0b\u4e2d\u7684\u4f4d\u7f6e\uff0c\u4ee5\u53ca\u548c\u5176\u5b83\u7c7b\u4f3c\u5de5\u5177\u7684\u6bd4\u8f83\u3002", 
         "slide": null, 
         "title": "python\u4e2d\u7684\u6570\u636e\u5de5\u5177\u7bb1"
+      }
+    }, 
+    "id_xiutao": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/id/xu-tao_2_11_xtao.jpg?imageView2/2/h/80", 
+      "city": "\u5317\u4eac", 
+      "city_beijing": 1, 
+      "intro": "\u8c46\u74e3 \u4ea7\u54c1\u5f00\u53d1\u5de5\u7a0b\u5e08", 
+      "name": "\u5f90\u6d9b", 
+      "topic": {
+        "preview": "\u5206\u4eab Sentry \u4e00\u4e9b\u76f8\u5173\u7684\u7ecf\u9a8c\u3002\u5728\u8c46\u74e3\u5185\u90e8 Sentry \u7684\u4f7f\u7528\u60c5\u51b5\uff0cSentry \u8fc1\u79fb\u7ecf\u9a8c\u3002\u4ee5\u53ca\u4e00\u4e9b Sentry \u7684\u5185\u90e8\u673a\u5236\uff0c\u5185\u90e8\u5b9e\u73b0\uff0c\u4ee5\u53ca\u4e00\u4e9b\u5410\u69fd\u3002blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla \u51d1\u4e0d\u591f\u5b57\u6570\u3002\u3002", 
+        "slide": null, 
+        "title": "Dive into Sentry"
       }
     }, 
     "id_xuzhou": {

@@ -8,15 +8,15 @@
           "time": "13:30"
         }, 
         {
-          "speaker": "id_liepin1bj", 
+          "speaker": "id_dinglaiqiang", 
           "time": "14:00"
         }, 
         {
-          "speaker": "id_liaoxinxi", 
+          "speaker": "id_xiutao", 
           "time": "14:40"
         }, 
         {
-          "speaker": "id_dinglaiqiang", 
+          "speaker": "id_zhengk", 
           "time": "15:20"
         }, 
         {
@@ -24,7 +24,7 @@
           "topic": "Intermission"
         }, 
         {
-          "speaker": "id_huangjin", 
+          "speaker": "id_liuchang", 
           "time": "16:10"
         }, 
         {
@@ -45,15 +45,19 @@
         }, 
         {
           "speaker": "id_zhongww", 
-          "time": "17:50"
+          "time": "17:45"
         }, 
         {
           "speaker": "id_dujun", 
-          "time": "18:00"
+          "time": "17:50"
         }, 
         {
           "speaker": "id_yuzhanyong", 
-          "time": "18:10"
+          "time": "17:55"
+        }, 
+        {
+          "speaker": "id_huangjin", 
+          "time": "18:00"
         }
       ], 
       "maplink": "http://j.map.baidu.com/QifN0", 
@@ -71,19 +75,19 @@
           "time": "09:30"
         }, 
         {
-          "speaker": "id_yankaibj", 
+          "speaker": "id_wuke", 
           "time": "10:00"
         }, 
         {
-          "speaker": "id_wuke", 
+          "speaker": "id_yankaibj", 
           "time": "10:20"
         }, 
         {
-          "speaker": "id_jiankongbaobj", 
+          "speaker": "id_liepin1bj", 
           "time": "10:55"
         }, 
         {
-          "speaker": "id_zhengk", 
+          "speaker": "id_liaoxinxi", 
           "time": "11:30"
         }
       ], 
@@ -105,11 +109,11 @@
           "time": "13:30"
         }, 
         {
-          "speaker": "id_shenweigz", 
+          "speaker": "id_jiankongbaogz", 
           "time": "14:00"
         }, 
         {
-          "speaker": "id_laiyonghaogz", 
+          "speaker": "id_JokerQyou", 
           "time": "14:40"
         }, 
         {
@@ -121,7 +125,7 @@
           "topic": "Intermission"
         }, 
         {
-          "speaker": "id_nonegz", 
+          "speaker": "id_jeffgz", 
           "time": "16:10"
         }, 
         {
@@ -148,11 +152,11 @@
           "topic": "Opening"
         }, 
         {
-          "speaker": "id_jeffgz", 
+          "speaker": "id_shenweigz", 
           "time": "10:00"
         }, 
         {
-          "speaker": "id_JokerQyou", 
+          "speaker": "id_laiyonghaogz", 
           "time": "10:45"
         }, 
         {
@@ -229,7 +233,7 @@
           "time": "14:30"
         }, 
         {
-          "speaker": "id_liepin1sh", 
+          "speaker": "id_chenhaibo", 
           "time": "15:00"
         }, 
         {
@@ -237,32 +241,41 @@
           "topic": "Intermission"
         }, 
         {
-          "speaker": "id_chenhaibo", 
+          "speaker": "id_wangliqi", 
           "time": "15:40"
         }, 
         {
-          "speaker": "id_wangliqi", 
+          "speaker": "id_xuzhou", 
           "time": "16:10"
         }, 
         {
-          "speaker": "id_xuzhou", 
+          "speaker": "id_shell909090", 
           "time": "16:45"
         }, 
         {
-          "speaker": "id_nonesh", 
+          "speaker": "id_xiaokai", 
           "time": "17:15"
         }
       ], 
-      "cancel_talks": null, 
+      "cancel_talks": [
+        {
+          "speaker": "id_nonesh", 
+          "time": "(\u30fc`\u00b4\u30fc)"
+        }
+      ], 
       "date": "2015-09-12 09:00~18:00", 
       "lightening_talks": [
         {
-          "speaker": "id_xiaokai", 
+          "speaker": "id_derek", 
           "time": "17:30"
         }, 
         {
-          "speaker": "id_nonesh", 
+          "speaker": "id_chendawei", 
           "time": "17:40"
+        }, 
+        {
+          "speaker": "id_kj", 
+          "time": "17:50"
         }
       ], 
       "maplink": "http://j.map.baidu.com/ltIw5", 
@@ -288,7 +301,7 @@
           "time": "10:45"
         }, 
         {
-          "speaker": "id_shell909090", 
+          "speaker": "id_liepin1sh", 
           "time": "11:30"
         }
       ], 
@@ -303,7 +316,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441104296", 
+  "cachebuster_qs": "?_t=1441105907", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -510,6 +523,18 @@
         "title": "TBD"
       }
     }, 
+    "id_chendawei": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u9648\u5927\u4f1f", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
     "id_chenhaibo": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/sh_chenghaibo.jpg?imageView2/2/h/80", 
       "city": "Shanghai", 
@@ -528,6 +553,18 @@
       "city_beijing": 1, 
       "intro": "Pythoneer...", 
       "name": "\u66f2\u6c60\u5cf0", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_derek": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "Pythoneer...", 
+      "name": "Derek \u5446", 
       "topic": {
         "preview": "...", 
         "slide": null, 
@@ -594,10 +631,10 @@
         "title": "?"
       }
     }, 
-    "id_jiankongbaobj": {
+    "id_jiankongbaogz": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/jiankongbao_neeke.jpg?imageView2/2/h/80", 
-      "city": "Beijing", 
-      "city_beijing": 1, 
+      "city": "Guangzhou", 
+      "city_guangzhou": 1, 
       "intro": "Pythoneer...", 
       "name": "\u9ad8\u9a70\u6d9b(Neeke)", 
       "topic": {
@@ -624,6 +661,18 @@
       "city_shanghai": 1, 
       "intro": "Pythoneer...", 
       "name": "\u6212\u7a7a(\u59dc\u7ee7\u5fe0)", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_kj": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_kj.jpg?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "Pythoneer...", 
+      "name": "KJ\uff08\u961a\u5609\uff09", 
       "topic": {
         "preview": "...", 
         "slide": null, 
@@ -707,6 +756,18 @@
       "city_beijing": 1, 
       "intro": "Pythoneer...", 
       "name": "\u6797\u6500", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_liuchang": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u5218\u7545", 
       "topic": {
         "preview": "...", 
         "slide": null, 
@@ -851,6 +912,18 @@
       "city_shanghai": 1, 
       "intro": "Pythoneer...", 
       "name": "\u8096\u51ef", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_xiutao": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/id/xu-tao_2_11_xtao.jpg?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u5f90\u6d9b", 
       "topic": {
         "preview": "...", 
         "slide": null, 
