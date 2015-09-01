@@ -12,16 +12,20 @@
           "time": "14:00"
         }, 
         {
-          "speaker": "id_xiutao", 
-          "time": "14:40"
+          "speaker": "id_Bouriez", 
+          "time": "14:30"
         }, 
         {
           "speaker": "id_zhengk", 
-          "time": "15:20"
+          "time": "15:00"
         }, 
         {
-          "time": "16:00", 
+          "time": "15:30", 
           "topic": "Intermission"
+        }, 
+        {
+          "speaker": "id_xiutao", 
+          "time": "15:40"
         }, 
         {
           "speaker": "id_liuchang", 
@@ -29,7 +33,11 @@
         }, 
         {
           "speaker": "id_linpan", 
-          "time": "17:00"
+          "time": "17:10"
+        }, 
+        {
+          "speaker": "id_ZhiliWang", 
+          "time": "17:20"
         }
       ], 
       "cancel_talks": null, 
@@ -40,24 +48,20 @@
           "time": "17:30"
         }, 
         {
-          "speaker": "id_ZhiliWang", 
+          "speaker": "id_zhongww", 
           "time": "17:40"
         }, 
         {
-          "speaker": "id_zhongww", 
+          "speaker": "id_dujun", 
           "time": "17:45"
         }, 
         {
-          "speaker": "id_dujun", 
+          "speaker": "id_yuzhanyong", 
           "time": "17:50"
         }, 
         {
-          "speaker": "id_yuzhanyong", 
-          "time": "17:55"
-        }, 
-        {
           "speaker": "id_huangjin", 
-          "time": "18:00"
+          "time": "17:55"
         }
       ], 
       "maplink": "http://j.map.baidu.com/QifN0", 
@@ -316,7 +320,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441112473", 
+  "cachebuster_qs": "?_t=1441113541", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -488,6 +492,18 @@
     "url": "http://cn.pycon.org/2015/"
   }, 
   "speakers": {
+    "id_Bouriez": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "Guillaume Bouriez", 
+      "topic": {
+        "preview": "Pythonic Interface Description Language\u3002Moving to a microservice architecture solves many issues, but it is hard.Pidl, our in-house interface layer, allows to isolate services with only minimal changes in client and service code. A pidl service efficiently exports fully functional python modules, with functions, classes and methods. For the user, it is pure magic: the service is used as a normal python module but its code is never imported! ", 
+        "slide": null, 
+        "title": "pidl: python-powered microservices at Douban"
+      }
+    }, 
     "id_JokerQyou": {
       "avatar": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/id/gz_JokerQyou.png?imageView2/2/h/80", 
       "city": "Guangzhou", 
