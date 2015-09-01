@@ -316,7 +316,7 @@
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1441105907", 
+  "cachebuster_qs": "?_t=1441112473", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -484,7 +484,7 @@
     "base_url": ".", 
     "description": "Python\u4e2d\u56fd2015\u5927\u4f1a\u5b98\u65b9\u7f51\u7ad9", 
     "home_url": "./", 
-    "name": "PyCon2015China", 
+    "name": "PyConChina2015", 
     "url": "http://cn.pycon.org/2015/"
   }, 
   "speakers": {

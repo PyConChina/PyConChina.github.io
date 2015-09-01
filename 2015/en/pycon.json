@@ -316,7 +316,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441105907", 
+  "cachebuster_qs": "?_t=1441112473", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -484,7 +484,7 @@
     "base_url": "..", 
     "description": "The official site for PyCon China 2015", 
     "home_url": "./en/", 
-    "name": "PyCon2015China", 
+    "name": "PyConChina2015", 
     "url": "http://cn.pycon.org/2015/"
   }, 
   "speakers": {
