@@ -170,6 +170,49 @@
       "traffic": "(...)", 
       "venue": "TBD"
     }, 
+    "hangzhou": {
+      "address": "\u676d\u5dde\u5e02\u6ee8\u6c5f\u533a\u4fe1\u8bda\u8def567\u53f7", 
+      "afternoon": [
+        {
+          "time": "13:20", 
+          "topic": "PyCon\u5927\u4f1a\u53ca\u6d3b\u52a8\u7ec4\u7ec7\u65b9\u4ecb\u7ecd"
+        }, 
+        {
+          "speaker": "id_nonehz", 
+          "time": "13:30 ~ 14:10"
+        }, 
+        {
+          "speaker": "id_nonehz", 
+          "time": "14:20 ~ 15:00"
+        }, 
+        {
+          "time": "15:00", 
+          "topic": "\u8336\u6b47"
+        }, 
+        {
+          "speaker": "id_nonehz", 
+          "time": "15:20"
+        }, 
+        {
+          "speaker": "id_nonehz", 
+          "time": "16:10"
+        }, 
+        {
+          "time": "17:00", 
+          "topic": "\u5408\u5f71\u7ed3\u675f"
+        }
+      ], 
+      "date": "2015-9-20 13:00~17:00", 
+      "noon": [
+        {
+          "time": "13:00", 
+          "topic": "\u7b7e\u5230"
+        }
+      ], 
+      "notices": "...", 
+      "traffic": "\u6a2a\u8857\u57e0/ B\u652f6,B\u652f3\u8def - \u6c5f\u5357\u5927\u9053\u73af\u5174\u8def\u53e3:294\u8def(\u793e\u533a\u901a\u52e4\u9ad8\u5cf0\u7ebf),B\u652f5\u8def,352, 225(\u591c\u95f4\u7ebf),113,315 - \u4fe1\u8bda\u8def\u6c5f\u5357\u5927\u9053\u53e3:107\u8def\n", 
+      "venue": "\u8bfa\u57fa\u4e9a\u901a\u4fe1\u676d\u5dde\u5168\u7403\u7814\u53d1\u4e2d\u5fc3 \u82cf\u9ece\u4e16\u4f1a\u8bae\u5ba4"
+    }, 
     "shanghai": {
       "address": "\u4e0a\u6d77\u5e02\u6d66\u4e1c\u65b0\u533a\u535a\u4e91\u8def2\u53f7", 
       "afternoon": [
@@ -260,7 +303,7 @@
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1441027853", 
+  "cachebuster_qs": "?_t=1441096591", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -370,16 +413,20 @@
     {
       "children": [
         {
-          "title": "\u5317\u4eac", 
-          "url": "beijing.html"
-        }, 
-        {
           "title": "\u4e0a\u6d77", 
           "url": "shanghai.html"
         }, 
         {
           "title": "\u5e7f\u5dde", 
           "url": "guangzhou.html"
+        }, 
+        {
+          "title": "\u5317\u4eac", 
+          "url": "beijing.html"
+        }, 
+        {
+          "title": "\u676d\u5dde", 
+          "url": "hangzhou.html"
         }
       ], 
       "title": "\u65e5\u7a0b"
@@ -689,10 +736,34 @@
         "title": "?"
       }
     }, 
+    "id_nonehz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "\u676d\u5dde", 
+      "city_hangzhou": 1, 
+      "intro": "??", 
+      "name": "TBD", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
     "id_nonesh": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
       "city": "\u4e0a\u6d77", 
       "city_shanghai": 1, 
+      "intro": "??", 
+      "name": "TBD", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_nonesz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "\u82cf\u5dde", 
+      "city_suzhou": 1, 
       "intro": "??", 
       "name": "TBD", 
       "topic": {

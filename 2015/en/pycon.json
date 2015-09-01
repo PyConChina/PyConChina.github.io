@@ -170,6 +170,49 @@
       "traffic": "(...)", 
       "venue": "TBD"
     }, 
+    "hangzhou": {
+      "address": "\u676d\u5dde\u5e02\u6ee8\u6c5f\u533a\u4fe1\u8bda\u8def567\u53f7", 
+      "afternoon": [
+        {
+          "time": "13:20", 
+          "topic": "PyCon\u5927\u4f1a\u53ca\u6d3b\u52a8\u7ec4\u7ec7\u65b9\u4ecb\u7ecd"
+        }, 
+        {
+          "speaker": "id_nonehz", 
+          "time": "13:30 ~ 14:10"
+        }, 
+        {
+          "speaker": "id_nonehz", 
+          "time": "14:20 ~ 15:00"
+        }, 
+        {
+          "time": "15:00", 
+          "topic": "Intermission"
+        }, 
+        {
+          "speaker": "id_nonehz", 
+          "time": "15:20"
+        }, 
+        {
+          "speaker": "id_nonehz", 
+          "time": "16:10"
+        }, 
+        {
+          "time": "17:00", 
+          "topic": "\u5408\u5f71\u7ed3\u675f"
+        }
+      ], 
+      "date": "2015-9-20 13:00~17:00", 
+      "noon": [
+        {
+          "time": "13:00", 
+          "topic": "Check in"
+        }
+      ], 
+      "notices": "...", 
+      "traffic": "TBD", 
+      "venue": "\u8bfa\u57fa\u4e9a\u901a\u4fe1\u676d\u5dde\u5168\u7403\u7814\u53d1\u4e2d\u5fc3 \u82cf\u9ece\u4e16\u4f1a\u8bae\u5ba4"
+    }, 
     "shanghai": {
       "address": "No.2 Boyun Road, Pudong, Shanghai", 
       "afternoon": [
@@ -260,7 +303,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441027853", 
+  "cachebuster_qs": "?_t=1441096591", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -370,16 +413,20 @@
     {
       "children": [
         {
-          "title": "BEIJING", 
-          "url": "en/beijing.html"
-        }, 
-        {
           "title": "SHANGHAI", 
           "url": "en/shanghai.html"
         }, 
         {
           "title": "GUANGZHOU", 
           "url": "en/guangzhou.html"
+        }, 
+        {
+          "title": "BEIJING", 
+          "url": "en/beijing.html"
+        }, 
+        {
+          "title": "HANGZHOU", 
+          "url": "en/hangzhou.html"
         }
       ], 
       "title": "SCHEDULE"
@@ -689,10 +736,34 @@
         "title": "?"
       }
     }, 
+    "id_nonehz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Hangzhou", 
+      "city_hangzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "TBD", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
     "id_nonesh": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
       "city": "Shanghai", 
       "city_shanghai": 1, 
+      "intro": "Pythoneer...", 
+      "name": "TBD", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_nonesz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Suzhou", 
+      "city_suzhou": 1, 
       "intro": "Pythoneer...", 
       "name": "TBD", 
       "topic": {
