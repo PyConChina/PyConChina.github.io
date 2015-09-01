@@ -133,7 +133,7 @@
           "time": "16:10"
         }, 
         {
-          "speaker": "id_nonegz", 
+          "speaker": "id_yinhm", 
           "time": "17:00"
         }
       ], 
@@ -320,7 +320,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441113541", 
+  "cachebuster_qs": "?_t=1441121015", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -980,6 +980,18 @@
         "preview": "...", 
         "slide": null, 
         "title": "base Python build DaoCloud"
+      }
+    }, 
+    "id_yinhm": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/yinhm.jpg?imageView2/2/h/80", 
+      "city": "Guangzhou", 
+      "city_guangzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u6bb7\u6d77\u660e", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
       }
     }, 
     "id_yuzhanyong": {
