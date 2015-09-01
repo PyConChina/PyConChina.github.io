@@ -303,7 +303,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441096591", 
+  "cachebuster_qs": "?_t=1441104296", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -360,6 +360,7 @@
     "page_title_index": "HOME", 
     "page_title_proposals": "Proposals", 
     "page_title_shanghai": "Schedule in Shanghai", 
+    "page_title_speechmaker": "Speechmaker", 
     "page_title_sponsors": "Sponsors", 
     "page_title_suzhou": "Schedule in Suzhou", 
     "page_title_tshirt": "TEE", 
@@ -390,8 +391,8 @@
   }, 
   "nav": [
     {
-      "title": "PROPOSALS", 
-      "url": "en/proposals.html"
+      "title": "SPEECH", 
+      "url": "en/speechmaker.html"
     }, 
     {
       "children": [
