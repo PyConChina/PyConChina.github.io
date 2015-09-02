@@ -64,7 +64,7 @@
           "time": "17:55"
         }
       ], 
-      "maplink": "http://j.map.baidu.com/QifN0", 
+      "maplink": "http://f.amap.com/0B9E8O", 
       "morning": [
         {
           "time": "09:00", 
@@ -145,7 +145,7 @@
           "time": "17:30"
         }
       ], 
-      "maplink": "...", 
+      "maplink": "http://f.amap.com/042E3U", 
       "morning": [
         {
           "time": "09:00", 
@@ -176,7 +176,7 @@
       ], 
       "notices": "...", 
       "traffic": "(...)", 
-      "venue": "TBD"
+      "venue": "..."
     }, 
     "hangzhou": {
       "address": "\u676d\u5dde\u5e02\u6ee8\u6c5f\u533a\u4fe1\u8bda\u8def567\u53f7", 
@@ -282,7 +282,7 @@
           "time": "17:50"
         }
       ], 
-      "maplink": "http://j.map.baidu.com/ltIw5", 
+      "maplink": "http://f.amap.com/0FFE0i", 
       "morning": [
         {
           "time": "09:00", 
@@ -320,7 +320,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441176474", 
+  "cachebuster_qs": "?_t=1441177306", 
   "donators": [
     "tolerious", 
     "hackergodness", 
