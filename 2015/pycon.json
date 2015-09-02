@@ -8,7 +8,7 @@
           "time": "13:30"
         }, 
         {
-          "speaker": "id_dinglaiqiang", 
+          "speaker": "id_liepin1bj", 
           "time": "14:00"
         }, 
         {
@@ -75,7 +75,7 @@
           "topic": "\u5f00\u573a"
         }, 
         {
-          "speaker": "id_liepin2bj", 
+          "speaker": "id_yankaibj", 
           "time": "09:30"
         }, 
         {
@@ -83,11 +83,11 @@
           "time": "10:00"
         }, 
         {
-          "speaker": "id_yankaibj", 
+          "speaker": "id_liepin2bj", 
           "time": "10:20"
         }, 
         {
-          "speaker": "id_liepin1bj", 
+          "speaker": "id_dinglaiqiang", 
           "time": "10:55"
         }, 
         {
@@ -301,11 +301,11 @@
           "time": "10:00"
         }, 
         {
-          "speaker": "id_shenweish", 
+          "speaker": "id_liepin1sh", 
           "time": "10:45"
         }, 
         {
-          "speaker": "id_liepin1sh", 
+          "speaker": "id_shenweish", 
           "time": "11:30"
         }
       ], 
@@ -320,7 +320,7 @@
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1441182407", 
+  "cachebuster_qs": "?_t=1441200640", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -666,9 +666,9 @@
       "intro": "\u4e91\u667a\u6167\u9ad8\u7ea7\u67b6\u6784\u5e08\uff0c\u662fPHP\u5f00\u53d1\u7ec4\u6210\u5458\uff0c\u540c\u65f6\u4e5f\u662fPECL/SeasLog\u7684\u4f5c\u8005.10\u5e74\u7814\u53d1\u7ba1\u7406\u7ecf\u9a8c\uff0c\u65e9\u671f\u4ece\u4e8b\u5927\u89c4\u6a21\u4f01\u4e1a\u4fe1\u606f\u5316\u7814\u53d1\u67b6\u6784\uff0c09\u5e74\u6d89\u8db3\u4e92\u8054\u7f51\u6570\u5b57\u8425\u9500\u9886\u57df\u5e76\u6df1\u5165\u7814\u7a76\u67b6\u6784\u4e0e\u6027\u80fd\u4f18\u5316\u30022014\u5e74\u52a0\u5165\u4e91\u667a\u6167\uff0c\u81f4\u529b\u4e8eAPM\u4ea7\u54c1\u7684\u67b6\u6784\u4e0e\u7814\u53d1\u3002\u5d07\u5c1a\u654f\u6377\uff0c\u9ad8\u6548\uff0cGettingReal\u3002", 
       "name": "\u9ad8\u9a70\u6d9b(Neeke)", 
       "topic": {
-        "preview": "...", 
+        "preview": "python\u5e94\u7528\u6027\u80fd\u7ba1\u7406\u5b9e\u8df5", 
         "slide": null, 
-        "title": "\u8ba9Python\u5e94\u7528\u5feb\u5982\u95ea\u7535-python\u5e94\u7528\u6027\u80fd\u7ba1\u7406\u5b9e\u8df5"
+        "title": "\u8ba9Python\u5e94\u7528\u5feb\u5982\u95ea\u7535"
       }
     }, 
     "id_jiekong": {

@@ -8,7 +8,7 @@
           "time": "13:30"
         }, 
         {
-          "speaker": "id_dinglaiqiang", 
+          "speaker": "id_liepin1bj", 
           "time": "14:00"
         }, 
         {
@@ -75,7 +75,7 @@
           "topic": "Opening"
         }, 
         {
-          "speaker": "id_liepin2bj", 
+          "speaker": "id_yankaibj", 
           "time": "09:30"
         }, 
         {
@@ -83,11 +83,11 @@
           "time": "10:00"
         }, 
         {
-          "speaker": "id_yankaibj", 
+          "speaker": "id_liepin2bj", 
           "time": "10:20"
         }, 
         {
-          "speaker": "id_liepin1bj", 
+          "speaker": "id_dinglaiqiang", 
           "time": "10:55"
         }, 
         {
@@ -301,11 +301,11 @@
           "time": "10:00"
         }, 
         {
-          "speaker": "id_shenweish", 
+          "speaker": "id_liepin1sh", 
           "time": "10:45"
         }, 
         {
-          "speaker": "id_liepin1sh", 
+          "speaker": "id_shenweish", 
           "time": "11:30"
         }
       ], 
@@ -320,7 +320,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441182407", 
+  "cachebuster_qs": "?_t=1441200640", 
   "donators": [
     "tolerious", 
     "hackergodness", 
