@@ -320,7 +320,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441202530", 
+  "cachebuster_qs": "?_t=1441205426", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -624,7 +624,7 @@
       }
     }, 
     "id_huangjin": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_huangjin.png?imageView2/2/h/80", 
       "city": "Beijing", 
       "city_beijing": 1, 
       "intro": "Pythoneer...", 

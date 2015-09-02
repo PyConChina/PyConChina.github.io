@@ -320,7 +320,7 @@
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1441202530", 
+  "cachebuster_qs": "?_t=1441205426", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -624,7 +624,7 @@
       }
     }, 
     "id_huangjin": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_huangjin.png?imageView2/2/h/80", 
       "city": "\u5317\u4eac", 
       "city_beijing": 1, 
       "intro": "FreeWheel\u8d44\u6df1devops\u4e00\u679a\uff0c\u505a\u5f97\u6700\u591a\u7684\u662f\u76d1\u63a7\u548c\u90e8\u7f72\u53d1\u5e03\u3002Pythonist\uff0c\u76ee\u524d\u6b63\u5728\u4eceGolang\u6316\u5899\u811a\uff0c\u6709\u70b9\u75f4\u8ff7\u3002", 
