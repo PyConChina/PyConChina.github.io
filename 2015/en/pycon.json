@@ -321,7 +321,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441523648", 
+  "cachebuster_qs": "?_t=1441524287", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -1079,6 +1079,13 @@
       "level_diamond": 1, 
       "link": "http://www.jiankongbao.com/", 
       "logo": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/logo/jiankongbao-logo.png?imageView2/2/w/210"
+    }, 
+    {
+      "intro": "...", 
+      "level": "diamond", 
+      "level_diamond": 1, 
+      "link": "http://ouyeel.com/help/about-us.html", 
+      "logo": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/logo/ouyeel_logo.jpg?imageView2/2/w/200"
     }, 
     {
       "intro": "... ", 
