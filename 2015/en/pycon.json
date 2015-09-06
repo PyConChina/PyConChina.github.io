@@ -321,7 +321,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441527565", 
+  "cachebuster_qs": "?_t=1441554571", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -624,6 +624,18 @@
         "title": "?"
       }
     }, 
+    "id_gizwits": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/GizWits_avatar.jpg?imageView2/2/h/80", 
+      "city": "Guangzhou", 
+      "city_guangzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u90d1\u548c\u67f3 (Robert Zheng)", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
     "id_huangjin": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_huangjin.png?imageView2/2/h/80", 
       "city": "Beijing", 
@@ -803,34 +815,10 @@
         "title": "?"
       }
     }, 
-    "id_nonegz": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
-      "city": "Guangzhou", 
-      "city_guangzhou": 1, 
-      "intro": "Pythoneer...", 
-      "name": "TBD", 
-      "topic": {
-        "preview": "...", 
-        "slide": null, 
-        "title": "?"
-      }
-    }, 
     "id_nonehz": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
       "city": "Hangzhou", 
       "city_hangzhou": 1, 
-      "intro": "Pythoneer...", 
-      "name": "TBD", 
-      "topic": {
-        "preview": "...", 
-        "slide": null, 
-        "title": "?"
-      }
-    }, 
-    "id_nonesh": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
-      "city": "Shanghai", 
-      "city_shanghai": 1, 
       "intro": "Pythoneer...", 
       "name": "TBD", 
       "topic": {
@@ -845,6 +833,30 @@
       "city_suzhou": 1, 
       "intro": "Pythoneer...", 
       "name": "TBD", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_ouyeel_gz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Guangzhou", 
+      "city_guangzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u5b54\u4ee4\u5f00", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "id_ouyeel_sh": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u5b54\u4ee4\u5f00", 
       "topic": {
         "preview": "...", 
         "slide": null, 

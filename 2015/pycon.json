@@ -321,7 +321,7 @@
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1441527565", 
+  "cachebuster_qs": "?_t=1441554571", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -624,6 +624,18 @@
         "title": "Python \u4e0e \u667a\u80fd\u786c\u4ef6"
       }
     }, 
+    "id_gizwits": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/GizWits_avatar.jpg?imageView2/2/h/80", 
+      "city": "\u5e7f\u5dde", 
+      "city_guangzhou": 1, 
+      "intro": "\u76ee\u524d\u5728\u673a\u667a\u4e91\u62c5\u4efb Python \u7a0b\u5e8f\u5458\uff0c09 \u5e74\u5f00\u59cb\u63a5\u89e6 Python\uff0c\u7528 Python \u5199\u8fc7\u5d4c\u5165\u5f0f\u7a0b\u5e8f\u3001\u624b\u673a\u7a0b\u5e8f\uff08Symbian\uff0cAndroid\uff09\u3001\u684c\u9762\u7a0b\u5e8f\uff08PyQT\uff09\u3001Web \u7a0b\u5e8f\uff08\u4e3b\u8981\u662f Django\uff09\u7b49\u7b49\u3002\u4e00\u4e2a\u7231\u8fd0\u52a8\u7684\u6280\u672f\u5b85\uff0c\u5fae\u535a @ax003d", 
+      "name": "\u90d1\u548c\u67f3 (Robert Zheng)", 
+      "topic": {
+        "preview": "\u8bb2\u8ff0 DDNS \uff08\u52a8\u6001\u57df\u540d\u89e3\u6790\uff09\u539f\u7406\uff0c\u5982\u4f55\u5c06\u81ea\u5df1\u6ce8\u518c\u7684\u57df\u540d\u6307\u5411\u81ea\u5df1\u7684 DNS \u670d\u52a1\u5668\uff0c\u4ee5\u53ca\u901a\u8fc7 Python \u642d\u5efa\u81ea\u5df1\u7684\u4e8c\u7ea7\u57df\u540d DDNS \u670d\u52a1\u3002\u53e6\u5916\uff0c\u8fd8\u7ed3\u5408 Docker \u6280\u672f\uff0c\u8bb2\u8ff0 DDNS \u5728 Docker \u5b9e\u8df5\u4e2d\u7684\u5e94\u7528\u3002", 
+        "slide": null, 
+        "title": "\u7528 Python \u5b9e\u73b0 DDNS \u4ee5\u53ca\u5728 Docker \u4e2d\u7684\u5e94\u7528"
+      }
+    }, 
     "id_huangjin": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_huangjin.png?imageView2/2/h/80", 
       "city": "\u5317\u4eac", 
@@ -803,34 +815,10 @@
         "title": "?"
       }
     }, 
-    "id_nonegz": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
-      "city": "\u5e7f\u5dde", 
-      "city_guangzhou": 1, 
-      "intro": "??", 
-      "name": "TBD", 
-      "topic": {
-        "preview": "...", 
-        "slide": null, 
-        "title": "?"
-      }
-    }, 
     "id_nonehz": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
       "city": "\u676d\u5dde", 
       "city_hangzhou": 1, 
-      "intro": "??", 
-      "name": "TBD", 
-      "topic": {
-        "preview": "...", 
-        "slide": null, 
-        "title": "?"
-      }
-    }, 
-    "id_nonesh": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
-      "city": "\u4e0a\u6d77", 
-      "city_shanghai": 1, 
       "intro": "??", 
       "name": "TBD", 
       "topic": {
@@ -849,6 +837,30 @@
         "preview": "...", 
         "slide": null, 
         "title": "?"
+      }
+    }, 
+    "id_ouyeel_gz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "\u5e7f\u5dde", 
+      "city_guangzhou": 1, 
+      "intro": "\u6b27\u51b6\u4e91\u5546...", 
+      "name": "\u5b54\u4ee4\u5f00", 
+      "topic": {
+        "preview": "\u4e00\u4e2a\u7b80\u5355\u7684\u5c0f\u5de5\u5177\uff0c\u4e00\u79d2\u4e94\u884c\u5199\u51fapythonic\u7684api\u63a5\u53e3\uff0c\u81ea\u52a8\u751f\u6210\u63a5\u53e3\u6587\u6863\uff0cjs\u8c03\u7528\u4ee3\u7801\uff0cios\u5ba2\u6237\u7aef\u8c03\u7528\u4ee3\u7801\uff0cng\u8c03\u7528\u4ee3\u7801...", 
+        "slide": null, 
+        "title": "\u7b80\u5355\u5b9e\u7528\u7684\u81ea\u5236Rest API\u5de5\u5177"
+      }
+    }, 
+    "id_ouyeel_sh": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "\u4e0a\u6d77", 
+      "city_shanghai": 1, 
+      "intro": "\u6b27\u51b6\u4e91\u5546...", 
+      "name": "\u5b54\u4ee4\u5f00", 
+      "topic": {
+        "preview": "\u4e00\u4e2a\u7b80\u5355\u7684\u5c0f\u5de5\u5177\uff0c\u4e00\u79d2\u4e94\u884c\u5199\u51fapythonic\u7684api\u63a5\u53e3\uff0c\u81ea\u52a8\u751f\u6210\u63a5\u53e3\u6587\u6863\uff0cjs\u8c03\u7528\u4ee3\u7801\uff0cios\u5ba2\u6237\u7aef\u8c03\u7528\u4ee3\u7801\uff0cng\u8c03\u7528\u4ee3\u7801...", 
+        "slide": null, 
+        "title": "\u7b80\u5355\u5b9e\u7528\u7684\u81ea\u5236Rest API\u5de5\u5177"
       }
     }, 
     "id_river": {
