@@ -321,7 +321,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441523369", 
+  "cachebuster_qs": "?_t=1441523648", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -1079,6 +1079,13 @@
       "level_diamond": 1, 
       "link": "http://www.jiankongbao.com/", 
       "logo": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/logo/jiankongbao-logo.png?imageView2/2/w/210"
+    }, 
+    {
+      "intro": "... ", 
+      "level": "platinum", 
+      "level_platinum": 1, 
+      "link": "http://www.gizwits.com/", 
+      "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/GizWits_logo_y.png?imageView2/2/h/90"
     }, 
     {
       "intro": "SpeedyCloud is the IaaS brand owned by Beijing SpeedyCloud Technology Co., Ltd.,, who is one of the leaders in cloud industry.The company was setup in 2012, with the capital of 10 million RMB invested all by ourselves.Being the general solution provider,  our focus is to provide IaaS for Internet and enterprises companies. Most of the team came from public IT operating and service companies like ChinaCache, 21ViaNet, etc. We are helping our customers with the most cutting-edge cloud computing technologies to expand their online businesses. ", 
