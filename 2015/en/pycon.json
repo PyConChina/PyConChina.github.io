@@ -321,7 +321,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441507805", 
+  "cachebuster_qs": "?_t=1441522805", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -1051,13 +1051,6 @@
       "level_partner": 1, 
       "link": "http://segmentfault.com/", 
       "logo": "http://dn-pyconcn.qbox.me/zoomquiet/stuff14/logo/sf-logo-cmyk.png?imageView2/2/w/200"
-    }, 
-    {
-      "intro": "...", 
-      "level": "partner", 
-      "level_partner": 1, 
-      "link": "http://www.cstnet.net.cn/overview.htm", 
-      "logo": "http://dn-pyconcn.qbox.me/zoomquiet/stuff14/logo/cstnet-logo.png?imageView2/2/w/200"
     }, 
     {
       "intro": "Open Source China (OSC) founded in August 2008 is the largest open source community in China; It has more than 2.2 million registered members and Alexa ranking 1400 in the world. OSC provides multiple channles including news/ forum/ code sharing/ blogs/ and translation / etc to help local developers study and utilize open soure technology .", 
