@@ -40,7 +40,12 @@
           "time": "17:20"
         }
       ], 
-      "cancel_talks": null, 
+      "cancel_talks": [
+        {
+          "speaker": "id_dujun", 
+          "time": "(\u30fc`\u00b4\u30fc)"
+        }
+      ], 
       "date": "2015-09-19 09:00~18:00", 
       "lightening_talks": [
         {
@@ -52,16 +57,12 @@
           "time": "17:40"
         }, 
         {
-          "speaker": "id_dujun", 
+          "speaker": "id_yuzhanyong", 
           "time": "17:45"
         }, 
         {
-          "speaker": "id_yuzhanyong", 
-          "time": "17:50"
-        }, 
-        {
           "speaker": "id_huangjin", 
-          "time": "17:55"
+          "time": "17:50"
         }
       ], 
       "maplink": "http://f.amap.com/0B9E8O", 
@@ -320,7 +321,7 @@
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1441205735", 
+  "cachebuster_qs": "?_t=1441507805", 
   "donators": [
     "tolerious", 
     "hackergodness", 
