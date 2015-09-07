@@ -317,7 +317,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441588769", 
+  "cachebuster_qs": "?_t=1441593207", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -1187,6 +1187,13 @@
       "level_bronze": 1, 
       "link": "http://easydo.cn", 
       "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/easydo_logo.png?imageView2/2/w/60"
+    }, 
+    {
+      "intro": "D.G.Z was founded by Thomas Yao at the end of 2012 in Shanghai, China. Our mission is to improve the Information Technology education ecosystem around the world.We are building two bridges to connect people, one is from college and middle school students to real world projects, the other one is from China to western countries and vice versa.", 
+      "level": "bronze", 
+      "level_bronze": 1, 
+      "link": "https://gitcafe.com/", 
+      "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/gitcafe_logo.png?imageView2/2/w/60"
     }
   ], 
   "volunteers": [
