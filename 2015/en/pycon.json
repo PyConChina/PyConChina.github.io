@@ -325,7 +325,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441615910", 
+  "cachebuster_qs": "?_t=1441617728", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -1260,7 +1260,7 @@
       "level": "bronze", 
       "level_bronze": 1, 
       "link": "https://gitcafe.com/", 
-      "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/gitcafe_logo.png?imageView2/2/w/100"
+      "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/GitCafe_bg_1000-224.png?imageView2/2/w/100"
     }
   ], 
   "volunteers": [
