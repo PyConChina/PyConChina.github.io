@@ -317,7 +317,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441609975", 
+  "cachebuster_qs": "?_t=1441610334", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -1131,6 +1131,13 @@
       "level_platinum": 10, 
       "link": "http://www.360.cn", 
       "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/360_logo.png?imageView2/2/h/70"
+    }, 
+    {
+      "intro": "Douban.com launched on March 6, 2005, is a Chinese SNS website allowing registered users to record information and create content related to film, books, music, and recent events and activities in Chinese cities.", 
+      "level": "gold", 
+      "level_gold": 1, 
+      "link": "http://www.douban.com/", 
+      "logo": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/logo/douban-logo.png?imageView2/2/w/180"
     }, 
     {
       "intro": "Aliyun, the cloud computing business of Alibaba Group Holding Limited was established in September 2009. It develops highly scalable platforms for cloud computing and data management and provides a comprehensive suite of cloud computing services to support the participants of Alibaba Group's online and mobile commerce ecosystem, including sellers, and other third-party customers and businesses. ", 
