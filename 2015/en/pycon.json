@@ -317,7 +317,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441609417", 
+  "cachebuster_qs": "?_t=1441609893", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -1082,6 +1082,13 @@
       "level_diamond": 1, 
       "link": "http://ouyeel.com/help/about-us.html", 
       "logo": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/logo/ouyeel_logo.jpg?imageView2/2/w/200"
+    }, 
+    {
+      "intro": "Founded in 2004, Facebook\u2019s mission is to give people the power to share and make the world more open and connected. People use Facebook to stay connected with friends and family, to discover what\u2019s going on in the world, and to share and express what matters to them.", 
+      "level": "platinum", 
+      "level_platinum": 1, 
+      "link": "https://www.facebook.com/", 
+      "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/facebook_2015_logo_detail.png?imageView2/2/h/90"
     }, 
     {
       "intro": "... ", 
