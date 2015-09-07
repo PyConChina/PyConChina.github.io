@@ -325,7 +325,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441618170", 
+  "cachebuster_qs": "?_t=1441618284", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -1085,7 +1085,7 @@
       "level": "partner", 
       "level_partner": 1, 
       "link": "http://techparty.org/about/", 
-      "logo": "http://dn-pyconcn.qbox.me/zoomquiet/stuff15/logo/techparty.png?imageView2/2/w/200"
+      "logo": "http://dn-pyconcn.qbox.me/zoomquiet/stuff15/logo/techparty.png?imageView2/2/h/80"
     }, 
     {
       "intro": "SegmentFault is China's leading developer community. After more than two years of development, SegmentFault is already have more than ten developer. SegmentFault's goal is to provide Chinese developers to one of the most pure technical exchange platform,  create belong to the age of developers together", 
