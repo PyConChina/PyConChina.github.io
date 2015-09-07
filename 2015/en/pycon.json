@@ -94,11 +94,15 @@
         {
           "speaker": "id_dinglaiqiang", 
           "time": "11:30"
+        }, 
+        {
+          "speaker": "id_fb_rosieli", 
+          "time": "12:00"
         }
       ], 
       "noon": [
         {
-          "time": "12:00", 
+          "time": "12:10", 
           "topic": "Lunch + Photo"
         }
       ], 
@@ -304,11 +308,15 @@
         {
           "speaker": "id_shenweish", 
           "time": "11:30"
+        }, 
+        {
+          "speaker": "id_fb_jianmingwu", 
+          "time": "12:00"
         }
       ], 
       "noon": [
         {
-          "time": "12:00", 
+          "time": "12:10", 
           "topic": "Lunch + Photo"
         }
       ], 
@@ -317,7 +325,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441610676", 
+  "cachebuster_qs": "?_t=1441611136", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -618,6 +626,30 @@
         "preview": "...", 
         "slide": null, 
         "title": "?"
+      }
+    }, 
+    "id_fb_jianmingwu": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/fb_rosieli.jpg?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "Software Engineer at Facebook", 
+      "name": "Jianming Wu (\u5434\u5efa\u660e)", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "Facebook and Python"
+      }
+    }, 
+    "id_fb_rosieli": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/fb_rosieli.jpg?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Software Engineer at Facebook", 
+      "name": "Roise Li (\u674e\u82e5\u601d)", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "Facebook and Python"
       }
     }, 
     "id_gizwits": {
