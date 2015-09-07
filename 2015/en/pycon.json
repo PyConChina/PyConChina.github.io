@@ -277,10 +277,6 @@
         {
           "speaker": "id_chendawei", 
           "time": "17:40"
-        }, 
-        {
-          "speaker": "id_kj", 
-          "time": "17:50"
         }
       ], 
       "maplink": "http://f.amap.com/0FFE0i", 
@@ -321,7 +317,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441554571", 
+  "cachebuster_qs": "?_t=1441588769", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -690,18 +686,6 @@
       "city_shanghai": 1, 
       "intro": "Pythoneer...", 
       "name": "\u6212\u7a7a(\u59dc\u7ee7\u5fe0)", 
-      "topic": {
-        "preview": "...", 
-        "slide": null, 
-        "title": "?"
-      }
-    }, 
-    "id_kj": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_kj.jpg?imageView2/2/h/80", 
-      "city": "Shanghai", 
-      "city_shanghai": 1, 
-      "intro": "Pythoneer...", 
-      "name": "KJ\uff08\u961a\u5609\uff09", 
       "topic": {
         "preview": "...", 
         "slide": null, 

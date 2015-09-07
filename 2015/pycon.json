@@ -277,10 +277,6 @@
         {
           "speaker": "id_chendawei", 
           "time": "17:40"
-        }, 
-        {
-          "speaker": "id_kj", 
-          "time": "17:50"
         }
       ], 
       "maplink": "http://f.amap.com/0FFE0i", 
@@ -321,7 +317,7 @@
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1441554571", 
+  "cachebuster_qs": "?_t=1441588769", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -694,18 +690,6 @@
         "preview": "...", 
         "slide": null, 
         "title": "ACE\u7684Python\u73af\u5883\u7684\u4f7f\u7528\u548c\u67b6\u6784\u8bbe\u8ba1\u5b9e\u8df5"
-      }
-    }, 
-    "id_kj": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_kj.jpg?imageView2/2/h/80", 
-      "city": "\u4e0a\u6d77", 
-      "city_shanghai": 1, 
-      "intro": "\u9f50\u4e66\u4e91\u534f\u4f5cCEO\uff0c\u524d\u65b0\u52a0\u5761MM Games\u6280\u672f\u603b\u76d1\uff0cex-Google \u540e\u7aef\u5de5\u7a0b\u5e08\uff0c\u64c5\u957fweb\u67b6\u6784\u548ciOS\u57fa\u672c\u7a0b\u5e8f\u8bbe\u8ba1 2013\u5e74 - \u73b0\u4eca \u521b\u4e1a\u4e2d 2010\u5e74 - 2013\u5e748\u6708 \u65b0\u52a0\u5761 MM Games \u6e38\u620f\u5e73\u53f0 CTO 2009\u5e74 - 2010\u5e747\u6708 Slide.com \u4e0a\u6d77\u65e9\u671f\u5de5\u7a0b\u5e08\uff08PayPal\u9ed1\u5e2e\u4f01\u4e1a\uff09\uff0c\u540e\u88ab\u8c37\u6b4c\u6536\u8d2d 2007\u5e74 - 2009\u5e74 \u6d1b\u6749\u77f6 Protohaus LLC \u9ad8\u7ea7\u7a0b\u5e8f\u8bbe\u8ba1\u5e08 2005\u5e74 - 2007\u5e74 VeryCD.com \u5de5\u7a0b\u5e08\uff0c\u8d1f\u8d23P2P\u4e0b\u8f7d\u7a0b\u5e8f\u5f00\u53d1", 
-      "name": "KJ\uff08\u961a\u5609\uff09", 
-      "topic": {
-        "preview": "...", 
-        "slide": null, 
-        "title": "TBD"
       }
     }, 
     "id_laiyonghaogz": {
