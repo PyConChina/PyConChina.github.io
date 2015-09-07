@@ -317,7 +317,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441600279", 
+  "cachebuster_qs": "?_t=1441609417", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -657,23 +657,23 @@
       }
     }, 
     "id_jiankongbaogz": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/jiankongbao_neeke.jpg?imageView2/2/h/80", 
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
       "city": "Guangzhou", 
       "city_guangzhou": 1, 
       "intro": "Pythoneer...", 
-      "name": "\u9ad8\u9a70\u6d9b(Neeke)", 
+      "name": "\u5218\u56fd\u5f3a\uff08Bruce Liu\uff09", 
       "topic": {
         "preview": "...", 
         "slide": null, 
-        "title": "?"
+        "title": "Python application performance optimization practice"
       }
     }, 
     "id_jiankongbaosh": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/jiankongbao_neeke.jpg?imageView2/2/h/80", 
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
       "city": "Shanghai", 
       "city_shanghai": 1, 
       "intro": "Pythoneer...", 
-      "name": "\u9ad8\u9a70\u6d9b(Neeke)", 
+      "name": "\u5218\u56fd\u5f3a (Bruce Liu)", 
       "topic": {
         "preview": "...", 
         "slide": null, 
