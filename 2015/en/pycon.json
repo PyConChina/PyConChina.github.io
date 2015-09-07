@@ -118,16 +118,20 @@
           "time": "13:30"
         }, 
         {
-          "speaker": "id_jiankongbaogz", 
+          "speaker": "id_ouyeel_gz", 
           "time": "14:00"
         }, 
         {
-          "speaker": "id_JokerQyou", 
-          "time": "14:40"
+          "speaker": "id_gizwits", 
+          "time": "14:30"
+        }, 
+        {
+          "speaker": "id_jiankongbaogz", 
+          "time": "15:00"
         }, 
         {
           "speaker": "id_zuozhenjie", 
-          "time": "15:20"
+          "time": "15:30"
         }, 
         {
           "time": "16:00", 
@@ -157,20 +161,24 @@
           "topic": "Check-in"
         }, 
         {
-          "time": "09:45", 
+          "time": "09:30", 
           "topic": "Opening"
         }, 
         {
-          "speaker": "id_shenweigz", 
-          "time": "10:00"
+          "speaker": "id_laiyonghaogz", 
+          "time": "09:45"
         }, 
         {
-          "speaker": "id_laiyonghaogz", 
-          "time": "10:45"
+          "speaker": "id_shenweigz", 
+          "time": "10:20"
         }, 
         {
           "speaker": "id_river", 
-          "time": "11:15"
+          "time": "11:00"
+        }, 
+        {
+          "speaker": "id_JokerQyou", 
+          "time": "11:30"
         }
       ], 
       "noon": [
@@ -325,7 +333,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441618617", 
+  "cachebuster_qs": "?_t=1441622335", 
   "donators": [
     "tolerious", 
     "hackergodness", 
