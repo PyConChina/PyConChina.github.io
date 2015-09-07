@@ -325,7 +325,7 @@
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1441618284", 
+  "cachebuster_qs": "?_t=1441618617", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -1085,7 +1085,7 @@
       "level": "partner", 
       "level_partner": 1, 
       "link": "http://techparty.org/about/", 
-      "logo": "http://dn-pyconcn.qbox.me/zoomquiet/stuff15/logo/techparty.png?imageView2/2/h/80"
+      "logo": "http://dn-pyconcn.qbox.me/zoomquiet/stuff15/logo/techparty_barnner.png?imageView2/2/w/200"
     }, 
     {
       "intro": "SegmentFault \u662f\u4e2d\u56fd\u9886\u5148\u7684\u5f00\u53d1\u8005\u793e\u533a. \u7ecf\u8fc7\u4e24\u5e74\u591a\u5e74\u7684\u53d1\u5c55,\u5df2\u7ecf\u805a\u96c6\u4e86\u5341\u591a\u4e07\u5f00\u53d1\u8005. \u6211\u4eec\u7684\u76ee\u6807\u662f\u4e3a\u4e2d\u6587\u5f00\u53d1\u8005\u63d0\u4f9b\u4e00\u4e2a\u6700\u7eaf\u7cb9\u7684\u6280\u672f\u4ea4\u6d41\u5e73\u53f0,\u4e00\u8d77\u521b\u9020\u5c5e\u4e8e\u5f00\u53d1\u8005\u7684\u65f6\u4ee3!", 
