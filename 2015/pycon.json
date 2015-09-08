@@ -337,7 +337,7 @@
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1441696459", 
+  "cachebuster_qs": "?_t=1441702542", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -590,7 +590,7 @@
       "name": "\u9648\u6d77\u6ce2", 
       "topic": {
         "preview": "\u56fd\u5185\u8c8c\u4f3c\u5bf9\u4e8ePython&GUI\u4e0a\u80fd\u76f4\u63a5\u770b\u5230\u7684\u8d44\u6599\uff0c\u57fa\u672c\u505c\u7559\u4e8eHello World\u7684\u9636\u6bb5\uff0c\u6ca1\u6709\u68b3\u7406\u8fc7\uff0c\u4f46\u5185\u5bb9\u5e94\u8be5\u4f1a\u6709\u4e0b\u9762\u8fd9\u4e9b\uff1a Why GUI \u57fa\u672c\u6280\u672f\u8def\u7ebf\u7684\u9009\u62e9 \u4e0d\u540c\u5e73\u53f0\u4e0a\u7684\u7f16\u8bd1\u3001\u6253\u5305\u8f6f\u4ef6 \u754c\u9762\u600e\u4e48\u7ed8\u5236\uff1f ... GUI\u8d4b\u4e88\u7684\u60f3\u8c61\u529b \u5982\u4f55\u5f00\u59cb\u4f60\u7684\u7b2c\u4e00\u4e2a\u684c\u9762\u8f6f\u4ef6\uff1f", 
-        "slide": null, 
+        "slide": "http://7bv7nx.com1.z0.glb.clouddn.com/Pycon-2015-Hepo.key", 
         "title": "Python&GUI"
       }
     }, 

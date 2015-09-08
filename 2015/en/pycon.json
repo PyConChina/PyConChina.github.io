@@ -337,7 +337,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441696459", 
+  "cachebuster_qs": "?_t=1441702542", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -590,7 +590,7 @@
       "name": "\u9648\u6d77\u6ce2", 
       "topic": {
         "preview": "...", 
-        "slide": null, 
+        "slide": "http://7bv7nx.com1.z0.glb.clouddn.com/Pycon-2015-Hepo.key", 
         "title": "?"
       }
     }, 
