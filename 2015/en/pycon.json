@@ -337,7 +337,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441758978", 
+  "cachebuster_qs": "?_t=1441759273", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -1238,6 +1238,13 @@
       "level_gold": 1, 
       "link": "http://www.hzbook.com/About/About.html", 
       "logo": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/logo/hzbook-word-logo_h.png?imageView2/2/w/180"
+    }, 
+    {
+      "intro": "upyun cloud storage is hangzhou youpai technology co., LTD's project, was founded in June 2005, the early main take yupoo.com, and v.yupoo.com , in February 2010 is open to all users to use.", 
+      "level": "gold", 
+      "level_gold": 1, 
+      "link": "https://www.upyun.com/index.html", 
+      "logo": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/logo/upyun-Logo-h200.png?imageView2/2/w/160"
     }, 
     {
       "intro": "Ganguo Mobile is the most well-known development team in Pearl River Delta. With years of experience in mobile application and web development; our specialists offer cost-effective mobile solution and maintenance program. The integration of our experience; creativity and vision has helped us to deliver concrete product with great satisfaction to our clients.  Our main business are mobile app development (iOS / Android); development and implementation of Wechat services account; big data analysis and other mobile related territory. We have been working with leading brands in information technology/ automobile/ consumer product/ real estate/ Internet/ finance/ and entertainment business.", 
