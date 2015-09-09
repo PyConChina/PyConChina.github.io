@@ -199,24 +199,20 @@
           "topic": "PyCon\u5927\u4f1a\u53ca\u6d3b\u52a8\u7ec4\u7ec7\u65b9\u4ecb\u7ecd"
         }, 
         {
-          "speaker": "id_nonehz", 
-          "time": "13:30 ~ 14:10"
+          "speaker": "hz_zhangyu", 
+          "time": "14:00 ~ 15:00"
         }, 
         {
-          "speaker": "id_nonehz", 
-          "time": "14:20 ~ 15:00"
+          "speaker": "city_hangzhou", 
+          "time": "15:00 ~ 16:00"
         }, 
         {
-          "time": "15:00", 
+          "time": "16:00", 
           "topic": "\u8336\u6b47"
         }, 
         {
           "speaker": "id_nonehz", 
-          "time": "15:20"
-        }, 
-        {
-          "speaker": "id_nonehz", 
-          "time": "16:10"
+          "time": "16:20"
         }, 
         {
           "time": "17:00", 
@@ -337,7 +333,7 @@
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1441759273", 
+  "cachebuster_qs": "?_t=1441771024", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -523,6 +519,30 @@
     "url": "http://cn.pycon.org/2015/"
   }, 
   "speakers": {
+    "hz_linshuyong": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/hz_linshuyong.jpg?imageView2/2/h/80", 
+      "city": "\u676d\u5dde", 
+      "city_hangzhou": 1, 
+      "intro": "\u6d4b\u8bd5\u67b6\u6784\u5e08\uff0c\u65b0\u6d4b\u8bd5\u65b9\u6cd5\u548c\u6280\u672f\u7684\u63a2\u7d22\u8005\u548c\u5b9e\u8df5\u8005\uff0c\u76f8\u4fe1\u6d4b\u8bd5\u53ef\u4ee5\u6bd4\u6211\u4eec\u73b0\u5728\u5927\u591a\u6570\u4eba\u8ba4\u8bc6\u7684\u66f4\u6709\u521b\u9020\u6027", 
+      "name": "\u6797\u66d9\u52c7", 
+      "topic": {
+        "preview": "Robot Framework\u662f\u4f7f\u7528Python\u5b9e\u73b0\u7684\u5f00\u6e90\u7684\u6d4b\u8bd5\u81ea\u52a8\u5316\u6846\u67b6\uff0c\u5728\u6d4b\u8bd5\u81ea\u52a8\u5316\u9886\u57df\u5e94\u7528\u5341\u5206\u5e7f\u6cdb\uff0c\u6f14\u8bb2\u8005\u5c06\u91cd\u70b9\u4ecb\u7ecd\u5176\u5728\u901a\u7528\u901a\u4fe1\u534f\u8bae\u6d4b\u8bd5\u4e2d\u7684\u5e94\u7528\u4ecb\u7ecd\u3002\u6f14\u8bb2\u8005\u662f\u6765\u81ea\u8bfa\u57fa\u4e9a\u7684\u6d4b\u8bd5\u67b6\u6784\u5e08\uff0c\u65b0\u6d4b\u8bd5\u65b9\u6cd5\u548c\u6280\u672f\u7684\u63a2\u7d22\u8005\u548c\u5b9e\u8df5\u8005\uff0c\u76f8\u4fe1\u6d4b\u8bd5\u53ef\u4ee5\u6bd4\u6211\u4eec\u73b0\u5728\u5927\u591a\u6570\u4eba\u8ba4\u8bc6\u7684\u66f4\u6709\u521b\u9020\u6027", 
+        "slide": null, 
+        "title": "\u57fa\u4e8eRobot Framework\u7684\u901a\u7528\u534f\u8bae\u6d4b\u8bd5\u6846\u67b6\u4ecb\u7ecd"
+      }
+    }, 
+    "hz_zhangyu": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/hz_zhangyu.jpg?imageView2/2/h/80", 
+      "city": "\u676d\u5dde", 
+      "city_hangzhou": 1, 
+      "intro": "\u8bfa\u57fa\u4e9a\u6d4b\u8bd5\u81ea\u52a8\u5316\u6559\u7ec3", 
+      "name": "\u5f20\u88d5", 
+      "topic": {
+        "preview": "\u6f14\u8bb2\u8005\u5c06\u4ecb\u7ecd\u5982\u4f55\u7528Python\u7684\u5404\u79cd\u7ec4\u4ef6\uff0c\u642d\u8d77\u4e00\u4e2a\u5305\u542b\u6f14\u793a\u6587\u7a3f\uff0c\u7ec3\u4e60\u73af\u5883\u53ca\u6d4b\u8bc4\u7684python\u57f9\u8bad\u73af\u5883\u3002\u6f14\u8bb2\u8005\u662f\u6765\u81ea\u8bfa\u57fa\u4e9a\u6d4b\u8bd5\u81ea\u52a8\u5316\u6559\u7ec3\u3002", 
+        "slide": null, 
+        "title": "\u4e5f\u8bb8\u662f\u597d\u7684Python\u57f9\u8bad\u65b9\u5f0f"
+      }
+    }, 
     "id_Bouriez": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
       "city": "\u5317\u4eac", 
@@ -855,18 +875,6 @@
         "preview": "\u4f5c\u4e3a\u4e91\u8ba1\u7b97\u9886\u57df\u7684\u4e00\u4e2a\u9886\u5934\u9879\u76ee\uff0cOpenStack\u8fd1\u5e74\u6765\u7684\u98de\u901f\u53d1\u5c55\uff0c\u5145\u5206\u8bc1\u660e\u4e86Python\u8bed\u8a00\u6784\u67b6\u5927\u578b\u590d\u6742\u7cfb\u7edf\u7684\u53ef\u884c\u6027\u3002\u7f8e\u56e2\u4e91\u8ba1\u7b97\u56e2\u961f\u4ece3\u5e74\u524d\u5f00\u59cb\u4f7f\u7528Python\u5f00\u53d1\u4e91\u8ba1\u7b97\u7cfb\u7edf\uff0c\u6838\u5fc3\u6a21\u5757\u5b8c\u5168\u4ece\u96f6\u5f00\u59cb\u7f16\u5199\u3002\u76ee\u524d\u7684Python\u4ee3\u7801\u4e2d\u81ea\u7814\u90e8\u5206\u670950\u4e07\u884c\uff0c\u4f7f\u7528\u548c\u7ef4\u62a4\u7684\u5916\u90e8\u4ee3\u7801\u670910\u4e07\u884c\uff0c\u5e76\u4e14\u901a\u8fc7Python\u4e0e\u5e95\u5c42C\u4ee3\u7801\u6a21\u5757\u5bf9\u63a5\uff08\u5982\u5b58\u50a8\u548c\u7f51\u7edc\u7b49\uff09\uff0c\u4e8c\u5341\u591a\u4e2a\u72ec\u7acb\u670d\u52a1\u4ea4\u4e92\u8fd0\u884c\u3002\u79ef\u6781\u5438\u6536\u793e\u533a\u7ecf\u9a8c\uff0c\u91c7\u7528\u5982Tornado\u3001SQLAlchemy\u3001eventlet\u7b49\u6210\u719f\u9879\u76ee\u4f5c\u4e3a\u529f\u80fd\u7ec4\u4ef6\u3002\u4f5c\u4e3a\u7f8e\u56e2\u4e91\u7684\u6700\u5927\u7528\u6237\uff0c\u7f8e\u56e2\u81ea\u5df1\u7684\u5927\u90e8\u5206\u4e1a\u52a1\u76ee\u524d\u90fd\u8dd1\u5728\u8fd9\u4e2a\u4e91\u8ba1\u7b97\u5e73\u53f0\u4e0a\uff0c\u4ea7\u54c1\u5f62\u6001\u4ece\u6700\u521d\u7684\u516c\u53f8\u5185\u90e8\u79c1\u6709\u4e91\uff0c\u5230\u73b0\u5728\u7684\u516c\u6709\u4e91\u8fd0\u8425\uff0c\u4e00\u76f4\u4fdd\u6301\u5feb\u901f\u8fed\u4ee3\u3002\u7f8e\u56e2\u4e91\u56e2\u961f\u662fPython\u8bed\u8a00\u7684\u91cd\u5ea6\u4f7f\u7528\u8005\uff0cPython\u5de5\u7a0b\u5e08\u4eec\u4ece\u5f00\u53d1\u3001\u6d4b\u8bd5\u3001\u8fd0\u7ef4\u7b49\u591a\u4e2a\u65b9\u9762\u5408\u529b\u4fdd\u969c\u8fd9\u5957\u590d\u6742\u7cfb\u7edf\u7684\u6b63\u5e38\u8fd0\u884c\u3002", 
         "slide": null, 
         "title": "\u7528\u7b80\u5355\u8bed\u8a00\u6784\u5efa\u590d\u6742\u7cfb\u7edf"
-      }
-    }, 
-    "id_nonehz": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
-      "city": "\u676d\u5dde", 
-      "city_hangzhou": 1, 
-      "intro": "??", 
-      "name": "TBD", 
-      "topic": {
-        "preview": "...", 
-        "slide": null, 
-        "title": "?"
       }
     }, 
     "id_nonesz": {

@@ -199,24 +199,20 @@
           "topic": "PyCon\u5927\u4f1a\u53ca\u6d3b\u52a8\u7ec4\u7ec7\u65b9\u4ecb\u7ecd"
         }, 
         {
-          "speaker": "id_nonehz", 
-          "time": "13:30 ~ 14:10"
+          "speaker": "hz_zhangyu", 
+          "time": "14:00 ~ 15:00"
         }, 
         {
-          "speaker": "id_nonehz", 
-          "time": "14:20 ~ 15:00"
+          "speaker": "city_hangzhou", 
+          "time": "15:00 ~ 16:00"
         }, 
         {
-          "time": "15:00", 
+          "time": "16:00", 
           "topic": "Intermission"
         }, 
         {
           "speaker": "id_nonehz", 
-          "time": "15:20"
-        }, 
-        {
-          "speaker": "id_nonehz", 
-          "time": "16:10"
+          "time": "16:20"
         }, 
         {
           "time": "17:00", 
@@ -337,7 +333,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441759273", 
+  "cachebuster_qs": "?_t=1441771024", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -523,6 +519,30 @@
     "url": "http://cn.pycon.org/2015/"
   }, 
   "speakers": {
+    "hz_linshuyong": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/hz_linshuyong.jpg?imageView2/2/h/80", 
+      "city": "Hangzhou", 
+      "city_hangzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u6797\u66d9\u52c7", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
+    "hz_zhangyu": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/hz_zhangyu.jpg?imageView2/2/h/80", 
+      "city": "Hangzhou", 
+      "city_hangzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u5f20\u88d5", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "?"
+      }
+    }, 
     "id_Bouriez": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
       "city": "Beijing", 
@@ -851,18 +871,6 @@
       "city_beijing": 1, 
       "intro": "Pythoneer...", 
       "name": "\u9648\u535a", 
-      "topic": {
-        "preview": "...", 
-        "slide": null, 
-        "title": "?"
-      }
-    }, 
-    "id_nonehz": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
-      "city": "Hangzhou", 
-      "city_hangzhou": 1, 
-      "intro": "Pythoneer...", 
-      "name": "TBD", 
       "topic": {
         "preview": "...", 
         "slide": null, 
