@@ -254,23 +254,23 @@
           "topic": "Intermission"
         }, 
         {
-          "speaker": "id_wangliqi", 
+          "speaker": "id_ouyeel_sh", 
           "time": "15:40"
         }, 
         {
-          "speaker": "id_ouyeel_sh", 
+          "speaker": "id_shell909090", 
           "time": "16:10"
         }, 
         {
-          "speaker": "id_shell909090", 
+          "speaker": "id_xiaokai", 
           "time": "16:45"
         }, 
         {
-          "speaker": "id_xuzhou", 
+          "speaker": "id_wangliqi", 
           "time": "17:00"
         }, 
         {
-          "speaker": "id_xiaokai", 
+          "speaker": "id_xuzhou", 
           "time": "17:20"
         }
       ], 
@@ -333,7 +333,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441771238", 
+  "cachebuster_qs": "?_t=1441781775", 
   "donators": [
     "tolerious", 
     "hackergodness", 
