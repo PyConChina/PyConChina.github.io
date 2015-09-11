@@ -126,24 +126,32 @@
           "time": "14:30"
         }, 
         {
+          "time": "15:00", 
+          "topic": "Intermission"
+        }, 
+        {
           "speaker": "id_jiankongbaogz", 
-          "time": "15:00"
+          "time": "15:10"
         }, 
         {
           "speaker": "id_zuozhenjie", 
-          "time": "15:30"
+          "time": "15:45"
         }, 
         {
-          "time": "16:00", 
+          "time": "16:15", 
           "topic": "Intermission"
         }, 
         {
           "speaker": "id_jeffgz", 
-          "time": "16:10"
+          "time": "16:25"
         }, 
         {
           "speaker": "id_yinhm", 
           "time": "17:00"
+        }, 
+        {
+          "time": "17:30", 
+          "topic": "Intermission"
         }
       ], 
       "cancel_talks": null, 
@@ -151,7 +159,7 @@
       "lightening_talks": [
         {
           "speaker": "id_nonegz", 
-          "time": "17:30"
+          "time": "17:35"
         }
       ], 
       "maplink": "http://f.amap.com/042E3U", 
@@ -329,7 +337,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441965640", 
+  "cachebuster_qs": "?_t=1441966261", 
   "donators": [
     "tolerious", 
     "hackergodness", 
