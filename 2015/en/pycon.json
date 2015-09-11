@@ -111,14 +111,14 @@
       "venue": "77 Hall"
     }, 
     "guangzhou": {
-      "address": "TBD", 
+      "address": "...", 
       "afternoon": [
         {
           "speaker": "id_liang2", 
           "time": "13:30"
         }, 
         {
-          "speaker": "id_ouyeel_gz", 
+          "speaker": "id_JokerQyou", 
           "time": "14:00"
         }, 
         {
@@ -161,24 +161,20 @@
           "topic": "Check-in"
         }, 
         {
-          "time": "09:30", 
+          "time": "09:45", 
           "topic": "Opening"
         }, 
         {
           "speaker": "id_laiyonghaogz", 
-          "time": "09:45"
+          "time": "10:00"
         }, 
         {
           "speaker": "id_shenweigz", 
-          "time": "10:20"
+          "time": "10:45"
         }, 
         {
           "speaker": "id_river", 
-          "time": "11:00"
-        }, 
-        {
-          "speaker": "id_JokerQyou", 
-          "time": "11:30"
+          "time": "11:15"
         }
       ], 
       "noon": [
@@ -333,7 +329,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441963168", 
+  "cachebuster_qs": "?_t=1441965640", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -889,10 +885,10 @@
         "title": "?"
       }
     }, 
-    "id_ouyeel_gz": {
+    "id_ouyeel_hz": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_ouyeel_gz.jpg?imageView2/2/h/80", 
-      "city": "Guangzhou", 
-      "city_guangzhou": 1, 
+      "city": "Hangzhou", 
+      "city_hangzhou": 1, 
       "intro": "Pythoneer...", 
       "name": "\u5b54\u4ee4\u5f00", 
       "topic": {

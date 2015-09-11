@@ -118,7 +118,7 @@
           "time": "13:30"
         }, 
         {
-          "speaker": "id_ouyeel_gz", 
+          "speaker": "id_JokerQyou", 
           "time": "14:00"
         }, 
         {
@@ -161,24 +161,20 @@
           "topic": "\u7b7e\u5230 & \u5f00\u573a"
         }, 
         {
-          "time": "09:30", 
+          "time": "09:45", 
           "topic": "\u5f00\u573a"
         }, 
         {
           "speaker": "id_laiyonghaogz", 
-          "time": "09:45"
+          "time": "10:00"
         }, 
         {
           "speaker": "id_shenweigz", 
-          "time": "10:20"
+          "time": "10:45"
         }, 
         {
           "speaker": "id_river", 
-          "time": "11:00"
-        }, 
-        {
-          "speaker": "id_JokerQyou", 
-          "time": "11:30"
+          "time": "11:15"
         }
       ], 
       "noon": [
@@ -333,7 +329,7 @@
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1441963168", 
+  "cachebuster_qs": "?_t=1441965640", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -889,10 +885,10 @@
         "title": "?"
       }
     }, 
-    "id_ouyeel_gz": {
+    "id_ouyeel_hz": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_ouyeel_gz.jpg?imageView2/2/h/80", 
-      "city": "\u5e7f\u5dde", 
-      "city_guangzhou": 1, 
+      "city": "\u676d\u5dde", 
+      "city_hangzhou": 1, 
       "intro": "\u66fe\u5728\u5fae\u8f6f\u670d\u52a1\u5668\u4e0e\u5de5\u5177\u90e8\u95e8\u4efb\u9ad8\u7ea7\u5de5\u7a0b\u5e08\uff0c\u8d1f\u8d23\u5f00\u53d1\u5bb6\u5ead\u670d\u52a1\u5668\u4e0e\u4e2d\u5c0f\u4f01\u4e1a\u670d\u52a1\u5668\u3002\u5fae\u8f6f\u6bd5\u4e1a\u540e\u6295\u8eab\u94a2\u94c1\u7535\u5546\uff0c\u8d1f\u8d23\u4e0a\u6d77\u4ea4\u6613\u4e2d\u5fc3\u6280\u672f\u67b6\u6784\uff0c\u70ed\u7231python\u4ee5\u53ca\u5f00\u6e90\u9879\u76ee\uff0c\u5bf9\u641c\u7d22\u5f15\u64ce\u4ee5\u53ca\u5404\u79cd\u521b\u4e1a\u9879\u76ee\u5341\u5206\u5173\u6ce8\u3002", 
       "name": "\u5b54\u4ee4\u5f00", 
       "topic": {
