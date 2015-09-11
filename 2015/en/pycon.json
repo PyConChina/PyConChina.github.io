@@ -254,7 +254,7 @@
           "topic": "Intermission"
         }, 
         {
-          "speaker": "id_ouyeel_sh", 
+          "speaker": "id_jiekong", 
           "time": "15:40"
         }, 
         {
@@ -302,7 +302,7 @@
           "topic": "Opening"
         }, 
         {
-          "speaker": "id_jiekong", 
+          "speaker": "id_ouyeel_sh", 
           "time": "09:30"
         }, 
         {
@@ -333,7 +333,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441868492", 
+  "cachebuster_qs": "?_t=1441962639", 
   "donators": [
     "tolerious", 
     "hackergodness", 
