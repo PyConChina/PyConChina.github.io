@@ -258,24 +258,20 @@
           "topic": "Intermission"
         }, 
         {
-          "speaker": "id_jiekong", 
+          "speaker": "id_shell909090", 
           "time": "15:40"
         }, 
         {
-          "speaker": "id_xuzhou", 
-          "time": "16:10"
+          "speaker": "id_xiaokai", 
+          "time": "16:15"
         }, 
         {
-          "speaker": "id_xiaokai", 
-          "time": "16:45"
+          "speaker": "id_xuzhou", 
+          "time": "16:35"
         }, 
         {
           "speaker": "id_wangliqi", 
           "time": "17:00"
-        }, 
-        {
-          "speaker": "id_shell909090", 
-          "time": "17:20"
         }
       ], 
       "cancel_talks": [
@@ -288,42 +284,54 @@
       "lightening_talks": [
         {
           "speaker": "id_derek", 
-          "time": "17:30"
+          "time": "17:20"
         }, 
         {
           "speaker": "id_chendawei", 
-          "time": "17:40"
+          "time": "17:30"
+        }, 
+        {
+          "time": "17:40", 
+          "topic": "Intermission"
         }
       ], 
       "maplink": "http://f.amap.com/0FFE0i", 
       "morning": [
         {
-          "time": "09:00", 
+          "time": "08:20", 
           "topic": "Check-in"
         }, 
         {
-          "time": "09:15", 
+          "time": "09:00", 
           "topic": "Opening"
         }, 
         {
-          "speaker": "id_ouyeel_sh", 
-          "time": "09:30"
+          "speaker": "id_jiekong", 
+          "time": "09:10"
         }, 
         {
           "speaker": "id_yankaish", 
-          "time": "10:00"
+          "time": "09:40"
         }, 
         {
           "speaker": "id_liepin1sh", 
-          "time": "10:45"
+          "time": "10:25"
+        }, 
+        {
+          "time": "11:10", 
+          "topic": "Intermission"
         }, 
         {
           "speaker": "id_shenweish", 
-          "time": "11:30"
+          "time": "11:20"
+        }, 
+        {
+          "speaker": "id_ouyeel_sh", 
+          "time": "11:35"
         }, 
         {
           "speaker": "id_fb_jianmingwu", 
-          "time": "12:00"
+          "time": "12:05"
         }
       ], 
       "noon": [
@@ -337,7 +345,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441967524", 
+  "cachebuster_qs": "?_t=1441982185", 
   "donators": [
     "tolerious", 
     "hackergodness", 

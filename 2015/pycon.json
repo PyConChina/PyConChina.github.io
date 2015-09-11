@@ -255,27 +255,23 @@
         }, 
         {
           "time": "15:30", 
-          "topic": "\u8336\u6b47"
+          "topic": "\u8336\u6b47+\u62bd\u5956"
         }, 
         {
-          "speaker": "id_jiekong", 
+          "speaker": "id_shell909090", 
           "time": "15:40"
         }, 
         {
-          "speaker": "id_xuzhou", 
-          "time": "16:10"
+          "speaker": "id_xiaokai", 
+          "time": "16:15"
         }, 
         {
-          "speaker": "id_xiaokai", 
-          "time": "16:45"
+          "speaker": "id_xuzhou", 
+          "time": "16:35"
         }, 
         {
           "speaker": "id_wangliqi", 
           "time": "17:00"
-        }, 
-        {
-          "speaker": "id_shell909090", 
-          "time": "17:20"
         }
       ], 
       "cancel_talks": [
@@ -288,42 +284,54 @@
       "lightening_talks": [
         {
           "speaker": "id_derek", 
-          "time": "17:30"
+          "time": "17:20"
         }, 
         {
           "speaker": "id_chendawei", 
-          "time": "17:40"
+          "time": "17:30"
+        }, 
+        {
+          "time": "17:40", 
+          "topic": "\u795e\u79d8\u5927\u5956\u62bd\u53d6"
         }
       ], 
       "maplink": "http://f.amap.com/0FFE0i", 
       "morning": [
         {
-          "time": "09:00", 
+          "time": "08:20", 
           "topic": "\u7b7e\u5230 & \u5f00\u573a"
         }, 
         {
-          "time": "09:15", 
+          "time": "09:00", 
           "topic": "\u5f00\u573a"
         }, 
         {
-          "speaker": "id_ouyeel_sh", 
-          "time": "09:30"
+          "speaker": "id_jiekong", 
+          "time": "09:10"
         }, 
         {
           "speaker": "id_yankaish", 
-          "time": "10:00"
+          "time": "09:40"
         }, 
         {
           "speaker": "id_liepin1sh", 
-          "time": "10:45"
+          "time": "10:25"
+        }, 
+        {
+          "time": "11:10", 
+          "topic": "\u8336\u6b47+\u62bd\u5956"
         }, 
         {
           "speaker": "id_shenweish", 
-          "time": "11:30"
+          "time": "11:20"
+        }, 
+        {
+          "speaker": "id_ouyeel_sh", 
+          "time": "11:35"
         }, 
         {
           "speaker": "id_fb_jianmingwu", 
-          "time": "12:00"
+          "time": "12:05"
         }
       ], 
       "noon": [
@@ -337,7 +345,7 @@
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1441967524", 
+  "cachebuster_qs": "?_t=1441982185", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -998,7 +1006,7 @@
       "topic": {
         "preview": "TDB", 
         "slide": null, 
-        "title": "\u8bf4\u70b9\u513f\u6709\u8da3\u513f\u7684\u4e8b\u513f"
+        "title": "Python \u7092\u80a1\u6307\u5357"
       }
     }, 
     "id_wangliqi": {
