@@ -191,7 +191,7 @@
           "topic": "Lunch + Photo"
         }
       ], 
-      "notices": "...", 
+      "notices": "\u6ce8\u610f\u67e5\u6536\u4fdd\u5b58\u7b7e\u5230\u7801,\u5426\u5219\u65e0\u6cd5\u8fdb\u573a!", 
       "traffic": "(...)", 
       "venue": "..."
     }, 
@@ -337,7 +337,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441966261", 
+  "cachebuster_qs": "?_t=1441967524", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -881,16 +881,52 @@
         "title": "?"
       }
     }, 
+    "id_nonegz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Guangzhou", 
+      "city_guangzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "Pythoneer", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "..."
+      }
+    }, 
+    "id_nonehz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Hangzhou", 
+      "city_hangzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "Pythoneer", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "..."
+      }
+    }, 
+    "id_nonesh": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Shanghai", 
+      "city_shanghai": 1, 
+      "intro": "Pythoneer...", 
+      "name": "Pythoneer", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "..."
+      }
+    }, 
     "id_nonesz": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
       "city": "Suzhou", 
       "city_suzhou": 1, 
       "intro": "Pythoneer...", 
-      "name": "TBD", 
+      "name": "Pythoneer", 
       "topic": {
         "preview": "...", 
         "slide": null, 
-        "title": "?"
+        "title": "..."
       }
     }, 
     "id_ouyeel_hz": {

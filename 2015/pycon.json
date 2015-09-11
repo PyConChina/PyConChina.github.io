@@ -191,7 +191,7 @@
           "topic": "\u5348\u9910+\u5408\u7167"
         }
       ], 
-      "notices": "...", 
+      "notices": "\u6ce8\u610f\u67e5\u6536\u4fdd\u5b58\u7b7e\u5230\u7801,\u5426\u5219\u65e0\u6cd5\u8fdb\u573a!", 
       "traffic": "(\u5730\u94c15\u53f7\u7ebf \u6f6d\u6751\u7ad9 \u6b65\u884c1.9\u516c\u91cc)", 
       "venue": "\u5e7f\u5dde\u5e02\u5929\u6cb3\u533a\u9ec4\u57d4\u5927\u9053\u897f\u5e73\u4e91\u8def163\u53f7\u5e7f\u7535\u5e73\u4e91\u5e7f\u573aB\u585415\u697c"
     }, 
@@ -337,7 +337,7 @@
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1441966261", 
+  "cachebuster_qs": "?_t=1441967524", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -881,16 +881,52 @@
         "title": "\u7528\u7b80\u5355\u8bed\u8a00\u6784\u5efa\u590d\u6742\u7cfb\u7edf"
       }
     }, 
+    "id_nonegz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "\u5e7f\u5dde", 
+      "city_guangzhou": 1, 
+      "intro": "Pythoneer", 
+      "name": "Pythoneer", 
+      "topic": {
+        "preview": "5\u5206\u949f\u5206\u4eab\u4efb\u610f Pythonic \u4f53\u9a8c!-)", 
+        "slide": null, 
+        "title": "\u73b0\u573a\u62a5\u540d"
+      }
+    }, 
+    "id_nonehz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "\u676d\u5dde", 
+      "city_hangzhou": 1, 
+      "intro": "Pythoneer", 
+      "name": "Pythoneer", 
+      "topic": {
+        "preview": "5\u5206\u949f\u5206\u4eab\u4efb\u610f Pythonic \u4f53\u9a8c!-)", 
+        "slide": null, 
+        "title": "\u73b0\u573a\u62a5\u540d"
+      }
+    }, 
+    "id_nonesh": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "\u4e0a\u6d77", 
+      "city_shanghai": 1, 
+      "intro": "Pythoneer", 
+      "name": "Pythoneer", 
+      "topic": {
+        "preview": "5\u5206\u949f\u5206\u4eab\u4efb\u610f Pythonic \u4f53\u9a8c!-)", 
+        "slide": null, 
+        "title": "\u73b0\u573a\u62a5\u540d"
+      }
+    }, 
     "id_nonesz": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
       "city": "\u82cf\u5dde", 
       "city_suzhou": 1, 
-      "intro": "??", 
-      "name": "TBD", 
+      "intro": "Pythoneer", 
+      "name": "Pythoneer", 
       "topic": {
-        "preview": "...", 
+        "preview": "5\u5206\u949f\u5206\u4eab\u4efb\u610f Pythonic \u4f53\u9a8c!-)", 
         "slide": null, 
-        "title": "?"
+        "title": "\u73b0\u573a\u62a5\u540d"
       }
     }, 
     "id_ouyeel_hz": {
