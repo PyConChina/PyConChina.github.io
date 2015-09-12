@@ -345,7 +345,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1442023864", 
+  "cachebuster_qs": "?_t=1442026739", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -801,7 +801,7 @@
       "name": "\u4eae\u4eae", 
       "topic": {
         "preview": "Share some experiences in using Pinkoi. How to use jieba, and how to improve the Elasticsearch user experiences when searching for Chinese commodities, how to find correlation between commodities using word2vec, how to do recommendation. Introduce the Python communities in Taiwan.", 
-        "slide": null, 
+        "slide": "http://blog.liang2.tw/2015Talk-Chinese-Search/pycon_cn_shanghai.html#cover", 
         "title": "\u7528 jieba \u5904\u7406\u4e2d\u6587\u4ee5\u53ca\u53f0\u6e7e\u7684 Py \u793e\u56e2"
       }
     }, 
