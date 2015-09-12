@@ -345,7 +345,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1442023523", 
+  "cachebuster_qs": "?_t=1442023767", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -729,7 +729,7 @@
       "name": "Guido van Rossum", 
       "topic": {
         "preview": "Happy Python 3", 
-        "slide": null, 
+        "slide": "https://youtu.be/PsLies7Fgic", 
         "title": "Happy Python 3"
       }
     }, 
