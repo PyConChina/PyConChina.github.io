@@ -345,7 +345,7 @@
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1441982597", 
+  "cachebuster_qs": "?_t=1442023523", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -720,6 +720,17 @@
         "preview": "\u8bb2\u8ff0 DDNS \uff08\u52a8\u6001\u57df\u540d\u89e3\u6790\uff09\u539f\u7406\uff0c\u5982\u4f55\u5c06\u81ea\u5df1\u6ce8\u518c\u7684\u57df\u540d\u6307\u5411\u81ea\u5df1\u7684 DNS \u670d\u52a1\u5668\uff0c\u4ee5\u53ca\u901a\u8fc7 Python \u642d\u5efa\u81ea\u5df1\u7684\u4e8c\u7ea7\u57df\u540d DDNS \u670d\u52a1\u3002\u53e6\u5916\uff0c\u8fd8\u7ed3\u5408 Docker \u6280\u672f\uff0c\u8bb2\u8ff0 DDNS \u5728 Docker \u5b9e\u8df5\u4e2d\u7684\u5e94\u7528\u3002", 
         "slide": null, 
         "title": "\u7528 Python \u5b9e\u73b0 DDNS \u4ee5\u53ca\u5728 Docker \u4e2d\u7684\u5e94\u7528"
+      }
+    }, 
+    "id_guido": {
+      "avatar": "http://zoomq.qiniudn.com/CPyUG/PyCon2014China/141201-guido-with-tee.png?imageView2/2/h/150", 
+      "city_global": 1, 
+      "intro": "BDFL of Python", 
+      "name": "Guido van Rossum", 
+      "topic": {
+        "preview": "Happy Python 3", 
+        "slide": null, 
+        "title": "Happy Python 3"
       }
     }, 
     "id_huangjin": {

@@ -345,7 +345,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1441982597", 
+  "cachebuster_qs": "?_t=1442023523", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -720,6 +720,17 @@
         "preview": "...", 
         "slide": null, 
         "title": "?"
+      }
+    }, 
+    "id_guido": {
+      "avatar": "http://zoomq.qiniudn.com/CPyUG/PyCon2014China/141201-guido-with-tee.png?imageView2/2/h/150", 
+      "city_global": 1, 
+      "intro": "BDFL of Python", 
+      "name": "Guido van Rossum", 
+      "topic": {
+        "preview": "Happy Python 3", 
+        "slide": null, 
+        "title": "Happy Python 3"
       }
     }, 
     "id_huangjin": {
