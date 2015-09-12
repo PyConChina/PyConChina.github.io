@@ -345,7 +345,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1442023767", 
+  "cachebuster_qs": "?_t=1442023864", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -589,17 +589,6 @@
         "preview": "After writing a big program, you find it running very slowly. It is hard to locate where it gets wrong. How to solve this problem?", 
         "slide": null, 
         "title": "How to program effectively"
-      }
-    }, 
-    "id_alexdong": {
-      "avatar": "http://pyconcn.qiniucdn.com/zoomquiet/stuff15/id/g_alexdong.jpg?imageView2/2/h/80", 
-      "city_global": 1, 
-      "intro": "Founder of Duijiaoxiang Inc., co-founder of Haokanbu. The sole Chinese of the 2004 global software architect MVP list of Microsoft.", 
-      "name": "Alex Dong", 
-      "topic": {
-        "preview": "TBD", 
-        "slide": null, 
-        "title": "TBD"
       }
     }, 
     "id_chendawei": {
