@@ -345,7 +345,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1442228645", 
+  "cachebuster_qs": "?_t=1442247578", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -425,7 +425,8 @@
     "pythoneer": "<b><A NAME=\"anchor\">pythoneer</a></b> ~ \"A pioneer within the Python programming language community.\" means Pythoneer COOL than Pythonista. btw Pythoner just Python beginner.", 
     "schedule": "Schedule", 
     "shanghai": "Shanghai", 
-    "slide": "slide", 
+    "slide": "slides", 
+    "slide1": "presentations", 
     "speechmaker": "Speechmaker", 
     "sponsors": "SPONSORS", 
     "sponsors_bronze": "Bronze", 
@@ -789,8 +790,9 @@
       "intro": "Founder of Qichang Inc. Mr. Lai is a frequent speaker in PyCon China. He has deep knowledge of Python programming and related technologies. In addition to a popular tech blog, he is a co-writer of a published book \"Writing solid Python code 91 suggestions to improve Python program...", 
       "name": "\u8d56\u52c7\u6d69", 
       "topic": {
+        "audio": "http://zoomq.qiniudn.com/CPyUG/PyCon2015China/tape/150913pycongz_02_cython_ZOOM0027.MP3", 
         "preview": "1. What is Cython, what s its use? 2. The advantages of Cython compared to similar technologies 3. The difficult of importing C++ libraries compared to C libraries 4. The best practices of importing C++ libraries 5. Here are the answers for the questions above", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniudn.com/CPyUG/PyCon2015China/slides/gz/pycon150913gz_cython.pdf", 
         "title": "Experiences of using Cython to wrap up C++ code as Python modules"
       }
     }, 
@@ -970,7 +972,7 @@
       "name": "River", 
       "topic": {
         "preview": "using the PyConChina2015 app as an example, indroduce how to use QPython to develop android APK The design of Android WebApp The introduction of QPython and WebApp QPython WeChat account/qpython", 
-        "slide": null, 
+        "slide": "http://qpython.org/pyconchina2015/", 
         "title": "How to do rapid android app development with QPython"
       }
     }, 

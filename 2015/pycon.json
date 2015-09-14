@@ -345,7 +345,7 @@
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1442228645", 
+  "cachebuster_qs": "?_t=1442247578", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -425,7 +425,8 @@
     "pythoneer": "<b><A NAME=\"anchor\">pythoneer</a></b> ~ <sub>\"A pioneer within the Python programming language community.\"</sub> \u5373 Pythoneer \u662f\u66f4\u52a0\u4e13\u4e1a\u7684 Pythonista. Pythoner \u662f\u6700\u57fa\u7840\u7684 Python \u7528\u6237.", 
     "schedule": "\u8bae\u7a0b", 
     "shanghai": "\u4e0a\u6d77", 
-    "slide": "\u8bb2\u4e49", 
+    "slide": "\u5e7b\u706f", 
+    "slide1": "\u5e7b\u706f2", 
     "speechmaker": "\u8bb2\u5e08", 
     "sponsors": "\u8d5e\u52a9\u5546", 
     "sponsors_bronze": "\u9752\u94dc", 
@@ -789,8 +790,9 @@
       "intro": "\u4ece\u4e1a10\u5e74\uff0c\u521b\u7acb\u5e7f\u5dde\u9f50\u660c\u7f51\u7edc\u79d1\u6280\u6709\u9650\u516c\u53f8\uff0c\u4efb\u603b\u7ecf\u7406\uff0c\u4e3b\u8425\u6280\u672f\u54a8\u8be2\u4e0e\u5f00\u53d1\u5916\u5305\u3002\u66fe\u5728\u7f51\u6613\uff08\u5e7f\u5dde\uff09\u7b49\u516c\u53f8\u4ece\u4e8b\u7aef\u6e38\u3001\u9875\u6e38\u7684\u5f00\u53d1\u8d85\u8fc77\u5e74\uff0c\u719f\u6089\u7f51\u6e38\u524d\u540e\u7aef\u6280\u672f\uff0c\u8fd1\u51e0\u5e74\u5de5\u4f5c\u91cd\u5fc3\u5df2\u8f6c\u79fb\u5230 Web \u76f8\u5173\u9886\u57df\u3002\u5bf9Python\u548cC++\u7f16\u7a0b\u8bed\u8a00\u6709\u8f83\u591a\u79ef\u7d2f\uff0c\u719f\u6089\u5b83\u4eec\u7684\u6df7\u5408\u7f16\u7a0b\uff0c\u957f\u671f\u575a\u6301\u64b0\u5199\u6280\u672f\u535a\u5ba2\uff0c\u5df2\u79ef\u7d2f\u4e86\u8d85\u8fc7250\u4e07\u7684\u6d4f\u89c8\u91cf\uff0c\u5e76\u5408\u8457\u6709\u300a\u7f16\u5199\u9ad8\u8d28\u91cf\u4ee3\u7801\uff1a\u6539\u5584Python\u7a0b\u5e8f\u768491\u4e2a\u5efa\u8bae\u300b\u4e00\u4e66\u3002", 
       "name": "\u8d56\u52c7\u6d69", 
       "topic": {
+        "audio": "http://zoomq.qiniudn.com/CPyUG/PyCon2015China/tape/150913pycongz_02_cython_ZOOM0027.MP3", 
         "preview": "1\u3001Cython\u662f\u4ec0\u4e48\uff0c\u6709\u4ec0\u4e48\u7528\uff1f 2\u3001\u4e0e\u7c7b\u4f3c\u6280\u672f\u76f8\u6bd4\uff0cCython\u7684\u4f18\u52bf\u662f\u4ec0\u4e48\uff1f 3\u3001\u5c01\u88c5C++\u4ee3\u7801\u4e0e\u5c01\u88c5C\u4ee3\u7801\u76f8\u6bd4\u96be\u5728\u54ea\u91cc\uff1f 4\u3001\u5c01\u88c5C++\u4ee3\u7801\u7684\u6700\u4f73\u5b9e\u8df5\u662f\u4ec0\u4e48\uff1f 5\u3001\u4ee5\u4e0a\u95ee\u9898\uff0c\u5728\u8fd9\u91cc\u53ef\u4ee5\u627e\u5230\u7b54\u6848\u3002", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniudn.com/CPyUG/PyCon2015China/slides/gz/pycon150913gz_cython.pdf", 
         "title": "\u7528Cython\u5c01\u88c5C++\u4ee3\u7801\u4e3aPython\u6a21\u5757\u7684\u4e00\u70b9\u7ecf\u9a8c"
       }
     }, 
@@ -970,7 +972,7 @@
       "name": "River", 
       "topic": {
         "preview": "\u4ee5\u5f00\u53d1 PyConChina2015 \u4e3a\u4f8b\u5b50\uff0c\u4ecb\u7ecd\u5982\u4f55\u7528 QPython \u5f00\u53d1\u5e76\u5bfc\u51fa\u4e3a \u5b89\u5353 APK; \u5b89\u5353 WebApp \u7684\u8bbe\u8ba1\u601d\u8def QPython \u7684\u7b80\u4ecb\u53ca WebApp \u6a21\u5f0f QPython \u5fae\u4fe1\u53f7/qpython", 
-        "slide": null, 
+        "slide": "http://qpython.org/pyconchina2015/", 
         "title": "\u7528 QPython \u6781\u901f\u5f00\u53d1 \u5b89\u5353 App"
       }
     }, 
