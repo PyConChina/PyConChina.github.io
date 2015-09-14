@@ -345,7 +345,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1442224071", 
+  "cachebuster_qs": "?_t=1442228645", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -1311,7 +1311,7 @@
       "logo": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/logo/upyun-Logo-h200.png?imageView2/2/w/160"
     }, 
     {
-      "intro": "\u60a8\u7684\u79c1\u4eba\u91d1\u878d\u91cf\u5316\u5206\u6790\u7684\u5e73\u53f0\uff0c\u662f\u901a\u8054\u6570\u636e\u65d7\u4e0b\u7684\u91cf\u5316\u5206\u6790\u7814\u7a76\u5e73\u53f0\u3002\u6211\u4eec\u65e8\u5728\u6253\u7834\u91d1\u878d\u91cf\u5316\u7684\u58c1\u5792\uff0c\u4e3a\u5e7f\u5927\u91cf\u5316\u7231\u597d\u8005\u63d0\u4f9b\u534e\u5c14\u8857\u4e13\u4e1a\u91cf\u5316\u673a\u6784\u7684\u88c5\u5907\u3002\u901a\u8fc7\u63d0\u4f9b\u9ad8\u8d28\u91cf\u7684\u6d77\u91cf\u91d1\u878d\u6570\u636e\u4e0e\u9ad8\u6027\u80fd\u7684\u5206\u6790\u5de5\u5177\uff0c\u5171\u8944\u667a\u6167\u4e0e\u91d1\u878d\u5728\u5927\u6570\u636e\u65f6\u4ee3\u7684\u7ea2\u5229\u3002", 
+      "intro": "The FinTech startup, Uqer.io, is China's first and best algorithmic trading platform in your browser, our missing is to provide powerful yet simplified online tools that allow anyone, if they have the ability, to \u201cwrite market-beating algorithms\u201d. The recent explosion in data lies at the core of our business. Advances in data mining and machine learning coupled with availability of deep and diverse datasets have given trading algorithms a bigger edge than ever over their human counterparts. We believe everyone should have the tools to harness this wave of innovation and generate market beating returns. Based on cloud computing and big data technology, Uqer offers free and unlimited access to over 10 million financial datasets, quants can create and backteststrategy at anytime anywhere.", 
       "level": "gold", 
       "level_gold": 1, 
       "link": "http://uqer.io", 
