@@ -345,7 +345,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1442215067", 
+  "cachebuster_qs": "?_t=1442223749", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -1302,6 +1302,13 @@
       "level_gold": 1, 
       "link": "https://www.upyun.com/index.html", 
       "logo": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/logo/upyun-Logo-h200.png?imageView2/2/w/160"
+    }, 
+    {
+      "intro": "\u60a8\u7684\u79c1\u4eba\u91d1\u878d\u91cf\u5316\u5206\u6790\u7684\u5e73\u53f0\uff0c\u662f\u901a\u8054\u6570\u636e\u65d7\u4e0b\u7684\u91cf\u5316\u5206\u6790\u7814\u7a76\u5e73\u53f0\u3002\u6211\u4eec\u65e8\u5728\u6253\u7834\u91d1\u878d\u91cf\u5316\u7684\u58c1\u5792\uff0c\u4e3a\u5e7f\u5927\u91cf\u5316\u7231\u597d\u8005\u63d0\u4f9b\u534e\u5c14\u8857\u4e13\u4e1a\u91cf\u5316\u673a\u6784\u7684\u88c5\u5907\u3002\u901a\u8fc7\u63d0\u4f9b\u9ad8\u8d28\u91cf\u7684\u6d77\u91cf\u91d1\u878d\u6570\u636e\u4e0e\u9ad8\u6027\u80fd\u7684\u5206\u6790\u5de5\u5177\uff0c\u5171\u8944\u667a\u6167\u4e0e\u91d1\u878d\u5728\u5927\u6570\u636e\u65f6\u4ee3\u7684\u7ea2\u5229\u3002", 
+      "level": "gold", 
+      "level_gold": 1, 
+      "link": "http://uqer.io", 
+      "logo": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/logo/uqerio.png?imageView2/2/w/160"
     }, 
     {
       "intro": "Ganguo Mobile is the most well-known development team in Pearl River Delta. With years of experience in mobile application and web development; our specialists offer cost-effective mobile solution and maintenance program. The integration of our experience; creativity and vision has helped us to deliver concrete product with great satisfaction to our clients.  Our main business are mobile app development (iOS / Android); development and implementation of Wechat services account; big data analysis and other mobile related territory. We have been working with leading brands in information technology/ automobile/ consumer product/ real estate/ Internet/ finance/ and entertainment business.", 
