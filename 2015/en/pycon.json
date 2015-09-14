@@ -345,7 +345,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1442031029", 
+  "cachebuster_qs": "?_t=1442215067", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -575,7 +575,7 @@
       "name": "\u90b1\u6587\u6b66", 
       "topic": {
         "preview": "MQTT has become the standard of messaging proxy providing QoS control. It meets the high throughput demand of real time systems.  The messaging system from easydo uses MQTT\u3001Socket.io\u3001ElasticeSearch and so on. It support one to one chatting, group chatting, desktop notification and so on.", 
-        "slide": null, 
+        "slide": "http://easydo.cn/support/resource/%E6%BC%94%E8%AE%B2%E5%B9%BB%E7%81%AF%E7%89%87/pycon-2015-msg.pdf", 
         "title": "Use MQTT to build Slack like instant messaging system"
       }
     }, 
