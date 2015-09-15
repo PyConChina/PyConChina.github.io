@@ -369,7 +369,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1442304066", 
+  "cachebuster_qs": "?_t=1442305244", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -808,11 +808,11 @@
       }
     }, 
     "id_jiankongbao_hz": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/jiankongbao_liu.jpg?imageView2/2/h/80", 
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/jiankongbao_neeke.jpg?imageView2/2/h/80", 
       "city": "Hangzhou", 
       "city_hangzhou": 1, 
       "intro": "senior architect, author of PECL/SeasLog. ...", 
-      "name": "\u5218\u56fd\u5f3a (Bruce Liu)", 
+      "name": "\u9ad8\u9a70\u6d9b", 
       "topic": {
         "preview": "the practical guide to python performance tuning...", 
         "slide": null, 
