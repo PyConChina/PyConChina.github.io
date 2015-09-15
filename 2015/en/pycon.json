@@ -211,34 +211,46 @@
       "address": "\u676d\u5dde\u5e02\u6ee8\u6c5f\u533a\u4fe1\u8bda\u8def567\u53f7", 
       "afternoon": [
         {
-          "time": "13:20", 
+          "time": "13:00", 
           "topic": "PyCon\u5927\u4f1a\u53ca\u6d3b\u52a8\u7ec4\u7ec7\u65b9\u4ecb\u7ecd"
         }, 
         {
+          "speaker": "hz_linshuyong", 
+          "time": "13:30 ~ 14:10"
+        }, 
+        {
+          "speaker": "id_chenhaibo_hz", 
+          "time": "14:15 ~ 15:00"
+        }, 
+        {
           "speaker": "hz_zhangyu", 
-          "time": "14:00 ~ 15:00"
+          "time": "15:05 ~ 16:00"
         }, 
         {
-          "speaker": "city_hangzhou", 
-          "time": "15:00 ~ 16:00"
-        }, 
-        {
-          "time": "16:00", 
+          "time": "15:30", 
           "topic": "Intermission"
         }, 
         {
-          "speaker": "id_nonehz", 
-          "time": "16:20"
+          "speaker": "id_zhupengfei", 
+          "time": "15:45"
         }, 
         {
-          "time": "17:00", 
-          "topic": "\u5408\u5f71\u7ed3\u675f"
+          "speaker": "id_jiankongbao_hz", 
+          "time": "16:25"
+        }, 
+        {
+          "speaker": "id_ouyeel_hz", 
+          "time": "17:05"
+        }, 
+        {
+          "time": "17:30", 
+          "topic": "\u5408\u5f71.\u7ed3\u675f"
         }
       ], 
       "date": "2015-9-20 13:00~17:00", 
       "noon": [
         {
-          "time": "13:00", 
+          "time": "12:00", 
           "topic": "Check in"
         }
       ], 
@@ -357,7 +369,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1442291089", 
+  "cachebuster_qs": "?_t=1442304066", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -640,6 +652,18 @@
         "title": "Python&GUI"
       }
     }, 
+    "id_chenhaibo_hz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/sh_chenghaibo.jpg?imageView2/2/h/80", 
+      "city": "Hangzhou", 
+      "city_hangzhou": 1, 
+      "intro": "experienced in python desktop programming...", 
+      "name": "Pythoneer", 
+      "topic": {
+        "preview": "basic introduction to Python&GUI Why GUI Different technology paths to choose from Compilation and packaging on different platforms How to draw interface? The imagination powered by GUI How to make your first desktop software?", 
+        "slide": "http://7bv7nx.com1.z0.glb.clouddn.com/Pycon-2015-Hepo.key", 
+        "title": "Python&GUI"
+      }
+    }, 
     "id_chifeng": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/bj_chifeng.jpg?imageView2/2/h/80", 
       "city": "Beijing", 
@@ -781,6 +805,18 @@
         "preview": "Tt is not easy to do long-lived connection instant messaging programming. Long-lived connection proxy can lower the barrier for developers. This topic covers a distributed and extensible long-lived connection proxy built with Tornado.", 
         "slide": null, 
         "title": "Using Tornado to build a long-lived connection proxy"
+      }
+    }, 
+    "id_jiankongbao_hz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/jiankongbao_liu.jpg?imageView2/2/h/80", 
+      "city": "Hangzhou", 
+      "city_hangzhou": 1, 
+      "intro": "senior architect, author of PECL/SeasLog. ...", 
+      "name": "\u5218\u56fd\u5f3a (Bruce Liu)", 
+      "topic": {
+        "preview": "the practical guide to python performance tuning...", 
+        "slide": null, 
+        "title": "Let python software be lightning fast"
       }
     }, 
     "id_jiankongbaogz": {
@@ -1178,6 +1214,18 @@
         "preview": "touch on the following/ 1. mobile social platform and its architecture (brief introduction) 1) the architecture of the platform (internationalization) 2) components 2. the use of Python and its libraries in the platform 1) use of Python (pros and cons) 2) related libraries (PIL and etc.) 3) experience sharing", 
         "slide": null, 
         "title": "The application of Python in mobile social platforms"
+      }
+    }, 
+    "id_zhupengfei": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Hangzhou", 
+      "city_hangzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u8212\u9e4f\u98de", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "..."
       }
     }, 
     "id_zuozhenjie": {
