@@ -5,39 +5,39 @@
       "afternoon": [
         {
           "speaker": "id_liepin1bj", 
-          "time": "13:30"
+          "time": "13:00"
         }, 
         {
           "speaker": "id_Bouriez", 
-          "time": "14:00"
+          "time": "13:30"
         }, 
         {
           "speaker": "id_zhengk", 
-          "time": "14:30"
+          "time": "14:00"
         }, 
         {
           "speaker": "id_liaoxinxi", 
-          "time": "15:00"
+          "time": "14:30"
         }, 
         {
-          "time": "15:30", 
+          "time": "15:00", 
           "topic": "Intermission"
         }, 
         {
           "speaker": "id_liuchang", 
-          "time": "15:40"
+          "time": "15:10"
         }, 
         {
           "speaker": "id_linpan", 
+          "time": "15:40"
+        }, 
+        {
+          "speaker": "id_SpeedyCloud", 
           "time": "16:10"
         }, 
         {
-          "speaker": "id_xiutao", 
+          "speaker": "id_dinglaiqiang2bj", 
           "time": "16:40"
-        }, 
-        {
-          "speaker": "id_ZhiliWang", 
-          "time": "17:20"
         }
       ], 
       "cancel_talks": [
@@ -49,8 +49,12 @@
       "date": "2015-09-19 09:00~18:00", 
       "lightening_talks": [
         {
+          "speaker": "id_ZhiliWang", 
+          "time": "17:10"
+        }, 
+        {
           "speaker": "id_chifeng", 
-          "time": "17:30"
+          "time": "17:20"
         }, 
         {
           "speaker": "id_zhongww", 
@@ -68,31 +72,39 @@
       "maplink": "http://f.amap.com/0B9E8O", 
       "morning": [
         {
-          "time": "09:00", 
+          "time": "08:30", 
           "topic": "Check-in"
         }, 
         {
-          "time": "09:15", 
+          "time": "09:00", 
           "topic": "Opening"
         }, 
         {
           "speaker": "id_yankaibj", 
-          "time": "09:30"
+          "time": "09:10"
         }, 
         {
           "speaker": "id_wuke", 
-          "time": "10:00"
+          "time": "09:35"
         }, 
         {
           "speaker": "id_meituan", 
-          "time": "10:20"
+          "time": "09:55"
+        }, 
+        {
+          "time": "10:30", 
+          "topic": "Intermission"
         }, 
         {
           "speaker": "id_liepin2bj", 
-          "time": "11:00"
+          "time": "10:40"
         }, 
         {
           "speaker": "id_dinglaiqiang", 
+          "time": "11:00"
+        }, 
+        {
+          "speaker": "id_xiutao", 
           "time": "11:30"
         }, 
         {
@@ -345,7 +357,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1442247578", 
+  "cachebuster_qs": "?_t=1442291089", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -580,6 +592,18 @@
         "title": "Use MQTT to build Slack like instant messaging system"
       }
     }, 
+    "id_SpeedyCloud": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_SpeedyCloud.png?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u6c6a\u5c0a", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "..."
+      }
+    }, 
     "id_ZhiliWang": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_ZhiliWang.jpg?imageView2/2/h/80", 
       "city": "Beijing", 
@@ -620,7 +644,7 @@
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/bj_chifeng.jpg?imageView2/2/h/80", 
       "city": "Beijing", 
       "city_beijing": 1, 
-      "intro": "Pythoneer...", 
+      "intro": "Pythoneer;\u4f18\u8da3\u5929\u4e0b \u6570\u636e\u5904\u7406\u5de5\u7a0b\u5e08", 
       "name": "\u66f2\u6c60\u5cf0", 
       "topic": {
         "preview": "using the PyConChina2015 app as an example, introduce how to use QPython to develop android APK The design of Android WebApp The introduction of QPython and WebApp QPython WeChat account/qpython", 
@@ -650,6 +674,18 @@
         "preview": "Different from Object Oriented Programming, functional programming wins public attention by low side effect, high reusability, and easy  to use. Python, although not a pure functional programming language, provides powerful support to do functional programming. This speech covers how the key features of functional programming is implemented in Python. It will touch on core grammar of Python(function, lambda, generator, iterator, decorator and so on) and standard library(functools, operators, itertools) , the core concepts in functional programming (pure function, persistent data, high order function, currying, TCO, trampoline, overloading, pattern matching, laziness streaming), tools (multipledispatch, pyrsistent, fn, PyToolz, ipython cluster, python-parallel), concurrent programming, and effective functional programming.", 
         "slide": null, 
         "title": "Effective python functional programming: techniques, tools and practices"
+      }
+    }, 
+    "id_dinglaiqiang2bj": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_dinglaiqiang.JPG?imageView2/2/h/80", 
+      "city": "Beijing", 
+      "city_beijing": 1, 
+      "intro": "Tech lead of Splunk, in charge of ETL and data visualization of big data platform....", 
+      "name": "\u4e01\u6765\u5f3a", 
+      "topic": {
+        "preview": "in big data processing, 70% of the time we are doing data preparation (loading/extraction/cleansing/conversion/classification/integration). After business analysis, a lot of time is needed to do data visualization. It will talk about how to do data ETL with Pandas, the new feature of Pandas(Query/removing of GIL), how to do data visualization with BokeH, how to use Blaze and Spark to do large scale distributed data processing", 
+        "slide": null, 
+        "title": "Big data analysis and visualization with Python"
       }
     }, 
     "id_dinglaiqiangsh": {

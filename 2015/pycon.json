@@ -5,39 +5,39 @@
       "afternoon": [
         {
           "speaker": "id_liepin1bj", 
-          "time": "13:30"
+          "time": "13:00"
         }, 
         {
           "speaker": "id_Bouriez", 
-          "time": "14:00"
+          "time": "13:30"
         }, 
         {
           "speaker": "id_zhengk", 
-          "time": "14:30"
+          "time": "14:00"
         }, 
         {
           "speaker": "id_liaoxinxi", 
-          "time": "15:00"
+          "time": "14:30"
         }, 
         {
-          "time": "15:30", 
-          "topic": "\u8336\u6b47"
+          "time": "15:00", 
+          "topic": "\u8336\u6b47\u00b7\u62bd\u5956"
         }, 
         {
           "speaker": "id_liuchang", 
-          "time": "15:40"
+          "time": "15:10"
         }, 
         {
           "speaker": "id_linpan", 
+          "time": "15:40"
+        }, 
+        {
+          "speaker": "id_SpeedyCloud", 
           "time": "16:10"
         }, 
         {
-          "speaker": "id_xiutao", 
+          "speaker": "id_dinglaiqiang2bj", 
           "time": "16:40"
-        }, 
-        {
-          "speaker": "id_ZhiliWang", 
-          "time": "17:20"
         }
       ], 
       "cancel_talks": [
@@ -49,8 +49,12 @@
       "date": "2015-09-19 09:00~18:00", 
       "lightening_talks": [
         {
+          "speaker": "id_ZhiliWang", 
+          "time": "17:10"
+        }, 
+        {
           "speaker": "id_chifeng", 
-          "time": "17:30"
+          "time": "17:20"
         }, 
         {
           "speaker": "id_zhongww", 
@@ -68,31 +72,39 @@
       "maplink": "http://f.amap.com/0B9E8O", 
       "morning": [
         {
-          "time": "09:00", 
-          "topic": "\u7b7e\u5230 & \u5f00\u573a"
+          "time": "08:30", 
+          "topic": "\u7b7e\u5230"
         }, 
         {
-          "time": "09:15", 
-          "topic": "\u5f00\u573a"
+          "time": "09:00", 
+          "topic": "\u5f00\u573a Guido"
         }, 
         {
           "speaker": "id_yankaibj", 
-          "time": "09:30"
+          "time": "09:10"
         }, 
         {
           "speaker": "id_wuke", 
-          "time": "10:00"
+          "time": "09:35"
         }, 
         {
           "speaker": "id_meituan", 
-          "time": "10:20"
+          "time": "09:55"
+        }, 
+        {
+          "time": "10:30", 
+          "topic": "\u8336\u6b47\u00b7\u62bd\u5956"
         }, 
         {
           "speaker": "id_liepin2bj", 
-          "time": "11:00"
+          "time": "10:40"
         }, 
         {
           "speaker": "id_dinglaiqiang", 
+          "time": "11:00"
+        }, 
+        {
+          "speaker": "id_xiutao", 
           "time": "11:30"
         }, 
         {
@@ -103,7 +115,7 @@
       "noon": [
         {
           "time": "12:10", 
-          "topic": "\u5348\u9910+\u5408\u7167"
+          "topic": "\u5348\u9910 \u00b7 \u5408\u7167 \u00b7 \u4ea4\u6d41 \u00b7 \u77ed\u7247"
         }
       ], 
       "notices": "", 
@@ -345,7 +357,7 @@
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1442247578", 
+  "cachebuster_qs": "?_t=1442291089", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -580,6 +592,18 @@
         "title": "\u4f7f\u7528MQTT\u6253\u9020\u7c7bSlack\u7684\u5b9e\u65f6\u6d88\u606f\u670d\u52a1"
       }
     }, 
+    "id_SpeedyCloud": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_SpeedyCloud.png?imageView2/2/h/80", 
+      "city": "\u5317\u4eac", 
+      "city_beijing": 1, 
+      "intro": "\u73b0\u4efbSpeedyCloud\u7684Python\u653b\u57ce\u72ee\u3002\u76ee\u524d\u8d1f\u8d23\u516c\u53f8\u4e1a\u52a1\u76d1\u63a7\u7cfb\u7edf\u7684\u8bbe\u8ba1\u4e0e\u5f00\u53d1\uff0c\u559c\u6b22\u94bb\u7814\u6280\u672f\uff0c\u4e1a\u4f59\u65f6\u95f4\u4f1a\u7814\u7a76\u5404\u79cd\u7b97\u6cd5\u3002", 
+      "name": "\u6c6a\u5c0a", 
+      "topic": {
+        "preview": "\u4eba\u4eec\u5173\u4e8eIO\u5bc6\u96c6\u578b\u548c\u8ba1\u7b97\u5bc6\u96c6\u578b\u91c7\u7528\u4f55\u79cd\u5e76\u53d1\u6a21\u578b\u7684\u8ba8\u8bba\u7531\u6765\u5df2\u4e45\uff0c\u5230\u5e95\u91c7\u7528\u591a\u7ebf\u7a0b\u8fd8\u662f\u591a\u8fdb\u7a0b\uff0c\u5bf9\u5f88\u591a\u540c\u5b66\u6765\u8bf4\u90fd\u6709\u4e9b\u7ea0\u7ed3\u3002\u672c\u6b21\u5206\u4eab\u5c06\u901a\u8fc7\u4e00\u4e9b\u6d4b\u8bd5\u65b9\u6cd5\uff0c\u4e3a\u5927\u5bb6\u5c55\u793a\u4e0d\u540c\u7f16\u7a0b\u6a21\u578b\u7684\u6027\u80fd\u8868\u73b0\uff0c\u4ee5\u53ca\u5728\u5e76\u53d1\u7f16\u7a0b\u4e2d\u53ef\u80fd\u9047\u5230\u7684\u95ee\u9898\u53ca\u5176\u89e3\u6cd5\u3002", 
+        "slide": null, 
+        "title": "\u6d45\u6790Python\u591a\u7ebf\u7a0b\u4e0e\u591a\u8fdb\u7a0b\u7684\u4f7f\u7528"
+      }
+    }, 
     "id_ZhiliWang": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_ZhiliWang.jpg?imageView2/2/h/80", 
       "city": "\u5317\u4eac", 
@@ -650,6 +674,18 @@
         "preview": "\u4e0d\u540c\u4e8e\u9762\u5411\u5bf9\u8c61\u7f16\u7a0b\u7684\u51fd\u6570\u5f0f\u7f16\u7a0b\u4ee5\u5176\u4f4e\u526f\u4f5c\u7528, \u9ad8\u6a21\u5757\u590d\u7528\u6027\u4e0e\u6613\u5e76\u53d1\u6027\u83b7\u5f97\u6781\u5927\u5173\u6ce8\u4e0e\u53d1\u5c55(e.g. Scala, Hashell, Erlang\u7b49). Python\u5e76\u4e0d\u662f\u7eaf\u7cb9\u7684\u51fd\u6570\u5f0f\u7f16\u7a0b\u8bed\u8a00, \u4f46\u662f\u63d0\u4f9b\u4e86\u6781\u5176\u5f3a\u5927\u7684\u8bed\u8a00\u7279\u6027\u4f7f\u5f97\u8fdb\u884c\u51fd\u6570\u5f0f\u7f16\u7a0b\u7684\u53ef\u80fd \u672c\u4e3b\u9898\u6db5\u76d6\u51fd\u6570\u5f0f\u7f16\u7a0b\u7684\u5404\u79cd\u91cd\u8981\u7279\u6027\u5728Python\u7684\u5173\u952e\u70b9\u5b9e\u73b0, \u8986\u76d6Python\u6838\u5fc3\u8bed\u6cd5(function, lambda, generator, iterator, decorator\u7b49)\u548c\u76f8\u5173\u6807\u51c6\u5e93(functools, operators, itertools)\u5916, \u6d89\u53ca\u5230\u51fd\u6570\u5f0f\u7f16\u7a0b\u7684\u6838\u5fc3\u601d\u60f3, \u6280\u672f(pure function, persistent data, high order function, currying, TCO, trampoline, overloading, pattern matching, laziness streaming\u7b49), \u5de5\u5177(multipledispatch, pyrsistent, fn, PyToolz, ipython cluster, python-parallel, \u7b49)\u4ee5\u53ca\u5e76\u53d1\u76f8\u5173\u7684\u7f16\u7a0b, \u8fdb\u884c\u6709\u6548\u7684\u51fd\u6570\u5f0f\u7f16\u7a0b.", 
         "slide": null, 
         "title": "\u4f7f\u7528Python\u8fdb\u884c\u9ad8\u6548\u51fd\u6570\u5f0f\u7f16\u7a0b"
+      }
+    }, 
+    "id_dinglaiqiang2bj": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_dinglaiqiang.JPG?imageView2/2/h/80", 
+      "city": "\u5317\u4eac", 
+      "city_beijing": 1, 
+      "intro": "\u4ece\u4e1a\u5341\u5e74, Splunk(\u7f8e\u56fd\u7eb3\u65af\u8fbe\u514b\u7b2c\u4e00\u5bb6\u7eaf\u5927\u6570\u636e\u7684\u4e0a\u5e02\u516c\u53f8)\u5728\u4e2d\u56fd\u5b9e\u9a8c\u5ba4\u7684Tech Lead, \u8d1f\u8d23\u5927\u6570\u636e\u5e73\u53f0\u76f8\u5173\u7684ETL\u548c\u6570\u636e\u53ef\u89c6\u5316\u76f8\u5173\u7684\u5de5\u4f5c. \u6280\u672f\u5174\u8da3\u5e7f\u6cdb. \u64c5\u957fC++/Python\u4e0eJS.", 
+      "name": "\u4e01\u6765\u5f3a", 
+      "topic": {
+        "preview": "\u5927\u6570\u636e\u5904\u7406\u4e2d;70%\u5de6\u53f3\u7684\u65f6\u95f4\u6211\u4eec\u5728\u505a\u5904\u7406\u51c6\u5907(\u52a0\u8f7d/\u62bd\u53d6/\u6e05\u6d17/\u8f6c\u6362/\u5206\u7ec4/ \u5408\u5e76\u7b49); \u8fdb\u884c\u5546\u52a1\u5206\u6790\u7684\u8fc7\u7a0b\u4e2d(\u4ee5\u53ca\u4e4b\u540e);\u53c8\u4f1a\u82b1\u76f8\u5f53\u591a\u7684\u65f6\u95f4\u505a\u6570\u636e\u53ef\u89c6\u5316\u7684\u5de5\u4f5c. \u8fd9\u4e2a\u4e3b\u9898\u4ecb\u7ecd\u4e86\u5982\u4f55\u4f7f\u7528Python\u9009\u62e9\u9ad8\u6548\u7684\u6570\u636e\u5904\u7406\u5206\u6790\u4e0e\u53ef\u89c6\u5316.\u5185\u5bb9\u7ed3\u5408\u4e00\u4e2a\u5b9e\u9645\u4f8b\u5b50\u8986\u76d6\u4e86\u5982\u4f55\u4f7f\u7528Pandas\u8fdb\u884c\u9ad8\u6548\u6570\u636eETL; Pandas\u7684\u6700\u65b0\u7279\u6027(Query/ \u53bbGIL\u7b49); BokeH\u5982\u4f55\u8fdb\u884c\u9ad8\u6548\u6570\u636e\u53ef\u89c6\u5316; Blaze\u4e0eSpark\u7ed3\u5408\u8fdb\u884c\u66f4\u5927\u89c4\u6a21\u7684\u5206\u5e03\u5f0f\u6570\u636e\u5904\u7406\u7b49.", 
+        "slide": null, 
+        "title": "\u4f7f\u7528Python\u8fdb\u884c\u9ad8\u6548\u5927\u6570\u636e\u5206\u6790\u5904\u7406\u4e0e\u53ef\u89c6\u5316"
       }
     }, 
     "id_dinglaiqiangsh": {
