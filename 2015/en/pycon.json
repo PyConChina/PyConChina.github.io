@@ -369,7 +369,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1442374888", 
+  "cachebuster_qs": "?_t=1442474513", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -429,6 +429,7 @@
     "hangzhou": "Hangzhou", 
     "home_sponsors": "Sponsors", 
     "home_title": "PyCon 2015 China coming soon!", 
+    "ipynb": "IP[y]:Nb", 
     "lighting_talks": "Lighting Talks", 
     "morning": "Morning", 
     "noon": "Noon", 
@@ -767,8 +768,9 @@
       "intro": "Pythoneer...", 
       "name": "\u90d1\u548c\u67f3 (Robert Zheng)", 
       "topic": {
+        "ipynb": "https://github.com/ax003d/pycon-ddns-docker/blob/master/pycon-docker-ddns.ipynb", 
         "preview": "...", 
-        "slide": null, 
+        "slide": "https://github.com/ax003d/pycon-ddns-docker/blob/master/pycon-ddns-docker.dps", 
         "title": "?"
       }
     }, 
@@ -962,18 +964,6 @@
         "preview": "...", 
         "slide": null, 
         "title": "?"
-      }
-    }, 
-    "id_nonegz": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
-      "city": "Guangzhou", 
-      "city_guangzhou": 1, 
-      "intro": "Pythoneer...", 
-      "name": "Pythoneer", 
-      "topic": {
-        "preview": "...", 
-        "slide": null, 
-        "title": "..."
       }
     }, 
     "id_nonehz": {
@@ -1175,8 +1165,8 @@
       "intro": "senior staff of Tech Party of Pearl River Delta. Python and Golang hobbist", 
       "name": "\u6bb7\u6d77\u660e", 
       "topic": {
+        "ipynb": "https://github.com/yinhm/talks/blob/master/pycon2015_cn_pandas/pandas.ipynb", 
         "preview": "sequential data analysis, and optimized investment combination", 
-        "slide": null, 
         "title": "The use of Pandas in financial data analysis"
       }
     }, 
