@@ -170,8 +170,16 @@
       "date": "2015-09-13 09:00~18:00", 
       "lightening_talks": [
         {
-          "speaker": "id_nonegz", 
-          "time": "17:35"
+          "speaker": "id_wenmin", 
+          "time": "17:40"
+        }, 
+        {
+          "speaker": "id_panjy", 
+          "time": "17:46"
+        }, 
+        {
+          "speaker": "id_zoomq", 
+          "time": "17:55"
         }
       ], 
       "maplink": "http://f.amap.com/042E3U", 
@@ -203,7 +211,7 @@
           "topic": "Lunch + Photo"
         }
       ], 
-      "notices": "\u6ce8\u610f\u67e5\u6536\u4fdd\u5b58\u7b7e\u5230\u7801,\u5426\u5219\u65e0\u6cd5\u8fdb\u573a!", 
+      "notices": "<ul><li>\u73b0\u573a\u81ea\u8ff0 ~ <a href=\"http://zoomq.qiniudn.com/pychina/PyCon2015China/tape/150913pycongz_00_introself_ZOOM0025.MP3\">\u5f55\u97f3</a></li><li>\u5927\u5988\u5f00\u573a ~ <a href=\"http://zoomq.qiniudn.com/pychina/PyCon2015China/tape/150913pycongz_01_start_ZOOM0026.MP3\">\u5f55\u97f3</a></li></ul>", 
       "traffic": "(...)", 
       "venue": "..."
     }, 
@@ -369,7 +377,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1442474513", 
+  "cachebuster_qs": "?_t=1442586888", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -600,6 +608,7 @@
       "intro": "full stack developer from easydo...", 
       "name": "\u90b1\u6587\u6b66", 
       "topic": {
+        "audio": "http://zoomq.qiniudn.com/pychina/PyCon2015China/tape/150913pycongz_05_mqtt_qa_ZOOM0031.MP3", 
         "preview": "MQTT has become the standard of messaging proxy providing QoS control. It meets the high throughput demand of real time systems.  The messaging system from easydo uses MQTT\u3001Socket.io\u3001ElasticeSearch and so on. It support one to one chatting, group chatting, desktop notification and so on.", 
         "slide": "http://easydo.cn/support/resource/%E6%BC%94%E8%AE%B2%E5%B9%BB%E7%81%AF%E7%89%87/pycon-2015-msg.pdf", 
         "title": "Use MQTT to build Slack like instant messaging system"
@@ -768,6 +777,7 @@
       "intro": "Pythoneer...", 
       "name": "\u90d1\u548c\u67f3 (Robert Zheng)", 
       "topic": {
+        "audio": "http://zoomq.qiniudn.com/pychina/PyCon2015China/tape/150913pycongz_06_ddns_ZOOM0032.MP3", 
         "ipynb": "https://github.com/ax003d/pycon-ddns-docker/blob/master/pycon-docker-ddns.ipynb", 
         "preview": "...", 
         "slide": "https://github.com/ax003d/pycon-ddns-docker/blob/master/pycon-ddns-docker.dps", 
@@ -804,8 +814,9 @@
       "intro": "staff of Tech Party of Pearl River Delta...", 
       "name": "Jeff", 
       "topic": {
+        "audio": "http://zoomq.qiniudn.com/pychina/PyCon2015China/tape/150913pycongz_09_jeff_ZOOM0035.MP3", 
         "preview": "Tt is not easy to do long-lived connection instant messaging programming. Long-lived connection proxy can lower the barrier for developers. This topic covers a distributed and extensible long-lived connection proxy built with Tornado.", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniudn.com/pychina/PyCon2015China/slides/gz/pycon150913gz_rainbow.pdf", 
         "title": "Using Tornado to build a long-lived connection proxy"
       }
     }, 
@@ -828,8 +839,9 @@
       "intro": "senior architect, author of PECL/SeasLog...", 
       "name": "\u5218\u56fd\u5f3a\uff08Bruce Liu\uff09", 
       "topic": {
+        "audio": "http://zoomq.qiniudn.com/pychina/PyCon2015China/tape/150913pycongz_07_apm_ZOOM0033.MP3", 
         "preview": "...", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniudn.com/pychina/PyCon2015China/slides/gz/APM-PyAppPerformancev2.pdf", 
         "title": "Python application performance optimization practice"
       }
     }, 
@@ -864,9 +876,9 @@
       "intro": "Founder of Qichang Inc. Mr. Lai is a frequent speaker in PyCon China. He has deep knowledge of Python programming and related technologies. In addition to a popular tech blog, he is a co-writer of a published book \"Writing solid Python code 91 suggestions to improve Python program...", 
       "name": "\u8d56\u52c7\u6d69", 
       "topic": {
-        "audio": "http://zoomq.qiniudn.com/CPyUG/PyCon2015China/tape/150913pycongz_02_cython_ZOOM0027.MP3", 
+        "audio": "http://zoomq.qiniudn.com/pychina/PyCon2015China/tape/150913pycongz_02_cython_ZOOM0027.MP3", 
         "preview": "1. What is Cython, what s its use? 2. The advantages of Cython compared to similar technologies 3. The difficult of importing C++ libraries compared to C libraries 4. The best practices of importing C++ libraries 5. Here are the answers for the questions above", 
-        "slide": "http://zoomq.qiniudn.com/CPyUG/PyCon2015China/slides/gz/pycon150913gz_cython.pdf", 
+        "slide": "http://zoomq.qiniudn.com/pychina/PyCon2015China/slides/gz/pycon150913gz_cython.pdf", 
         "title": "Experiences of using Cython to wrap up C++ code as Python modules"
       }
     }, 
@@ -1026,6 +1038,18 @@
         "title": "?"
       }
     }, 
+    "id_panjy": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Guangzhou", 
+      "city_guangzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u6f58\u4fca\u52c7", 
+      "topic": {
+        "audio": "http://zoomq.qiniudn.com/pychina/PyCon2015China/tape/150913pycongz_lt1_tus_ZOOM0038.MP3", 
+        "preview": "...", 
+        "title": "..."
+      }
+    }, 
     "id_river": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/bj_river4.png?imageView2/2/h/80", 
       "city": "Guangzhou", 
@@ -1033,6 +1057,7 @@
       "intro": "Author of QPython. former Zynga senior system engineer...", 
       "name": "River", 
       "topic": {
+        "audio": "http://zoomq.qiniudn.com/pychina/PyCon2015China/tape/150913pycongz_04_qpython_ZOOM0029.MP3", 
         "preview": "using the PyConChina2015 app as an example, indroduce how to use QPython to develop android APK The design of Android WebApp The introduction of QPython and WebApp QPython WeChat account/qpython", 
         "slide": "http://qpython.org/pyconchina2015/", 
         "title": "How to do rapid android app development with QPython"
@@ -1057,9 +1082,11 @@
       "intro": "A senior python developer, author of eurasia", 
       "name": "\u6c88\u5d34", 
       "topic": {
-        "preview": "TDB", 
-        "slide": null, 
-        "title": "Let's talk about something fun"
+        "audio": "http://zoomq.qiniudn.com/pychina/PyCon2015China/tape/150913pycongz_03_foto_ZOOM0028.MP3", 
+        "preview": "...", 
+        "slide": "http://zoomq.qiniudn.com/pychina/PyCon2015China/slides/gz/pycon2015gz_wileishn_PYphotograph.pdf", 
+        "slide1": "http://zoomq.qiniudn.com/pychina/PyCon2015China/slides/gz/pycon2015gz_wileishn_PYstock.pdf", 
+        "title": "play in photograph and stock with Python"
       }
     }, 
     "id_shenweish": {
@@ -1084,6 +1111,18 @@
         "preview": "1. Flagship of product; Python robot NAO, toolkit based on NI LabVIEW 2. Python modules used by LabVIEW, how to write robotic apps 3. How to add python modules to the toolkit", 
         "slide": null, 
         "title": "Graphic Python -- quick construction of robotic system"
+      }
+    }, 
+    "id_wenmin": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Guangzhou", 
+      "city_guangzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u6e29\u94ed", 
+      "topic": {
+        "audio": "http://zoomq.qiniudn.com/pychina/PyCon2015China/tape/150913pycongz_lt0_360_ZOOM0037.MP3", 
+        "preview": "...", 
+        "title": "..."
       }
     }, 
     "id_wuke": {
@@ -1165,6 +1204,7 @@
       "intro": "senior staff of Tech Party of Pearl River Delta. Python and Golang hobbist", 
       "name": "\u6bb7\u6d77\u660e", 
       "topic": {
+        "audio": "http://zoomq.qiniudn.com/pychina/PyCon2015China/tape/150913pycongz_10_pandas_ZOOM0036.MP3", 
         "ipynb": "https://github.com/yinhm/talks/blob/master/pycon2015_cn_pandas/pandas.ipynb", 
         "preview": "sequential data analysis, and optimized investment combination", 
         "title": "The use of Pandas in financial data analysis"
@@ -1218,6 +1258,18 @@
         "title": "..."
       }
     }, 
+    "id_zoomq": {
+      "avatar": "http://dn-pyconcn.qbox.me/images/volunteer/zhouqi.png?imageView2/2/h/80", 
+      "city": "Guangzhou", 
+      "city_guangzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u5927\u5988 (Zoom.Quiet)", 
+      "topic": {
+        "audio": "http://zoomq.qiniudn.com/pychina/PyCon2015China/tape/150913pycongz_lt2_lifeisss_ZOOM0039.MP3", 
+        "preview": "...", 
+        "title": "..."
+      }
+    }, 
     "id_zuozhenjie": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/id_zuozhenjie.png?imageView2/2/h/80", 
       "city": "Guangzhou", 
@@ -1225,8 +1277,9 @@
       "intro": "engineer from Tecent WeChat...", 
       "name": "\u5353\u632f\u6770", 
       "topic": {
+        "audio": "http://zoomq.qiniudn.com/pychina/PyCon2015China/tape/150913pycongz_08_qqcmdb_ZOOM0034.MP3", 
         "preview": "WeChat CMDB is the core of devops, managing all meta data and configuration related to business data. So a efficient and agile interface is vital to support the plugin of all sub systems.", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniudn.com/pychina/PyCon2015China/slides/gz/PyCon2015_wx_CMDB.pdf", 
         "title": "design and implementation of soft data inteface"
       }
     }
