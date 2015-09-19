@@ -377,7 +377,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1442656128", 
+  "cachebuster_qs": "?_t=1442674791", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -1230,7 +1230,7 @@
       "name": "\u90d1\u5803", 
       "topic": {
         "preview": "The various scenarios of unit testing in python projects, such as/ 1. Hello World examples 2. testing frameworks used in web frameworks such as Django 3. mocking network request, file read/write, database 4. other Mock or Fake 5. tools and libraries", 
-        "slide": null, 
+        "slide": "https://github.com/akun/pycon2015", 
         "title": "The unit testing scenarios in python projects"
       }
     }, 
