@@ -377,7 +377,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1442586888", 
+  "cachebuster_qs": "?_t=1442656128", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -974,7 +974,7 @@
       "name": "\u9648\u535a", 
       "topic": {
         "preview": "...", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniudn.com/pychina/PyCon2015China/slides/bj/meituan_simple2complex.pdf", 
         "title": "?"
       }
     }, 
