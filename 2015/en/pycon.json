@@ -377,7 +377,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1442674791", 
+  "cachebuster_qs": "?_t=1442752777", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -1218,7 +1218,7 @@
       "name": "\u4f59\u5360\u52c7", 
       "topic": {
         "preview": "Normally network sniffing uses tcpdump, wireshark. It is not convenient for real time analysis, and cannot modify the content of the package, and limited to http packages. Python can solve these.", 
-        "slide": null, 
+        "slide": "http://www.so-cools.com/down/pyconppt.pdf", 
         "title": "Python and network sniffing"
       }
     }, 
