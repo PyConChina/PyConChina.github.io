@@ -377,7 +377,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1442752777", 
+  "cachebuster_qs": "?_t=1442809428", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -706,7 +706,7 @@
       "name": "\u4e01\u6765\u5f3a", 
       "topic": {
         "preview": "Different from Object Oriented Programming, functional programming wins public attention by low side effect, high reusability, and easy  to use. Python, although not a pure functional programming language, provides powerful support to do functional programming. This speech covers how the key features of functional programming is implemented in Python. It will touch on core grammar of Python(function, lambda, generator, iterator, decorator and so on) and standard library(functools, operators, itertools) , the core concepts in functional programming (pure function, persistent data, high order function, currying, TCO, trampoline, overloading, pattern matching, laziness streaming), tools (multipledispatch, pyrsistent, fn, PyToolz, ipython cluster, python-parallel), concurrent programming, and effective functional programming.", 
-        "slide": null, 
+        "slide": "https://github.com/wjo1212/ChinaPyCon2015", 
         "title": "Effective python functional programming: techniques, tools and practices"
       }
     }, 
@@ -718,7 +718,7 @@
       "name": "\u4e01\u6765\u5f3a", 
       "topic": {
         "preview": "in big data processing, 70% of the time we are doing data preparation (loading/extraction/cleansing/conversion/classification/integration). After business analysis, a lot of time is needed to do data visualization. It will talk about how to do data ETL with Pandas, the new feature of Pandas(Query/removing of GIL), how to do data visualization with BokeH, how to use Blaze and Spark to do large scale distributed data processing", 
-        "slide": null, 
+        "slide": "https://github.com/wjo1212/ChinaPyCon2015", 
         "title": "Big data analysis and visualization with Python"
       }
     }, 
@@ -730,7 +730,7 @@
       "name": "\u4e01\u6765\u5f3a", 
       "topic": {
         "preview": "in big data processing, 70% of the time we are doing data preparation (loading/extraction/cleansing/conversion/classification/integration). After business analysis, a lot of time is needed to do data visualization. It will talk about how to do data ETL with Pandas, the new feature of Pandas(Query/removing of GIL), how to do data visualization with BokeH, how to use Blaze and Spark to do large scale distributed data processing", 
-        "slide": null, 
+        "slide": "https://github.com/wjo1212/ChinaPyCon2015", 
         "title": "Big data analysis and visualization with Python"
       }
     }, 
