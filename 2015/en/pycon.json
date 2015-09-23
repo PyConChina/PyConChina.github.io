@@ -377,7 +377,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1442917872", 
+  "cachebuster_qs": "?_t=1443025984", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -769,7 +769,7 @@
       "name": "Rosie Li (\u674e\u82e5\u601d)", 
       "topic": {
         "preview": "...", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/bj/Facebook_BJPyCon2015.pdf", 
         "title": "Facebook and Python"
       }
     }, 
@@ -806,7 +806,7 @@
       "name": "\u9ec4\u946b", 
       "topic": {
         "preview": "Introduce the application of Fabric in enterprises. Regular task automation, interaction with shell, working with multiple source code repository, Jenkins and proxy, checking after deployment, spreadsheet report and structured data for analysis", 
-        "slide": null, 
+        "slide": "http://huangx.in/slide/1021/pycon-beijing-2015-fabric-in-action#/", 
         "title": "Auto deployment based on Fabric"
       }
     }, 
@@ -917,7 +917,7 @@
       "name": "\u9633\u66d9\u5149+\u82cf\u94d6", 
       "topic": {
         "preview": "How to resolve dependence, timing, and retries after failure in the big data task processing?  The three open source scheduling system oozie, azkaban\u3001luigi  all have its pros and  cons. But their main target is the developers, thus can be hard for non-developers. Using Python, we developed a visual, light-weight and easy to use big data task management system that can be used by analysts.", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/bj/pycon15bj_liepin_hadoop.pdf", 
         "title": "Python Rules Hadoop"
       }
     }, 
@@ -929,7 +929,7 @@
       "name": "\u77f3\u6676+\u5355\u827a", 
       "topic": {
         "preview": "0. The technology and mathematical methods used in our data analysis for professional development 1. Distribution of professionals/ the distribution of pythoners in different industries, geographies, and positions 2. Needs of enterprises/ the demand of pythoners in the job market and how it changes 3. Professional development/ the analysis of the career path of pythoners, how they move in different industries 4. Salary levels/ the different salary levels of pythoners in different industries, geographies, positions, and age groups 5. Portrait of python professionals/ the age, education background, majors of pythoners and the relation with positions and salary levels", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/bj/pycon15bj_liepin_bigdata.pdf", 
         "title": "Industry analysis of python programmers as a profession based on Liepin's big data"
       }
     }, 
@@ -941,7 +941,7 @@
       "name": "\u77f3\u6676+\u5355\u827a", 
       "topic": {
         "preview": "0. The technology and mathematical methods used in our data analysis for professional development 1. Distribution of professionals\uff1a the distribution of pythoners in different industries, geographies, and positions 2. Needs of enterprises\uff1a the demand of pythoners in the job market and how it changes 3. Professional development\uff1a the analysis of the career path of pythoners, how they move in different industries 4. Salary levels\uff1a the different salary levels of pythoners in different industries, geographies, positions, and age groups 5. Portrait of python professionals\uff1a the age, education background, majors of pythoners and the relation with positions and salary levels", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/bj/pycon15bj_liepin_bigdata.pdf", 
         "title": "Industry analysis of python programmers as a profession based on Liepin's big data"
       }
     }, 
@@ -953,7 +953,7 @@
       "name": "\u6797\u6500", 
       "topic": {
         "preview": "How to let children get interested in programming? Python is the best choice! Python, as a dynamic language, is more suited for beginners. Python can help beginners focusing on the domain logics instead of getting distracted by grammar and types. It might be personal taste as which language is more elegant, but there is no much dispute that Python is the most easy to read language.", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/bj/pycon15bj_linpan_morelovpy.pdf", 
         "title": "Python make more people fall in love with programming"
       }
     }, 
@@ -1160,7 +1160,7 @@
       "name": "\u5f90\u6d9b", 
       "topic": {
         "preview": "Share some experiences of using Sentry. How Sentry is used in Douban, and Sentry migration, the internal mechanism of Sentry, and some complaints.", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/bj/pycon15bj_xiutao_DiveIntoSentry.pdf", 
         "title": "Dive into Sentry"
       }
     }, 
@@ -1245,7 +1245,7 @@
       "name": "\u8877\u6587\u95fb", 
       "topic": {
         "preview": "touch on the following/ 1. mobile social platform and its architecture (brief introduction) 1) the architecture of the platform (internationalization) 2) components 2. the use of Python and its libraries in the platform 1) use of Python (pros and cons) 2) related libraries (PIL and etc.) 3) experience sharing", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/bj/pycon15bj_lespark.us.pdf", 
         "title": "The application of Python in mobile social platforms"
       }
     }, 
