@@ -377,7 +377,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1443025984", 
+  "cachebuster_qs": "?_t=1443027286", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -622,7 +622,7 @@
       "name": "\u6c6a\u5c0a", 
       "topic": {
         "preview": "...", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/bj/pycon15bj_py_multi_threads.pdf", 
         "title": "..."
       }
     }, 
@@ -634,7 +634,7 @@
       "name": "\u738b\u5fd7\u5229", 
       "topic": {
         "preview": "After writing a big program, you find it running very slowly. It is hard to locate where it gets wrong. How to solve this problem?", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/bj/pycon15bj_effectively_coding.pdf", 
         "title": "How to program effectively"
       }
     }, 
@@ -646,7 +646,7 @@
       "name": "\u9648\u5927\u4f1f", 
       "topic": {
         "preview": "When the magnitude of data is large enough that you need to use Hadoop, a easy to use and efficient offline task management framework become necessary. Luiti started from this demand. It is based on Luigi module open sourced from Spotify, and it can be used like Flask or RoR frameworks to build up data storage quickly. Please visit http://luiti.github.io/index.html", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/sh/pycon15sh_Luiti_intro.pdf", 
         "title": "Build data storage with Luiti"
       }
     }, 
@@ -682,7 +682,7 @@
       "name": "\u66f2\u6c60\u5cf0", 
       "topic": {
         "preview": "using the PyConChina2015 app as an example, introduce how to use QPython to develop android APK The design of Android WebApp The introduction of QPython and WebApp QPython WeChat account/qpython", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/bj/pycon15bj_qpython_intro.pdf", 
         "title": "How to do rapid android app development with QPython"
       }
     }, 
@@ -694,7 +694,7 @@
       "name": "Derek \u5446", 
       "topic": {
         "preview": "Normally to use c libraries in Python, you need to do a binding and let python runtime communicate with target C libraries. This approach is error-prone and hard for maintenance. By using gobject introspection together with type information, we can optimize the power of Python + C!", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/sh/pycon15sh_Py_GI_with_C_Derek.pdf", 
         "title": "py + gi - efficient C library integration"
       }
     }, 
@@ -757,7 +757,7 @@
       "name": "Jianming Wu (\u5434\u5efa\u660e)", 
       "topic": {
         "preview": "...", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/pycon15sh_Facebook_and_Python.pdf", 
         "title": "Facebook and Python"
       }
     }, 
@@ -856,7 +856,7 @@
       "name": "\u5218\u56fd\u5f3a (Bruce Liu)", 
       "topic": {
         "preview": "the practical guide to python performance tuning...", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/sh/pycon15sh_apm_intro.pdf", 
         "title": "Let python software be lightning fast"
       }
     }, 
@@ -868,7 +868,7 @@
       "name": "\u6212\u7a7a(\u59dc\u7ee7\u5fe0)", 
       "topic": {
         "preview": "...", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/sh/pycon15sh_ACE_V2.pdf", 
         "title": "The practical guide to use of ACE in python environment and architecture design"
       }
     }, 
@@ -905,7 +905,7 @@
       "name": "\u5ed6\u65b0\u559c", 
       "topic": {
         "preview": "Mainly touch on python secure programming, such as xss Command injection (the causes, and how to filter them), sql injection How code gets executed (eval\uff0cpickle.loads), how to avoid it, the security loophole caused by wrong wrap up of eval, file manipulation", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/bj/pycon15bj_security_programming.pdf", 
         "title": "How to program secure software in python"
       }
     }, 
@@ -929,7 +929,7 @@
       "name": "\u77f3\u6676+\u5355\u827a", 
       "topic": {
         "preview": "0. The technology and mathematical methods used in our data analysis for professional development 1. Distribution of professionals/ the distribution of pythoners in different industries, geographies, and positions 2. Needs of enterprises/ the demand of pythoners in the job market and how it changes 3. Professional development/ the analysis of the career path of pythoners, how they move in different industries 4. Salary levels/ the different salary levels of pythoners in different industries, geographies, positions, and age groups 5. Portrait of python professionals/ the age, education background, majors of pythoners and the relation with positions and salary levels", 
-        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/bj/pycon15bj_liepin_bigdata.pdf", 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/sh/pycon15sh_liepin_bigdata.pdf", 
         "title": "Industry analysis of python programmers as a profession based on Liepin's big data"
       }
     }, 
@@ -965,7 +965,7 @@
       "name": "\u5218\u7545", 
       "topic": {
         "preview": "Life is short, I use Python. Two pains in the neck while using python, one is the encoding, the other importing. It will cover the mechanism of python's modules management, PYTHONPATH, sys.path, why py3 discard the import mechanism of py2, what is absolute import in py3, the best practice of python project directories.", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/bj/pycon15bj_modules_mamagement.pdf", 
         "title": "The mechanism of python modules and best practices"
       }
     }, 
@@ -1037,7 +1037,7 @@
       "name": "\u5b54\u4ee4\u5f00", 
       "topic": {
         "preview": "...", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/sh/pycon15sh_buildtool_RestAPI.pdf", 
         "title": "?"
       }
     }, 
@@ -1100,7 +1100,7 @@
       "name": "\u6c88\u5d34", 
       "topic": {
         "preview": "...", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/sh/pycon15sh_stock_player.pdf", 
         "title": "Let's talk about something fun"
       }
     }, 
@@ -1112,7 +1112,7 @@
       "name": "\u738b\u7acb\u5947", 
       "topic": {
         "preview": "1. Flagship of product; Python robot NAO, toolkit based on NI LabVIEW 2. Python modules used by LabVIEW, how to write robotic apps 3. How to add python modules to the toolkit", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/sh/pycon15sh_quick_build_robot_sys.pdf", 
         "title": "Graphic Python -- quick construction of robotic system"
       }
     }, 
@@ -1136,7 +1136,7 @@
       "name": "\u5434\u67ef", 
       "topic": {
         "preview": "Flask becomes popular as a light-weight web framework. What are its pros and cons? The concept of web IDE, the issues of light-weight development. Introduce WebIDE from coding,  how to use WebIDE to write a light-weight web app, how to deploy.", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/bj/pycon15bj_coding_webide.pdf", 
         "title": "Flask app development with web IDE"
       }
     }, 
@@ -1148,7 +1148,7 @@
       "name": "\u8096\u51ef", 
       "topic": {
         "preview": "introduction to the new data analysis tools in the python community, including numpy/scipy/pandas/sklearn/theano and etc, their positions in the data processing workflow, and comparison to other tools", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/sh/pycon15sh_data_toolbox.pdf", 
         "title": "the toolbox for data of python"
       }
     }, 
@@ -1172,7 +1172,7 @@
       "name": "\u5f90\u6d32", 
       "topic": {
         "preview": "TheConsortium is a configuration management tool built on top of tornado, etcd and arangodb. Its plugins can interact with the backend of the data centers, such as database, switchers, balancers and puppet, providing a unified entry point for managing various components in a data center.", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/sh/pycon15sh_TheConsortium_intro.pdf", 
         "title": "TheConsortium: a state based automation tool for data center management"
       }
     }, 
@@ -1184,7 +1184,7 @@
       "name": "\u989c\u5f00", 
       "topic": {
         "preview": "The dependence hell of python The problems caused by dependence description Virtualenv as the current de facto standard, can help to a degree, but also cause other issues Other solutions, comparison Docker as a solution How to use Docker to resolve the dependence problems The mechanism of Docker, why it can solve the problems Other values that Docker brings to Python. Easier deployment, easier integration with third party packages, easier to use CPython, PyPy, Jpython.", 
-        "slide": null, 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/bj/pycon15bj_Python_In_Docker.pdf", 
         "title": "from virtualenv to Docker"
       }
     }, 
@@ -1196,8 +1196,9 @@
       "name": "\u989c\u5f00", 
       "topic": {
         "preview": "What is DaoCloud? Why we use python to build it? DaoCloud s Python technology stack. How to use various Python technologies API Celery Docker Client Docker Compose Python helps DaoCloud do rapid iterations", 
-        "slide": null, 
-        "title": "base Python build DaoCloud"
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/sh/pycon15sh_DaoCloud_intro.pdf", 
+        "title": "base Python build DaoCloud", 
+        "video": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/sh/pycon15sh_DaoCloud_intro.mp4"
       }
     }, 
     "id_yinhm": {
