@@ -377,7 +377,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1443027697", 
+  "cachebuster_qs": "?_t=1443163612", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -757,7 +757,7 @@
       "name": "Jianming Wu (\u5434\u5efa\u660e)", 
       "topic": {
         "preview": "...", 
-        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/pycon15sh_Facebook_and_Python.pdf", 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/sh/pycon15sh_Facebook_and_Python.pdf", 
         "title": "Facebook and Python"
       }
     }, 
@@ -1074,7 +1074,7 @@
       "name": "\u8bb8\u667a\u7fd4(shell909090)", 
       "topic": {
         "preview": "short 10 mins speech, introducing a tip to execute any code remotely", 
-        "slide": null, 
+        "slide": "https://github.com/shell909090/slides", 
         "title": "A way to execute code remotely"
       }
     }, 

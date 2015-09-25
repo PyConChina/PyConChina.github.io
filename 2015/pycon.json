@@ -377,7 +377,7 @@
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1443027697", 
+  "cachebuster_qs": "?_t=1443163612", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -757,7 +757,7 @@
       "name": "Jianming Wu (\u5434\u5efa\u660e)", 
       "topic": {
         "preview": "(\u82f1\u6587\u6f14\u8bb2)", 
-        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/pycon15sh_Facebook_and_Python.pdf", 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/sh/pycon15sh_Facebook_and_Python.pdf", 
         "title": "Facebook and Python"
       }
     }, 
@@ -1074,7 +1074,7 @@
       "name": "\u8bb8\u667a\u7fd4(shell909090)", 
       "topic": {
         "preview": "10\u5206\u949f\u7684\u5c0f\u6f14\u8bb2\uff0c\u4ecb\u7ecd\u4e00\u79cd\u5c06\u4efb\u4f55\u4ee3\u7801\u6254\u53bb\u8fdc\u7a0b\u6267\u884c\u7684\u5c0f\u6280\u5de7\u3002", 
-        "slide": null, 
+        "slide": "https://github.com/shell909090/slides", 
         "title": "\u4e00\u79cd\u8fdc\u7a0b\u6267\u884c\u4ee3\u7801\u7684\u65b9\u6cd5"
       }
     }, 
