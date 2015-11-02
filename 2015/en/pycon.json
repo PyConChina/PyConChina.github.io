@@ -118,7 +118,7 @@
           "topic": "Lunch + Photo"
         }
       ], 
-      "notices": "", 
+      "notices": "\u89c6\u9891~ <a href=\"http://www.imooc.com/learn/532?from=itblog\">PyConChina 2015 \u4e2d\u56fd\u5927\u4f1a \u5317\u4eac\u573a \u6155\u8bfe\u7f51</a>", 
       "traffic": "DAFOSI Stop on Bus 108, 104, 127", 
       "venue": "77 Hall"
     }, 
@@ -377,7 +377,7 @@
       "venue": "Meeting Hall at SPSP Building"
     }
   }, 
-  "cachebuster_qs": "?_t=1443163612", 
+  "cachebuster_qs": "?_t=1446447115", 
   "donators": [
     "tolerious", 
     "hackergodness", 

@@ -118,7 +118,7 @@
           "topic": "\u5348\u9910 \u00b7 \u5408\u7167 \u00b7 \u4ea4\u6d41 \u00b7 \u77ed\u7247"
         }
       ], 
-      "notices": "", 
+      "notices": "\u89c6\u9891~ <a href=\"http://www.imooc.com/learn/532?from=itblog\">PyConChina 2015 \u4e2d\u56fd\u5927\u4f1a \u5317\u4eac\u573a \u6155\u8bfe\u7f51</a>", 
       "traffic": "\u516c\u4ea4108\uff0c104\uff0c127\u8def\u5927\u4f5b\u5bfa\u7ad9", 
       "venue": "77\u5267\u573a"
     }, 
@@ -377,7 +377,7 @@
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
     }
   }, 
-  "cachebuster_qs": "?_t=1443163612", 
+  "cachebuster_qs": "?_t=1446447115", 
   "donators": [
     "tolerious", 
     "hackergodness", 
