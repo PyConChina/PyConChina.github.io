@@ -375,9 +375,56 @@
       "notices": "", 
       "traffic": "Jinke Road Station at Metro Line 2", 
       "venue": "Meeting Hall at SPSP Building"
+    }, 
+    "suzhou": {
+      "address": "\u82cf\u5dde\u9ad8\u535aA\u533a\u4e00\u697c\u5927\u5385", 
+      "afternoon": [
+        {
+          "time": "13:00", 
+          "topic": "PyConChina Intro."
+        }, 
+        {
+          "speaker": "id_qisz", 
+          "time": "14:20 ~ 14:40"
+        }, 
+        {
+          "speaker": "id_jiankongbaosz", 
+          "time": "15:00 ~ 15:20"
+        }, 
+        {
+          "time": "15:25", 
+          "topic": "Intermission"
+        }, 
+        {
+          "speaker": "id_pinppsz", 
+          "time": "15:30 ~ 14:50"
+        }, 
+        {
+          "speaker": "id_nisz", 
+          "time": "15:50 ~ 16:10"
+        }, 
+        {
+          "time": "16:15", 
+          "topic": "Intermission"
+        }, 
+        {
+          "time": "17:00", 
+          "topic": "\u7ed3\u675f"
+        }
+      ], 
+      "date": "2015-11-15 13:00~17:00", 
+      "noon": [
+        {
+          "time": "12:30", 
+          "topic": "Check in"
+        }
+      ], 
+      "notices": "...", 
+      "traffic": "...", 
+      "venue": "\u82cf\u5dde\u5de5\u4e1a\u56ed\u533a\u72ec\u5885\u6e56\u9ad8\u6559\u533a\u4ec1\u7231\u8def1\u53f7\uff08\u6587\u661f\u5e7f\u573a\u5bf9\u9762\uff09"
     }
   }, 
-  "cachebuster_qs": "?_t=1446447115", 
+  "cachebuster_qs": "?_t=1447207371", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -518,6 +565,10 @@
         {
           "title": "HANGZHOU", 
           "url": "en/hangzhou.html"
+        }, 
+        {
+          "title": "SUZHOU", 
+          "url": "en/suzhou.html"
         }
       ], 
       "title": "SCHEDULE"
@@ -860,6 +911,18 @@
         "title": "Let python software be lightning fast"
       }
     }, 
+    "id_jiankongbaosz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/jiankongbao_liu.jpg?imageView2/2/h/80", 
+      "city": "Suzhou", 
+      "city_suzhou": 1, 
+      "intro": "senior architect, author of PECL/SeasLog. ...", 
+      "name": "\u5218\u56fd\u5f3a (Bruce Liu)", 
+      "topic": {
+        "preview": "the practical guide to python performance tuning...", 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/sh/pycon15sh_apm_intro.pdf", 
+        "title": "Let python software be lightning fast"
+      }
+    }, 
     "id_jiekong": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/ali_jirkong.png?imageView2/2/h/80", 
       "city": "Shanghai", 
@@ -981,6 +1044,18 @@
         "title": "?"
       }
     }, 
+    "id_nisz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/sz_ni.png?imageView2/2/h/80", 
+      "city": "Suzhou", 
+      "city_suzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u502a\u5c0f\u8f89", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "..."
+      }
+    }, 
     "id_nonehz": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
       "city": "Hangzhou", 
@@ -997,18 +1072,6 @@
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
       "city": "Shanghai", 
       "city_shanghai": 1, 
-      "intro": "Pythoneer...", 
-      "name": "Pythoneer", 
-      "topic": {
-        "preview": "...", 
-        "slide": null, 
-        "title": "..."
-      }
-    }, 
-    "id_nonesz": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
-      "city": "Suzhou", 
-      "city_suzhou": 1, 
       "intro": "Pythoneer...", 
       "name": "Pythoneer", 
       "topic": {
@@ -1051,6 +1114,30 @@
         "audio": "http://zoomq.qiniudn.com/pychina/PyCon2015China/tape/150913pycongz_lt1_tus_ZOOM0038.MP3", 
         "preview": "...", 
         "title": "..."
+      }
+    }, 
+    "id_pinppsz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/sz_pingpp.png?imageView2/2/h/80", 
+      "city": "Suzhou", 
+      "city_suzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u738b\u6653\u73ae", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "Virtualenv\uff1aPython VM env"
+      }
+    }, 
+    "id_qisz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "Suzhou", 
+      "city_suzhou": 1, 
+      "intro": "Pythoneer...", 
+      "name": "\u8001\u9f50", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "Life is short i use Python"
       }
     }, 
     "id_river": {

@@ -375,9 +375,56 @@
       "notices": "", 
       "traffic": "\u5730\u94c12\u53f7\u7ebf\u91d1\u79d1\u8def\u7ad9", 
       "venue": "\u6d66\u8f6f\u5927\u53a6\u4f1a\u8bae\u5385"
+    }, 
+    "suzhou": {
+      "address": "\u82cf\u5dde\u9ad8\u535aA\u533a\u4e00\u697c\u5927\u5385", 
+      "afternoon": [
+        {
+          "time": "13:00", 
+          "topic": "PyConChina \u5927\u4f1a\u4ecb\u7ecd\u3001DevHub \u4ecb\u7ecd"
+        }, 
+        {
+          "speaker": "id_qisz", 
+          "time": "14:20 ~ 14:40"
+        }, 
+        {
+          "speaker": "id_jiankongbaosz", 
+          "time": "15:00 ~ 15:20"
+        }, 
+        {
+          "time": "15:25", 
+          "topic": "\u5408\u5f71/\u8336\u6b47"
+        }, 
+        {
+          "speaker": "id_pinppsz", 
+          "time": "15:30 ~ 14:50"
+        }, 
+        {
+          "speaker": "id_nisz", 
+          "time": "15:50 ~ 16:10"
+        }, 
+        {
+          "time": "16:15", 
+          "topic": "QA"
+        }, 
+        {
+          "time": "17:00", 
+          "topic": "\u7ed3\u675f"
+        }
+      ], 
+      "date": "2015-11-15 13:00~17:00", 
+      "noon": [
+        {
+          "time": "12:30", 
+          "topic": "\u5f00\u59cb\u7b7e\u5230"
+        }
+      ], 
+      "notices": "...", 
+      "traffic": "...", 
+      "venue": "\u82cf\u5dde\u5de5\u4e1a\u56ed\u533a\u72ec\u5885\u6e56\u9ad8\u6559\u533a\u4ec1\u7231\u8def1\u53f7\uff08\u6587\u661f\u5e7f\u573a\u5bf9\u9762\uff09"
     }
   }, 
-  "cachebuster_qs": "?_t=1446447115", 
+  "cachebuster_qs": "?_t=1447207371", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -518,6 +565,10 @@
         {
           "title": "\u676d\u5dde", 
           "url": "hangzhou.html"
+        }, 
+        {
+          "title": "\u82cf\u5dde", 
+          "url": "suzhou.html"
         }
       ], 
       "title": "\u65e5\u7a0b"
@@ -860,6 +911,18 @@
         "title": "Python\u5e94\u7528\u7684\u6027\u80fd\u4f18\u5316\u5b9e\u8df5"
       }
     }, 
+    "id_jiankongbaosz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/jiankongbao_liu.jpg?imageView2/2/h/80", 
+      "city": "\u82cf\u5dde", 
+      "city_suzhou": 1, 
+      "intro": "\u4e91\u667a\u6167\u6280\u672f\u4e2d\u5fc3(Technical Center)\u526f\u603b\u88c1", 
+      "name": "\u5218\u56fd\u5f3a (Bruce Liu)", 
+      "topic": {
+        "preview": "\u5982\u4f55\u80fd\u591f\u8ffd\u8e2a\u548c\u5b9a\u4f4dPython\u5e94\u7528\u7684\u7a0b\u5e8f\u4ee3\u7801\u6027\u80fd\uff1f", 
+        "slide": "http://zoomq.qiniucdn.com/pychina/PyCon2015China/slides/sh/pycon15sh_apm_intro.pdf", 
+        "title": "Python\u5e94\u7528\u7684\u6027\u80fd\u4f18\u5316\u5b9e\u8df5"
+      }
+    }, 
     "id_jiekong": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/ali_jirkong.png?imageView2/2/h/80", 
       "city": "\u4e0a\u6d77", 
@@ -981,6 +1044,18 @@
         "title": "\u7528\u7b80\u5355\u8bed\u8a00\u6784\u5efa\u590d\u6742\u7cfb\u7edf"
       }
     }, 
+    "id_nisz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/sz_ni.png?imageView2/2/h/80", 
+      "city": "\u82cf\u5dde", 
+      "city_suzhou": 1, 
+      "intro": "\u61d2\u4eba\u90a6CTO", 
+      "name": "\u502a\u5c0f\u8f89", 
+      "topic": {
+        "preview": "\u7528Python \u5f00\u53d1\u793e\u533aO2O\u5e73\u53f0", 
+        "slide": null, 
+        "title": "\u7528Python \u5f00\u53d1\u793e\u533aO2O\u5e73\u53f0"
+      }
+    }, 
     "id_nonehz": {
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
       "city": "\u676d\u5dde", 
@@ -997,18 +1072,6 @@
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
       "city": "\u4e0a\u6d77", 
       "city_shanghai": 1, 
-      "intro": "Pythoneer", 
-      "name": "Pythoneer", 
-      "topic": {
-        "preview": "5\u5206\u949f\u5206\u4eab\u4efb\u610f Pythonic \u4f53\u9a8c!-)", 
-        "slide": null, 
-        "title": "\u73b0\u573a\u62a5\u540d"
-      }
-    }, 
-    "id_nonesz": {
-      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
-      "city": "\u82cf\u5dde", 
-      "city_suzhou": 1, 
       "intro": "Pythoneer", 
       "name": "Pythoneer", 
       "topic": {
@@ -1051,6 +1114,30 @@
         "audio": "http://zoomq.qiniudn.com/pychina/PyCon2015China/tape/150913pycongz_lt1_tus_ZOOM0038.MP3", 
         "preview": "5\u5206\u949f\u5206\u4eab~ tus \u8fd9\u4e00\u5f00\u6e90\u9879\u76ee\u7684\u4f7f\u7528\u4f53\u9a8c", 
         "title": "tus \u65ad\u70b9\u4e0a\u4f20\u534f\u8bae\u53ca\u670d\u52a1\u4ecb\u7ecd"
+      }
+    }, 
+    "id_pinppsz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/sz_pingpp.png?imageView2/2/h/80", 
+      "city": "\u82cf\u5dde", 
+      "city_suzhou": 1, 
+      "intro": "Ping++ \u9ad8\u7ea7\u8f6f\u4ef6\u5de5\u7a0b\u5e08", 
+      "name": "\u738b\u6653\u73ae", 
+      "topic": {
+        "preview": "Python\u865a\u62df\u73af\u5883\u642d\u5efa", 
+        "slide": null, 
+        "title": "Virtualenv"
+      }
+    }, 
+    "id_qisz": {
+      "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff14/cpug-logo-188x188.png?imageView2/2/h/80", 
+      "city": "\u82cf\u5dde", 
+      "city_suzhou": 1, 
+      "intro": "\u5927\u5bb6\u6c47CTO", 
+      "name": "\u8001\u9f50", 
+      "topic": {
+        "preview": "...", 
+        "slide": null, 
+        "title": "\u4eba\u751f\u82e6\u77ed\uff0c\u6211\u7528python"
       }
     }, 
     "id_river": {
