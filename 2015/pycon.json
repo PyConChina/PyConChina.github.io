@@ -424,7 +424,7 @@
       "venue": "\u82cf\u5dde\u5de5\u4e1a\u56ed\u533a\u72ec\u5885\u6e56\u9ad8\u6559\u533a\u4ec1\u7231\u8def1\u53f7\uff08\u6587\u661f\u5e7f\u573a\u5bf9\u9762\uff09"
     }
   }, 
-  "cachebuster_qs": "?_t=1447207371", 
+  "cachebuster_qs": "?_t=1447207516", 
   "donators": [
     "tolerious", 
     "hackergodness", 
@@ -1048,7 +1048,7 @@
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/sz_ni.png?imageView2/2/h/80", 
       "city": "\u82cf\u5dde", 
       "city_suzhou": 1, 
-      "intro": "\u61d2\u4eba\u90a6CTO", 
+      "intro": "\u82cf\u5dde\u61d2\u4eba\u90a6\u4fe1\u606f\u79d1\u6280\u6709\u9650\u516c\u53f8 CTO\u56fd\u5185\u6700\u65e9\u4e00\u6279\u79fb\u52a8\u4e92\u8054\u7f51\u4ece\u4e1a\u4eba\u5458\uff0c\u5386\u7ecfJ2ME/Symbian/Android/iOS\u7b49\u591a\u79cd\u79fb\u52a8\u5f00\u53d1\u5e73\u53f0\u3002\u66fe\u5c31\u804c\u4e8eIBM\u3001\u4e2d\u56fd\u79fb\u52a8\uff0c\u5e26\u9886\u56e2\u961f\u5b8c\u6210\u8fc7\u4ebf\u7ea7\u7528\u6237\u7684\u4ea7\u54c1MobileMarke\u3002\u76ee\u524d\u5728\u4e92\u8054\u7f51\u521b\u4e1a\u4e2d\uff0cPython\u7231\u597d\u8005", 
       "name": "\u502a\u5c0f\u8f89", 
       "topic": {
         "preview": "\u7528Python \u5f00\u53d1\u793e\u533aO2O\u5e73\u53f0", 
@@ -1120,7 +1120,7 @@
       "avatar": "http://pyconcn.qiniudn.com/zoomquiet/stuff15/id/sz_pingpp.png?imageView2/2/h/80", 
       "city": "\u82cf\u5dde", 
       "city_suzhou": 1, 
-      "intro": "Ping++ \u9ad8\u7ea7\u8f6f\u4ef6\u5de5\u7a0b\u5e08", 
+      "intro": "Ping++ \u9ad8\u7ea7\u8f6f\u4ef6\u5de5\u7a0b\u5e08;\u719f\u6089 Java\u3001PHP\u3001Python\uff0c\u6709\u4e24\u5e74QT\u3001Android\u5f00\u53d1\u7ecf\u9a8c\uff0c\u4e24\u5e74\u652f\u4ed8\u884c\u4e1a\u5f00\u53d1\u7ecf\u9a8c\uff0c\u73b0\u5728\u4ece\u4e8b Ping++ \u7f51\u7ad9\u540e\u7aef\u5f00\u53d1\u3002", 
       "name": "\u738b\u6653\u73ae", 
       "topic": {
         "preview": "Python\u865a\u62df\u73af\u5883\u642d\u5efa", 
