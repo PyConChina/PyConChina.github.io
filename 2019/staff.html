@@ -1,0 +1,1371 @@
+<!doctype html>
+<html lang="cn">
+<head>
+
+    <meta charset="utf-8">
+	<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+	<title>PyCon China 2019</title>
+	<link rel="icon" href="./asset/img/favicon.png">
+	<link rel="shortcut icon" href="./asset/img/favicon.png">
+	<link rel="apple-touch-icon" href="./asset/img/favicon.png">
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145747646-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-145747646-1');
+</script>
+
+	<meta name="description" content="Python 中国 2019 大会官方网站">
+    <meta name="author" content="support@PyChina.org">
+    
+
+    <link rel="stylesheet" type="text/css" href="./asset/css/custom-animations.css" />
+	<link rel="stylesheet" type="text/css" href="./asset/css/style-berry-color.css" />
+
+    <style>
+			body { margin: 0; font: 13px/1.5 "Microsoft YaHei", "Helvetica Neue", "Sans-Serif"; min-height: 960px;}
+			.my-map { margin: 0 auto; width: 100%; height: 600px; }
+			.my-map .icon { background: url(http://lbs.amap.com/console/public/show/marker.png) no-repeat; }
+			.my-map .icon-cir { height: 31px; width: 28px; }
+			.my-map .icon-cir-blue { background-position: -11px -55px; }
+			.amap-container{height: 100%;}
+			.heading-mask{
+				background-color: rgba(0, 0, 0, .7);
+				position: absolute;
+				left: 0;
+				right: 0;
+				top:0;
+				bottom: 0;
+			}
+			.heading-block{
+				padding:0;
+			}
+			.speaker .photo-wrapper {
+				width: 140px;
+			}
+			.speaker .photo-wrapper img {
+				max-width: 100%;
+			}
+			.sponsors-wraper {
+				min-height: 300px;
+			}
+			.sponsors-wraper .support_name > .big{
+				color: #478c3d;
+			}
+			.speaker {
+				min-height: 300px;
+			}
+			.speaker .name {
+				letter-spacing: .1em;
+			}
+			.staff {
+				min-height: 250px;
+			}
+			.banner__btnWraper .btn {
+				margin-bottom: 12px;
+			}
+			.support_intro {
+				min-height: 100px;
+			}
+			@media(min-width: 1200px) {
+				.speaker__colWraper {
+					width: 20%;
+				}
+			}
+			@media(max-width: 767px) {
+				.navigation-header {
+					padding: 0 20px;
+				}
+				.navbar-toggle{
+					margin-top:20px;
+				}
+				.header-wrapper{
+					min-height:80px;
+					height:80px;
+				}
+			}
+
+			.btn {
+				letter-spacing: 0.29em;
+			}
+
+			.map-wrapper {
+				background: #000000;
+			}
+
+			.powered-by {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+			}
+
+			.powered-by > .powered-by-text {
+				font-size: 11px;
+				font-weight: 700;
+				text-decoration: none;
+				text-transform: uppercase;
+				letter-spacing: 0.3em;
+			}
+			
+		</style>
+
+	<!--[if lt IE 9]>
+		<script src="./asset/js/html5shiv.js"></script>
+		<script src="./asset/js/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+	
+
+    
+
+<header class="header header-black">
+	<div class="header-wrapper">
+		<div class="container">
+			<div class="col-sm-2 col-xs-12 navigation-header">
+				<a href="#" class="logo">
+					<img src="./asset/img/pycon_logo.png" alt="PyCon"  class="retina-hide">
+					<img src="./asset/img/pycon_logo@2x.png" alt="PyCon"  class="retina-show">
+				</a>
+				<button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation" aria-expanded="false" aria-controls="navigation">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div>
+
+			<div class="col-sm-10 col-xs-12 navigation-container">
+				<div id="navigation" class="navbar-collapse collapse">
+					<ul class="navigation-list pull-left light-text">
+						
+  
+    
+    <li class="navigation-item">
+        
+  
+    <a href="./#" class="navigation-link">首页2019</a>
+  
+
+    </li>
+    
+  
+    
+    <li class="navigation-item">
+        
+  
+    <a href="./#speakers" class="navigation-link">讲师&主题</a>
+  
+
+    </li>
+    
+  
+    
+    <li class="navigation-item">
+        
+  
+    <a href="https://www.bagevent.com/event/5886131" class="navigation-link">Tutorial</a>
+  
+
+    </li>
+    
+  
+    
+    <li class="navigation-item">
+        
+  
+    <a href="./#schedule" class="navigation-link">大会日程</a>
+  
+
+    </li>
+    
+  
+    
+    <li class="navigation-item">
+        
+  
+    <a href="https://www.wjx.cn/jq/43310160.aspx" class="navigation-link">调研</a>
+  
+
+    </li>
+    
+  
+    
+    <li class="navigation-item">
+        
+  
+    <a href="./staff.html" class="navigation-link">工作人员</a>
+  
+
+    </li>
+    
+  
+    
+       <li class="navigation-item dropdown">
+            <a class="navigation-link dropdown-toggle" data-toggle="dropdown">往届回顾</a>
+            <ul class="dropdown-menu">
+                <li class="navigation-item">
+                    
+                        
+  
+    <a href="http://cn.pycon.org/2018/" class="navigation-link">2018</a>
+  
+
+                    
+                        
+  
+    <a href="http://cn.pycon.org/2017/" class="navigation-link">2017</a>
+  
+
+                    
+                        
+  
+    <a href="http://cn.pycon.org/2016/" class="navigation-link">2016</a>
+  
+
+                    
+                        
+  
+    <a href="http://cn.pycon.org/2015/" class="navigation-link">2015</a>
+  
+
+                    
+                        
+  
+    <a href="http://cn.pycon.org/2014/" class="navigation-link">2014</a>
+  
+
+                    
+                        
+  
+    <a href="http://cn.pycon.org/2013/" class="navigation-link">2013</a>
+  
+
+                    
+                        
+  
+    <a href="http://cn.pycon.org/2012/" class="navigation-link">2012</a>
+  
+
+                    
+                        
+  
+    <a href="http://cn.pycon.org/2011/" class="navigation-link">2011</a>
+  
+
+                    
+                </li>
+            </ul>
+        </li>
+    
+  
+    
+    <li class="navigation-item">
+        
+  
+    <a href="./en/index.html" class="navigation-link">EN</a>
+  
+
+    </li>
+    
+  
+
+					</ul>
+					<a href="./#" class="pull-right buy-btn">购票</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+    
+<!-- <section id="about" class="section align-center">
+    <div class="container">
+        <span class="icon section-icon icon-multimedia-12"></span>
+        <h3>PyCon China 2019 工作人员和志愿者</h3>
+        <br />
+        <br />
+        <div style="text-align: center; font-size: 16px; line-height: 50px;">
+            None
+        </div>
+    </div>
+</section> -->
+
+<section id="volunteers" class="section align-center">
+    
+    
+<div class="container text-left">
+  <h4>总协调组</h4>
+  <br />
+  <br />
+  
+      
+      
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/xinqing.png" alt="辛庆" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">辛庆</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="http://zoomquiet.io/" target="_blank">
+                    <img src="./asset/images/people/dama.png" alt="Zoom.Quiet (大妈)" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">Zoom.Quiet (大妈)</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://www.zhihu.com/people/li-zhe-ao/activities" target="_blank">
+                    <img src="./asset/images/people/lizheao.png" alt="李者璈" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">李者璈</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://github.com/jueduizone" target="_blank">
+                    <img src="./asset/images/people/xuyin.jpg" alt="许银" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">许银</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="http://greyli.com" target="_blank">
+                    <img src="./asset/images/people/lihui.png" alt="李辉" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">李辉</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+  
+</div>
+
+    
+    
+<div class="container text-left">
+  <h4>媒体组</h4>
+  <br />
+  <br />
+  
+      
+      
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://github.com/QueenaChao" target="_blank">
+                    <img src="./asset/images/people/chaoqian.jpg" alt="晁倩" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">晁倩</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://github.com/Wangalan30" target="_blank">
+                    <img src="./asset/images/people/wangmenglan.jpg" alt="王梦兰" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">王梦兰</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="http://greyli.com" target="_blank">
+                    <img src="./asset/images/people/lihui.png" alt="李辉" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">李辉</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+  
+</div>
+
+    
+    
+<div class="container text-left">
+  <h4>财务组</h4>
+  <br />
+  <br />
+  
+      
+      
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://github.com/Wangalan30" target="_blank">
+                    <img src="./asset/images/people/wangmenglan.jpg" alt="王梦兰" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">王梦兰</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+  
+</div>
+
+    
+    
+<div class="container text-left">
+  <h4>市场组</h4>
+  <br />
+  <br />
+  
+      
+      
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/xinqing.png" alt="辛庆" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">辛庆</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+  
+</div>
+
+    
+    
+<div class="container text-left">
+  <h4>翻译组</h4>
+  <br />
+  <br />
+  
+      
+      
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://github.com/Wangalan30" target="_blank">
+                    <img src="./asset/images/people/wangmenglan.jpg" alt="王梦兰" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">王梦兰</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/liuqianwen.jpg" alt="刘茜文" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">刘茜文</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://github.com/nicoconionno" target="_blank">
+                    <img src="./asset/images/people/wangxiaoke.jpg" alt="王晓珂" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">王晓珂</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="http://greyli.com" target="_blank">
+                    <img src="./asset/images/people/lihui.png" alt="李辉" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">李辉</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+  
+</div>
+
+    
+    
+<div class="container text-left">
+  <h4>网站组</h4>
+  <br />
+  <br />
+  
+      
+      
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="http://hexiangyu.me/" target="_blank">
+                    <img src="./asset/images/people/hexiangyu.png" alt="何翔宇" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">何翔宇</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="http://greyli.com" target="_blank">
+                    <img src="./asset/images/people/lihui.png" alt="李辉" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">李辉</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://haoyu.love" target="_blank">
+                    <img src="./asset/images/people/haoyu.jpg" alt="郝昱" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">郝昱</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/tangmeng.jpg" alt="唐萌" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">唐萌</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/duantianjiao.jpg" alt="段天骄" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">段天骄</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+  
+</div>
+
+    
+    
+<div class="container text-left">
+  <h4>采购组</h4>
+  <br />
+  <br />
+  
+      
+      
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://github.com/nicoconionno" target="_blank">
+                    <img src="./asset/images/people/wangxiaoke.jpg" alt="王晓珂" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">王晓珂</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+  
+</div>
+
+    
+    
+<div class="container text-left">
+  <h4>设计组</h4>
+  <br />
+  <br />
+  
+      
+      
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://mxuan.zcool.com.cn" target="_blank">
+                    <img src="./asset/images/people/wumiaoxuan.jpg" alt="吴妙璇" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">吴妙璇</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+  
+</div>
+
+    
+    
+<div class="container text-left">
+  <h4>会务组</h4>
+  <br />
+  <br />
+  
+      
+      
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://github.com/jueduizone" target="_blank">
+                    <img src="./asset/images/people/xuyin.jpg" alt="许银" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">许银</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/xinqing.png" alt="辛庆" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">辛庆</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://github.com/QueenaChao" target="_blank">
+                    <img src="./asset/images/people/chaoqian.jpg" alt="晁倩" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">晁倩</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://www.zhihu.com/people/li-zhe-ao/activities" target="_blank">
+                    <img src="./asset/images/people/lizheao.png" alt="李者璈" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">李者璈</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://github.com/Wangalan30" target="_blank">
+                    <img src="./asset/images/people/wangmenglan.jpg" alt="王梦兰" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">王梦兰</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://mxuan.zcool.com.cn" target="_blank">
+                    <img src="./asset/images/people/wumiaoxuan.jpg" alt="吴妙璇" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">吴妙璇</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="http://river.aipy.org" target="_blank">
+                    <img src="./asset/images/people/river.jpg" alt="River" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">River</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+  
+</div>
+
+    
+    
+<div class="container text-left">
+  <h4>摄影组</h4>
+  <br />
+  <br />
+  
+      
+      
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://www.ossky.org" target="_blank">
+                    <img src="./asset/images/people/dingjunhao.jpg" alt="丁俊豪" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">丁俊豪</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+  
+</div>
+
+    
+    
+<div class="container text-left">
+  <h4>各城市负责人</h4>
+  <br />
+  <br />
+  
+      
+      
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/xinqing.png" alt="辛庆" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">辛庆</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://www.zhihu.com/people/li-zhe-ao/activities" target="_blank">
+                    <img src="./asset/images/people/lizheao.png" alt="李者璈" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">李者璈</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/yemin.jpg" alt="叶敏" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">叶敏</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/daishaofei.png" alt="代少飞" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">代少飞</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="http://river.aipy.org" target="_blank">
+                    <img src="./asset/images/people/river.jpg" alt="River" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">River</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+  
+</div>
+
+    
+    
+<div class="container text-left">
+  <h4>出品人</h4>
+  <br />
+  <br />
+  
+      
+      
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/xinqing.png" alt="辛庆" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">辛庆</h3>
+                <p class="text-alt"><small>PyCon China 组委会总负责人</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="http://zoomquiet.io" target="_blank">
+                    <img src="./asset/images/people/dama.png" alt="Zoom.Quiet (大妈)" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">Zoom.Quiet (大妈)</h3>
+                <p class="text-alt"><small>蟒营（101.camp） 首席布道官</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="http://greyli.com" target="_blank">
+                    <img src="./asset/images/people/lihui.png" alt="李辉" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">李辉</h3>
+                <p class="text-alt"><small>独立 Web 开发者, Flask 维护者</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://www.zhihu.com/people/prodesire" target="_blank">
+                    <img src="./asset/images/people/wangbinxin.png" alt="王斌鑫" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">王斌鑫</h3>
+                <p class="text-alt"><small>阿里云 - 高级开发工程师</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://moelove.info" target="_blank">
+                    <img src="./asset/images/people/zhangjintao.png" alt="张晋涛" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">张晋涛</h3>
+                <p class="text-alt"><small>网易有道 - 资深运维开发</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://www.zhihu.com/people/lechuang" target="_blank">
+                    <img src="./asset/images/people/chenshixin.png" alt="陈世欣" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">陈世欣</h3>
+                <p class="text-alt"><small>ahaschool-首席运营官</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/zhanghongke.png" alt="张宏柯" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">张宏柯</h3>
+                <p class="text-alt"><small>点我达 - 资深开发工程师</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/dengliangju.png" alt="邓良驹" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">邓良驹</h3>
+                <p class="text-alt"><small>秘塔科技 - 工程总监</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/jonhuang.png" alt="Jon Huang" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">Jon Huang</h3>
+                <p class="text-alt"><small>yield.im - 创始人</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="https://www.zhihu.com/people/li-zhe-ao/activities" target="_blank">
+                    <img src="./asset/images/people/lizheao.png" alt="李者璈" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">李者璈</h3>
+                <p class="text-alt"><small>饿了么 - 资深开发工程师</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="http://qinxuye.me/" target="_blank">
+                    <img src="./asset/images/people/qinxuye.png" alt="秦续业" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">秦续业</h3>
+                <p class="text-alt"><small>阿里巴巴 - 技术专家</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/zhumingfang.png" alt="朱明放" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">朱明放</h3>
+                <p class="text-alt"><small>赛宁网安-信息安全工程师</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/shiyuankun.jpg" alt="石元坤" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">石元坤</h3>
+                <p class="text-alt"><small>Intel 软件工程师</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    <a href="http://river.aipy.org" target="_blank">
+                    <img src="./asset/images/people/river.jpg" alt="River" class="img-responsive">
+                    </a>
+                </div>
+                <h3 class="name">River</h3>
+                <p class="text-alt"><small>优趣天下 CTO,  QPython 开发者</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/daishaofei.png" alt="代少飞" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">代少飞</h3>
+                <p class="text-alt"><small>优弈科技 - 资深开发工程师</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/hexiangyu.png" alt="何翔宇" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">何翔宇</h3>
+                <p class="text-alt"><small>字节跳动 - 研发工程师</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/yemin.jpg" alt="叶敏" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">叶敏</h3>
+                <p class="text-alt"><small>诺基亚贝尔 自动化测试教练 自动化测试架构师</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/zhangjiaojie.png" alt="张校捷" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">张校捷</h3>
+                <p class="text-alt"><small>英伟达（上海）科技有限公司  资深深度学习架构工程师</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/dingjunhao.jpg" alt="丁俊豪" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">丁俊豪</h3>
+                <p class="text-alt"><small>享道出行 DevOps</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/gaojunteng.png" alt="高俊腾" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">高俊腾</h3>
+                <p class="text-alt"><small>腾讯 - 工程师</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/default.jpg" alt="陈绍琛" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">陈绍琛</h3>
+                <p class="text-alt"><small>深圳花果山科技有限公司 - Python 开发工程师</small></p>
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+  
+</div>
+
+    
+    
+<div class="container text-left">
+  <h4>现场志愿者</h4>
+  <br />
+  <br />
+  
+      
+      
+      <!-- 每行显示3个志愿者 -->
+        
+        
+        <div class="col-sm-4 speaker__colWraper col-xs-6">
+            <div class="speaker staff">
+                <div class="photo-wrapper rounded">
+                    
+                    <img src="./asset/images/people/default.jpg" alt="统计中……" class="img-responsive">
+                    
+                </div>
+                <h3 class="name">统计中……</h3>
+                
+            </div>
+        </div> <!-- ./志愿者 -->
+        
+    
+  
+</div>
+
+    
+</section>
+
+    <section class="footer">
+	<div class="footer-base">
+		<div class="container">
+            <div class="powered-by">
+                <div class="powered-by-text">Powered By</div>
+                <div class="powered-by-img"><img width="200px" src="../asset/images/sponsors/azure2.png" alt="azure"></div>
+            </div>
+			<div class="col-md-6">
+				<ul class="footer-nav">
+					<li class="footer-nav-item">
+							<a href="https://pychina.org/#gh" target="_blank"><i class="fa fa-2x fa-wechat"></i></a> &nbsp;&nbsp;
+							<a href="https://twitter.com/PyConChina" target="_blank"><i class="fa fa-2x fa-twitter"></i></a> &nbsp;
+							<a href="https://facebook.com/PyConChina" target="_blank"><i class="fa fa-2x fa-facebook"></i></a> &nbsp;
+							<a href="https://weibo.com/PyConCN" target="_blank"><i class="fa fa-2x fa-weibo"></i></a> &nbsp;
+							<a href="https://github.com/PyConChina" target="_blank"><i class="fa fa-2x fa-github"></i></a> &nbsp;
+							<a href="https://www.youtube.com/channel/UC6wdANyncX4Bc59wTVKrUlw" target="_blank"><i class="fa fa-2x fa-youtube"></i></a> &nbsp;
+							<a href="https://space.bilibili.com/474764697" target="_blank"><img src="https://www.bilibili.com/favicon.ico" width="20"></a> &nbsp;
+					</li>
+					<li class="footer-nav-item">
+						<a style="text-transform: unset;letter-spacing: 0.1em;" href="mailto: conference@python-china.org.cn">Contact Us:  conference@python-china.org.cn</a>
+					</li>
+
+				</ul>
+			</div>
+
+			<div class="col-md-6 align-right">
+				<p class="text-alt"><small>All Rights Reserved © 2019</small></p>
+			</div>
+
+		</div>
+	</div>
+</section>
+
+    <!--[if lt IE 9]>
+		<script type="text/javascript" src="./asset/js/jquery-1.11.3.min.js?ver=1"></script>
+	<![endif]-->
+	<!--[if (gte IE 9) | (!IE)]><!-->
+		<script type="text/javascript" src="./asset/js/jquery-2.1.4.min.js?ver=1"></script>
+	<!--<![endif]-->
+
+	<!-- <script src="https://maps.googleapis.com/maps/api/js?v=3&libraries=places"></script> -->
+	<script type="text/javascript" src="./asset/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="./asset/js/jquery.validate.min.js"></script>
+	<script type="text/javascript" src="./asset/js/toastr.min.js"></script>
+	<script type="text/javascript" src="./asset/js/jquery.waypoints.min.js"></script>
+	<script type="text/javascript" src="./asset/js/jquery.appear.js"></script>
+	<script type="text/javascript" src="./asset/js/jquery.plugin.js"></script>
+	<script type="text/javascript" src="./asset/js/masonry.pkgd.min.js"></script>
+	<script type="text/javascript" src="./asset/js/modal-box.js"></script>
+	<script type="text/javascript" src="./asset/js/ventcamp.js"></script>
+	<script src="https://webapi.amap.com/maps?v=1.3&key=8325164e247e15eea68b59e89200988b"></script>
+	<script>
+		!function(){
+			var infoWindow, map, level = 13,
+				center = {lng: 121.540962, lat: 31.262062},
+				features = [{type: "Marker", name: "", desc: "", color: "red", icon: "cir", offset: {x: -9, y: -31}, lnglat: {lng: 121.540962, lat: 31.262062}}];
+
+			function loadFeatures(){
+				for(var feature, data, i = 0, len = features.length, j, jl, path; i < len; i++){
+					data = features[i];
+					switch(data.type){
+						case "Marker":
+							feature = new AMap.Marker({ map: map, position: new AMap.LngLat(data.lnglat.lng, data.lnglat.lat),
+								zIndex: 3, extData: data, offset: new AMap.Pixel(data.offset.x, data.offset.y), title: data.name,
+								content: '<div class="icon icon-' + data.icon + ' icon-'+ data.icon +'-' + data.color +'"></div>' });
+							break;
+						case "Polyline":
+							for(j = 0, jl = data.lnglat.length, path = []; j < jl; j++){
+								path.push(new AMap.LngLat(data.lnglat[j].lng, data.lnglat[j].lat));
+							}
+							feature = new AMap.Polyline({ map: map, path: path, extData: data, zIndex: 2,
+								strokeWeight: data.strokeWeight, strokeColor: data.strokeColor, strokeOpacity: data.strokeOpacity });
+							break;
+						case "Polygon":
+							for(j = 0, jl = data.lnglat.length, path = []; j < jl; j++){
+								path.push(new AMap.LngLat(data.lnglat[j].lng, data.lnglat[j].lat));
+							}
+							feature = new AMap.Polygon({ map: map, path: path, extData: data, zIndex: 1,
+								strokeWeight: data.strokeWeight, strokeColor: data.strokeColor, strokeOpacity: data.strokeOpacity,
+								fillColor: data.fillColor, fillOpacity: data.fillOpacity });
+							break;
+						default: feature = null;
+					}
+					if(feature){ AMap.event.addListener(feature, "click", mapFeatureClick); }
+				}
+			}
+
+			function mapFeatureClick(e){
+				if(!infoWindow){ infoWindow = new AMap.InfoWindow({autoMove: true}); }
+				var extData = e.target.getExtData();
+				infoWindow.setContent("<h5>" + extData.name + "</h5><div>" + extData.desc + "</div>");
+				infoWindow.open(map, e.lnglat);
+			}
+
+			map = new AMap.Map("mapContainer", {center: new AMap.LngLat(center.lng, center.lat), level: level});
+
+			loadFeatures();
+
+			map.on('complete', function(){
+				map.plugin(["AMap.ToolBar", "AMap.Scale"], function(){
+					map.addControl(new AMap.ToolBar);
+				map.addControl(new AMap.Scale);
+				});
+			})
+
+		}();
+			</script>
+
+    
+</body>
+</html>

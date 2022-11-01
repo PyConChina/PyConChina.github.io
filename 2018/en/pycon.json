@@ -1,0 +1,1635 @@
+{
+  "city_beijing": {
+    "address": "<b>Address</b>\uff1a(Beijing, eastern city)New Yunnan Crowne Plaza Hotel, Yunan Building, No. 12, Qisheng Middle Street, Northeast Third Ring, Chaoyang District", 
+    "agenda": [
+      {
+        "detail": [
+          {
+            "time": "09:00-09:20", 
+            "topic": "Opening remarks - pay tribute to pythoneer"
+          }, 
+          {
+            "speaker": "id_hongqiangning", 
+            "time": "09:20-10:00"
+          }, 
+          {
+            "speaker": "id_eziomelotti", 
+            "time": "10:00-10:40"
+          }, 
+          {
+            "time": "10:40-11:20", 
+            "topic": "\u4e3b\u9898\u5f85\u5b9a \u3010\u6e05\u98ce \uff0c\u5e01\u4fe1\u3011"
+          }, 
+          {
+            "speaker": "id_lilong", 
+            "time": "11:20-12:00"
+          }
+        ], 
+        "name": "The main venue"
+      }, 
+      {
+        "detail": [
+          {
+            "speaker": "id_zhangxiang", 
+            "time": "13:00-13:45"
+          }, 
+          {
+            "speaker": "id_nightynight", 
+            "time": "13:45-14:30"
+          }, 
+          {
+            "speaker": "id_gashero", 
+            "time": "14:30-15:15"
+          }, 
+          {
+            "time": "15:15-15:30", 
+            "topic": "Tea Break"
+          }, 
+          {
+            "speaker": "id_Lusheng", 
+            "time": "15:30-16:15"
+          }, 
+          {
+            "speaker": "id_yaogangqiang", 
+            "time": "16:15-17:00"
+          }, 
+          {
+            "speaker": "id_hexiangyu", 
+            "time": "17:00-17:15"
+          }, 
+          {
+            "time": "17:15-17:30", 
+            "topic": "Ending, Lottery, Taking photo"
+          }
+        ], 
+        "name": "breakout venue 1: Python Language Features"
+      }, 
+      {
+        "detail": [
+          {
+            "speaker": "id_cuiqingcai", 
+            "time": "13:00-13:45"
+          }, 
+          {
+            "speaker": "id_lijinhong", 
+            "time": "13:45-14:30"
+          }, 
+          {
+            "speaker": "id_qinxuye", 
+            "time": "14:30-15:15"
+          }, 
+          {
+            "time": "15:15-15:30", 
+            "topic": "Tea Break"
+          }, 
+          {
+            "speaker": "id_wangshun", 
+            "time": "15:30-16:15"
+          }, 
+          {
+            "speaker": "id_chenxiaoyou", 
+            "time": "16:15-17:00"
+          }, 
+          {
+            "speaker": "id_yizhe", 
+            "time": "17:00-17:15"
+          }, 
+          {
+            "time": "17:15-17:30", 
+            "topic": "Ending, Lottery, Taking photo"
+          }
+        ], 
+        "name": "breakout venue 2: Machine Learning & Big Data Session"
+      }, 
+      {
+        "detail": [
+          {
+            "speaker": "id_heshiyou", 
+            "time": "13:00-13:45"
+          }, 
+          {
+            "speaker": "id_kongtaoxun", 
+            "time": "13:45-14:30"
+          }, 
+          {
+            "speaker": "id_zhangjintao", 
+            "time": "14:30-15:15"
+          }, 
+          {
+            "time": "15:15-15:30", 
+            "topic": "Tea Break"
+          }, 
+          {
+            "speaker": "id_dengliangju", 
+            "time": "15:30-16:15"
+          }, 
+          {
+            "speaker": "id_lihui", 
+            "time": "16:15-17:00"
+          }, 
+          {
+            "speaker": "id_zhouxiaomao", 
+            "time": "17:00-17:15"
+          }, 
+          {
+            "time": "17:15-17:30", 
+            "topic": "Ending, Lottery, Taking photo"
+          }
+        ], 
+        "name": "breakout venue 3: Web Session ( Web Development / Network Security / Crawler / SDK / API Design )"
+      }, 
+      {
+        "detail": [
+          {
+            "speaker": "id_changhui", 
+            "time": "13:00-13:45"
+          }, 
+          {
+            "speaker": "id_zhaowentian", 
+            "time": "13:45-14:30"
+          }, 
+          {
+            "speaker": "id_guolizhuo", 
+            "time": "14:30-15:15"
+          }, 
+          {
+            "time": "14:45-15:00", 
+            "topic": "Tea Break"
+          }, 
+          {
+            "time": "15:00-17:15", 
+            "topic": "\u3010Work Shop\u3011take computer by yourself"
+          }, 
+          {
+            "time": "17:15-17:30", 
+            "topic": "Ending, Lottery, Taking photo"
+          }
+        ], 
+        "name": "breakout venue 4: Python Session for Women"
+      }
+    ], 
+    "buy_ticket_url": "http://www.huodongxing.com/event/7451673665100?td=8211933664158", 
+    "city_icon": "beijing_icon.png", 
+    "city_name": "Beijing", 
+    "description": "<p>In recent years, Python has excellent performance in the fields of Internet, artificial intelligence, scientific computing, game, cloud computing, big data, devops, and enterprise software. </p>\n<p>PyCon is a global technology conference for the Python language community. PyCon China is an Annual meeting of Python, which licensed by PyCon and hosted by CPyUG(Chinese Python User Group). In the past 7 years, it has successfully held more than 20 times in Beijing, Shanghai, Guangzhou, Zhuhai, Hangzhou, Suzhou, Xi'an and Hefei.\u00a0</p>\n<p>The  8th China Python Developers Conference PyCon China 2018 is sponsored by PyChina.org, organized by 30 organizers from CPyUG / TopGeek and nearly 150 volunteers in Beijing, Shanghai, Shenzhen, Hangzhou and Chengdu. It will commit to  the development and application of various Python-related technologies in the fields of Internet and enterprise applications. </p>\n<p>With the rapid development of big data and artificial intelligence, Python brings huge opportunities to developers.</p>\n<p>Each Pythoner has their own PyCon conference in mind, and the organizing committee of the conference is also working on a conference that will help Pythoner. So this year \u2014\u2014 in the 8th year of PyCon China, we will break the past conventions and welcome all developers who are committed to promoting Python technology to join our organizing committee, lecturers, and volunteers. Together with the famous Python experts and enthusiastic Python promotion ambassadors to promote the Python language and its latest applications to the whole society. Let us work together to make the PyCon conference become an big party of gathering and sharing of experiences and achievements for pythoners once a year.</p>\n<p>The main venue of PyCon China 2018 is located in Beijing, because Beijing is the most concentrated city of Pythoners. We will try our best to meet the demands of Pythoners in various fields with the main venue of thousand people summit in the morning and the 5-6 breakout venue in the afternoon. At the same time, the Python special session for women was opened for the first time under the advice of Beijing core organizer Zheao Lee. </p>\n<p>Shanghai, Hangzhou, Shenzhen and Chendu are the breakout venues. We will coordinate and arrange the specific sharing schedules according to the application situation of subject, the willingness of everyone to participate, and the local characteristics.</p>\n<p>In the case where the lecturer and the venue are mature, we welcome Pyhoners from other regions to launch the PyCon conference, in order to making more Pythoners talk and share together, and making more people understand, recognize, use Python and become experts. </p>\n", 
+    "detail_url": "city_beijing.html", 
+    "donators": [
+      {
+        "avatar": "personal.png", 
+        "name": "Mxuan_\u5c0f\u9519"
+      }, 
+      {
+        "avatar": "personal.png", 
+        "name": "Silence.M"
+      }, 
+      {
+        "avatar": "personal.png", 
+        "name": "Cynthia Xin"
+      }, 
+      {
+        "avatar": "personal.png", 
+        "name": "kavin"
+      }, 
+      {
+        "avatar": "personal.png", 
+        "name": "\u6731\u660e\u653e"
+      }, 
+      {
+        "avatar": "personal.png", 
+        "name": "\u8521\u742a\u660e"
+      }
+    ], 
+    "intro": "Python Language Features | Machine Learning & Big Data Session | Web Session ( Web Development / Network Security / Crawler / SDK / API Design ) | Python Session for Women", 
+    "speakers": {
+      "id_Lusheng": {
+        "avatar": "lecturer_lvlusheng.png", 
+        "intro": "Python Backend Developer at day, Rustacean at night. Author of PyO3, active in the Python community and the Rust community, also enthusiastic and hardworking in open source enthusiast.", 
+        "name": "Lusheng Lv", 
+        "title": "Ant Financial Backend development", 
+        "topic": {
+          "preview": "This topic will share the current status and ideas for useing Rust code in Python.", 
+          "title": "How to use Rust in Python"
+        }
+      }, 
+      "id_changhui": {
+        "avatar": "lecturer_changhui.png", 
+        "intro": "She has provided consulting and delivery services for microservices and website construction at home and abroad. I am good at testing drive development and software architecture evolution. Passionate about technology, passionate about agile practices, and a practitioner of continuous delivery.", 
+        "name": "Hui Chang", 
+        "title": "Consultant of ThoughtWorks", 
+        "topic": {
+          "preview": "Building a website is a very fulfilling thing. In the eyes of most people who are interested in driving development, the simple use of Python and its components is complicated by the fact that each module is built into a complete set of solutions. Now that OAuth2.0 and OIDC are standard, is it useful to integrate an identity authentication module into a website? AWS provides some good ideas on development costs, development cycles, and controllability. So, how should we use building blocks to build web applications step by step? Stay tuned.", 
+          "title": "What can be done with Python \u2014 Implement a web application that includes an identity authentication module"
+        }
+      }, 
+      "id_chenxiaoyou": {
+        "avatar": "lecturer_chenxiaoyou.png", 
+        "intro": "Xiaoyou Chen, founder of Shanghai Wayne Kailuan Software Technology Co., Ltd., has worked as a quantitative trader and fund manager in large-scale quantitative private equity funds and developed the vn.py quantitative trading framework, which is currently one of the world''s largest open source quantitative trading projects (Github Star 6071).  His current focus is mainly on development of quantitative trading systems in the blockchain and digital currency sectors.", 
+        "name": "Xiaoyou Chen", 
+        "title": "Founder of Shanghai Wayne Kailuan Software Technology Co., Ltd.", 
+        "topic": {
+          "preview": "The new asset types (digital currency and vouchers) brought about by the blockchain technology revolution and its decentralized infrastructure are bringing dramatic changes to the global asset management industry. With its mature large-scale financial application background and active and active user community, the Python language has become the preferred solution in the blockchain asset management business. This presentation aims to share the application of Python in the various ecological aspects of blockchain asset management and to explore future directions.", 
+          "title": "Python in Blockchain Asset Management"
+        }
+      }, 
+      "id_cuiqingcai": {
+        "avatar": "lecturer_cuiqingcai.png", 
+        "intro": "Qingcai Cui, master of Beihang University, author of \u300aPython3\u7f51\u7edc\u722c\u866b\u5f00\u53d1\u5b9e\u6218\u300b, Blog bloggers of cuiqingcai.com, the number of blog reading about Crawler has exceeded one million, Big Data Engineer of Microsoft China, lecturer of  Tianshan Intelligent and Netease Cloud Classroom, and currently engaged in the research of conversational chat direction.", 
+        "name": "Qingcai Cui / Jingmi", 
+        "title": "Big Data Engineer of Microsoft China", 
+        "topic": {
+          "preview": "This presentation will introduce the knowledge and skills of using Python for web crawler development in five aspects: crawling, parsing, storing, anti-climbing, and acceleration. It introduces how to take different measures to efficiently capture data in different scenarios, including Web crawling, App crawling, data storage, agent purchasing, verification code cracking, distributed crawling and management, intelligent parsing, etc., and also introduce some commonly used toolkits in combination with different scenarios. All of the speech content are the summary of the experience of the speaker since the web crawler research process.", 
+          "title": "Robust and efficient web crawler"
+        }
+      }, 
+      "id_dengliangju": {
+        "avatar": "lecturer_dengliangju.png", 
+        "intro": "He has been working for more than 5 years, focusing on the Python technology stack server architecture design and framework development. He used to be the R&D engineer of the Lea cloud computing PaaS platform and the head of the data department of Cheetah Mobile AILab. He is currently the director of engineering of the metasota. In the spare time, he often exchange ideas and guide new people in the technical community with Python developers.", 
+        "name": "Liangju Deng", 
+        "title": "metasota / Director of Engineering", 
+        "topic": {
+          "preview": "The development of Web technology has been quite complicated so far. The related projects are \u201csmall and no internal, and they are nothing short\u201d. Various front and rear end frames and middlewares are numerous and numerous. Many introductory developers have even worked for three or five years, limited to the use of a certain two frameworks, and regarded their own fancy framework as a standard. They are only skilled in the interface after the framework is packaged. Why does the framework exist and why in that design? When encountering difficult problems, and how to solve and optimize, it is not enough. This topic is based on the history of Web technology development, helping listeners to clearly understand the role and key points of Web-related core technologies, so that they can have clear goals and clear ideas when solving various problems encountered in learning work in the future. ", 
+          "title": "Taking history as a guide: Understand the Web core technology system in half an hour"
+        }
+      }, 
+      "id_eziomelotti": {
+        "avatar": "lecturer_eziomelotti.png", 
+        "intro": "Ezio Melotti is a software engineer with almost 20 years of experience in software development and programming with several different languages. Born in Milan (Italy), he decided to move to Turku (Finland) in the year 2007, where he graduated and then taught at the Turku University of Applied Sciences. In 2009 he became CPython Core Developer and contributed over 1000 changesets over the years. He is also the maintainer of the bug tracker and the html package and did extensive work on the test suite, on the documentation, and on the standard library.", 
+        "name": "Ezio Melotti", 
+        "title": "CPython Core Developer", 
+        "topic": {
+          "preview": "Python is an open-source language where everyone can contribute.\u00a0 Over the years the workflow used by both contributors and core developers changed dramatically, from patches sent via email to pull requests sent on GitHub.\u00a0 With this talk I want to unveil what currently happens ''behind the scenes'' of CPython and how you can get involved and be part of the open source community that allows Python to be one of the most popular programming languages.", 
+          "title": "The Development Process of CPython"
+        }
+      }, 
+      "id_gashero": {
+        "avatar": "lecturer_gashero.png", 
+        "intro": "He started learning Python in 2005 and have shared millions of words of Python notes and translated documents. Former Tudou Assistant Architect, former Crust Network Founding Technical Director, former deepglint engineer, former RoboTerra Software Engineering Director. Fans of Radio/model/robot.", 
+        "name": "Gashero", 
+        "title": "Independent developer", 
+        "topic": {
+          "preview": "This speech will systematically introduce the causes of GIL and the side effects it brings. And bring a complete set of solutions to properly circumvent GIL to better improve the performance of Python online.", 
+          "title": "New Pose of Unlock GIL"
+        }
+      }, 
+      "id_guolizhuo": {
+        "avatar": "lecturer_guolizhuo.png", 
+        "intro": "He joined IT in 2000 and has been engaged in communication/network security for a long time. He has passed the qualifications of well-known foreign companies, also participated in the entrepreneurial boom. He is working on an information security company currently. In his spare time, he is committed to popularizing Python programming, making Python a tool that everyone can use, organizing multiple Python public interest qq groups, and spreading introductory courses through live broadcast. H e is interested in quantitative investment, and experienced losses in stocks, futures, cryptocurrencies and other varieties, and focused on fund investment, risk reduction, and stable income gradually.", 
+        "name": "Leezhuo Guo", 
+        "title": "IT Veteran / Fan of Python", 
+        "topic": {
+          "preview": "Add extra protection to yourself by means of fixed investment<br/>\n1.What is the automatic investment plan (AIP)?<br/>\n2.Advantages of the automatic investment plan (AIP)<br/>\n3.Shortcomings of the automatic investment plan (AIP)<br/>\n4.Advantage about programmers do the automatic investment plan (AIP)<br/>\n5.How to make automatic investment plan (AIP) with Python\n", 
+          "title": "What about our pension?"
+        }
+      }, 
+      "id_heshiyou": {
+        "avatar": "lecturer_heshiyou.png", 
+        "intro": "Start-up & Architect @ Guangzhou, China CTO @ ifanr.com, in charge of cloud.minapp.com, a serverless platform designed for miniprogram apps.Art lover / addicted in creative activities.", 
+        "name": "Ernest He", 
+        "title": "CTO of ifanr", 
+        "topic": {
+          "preview": "In recent years, PWA and miniprogram become more and more popular in app developments; in the mean while BaaS and FaaS also be loved by more and more developers. In this session, the speaker will introduce how ifanr team build a serverless platform which designed for miniprogram developers, using Python and Django.", 
+          "title": "Form 0-1, create a Serverless platform by using Python"
+        }
+      }, 
+      "id_hexiangyu": {
+        "avatar": "lecturer_hexiangyu.png", 
+        "intro": "updating", 
+        "name": "Xiangyu He", 
+        "title": "Python engineer of TCL Internet Division", 
+        "topic": {
+          "preview": "Python is a programming language with multiple inheritance capabilities. In object-oriented inheritance, the invocation of methods is closely related to the order of inheritance. Python uses the C3 linearization algorithm to calculate the MRO as the only criterion for the method call sequence, and understanding MRO can help us in Python object-oriented programming.", 
+          "title": "Understand of Python MRO"
+        }
+      }, 
+      "id_hongqiangning": {
+        "avatar": "lecturer_hongqiangning.png", 
+        "intro": "founder and CTO of einplus, has been programming for more than 30 years, 12 years of experience in the Internet industry, and currently in the commercial dialogue robot entrepreneurship. Former Chief Architect of Douban and Chief Architect of CreditEase Big Data Innovation Center. A veteran Python developer who is one of the founders of the Chinese Python User Group (CPUG). He is the first full-time employee of Douban, and responsible for the system architecture. He has experienced the process of watercress from 100,000 to hundreds of millions of PVs, and has accumulated a profound experience in large-scale website architecture. He has led the construction of Douban internal PaaS system DAE and Credit Suisse financial container cloud Lain, with rich experience in container cloud and microservice architecture. His current focus is on chatbot, cloud computing, container technology, microservices, and security technologies.", 
+        "name": "Qiangning Hong", 
+        "title": "Founder and CTO of einplus", 
+        "topic": {
+          "preview": "\u7f3a", 
+          "slide": null, 
+          "title": "My Python Road (tentative)"
+        }
+      }, 
+      "id_kongtaoxun": {
+        "avatar": "lecturer_kongtaoxun.png", 
+        "intro": "Taoxun Kong / K0r4dji, CSO of Beijing Ding Niu Technology Co., Ltd., founder of Breaking Security Team, which is a famous information security team in domestic, book expert consultant of People Post Press-Asynchronous Community-Information security field.", 
+        "name": "Taoxun Kong/K0r4dji", 
+        "title": "Chief security officer(CSO) of digapis", 
+        "topic": {
+          "preview": "With the increasing number of Internet attacks, network information security has gradually attracted people's attention. Python has become the most popular programming language for hackers. Whether it is network attack or defense or software cracking, Python is very simple to help security personnel accomplish many things, such as: automation Attacks, etc. Through this topic, you can learn about Python's things in the information security field.", 
+          "title": "Chief security officer(CSO) of digapis"
+        }
+      }, 
+      "id_lihui": {
+        "avatar": "lecturer_lihui.png", 
+        "intro": "The author of Python Web Development with Flask.", 
+        "name": "Grey Li", 
+        "title": "member of Pallets Team", 
+        "topic": {
+          "preview": "As a popular Python web framework, many developers like Flask''s simplicity and flexibility, and often compare it to bulky Django. Based on these characteristics, we can say that Flask is free, and free Flask will make your web development more free. Specifically, the free here is manifested in many aspects, including the extension of program functions, the definition of routes, the organization of project structures, and the design of program patterns.", 
+          "title": "The Free Flask"
+        }
+      }, 
+      "id_lijinhong": {
+        "avatar": "lecturer_lijinhong.png", 
+        "intro": "Jinhong Lee, main engineer of Code doctor studio, founder of the big snake intelligence, chief artificial intelligence scientist of Beijing Pai Network Software, has released two video tutorials on the CNTK deep learning framework, has published two best-selling books, \u300a\u6df1\u5ea6\u5b66\u4e60\u4e4bTensorflow\uff1a\u5165\u95e8\u3001\u8fdb\u9636\u4e0e\u5b9e\u6218\u300band\u300apython\u5e26\u6211\u8d77\u98de\uff1a\u5165\u95e8\u3001\u8fdb\u9636\u3001\u5546\u4e1a\u5b9e\u6218\u300b.", 
+        "name": "Jinhong Lee", 
+        "title": "Main engineer of Code doctor", 
+        "topic": {
+          "preview": "1.Basic knowledge and trends of artificial intelligence<br/>\n2.Picture classification and fine-tuning practical case<br/>\n3.Face recognition direction practical case<br/>\n4.Numerical analysis direction practical case<br/>\n", 
+          "title": "Artificial Intelligence Case Study Sharing - Image "
+        }
+      }, 
+      "id_lilong": {
+        "avatar": "lecturer_lilong.png", 
+        "intro": "Leo Lee (debugtalk), DebugTalk Blogger, the author of HttpRunner. 7 years\u2018 experience in software testing industry, heavy Python enthusiasts, always committed to Python in software testing field of application and promotion. Embracing the Zen of Python, pursuiting of simplicity and elegance in code, as well as in life. Currently in DJI is responsible for testing and development work.", 
+        "name": "Leo Lee(debugtalk)", 
+        "title": "Leader of DJI test developement", 
+        "topic": {
+          "preview": "1. Python's ecology in the field of software testing<br/>\n2. The birth background of HttpRunner<br/>\n3. The development and design ideas of HttpRunner<br/>\n4. Automated test program based on HttpRunner<br/>\n5. Successful practice case based on HttpRunner\n", 
+          "title": "Build an enterprise-level automated testing framework HttpRunner with Python open source ecosystem"
+        }
+      }, 
+      "id_nightynight": {
+        "avatar": "lecturer_nightynight.png", 
+        "intro": "From MSRA, has very deep research on features and underlying of Python language", 
+        "name": "nightynight", 
+        "title": "MSRA", 
+        "topic": {
+          "preview": "Extend the use of cpython vm through metaprogramming to improve code reuse rate, abstract ability and runtime program execution efficiency. Also to introduce How to introduce JIT and type checking tools in a compatible cpython ecosystem.", 
+          "title": "Implementation ideas of Python JIT"
+        }
+      }, 
+      "id_qinxuye": {
+        "avatar": "lecturer_qinxuye.png", 
+        "intro": "His main job is to combine the Python ecosystem with the big data environment. The past work involved writing the pyodps DataFrame framework, which allows users to write code similar to pandas, but supports execution on MaxCompute bi data platforms, pandas, and traditional databases. His current work is mainly Mars, which is a matrix-based unified computing framework. Its goal is to bring the PyData ecosystem to a distributed execution environment. Currently, it supports the Numpy interface and can perform multidimensional array operations in a distributed environment. It supports running on the GPU. And supports two-dimensional sparse matrices. Pandas and scikit-learn will be distributed in the future.", 
+        "name": "Xuye Qin", 
+        "title": "Computing Platform Department of Alibaba", 
+        "topic": {
+          "preview": "Mars - Matrix-based unified computing framework, the goal to bring the ecology of PyData to a distributed execution environment, currently supports the Numpy interface, can perform multidimensional array operations in a distributed environment, it supports running on the GPU, and supports two-dimensional sparse matrices. Currently, Mars is compatible with 70% of the common Numpy interfaces. This sharing session introduces our current work, introduces Mars'' implementation principles, and looks ahead to future superstructures including DataFrame and machine learning.", 
+          "title": "Mars - Matrix-based unified computing framework"
+        }
+      }, 
+      "id_wangshun": {
+        "avatar": "lecturer_wangshun.png", 
+        "intro": "Python/Go/C++ developer, responsible for the landing and best practices of cloud computing, big data and deep learning technologies in large enterprises. He has worked for artificial intelligence unicorn Face++ and AWS, Oracle and other companies. The main architecture and developer of the face recognition system for the coffee-free unmanned convenience store, AWS Big Data Expert EMR Subject Matter Expert.", 
+        "name": "Shun Wang", 
+        "title": "Cloud Advisor of Google", 
+        "topic": {
+          "preview": "1.Introduction of TPU;<br/>\n2.A tutorial of training/inference a DL/ML model on Google TPUv2 2.1 example 1, 2.2 example 2;<br/>\n3.Difference between TPUv2 and GPU and trouble shooting of TPUv2. 4 Benchmark of TPUv2 and GPU<br/>\n", 
+          "title": "Cooking with Google TPUv2: How to train and deploy your models on Google Cloud."
+        }
+      }, 
+      "id_yaogangqiang": {
+        "avatar": "lecturer_yaogangqiang.png", 
+        "intro": "Joined Zhihu in 2013, he was the head of the home feed stream engineering technology. During the project of the feed stream, the response time P95 was reduced from 1.6s to 700ms through the optimization of the framework. The stability was improved from 99.9% to 99.99% through the development specification. Responsible for the Community Architecture Group in 2018, leading the team to rewrite the main business modules with Golang, saving machine resources 75%", 
+        "name": "Gangqiang Yao", 
+        "title": "Technical Leader of Community Division of Zhihu", 
+        "topic": {
+          "preview": "updating", 
+          "title": "Subject to be determined"
+        }
+      }, 
+      "id_yizhe": {
+        "avatar": "lecturer_yizhe.png", 
+        "intro": "One of the executors of the AI Empowerment Program, working as a guest lecturer in cloud computing and big data related fields in several universities in Shanghai, first contact with Python in 10 years, and fully embraced Python and deepened the data science community in 15 years.", 
+        "name": "Yizhe", 
+        "title": "PING AN / Data scientist", 
+        "topic": {
+          "preview": "1. The overall evolution and architecture of the data science platform from 0 to 1<br/>\n2. 0.25 era - \"Python + Hive + Shell\" mixed programming to solve the cumbersome human ETL<br/>\n3. 0.5 era - \"Django+ElasticSearch\" increased customer search and BI analysis support<br/>\n4. 0.75 era - \"Django+PyHive+PySpark\" increases the operation and machine learning task flow of big data clusters<br/>\n5. 1.0 era - Scheduler scheduling integration and platform, cluster micro-service<br/>\n6. Various external technical resistances and pitfalls encountered in the evolution path from 0 to 1<br/>\n7. Summary and outlook'\n", 
+          "title": "Evolution Path of Enterprise Data Science Platform Based on Python Ecosphere"
+        }
+      }, 
+      "id_zhangjintao": {
+        "avatar": "lecturer_zhangjintao.png", 
+        "intro": "Jintao Zhang, senior devops developer of NetEase, responsible for construction of containerization and automated operation and maintenance system.", 
+        "name": "Jintao Zhang", 
+        "title": "Senior Devops of NetEase", 
+        "topic": {
+          "preview": "With the formation of ecosystems such as containerization and cloud native, the value of CI/CD in the software development process is becoming more and more prominent. More and more companies need to transform and optimize this, but thousands of people have thousands of faces, transformations and practices often have many problems, both in the personnel and in the tool chain. This time is mainly to share the best practices we have summarized in production, and to analyze the problems encountered in this process, and to share in detail the technical details, as well as the optimization, problem analysis, and architecture in the process and the reflections and conclusions we have made, I hope that everyone can inspire them and promote their respective development in the production environment.", 
+          "title": "CI/CD Practice Based on Docker"
+        }
+      }, 
+      "id_zhangxiang": {
+        "avatar": "lecturer_zhangxiang.png", 
+        "intro": "updating\u2026", 
+        "name": "Xiang Zhang", 
+        "title": "CPython Core Developer", 
+        "topic": {
+          "preview": "This speech will share the most frequently encountered problems in CPython development and the tools for debugging problems in your own work scenario; also, it will talk the thinking about Python debugging and monitoring in future.", 
+          "title": "What happened to my Python process?"
+        }
+      }, 
+      "id_zhaowentian": {
+        "avatar": "lecturer_zhaowentian.png", 
+        "intro": "Beijing University of Posts and Telecommunications - Network Information Security Winter Camp - Senior Lecturer, Guangzhou University - Network Information Security Summer Camp - Senior Lecturer, Domestic Famous Information Security Research Team - Core Member of Dawning Team, Beijing Mingyuan University - Network Space Advanced Technology College - Senior Lecturer, Freebuf-DigApis Information Security Column Leader", 
+        "name": "Wentian Zhao", 
+        "title": "Penetration Test Engineer of DigApis", 
+        "topic": {
+          "preview": "Briefly introduce modules and functions that involve cryptography in Python", 
+          "title": "Python application in cryptography"
+        }
+      }, 
+      "id_zhouxiaomao": {
+        "avatar": "lecturer_zhouxiaomao.png", 
+        "intro": "Working as development manager in iRain Parking, also worked in Hangzhou Hikvision. After working, he has been engaged in embedded software development, mainly involving camera sensor driver development, intelligent access control system development and intelligent parking lot software development.", 
+        "name": "Xiaomao Zhou", 
+        "title": "Development Manager of iRain Parking", 
+        "topic": {
+          "preview": "This speech focuses on the work experience of speecher and illustrates the practical use of Python in the embedded software development process. The speech details will be divided into the following sections<br/>\n1. What is included in embedded development, including development of driver layer and application layer.<br/>\n2. What Python can do in embedded development. Python can be used in embedded development of application layer, including background web development, instant communication development, GUI development, etc.<br/>\n3. Compare the advantages of Python development over traditional embedded development.<br/>\n4. Briefly explain the basic process of embedded development using Python, and mainly explain the construction process of Python development environment.<br/>\n5. Finally, showing the specific application intelligent parking system management display and PLC communication read and write operation display. \n", 
+          "title": "Application of Python in embedded system development"
+        }
+      }
+    }, 
+    "time": "<b>Time</b>\uff1a2018.10.14", 
+    "tips": "<b>Conference schedule</b><p>2018.10.14 \uff08 * Due to venue restrictions, no lunch will be offered at this conference.\uff09</p>", 
+    "title": "beijing", 
+    "volunteers": [
+      {
+        "avatar": "chenshixin.png", 
+        "description": "PyChina\u53d1\u8d77\u4eba / Ahaschool-CTO", 
+        "name": "\u9648\u4e16\u6b23", 
+        "voltitle": "\u5317\u4eac\u7ad9 | \u7ec4\u59d4"
+      }, 
+      {
+        "avatar": "dama.png", 
+        "description": "\u4f18\u52bf\u773c\u52a8-\u5408\u4f19\u4eba / PyChina\u53d1\u8d77\u4eba", 
+        "name": "\u5927\u5988", 
+        "voltitle": "\u5317\u4eac\u7ad9 | \u7ec4\u59d4"
+      }, 
+      {
+        "avatar": "lizheao.png", 
+        "description": "\u95ea\u94f6\u5947\u5f02-\u9ad8\u7ea7Python\u5f00\u53d1 / \u5317\u4eac\u7ec4\u59d4\u8d1f\u8d23\u4eba", 
+        "name": "\u674e\u8005\u7488", 
+        "voltitle": "\u5317\u4eac\u7ad9 | \u7ec4\u59d4"
+      }, 
+      {
+        "avatar": "dengliangju.png", 
+        "description": "\u79d8\u5854\u79d1\u6280-\u5de5\u7a0b\u603b\u76d1 / Python\u5de5\u7a0b\u5316\u5e94\u7528\u4e13\u573a\u8d1f\u8d23\u4eba", 
+        "name": "\u9093\u826f\u9a79", 
+        "voltitle": "\u5317\u4eac\u7ad9 | \u7ec4\u59d4"
+      }, 
+      {
+        "avatar": "laixintao.png", 
+        "description": "\u8682\u8681\u91d1\u670d-SRE / \u5317\u4eacPython\u8bed\u8a00\u7279\u6027\u4e13\u573a\u8d1f\u8d23\u4eba", 
+        "name": "\u8d56\u4fe1\u6d9b", 
+        "voltitle": "\u5317\u4eac\u7ad9 | \u7ec4\u59d4"
+      }, 
+      {
+        "avatar": "shiyuankun.png", 
+        "description": "\u82f1\u7279\u5c14\u8f6f\u4ef6\u5de5\u7a0b\u5e08 / Python\u521b\u65b0\u5e94\u7528\u4e13\u573a\u8d1f\u8d23\u4eba", 
+        "name": "\u77f3\u5143\u5764", 
+        "voltitle": "\u5317\u4eac\u7ad9 | \u7ec4\u59d4"
+      }, 
+      {
+        "avatar": "hexiangyu.png", 
+        "description": "TCL\u4e92\u8054\u7f51\u4e8b\u4e1a\u90e8-Python\u5de5\u7a0b\u5e08 / \u5317\u4eac\u6838\u5fc3\u7ec4\u7ec7\u8005", 
+        "name": "\u4f55\u7fd4\u5b87", 
+        "voltitle": "\u5317\u4eac\u7ad9 | \u7ec4\u59d4"
+      }, 
+      {
+        "avatar": "qianzhangnian.png", 
+        "description": "\u521b\u76db\u89c6\u8054\u6570\u7801\u79d1\u6280\uff08\u5317\u4eac\uff09\u6709\u9650\u516c\u53f8-\u7814\u53d1\u7ecf\u7406 / \u5317\u4eac\u6838\u5fc3\u7ec4\u7ec7\u8005", 
+        "name": "\u94b1\u7ae0\u5e74", 
+        "voltitle": "\u5317\u4eac\u7ad9 | \u7ec4\u59d4"
+      }
+    ]
+  }, 
+  "city_chengdu": {
+    "address": "<b>Address</b>\uff1a(Sichuan, Chengdu)Southwest Jiaotong University (Xipu Campus), No. 999, Xi'an Road, Yaodu District", 
+    "agenda": [
+      {
+        "detail": [
+          {
+            "time": "13:00-13:30", 
+            "topic": "\u7b7e\u5230 / \u6696\u573a\u4ecb\u7ecd"
+          }, 
+          {
+            "speaker": "id_luoqihan", 
+            "time": "13:30-14:15"
+          }, 
+          {
+            "speaker": "id_zhouxiaomao", 
+            "time": "14:15-15:00"
+          }, 
+          {
+            "time": "15:00-15:15", 
+            "topic": "\u8336\u6b47"
+          }, 
+          {
+            "speaker": "id_qinxuye", 
+            "time": "15:15-16:00"
+          }, 
+          {
+            "speaker": "id_lizheao", 
+            "time": "16:00-16:45"
+          }, 
+          {
+            "speaker": "id_liguojian", 
+            "time": "16:45-17:00"
+          }, 
+          {
+            "time": "17:00-17:15", 
+            "topic": "\u62bd\u5956\uff0c\u5408\u5f71\uff0c\u4ea4\u6d41"
+          }
+        ], 
+        "name": "The main venue"
+      }
+    ], 
+    "buy_ticket_url": "http://www.huodongxing.com/go/pyconcd2018", 
+    "city_icon": "chengdu_icon.png", 
+    "city_name": "Chengdu", 
+    "description": "<p>\u300c\u548c\u6211\u5728\u6210\u90fd\u7684\u8857\u5934\u8d70\u4e00\u8d70\uff0c\u8d70\u5230\u706f\u90fd\u7184\u706d\u4e86\u4e5f\u4e0d\u505c\u7559\u300d\u8d75\u96f7\u6765\u4e86\u53c8\u8d70\u4e86\uff0c\u300a\u4eba\u95f4\u6210\u90fd\u300b\u5728\u670b\u53cb\u5708\u706b\u4e86\u53c8\u6de1\u4e0b\u53bb\u4e86\u3002\u552f\u72ec PyCon China \u4f3c\u4e4e\u9057\u5fd8\u4e86\u6210\u90fd\u3002</p> <p>\u4f46\u662f\u8fd9\u4e00\u6b21\uff0c\u6211\u4eec\u6765\u4e86\u3002PyCon China 2018 ChengDu \u5c06\u572810\u670827\u65e5\u5728\u84c9\u4e3e\u529e\u3002\u8fd9\u4e00\u6b21\uff0cPyCon China \u4f1a\u5e26\u4e0a\u4e00\u4e1d\u6765\u81ea\u897f\u5357\u7684\u706b\u9505\u6c14\u3002</p> <p>\u6240\u4ee5\uff0c\u6709\u5174\u8da3\u5417\uff1f\u6765\u804a\u804a\u5927\u5bb6\u611f\u5174\u8da3\u7684\u8bdd\u9898\uff0c\u4e0d\u7ba1\u662f\u4f60\u662f\u60f3\u5206\u4eab\u81ea\u5df1\u5728\u5404\u79cd\u9886\u57df\u5e94\u7528 Python \u7684\u6700\u4f73\u5b9e\u8df5\uff0c\u4ea6\u6216\u8005\u662f\u60f3\u5b89\u5b89\u9759\u9759\u7684\u5f53\u4e00\u4e2a\u542c\u4f17\uff0c\u6211\u4eec\u6210\u90fd\u7684\u5f00\u53d1\u8005\u90fd\u4f1a\u7ed9\u4f60\u624e\u8d77\u573a\u5b50\uff08\u6b64\u5904\u8bf7\u7528\u56db\u5ddd\u8bdd\uff09</p> <p>\u62dc\u6c34\u90fd\u6c5f\u5830\uff0c\u95ee\u9053\u9752\u57ce\u5c71\uff0c\u79d1\u534e\u5317\u8def\u5403\u665a\u996d\uff0c\u4e5f\u8bb8\u8fd9\u6b21\u8fd8\u53ef\u4ee5\u6765\u7280\u6d66\u4ea4\u5927\u53c2\u4e2a\u4f1a\uff1f\u597d\u4e86\uff0c10.27 \u6211\u4eec\u4e0d\u89c1\u4e0d\u6563\u3002</p> <p>\u8bf6\uff0c\u5bf9\u4e86\uff0c\u8981\u662f\u60a8\u516c\u53f8\u6709\u5174\u8da3\u6765\u8d5e\u52a9\u6211\u4eec\uff0c\u6216\u8005\u8bf7\u5927\u5bb6\u5403\u4e2a\u706b\u9505\uff0c\u559d\u4e2a\u8336\uff0c\u8336\u9986\u91cc\u6413\u4e2a\u9ebb\u5c06\u7684\u8bdd\uff0c\u53ef\u4ee5\u8054\u7cfb\u6211\u4eec\u5e02\u573a\u8d1f\u8d23\u4eba Cynthia Xin \uff08\u8f9b\u5e86\uff09\uff1a\u5fae\u4fe1\u53f7\uff1a18516094658</p> <p>PyCon \u662f\u5168\u7403Pythonista\u6700\u76db\u5927\u7684\u5e74\u5ea6\u805a\u4f1a\uff0c\u7531 PSF(Python \u57fa\u91d1\u4f1a)\u652f\u6301\uff0c\u81f4\u529b\u4e8e\u8425\u9020\u6109\u5feb\u7684\u3001\u591a\u5143\u5316\u7684Python\u6280\u672f\u4e3b\u9898\u5927\u4f1a\u3002PyCon China\u662f\u7531 CPyUG (\u534e\u880e\u7528\u6237\u7ec4)\u83b7\u5f97\u6388\u6743\u4e3e\u529e\u7684\u4e2d\u56fd PyCon \u5e74\u4f1a\u3002\u65e0\u8bba\u60a8\u4f7f\u7528\u54ea\u79cd\u7f16\u7a0b\u8bed\u8a00, \u90fd\u6b22\u8fce\u6765\u53c2\u52a0\u8fd9\u573a\u5b8c\u5168\u7531 Python \u4e2d\u56fd\u793e\u533a\u7ec4\u7ec7\u7684\u6b22\u4e50\u96c6\u4f1a;-)</p> <p>\u73b0\u5728\uff0cPyCon 2018 \u6210\u90fd\u7ad9 \u6d3b\u52a8\u5c06\u4e8e2018\u5e7410\u670827\u65e5\uff08\u661f\u671f\u516d\u4e0b\u5348\uff09\u4e3e\u884c\u3002</p>", 
+    "detail_url": "city_chengdu.html", 
+    "donators": null, 
+    "intro": "", 
+    "speakers": {
+      "id_liguojian": {
+        "avatar": "lecturer_liguojian.png", 
+        "intro": "", 
+        "name": "Guojian Li", 
+        "title": "\u8d1d\u58f3\u91d1\u670d\u623f\u4ea7\u91d1\u878d\u6570\u636e\u90e8\u7814\u53d1\u8d1f\u8d23\u4eba", 
+        "topic": {
+          "preview": "...", 
+          "slide": null, 
+          "title": ""
+        }
+      }, 
+      "id_lizheao": {
+        "avatar": "lecturer_lizheao.png", 
+        "intro": "", 
+        "name": "Zheao Li", 
+        "title": "Manjusaka/\u95ea\u94f6\u5947\u5f02\u9ad8\u7ea7 Python \u5f00\u53d1", 
+        "topic": {
+          "preview": "...", 
+          "slide": null, 
+          "title": ""
+        }
+      }, 
+      "id_luoqihan": {
+        "avatar": "lecturer_luoqihan.png", 
+        "intro": "", 
+        "name": "Qihan Luo", 
+        "title": "ThoughtWorks\u8f6f\u4ef6\u5f00\u53d1\u5de5\u7a0b\u5e08", 
+        "topic": {
+          "preview": "...", 
+          "slide": null, 
+          "title": ""
+        }
+      }, 
+      "id_qinxuye": {
+        "avatar": "lecturer_qinxuye.png", 
+        "intro": "", 
+        "name": "Xuye Qin", 
+        "title": "\u963f\u91cc\u5df4\u5df4\u8ba1\u7b97\u5e73\u53f0\u4e8b\u4e1a\u90e8\u6280\u672f\u4e13\u5bb6", 
+        "topic": {
+          "preview": "...", 
+          "slide": null, 
+          "title": ""
+        }
+      }, 
+      "id_zhouxiaomao": {
+        "avatar": "lecturer_zhouxiaomao.png", 
+        "intro": "", 
+        "name": "Xiaomao Zhou", 
+        "title": "\u897f\u5b89\u827e\u6da6\u7269\u8054\u5f00\u53d1\u7ecf\u7406", 
+        "topic": {
+          "preview": "...", 
+          "slide": null, 
+          "title": ""
+        }
+      }
+    }, 
+    "time": "<b>Time</b>\uff1a2018.10.27", 
+    "tips": "<b>\u5927\u4f1a\u65e5\u7a0b</b><p>2018\u5e7410\u670827\u65e5 \uff08 * \u56e0\u4e3a\u573a\u5730\u9650\u5236\uff0c\u672c\u6b21\u5927\u4f1a\u5c06\u4e0d\u63d0\u4f9b\u5348\u9910\uff09</p>", 
+    "title": "chengdu", 
+    "volunteers": [
+      {
+        "avatar": "liuliu.png", 
+        "description": "\u9ad8\u7ea7\u5de5\u7a0b\u5e08", 
+        "name": "\u5218\u67f3", 
+        "voltitle": "\u5f00\u6e90\u7231\u597d\u8005"
+      }, 
+      {
+        "avatar": "lizheao.png", 
+        "description": "\u95ea\u94f6\u5947\u5f02-\u9ad8\u7ea7 Python \u5f00\u53d1", 
+        "name": "\u674e\u8005\u7488", 
+        "voltitle": "Manjusaka"
+      }
+    ]
+  }, 
+  "city_hangzhou": {
+    "address": "<b>Address</b>\uff1a(Zhejiang, Hangzhou)4th Floor, Block B, Nokia Global R&D Center, NO.567, Xincheng Road, Binjiang District", 
+    "agenda": [
+      {
+        "detail": [
+          {
+            "time": "09:00 - 09:30", 
+            "topic": "\u7b7e\u5230"
+          }, 
+          {
+            "time": "09:30 - 10:00", 
+            "topic": "\u5f00\u573a\u81f4\u8f9e"
+          }, 
+          {
+            "speaker": "id_lifeng", 
+            "time": "10:00 - 10:45"
+          }, 
+          {
+            "speaker": "id_jinbihui", 
+            "time": "10:45 - 11:30"
+          }, 
+          {
+            "time": "11:30 - 13:30", 
+            "topic": "\u4e2d\u5348\u4f11\u606f"
+          }, 
+          {
+            "speaker": "id_qinxuye", 
+            "time": "13:30 - 14:15"
+          }, 
+          {
+            "speaker": "id_kongxiaoquan", 
+            "time": "14:15 - 15:00"
+          }, 
+          {
+            "time": "15:00 - 15:15", 
+            "topic": "\u4f11\u606f - \u81ea\u7531\u4ea4\u6d41\u65f6\u95f4"
+          }, 
+          {
+            "speaker": "id_wangbinxin", 
+            "time": "15:15 - 16:00"
+          }, 
+          {
+            "time": "16:00 - 17:00", 
+            "topic": "\u5706\u684c\u8bba\u575b - Pythonista \u4ece\u5165\u5751\u5230\u5927\u725b\u6210\u957f\u4e4b\u8def"
+          }, 
+          {
+            "time": "17:00 - 17:10", 
+            "topic": "\u62bd\u5956\uff0c\u62cd\u7167\u7559\u5f71"
+          }
+        ], 
+        "name": "The main venue"
+      }
+    ], 
+    "buy_ticket_url": "http://www.huodongxing.com/go/pycon2018hangzhou?td=8211933664158", 
+    "city_icon": "hangzhou_icon.png", 
+    "city_name": "Hangzhou", 
+    "description": "<p>\u5404\u4f4d\u5c0f\u4f19\u4f34\uff0c\u662f\u5426\u4f9d\u7a00\u8bb0\u5f97\u53bb\u5e74\u7684PyCon2017\u676d\u5dde\u7684\u6d3b\u52a8\uff0c\u201c\u4eba\u751f\u82e6\u77ed\uff0cPython\u662f\u5cb8\u201d\u3002\u5bf9\u6211\u4eec\u7ec4\u7ec7\u8005\u800c\u8a00\uff0c\u8fd9\u5c31\u50cf\u6628\u5929\u521a\u521a\u53d1\u751f\u8fc7\u7684\u4e8b\u60c5\u30022017\u5e74PyCon\u676d\u5dde\uff0c\u6709\u8d85\u8fc7300\u4f4d\u7684\u53c2\u4f1a\u8005\uff0c\u591a\u4e2a\u7cbe\u5f69\u7684\u8bdd\u9898\u5206\u4eab\uff0c\u7ebf\u4e0b\u6301\u7eed\u7cbe\u5f69\u7684\u8ba8\u8bba\uff0c\u8fd9\u4e00\u5207\u90fd\u662f\u90a3\u4e48\u7684\u5947\u5999\u3002</p> <p>PyCon \u662f\u5168\u7403 Pythoneer \u6700\u76db\u5927\u7684\u5e74\u5ea6\u805a\u4f1a\uff0c\u7531 PSF(Python \u57fa\u91d1\u4f1a)\u652f\u6301\uff0c\u81f4\u529b\u4e8e\u8425\u9020\u6109\u5feb\u7684\u3001\u591a\u5143\u5316\u7684 Python \u6280\u672f\u4e3b\u9898\u5927\u4f1a\u3002PyConChina \u662f\u7531 CPyUG(\u534e\u880e\u7528\u6237\u7ec4)\u83b7\u5f97\u6388\u6743\u4e3e\u529e\u7684\u4e2d\u56fd PyCon \u5e74\u4f1a\u3002\u65e0\u8bba\u60a8\u4f7f\u7528\u54ea\u79cd\u7f16\u7a0b\u8bed\u8a00, \u90fd\u6b22\u8fce\u6765\u53c2\u52a0\u8fd9\u573a\u5b8c\u5168\u7531Python\u4e2d\u56fd\u793e\u533a\u7ec4\u7ec7\u7684\u6b22\u4e50\u96c6\u4f1a;-)</p> <p>\u73b0\u5728\uff0cPyCon 2018\u676d\u5dde\u7ad9 \u6d3b\u52a8\u5c06\u518d\u6b21\u4e3e\u884c\u3002\u6b64\u6b21\u6d3b\u52a8\u5730\u70b9\u4f9d\u65e7\u76f8\u7ea6\u5728\u8001\u5730\u65b9\u2014\u2014\u8bfa\u57fa\u4e9a\u676d\u5dde\u5168\u7403\u7814\u53d1\u4e2d\u5fc3\uff0c\u6d3b\u52a8\u5c06\u4e8e2018\u5e7411\u67084\u65e5\uff08\u661f\u671f\u65e5\u5168\u5929\uff09\u4e3e\u884c\u3002</p>", 
+    "detail_url": "city_hangzhou.html", 
+    "donators": null, 
+    "intro": "", 
+    "speakers": {
+      "id_jinbihui": {
+        "avatar": "lecturer_jinbihui.png", 
+        "intro": "\u4e3b\u8981\u4ece\u4e8b\u673a\u5668\u5b66\u4e60/\u6df1\u5ea6\u5b66\u4e60\u7684\u5efa\u6a21\uff0c\u5e94\u7528\u673a\u5668\u5b66\u4e60/\u6df1\u5ea6\u5b66\u4e60\u5206\u6790\u516c\u53f8\u8f6f\u4ef6\u4ea7\u751f\u7684log\uff0c\u63d0\u9ad8\u8f6f\u4ef6\u4ea7\u54c1\u5f00\u53d1\u7ef4\u62a4\u7684\u6548\u7387\u3002\u5e76\u4efbdeeplearning.ai\u8bfe\u7a0bSequence Models\u52a9\u6559\u3002", 
+        "name": "Bihui Jin", 
+        "title": "\u8bfa\u57fa\u4e9a\u8d1d\u5c14 \u673a\u5668\u5b66\u4e60\u5de5\u7a0b\u5e08", 
+        "topic": {
+          "preview": "<p>\u5206\u4eab\u5e94\u7528\u673a\u5668\u5b66\u4e60\u5bf9\u6d77\u91cf\u5df2\u5206\u6790\u7684\u8f6f\u4ef6\u8fd0\u884c\u4ea7\u751f\u7684log\u8fdb\u884c\u5b66\u4e60\uff0c\u5b9e\u73b0\u5bf9\u672a\u5206\u6790log\u8fdb\u884c\u673a\u5668\u81ea\u52a8\u5206\u6790\u5f52\u7c7b\uff0c\u63d0\u9ad8\u8c03\u67e5\u95ee\u9898\u7684\u6548\u7387\u7684\u89e3\u51b3\u65b9\u6848\u4ee5\u53ca\u6280\u672f\u67b6\u6784\uff0c\u6d89\u53ca\u5927\u6570\u636e\u5e26\u6765\u7684\u6570\u636e\u5b58\u50a8\uff0c\u8ba1\u7b97\u673a\u5185\u5b58\uff0c\u7279\u5f81\u63d0\u53d6\u6548\u7387\uff0c\u6a21\u578b\u8bad\u7ec3\u6548\u7387\u7684\u6311\u6218\u3002</p> <p>\u65b9\u6848\u57fa\u4e8e\u8bfa\u57fa\u4e9aCloud\uff0cS3\u4ee5\u53caGPU\u7b49\u8d44\u6e90\uff0c\u5e94\u7528\u4e86spark\uff0ctensorflow\u7b49framework\uff0c\u4ee5python\u4e3a\u4e3b\u8981\u5f00\u53d1\u8bed\u8a00\uff0c\u5206\u4eab\u4f7f\u7528python\u5728\u673a\u5668\u5b66\u4e60\u5de5\u7a0b\u5904\u7406\u5927\u6570\u636e\u7684\u601d\u8003\u4e0e\u6311\u6218\u3002</p>", 
+          "slide": null, 
+          "title": "Log Analysis: Machine Learning With Dig Data"
+        }
+      }, 
+      "id_kongxiaoquan": {
+        "avatar": "lecturer_kongxiaoquan.png", 
+        "intro": "\u4ece\u4e8b\u81ea\u7136\u8bed\u8a00\u5904\u7406\u4e24\u5e74\u591a\uff0c\u6709\u4e30\u5bcc\u7684\u7406\u8bba\u548c\u5b9e\u8df5\u7ecf\u9a8c\u3002\u76ee\u524d\u5728\u5409\u5229\u96c6\u56e2\u65d7\u4e0b\u8f66\u8054\u7f51\u516c\u53f8\u4ece\u4e8b\u8f66\u8f7d\u4eba\u673a\u4ea4\u4e92\u7cfb\u7edf\u7684\u7814\u53d1\u5de5\u4f5c\uff0c\u66fe\u5728\u963f\u91cc\u5df4\u5df4\u96c6\u56e2\u4ece\u4e8b\u81ea\u7136\u8bed\u8a00\u76f8\u5173\u7684\u6846\u67b6\u548c\u7b97\u6cd5\u5f00\u53d1\u5de5\u4f5c\u3002", 
+        "name": "Xiaoquan Kong", 
+        "title": "\u4ebf\u5496\u901a \u7814\u53d1\u5de5\u7a0b\u5e08", 
+        "topic": {
+          "preview": "\u81ea\u7136\u8bed\u8a00\u5904\u7406\uff08Natural Language Processing, NLP\uff09\u4f5c\u4e3a\u4eba\u5de5\u667a\u80fd\u9886\u57df\u7684\u4e00\u4e2a\u91cd\u8981\u5206\u652f\uff0c\u73b0\u5728\u5df2\u7ecf\u6210\u4e3a\u4eba\u5de5\u667a\u80fd\u7814\u7a76\u3001\u521b\u4e1a\u548c\u843d\u5730\u7684\u70ed\u70b9\u65b9\u5411\u3002\u672c\u6b21\u5206\u4eab\u5c06\u4ece\u7406\u8bba\u548c\u5b9e\u8df5\u7ed3\u5408\u7684\u89d2\u5ea6\uff0c\u4ecb\u7ecd NLP \u7684\u7406\u8bba\u3001\u5b9e\u73b0\u548c\u6d41\u7a0b\uff0c\u540c\u65f6\u5c06\u4ecb\u7ecd Python \u73af\u5883\u4e0b\u91cd\u8981\u7684\u5de5\u4e1a\u7ea7\u5f00\u6e90\u6846\u67b6\uff1aSpaCy \u548c RASA NLU\uff0c\u5e76\u63d0\u4f9b\u9488\u5bf9\u4e2d\u6587\u573a\u666f\u7684\u5177\u4f53\u5efa\u8bae\u3002", 
+          "slide": null, 
+          "title": "Python \u73af\u5883\u4e0b\u7684\u81ea\u7136\u8bed\u8a00\u5904\u7406"
+        }
+      }, 
+      "id_lifeng": {
+        "avatar": "lecturer_lifeng.png", 
+        "intro": "\u5148\u540e\u5c31\u804c\u4e8eMotorola, Samsung, Alibaba, EMC, Citrix\u7b49IT\u516c\u53f8\uff0c\u73b0\u4e3a\u81ea\u7531\u804c\u4e1a\u8005\u3002\u719f\u6089\u57fa\u4e8eARM+Linux\u7684\u5d4c\u5165\u5f0f\u8f6f\u4ef6\u5e73\u53f0\u67b6\u6784, \u5728\u7532\u9aa8\u6587JavaME, \u9ad8\u901aBREW, \u6469\u6258\u7f57\u62c9P2K\uff0c\u8c37\u6b4cAndroid\uff0c\u4e09\u661fTizen\u7b49\u79fb\u52a8\u5e73\u53f0\u4e0a\u5177\u5907\u5341\u4f59\u5e74\u7814\u53d1\u7ecf\u9a8c\u3002\n\n\u8fd1\u51e0\u5e74\u4e3b\u8981\u4ece\u4e8b\u4e91\u8ba1\u7b97\u76f8\u5173\u7814\u53d1\u5de5\u4f5c\uff0c\u5728\u6570\u636e\u4e2d\u5fc3\u8f6f\u786c\u4ef6\u67b6\u6784\uff0c\u8f6f\u4ef6\u5b9a\u4e49\u5b58\u50a8\uff0c\u865a\u62df\u5316\uff0c\u4fe1\u606f\u5b89\u5168\uff0c\u9ad8\u6027\u80fd\u7f51\u7edc\u7b49\u6280\u672f\u9886\u57df\u79ef\u7d2f\u4e86\u4e00\u5b9a\u7684\u7ecf\u9a8c\u3002\n\u662f\u300a\u7070\u5e3d\u9ed1\u5ba2 \u7b2c4\u7248\uff1a\u6b63\u4e49\u9ed1\u5ba2\u7684\u9053\u5fb7\u89c4\u8303\u3001\u6e17\u900f\u6d4b\u8bd5\u3001\u653b\u51fb\u65b9\u6cd5\u548c\u6f0f\u6d1e\u5206\u6790\u6280\u672f \u300b\u4e00\u4e66\u4e2d\u6587\u7248\u7684\u4e3b\u8981\u8bd1\u8005\uff1a http://product.dangdang.com/23927890.html \u5bf9\u6280\u672f\u521b\u65b0\u5177\u6709\u6d53\u539a\u7684\u5174\u8da3\u548c\u5b9e\u8df5\u80fd\u529b\uff0c\u70ed\u5fc3\u53c2\u4e0e\u5f00\u6e90\u793e\u533a\u7684\u5404\u79cd\u6d3b\u52a8\uff0c\u591a\u6b21\u53c2\u52a0\u5404\u79cdIT\u4f1a\u8bae\u5e76\u4f5c\u6280\u672f\u5206\u4eab", 
+        "name": "Feng Li", 
+        "title": "\u81ea\u7531\u804c\u4e1a\u8005", 
+        "topic": {
+          "preview": "1) GraalVM\u7b80\u4ecb\u53caPython\u5728OpenJDK\u5f00\u53d1\u4e2d\u7684\u91cd\u8981\u4f5c\u7528 2) \u6df1\u5165\u5206\u6790GraalPython\u7684\u5b9e\u73b0 3) \u91cd\u65b0\u601d\u8003\u548c\u8bbe\u8ba1Python\u8fd0\u884c\u65f6 4) \u5728\u5f00\u6e90ARM\u5e73\u53f0\uff08\u5982\u6811\u8393\u6d3e/96Boards\u7b49\uff09\u4e0a\u5b9e\u8df5GraalPython/GraalVM", 
+          "slide": null, 
+          "title": "GraalPython--\u65b0\u7684Python\u8fd0\u884c\u65f6"
+        }
+      }, 
+      "id_qinxuye": {
+        "avatar": "lecturer_qinxuye.png", 
+        "intro": "\u4e3b\u8981\u5de5\u4f5c\u662f\u5c06 Python \u751f\u6001\u548c\u5927\u6570\u636e\u73af\u5883\u8fdb\u884c\u7ed3\u5408\u3002\u8fc7\u53bb\u5de5\u4f5c\u5305\u542b\u7f16\u5199\u4e86 pyodps DataFrame \u6846\u67b6\uff0c\u8fd9\u4e2a\u6846\u67b6\u80fd\u8ba9\u7528\u6237\u7f16\u5199\u7c7b\u4f3c pandas \u7684\u4ee3\u7801\uff0c\u4f46\u652f\u6301\u5728 MaxCompute \u5927\u6570\u636e\u5e73\u53f0\u3001pandas \u548c\u4f20\u7edf\u6570\u636e\u5e93\u4e0a\u6267\u884c\u3002\u73b0\u5728\u7684\u5de5\u4f5c\u4e3b\u8981\u662f Mars\uff0c\u8fd9\u662f\u4e00\u4e2a\u57fa\u4e8e\u77e9\u9635\u7684\u7edf\u4e00\u8ba1\u7b97\u6846\u67b6\uff0c\u76ee\u6807\u628a PyData \u7684\u751f\u6001\u5e26\u5230\u5206\u5e03\u5f0f\u6267\u884c\u73af\u5883\uff0c\u76ee\u524d\u652f\u6301 Numpy \u63a5\u53e3\uff0c\u80fd\u5728\u5206\u5e03\u5f0f\u73af\u5883\u6267\u884c\u591a\u7ef4\u6570\u7ec4\u64cd\u4f5c\uff0c\u5b83\u652f\u6301\u5728 GPU \u4e0a\u8fd0\u884c\uff0c\u4e14\u652f\u6301\u4e8c\u7ef4\u7a00\u758f\u77e9\u9635\u3002\u672a\u6765\u4f1a\u5c06 pandas \u548c scikit-learn \u5206\u5e03\u5f0f\u5316\u3002", 
+        "name": "Xuye Qin", 
+        "title": "\u963f\u91cc\u5df4\u5df4\u8ba1\u7b97\u5e73\u53f0\u4e8b\u4e1a\u90e8 \u6280\u672f\u4e13\u5bb6", 
+        "topic": {
+          "preview": "\u57fa\u4e8e\u77e9\u9635\u7684\u7edf\u4e00\u8ba1\u7b97\u6846\u67b6 Mars\uff0c\u76ee\u6807\u628a PyData \u7684\u751f\u6001\u5e26\u5230\u5206\u5e03\u5f0f\u6267\u884c\u73af\u5883\uff0c\u76ee\u524d\u652f\u6301 Numpy \u63a5\u53e3\uff0c\u80fd\u5728\u5206\u5e03\u5f0f\u73af\u5883\u6267\u884c\u591a\u7ef4\u6570\u7ec4\u64cd\u4f5c\uff0c\u5b83\u652f\u6301\u5728 GPU \u4e0a\u8fd0\u884c\uff0c\u4e14\u652f\u6301\u4e8c\u7ef4\u7a00\u758f\u77e9\u9635\u3002\u76ee\u524d\uff0cMars \u517c\u5bb9 70% \u5e38\u89c1 Numpy \u63a5\u53e3\u3002\u672c\u6b21\u5206\u4eab\u4f1a\u4ecb\u7ecd\u76ee\u524d\u6211\u4eec\u7684\u5de5\u4f5c\uff0c\u4f1a\u4ecb\u7ecd Mars \u7684\u5b9e\u73b0\u539f\u7406\uff0c\u5e76\u4e14\u5bf9\u672a\u6765\u7684\u4e0a\u5c42\u5efa\u7b51\u5305\u62ec DataFrame \u548c\u673a\u5668\u5b66\u4e60\u8fdb\u884c\u5c55\u671b\u3002", 
+          "slide": null, 
+          "title": "Mars\u2014\u2014\u57fa\u4e8e\u77e9\u9635\u7684\u7edf\u4e00\u8ba1\u7b97\u6846\u67b6"
+        }
+      }, 
+      "id_wangbinxin": {
+        "avatar": "lecturer_wangbinxin.png", 
+        "intro": "\u5f00\u6e90\u56fe\u4e66\u300aPython \u6700\u4f73\u5b9e\u8df5\u6307\u5357\u300b\u4e2d\u6587\u7248\u8bd1\u8005\u3001\u5f00\u6e90Python\u8de8\u5e73\u53f0\u5de5\u5177\u5e93\u201cpydu\u201d\u4f5c\u8005\uff0cPython\u70ed\u7231\u8005\u548c\u5de5\u4f5c\u8005\u3002\u4ece\u4e8b\u8fc7\u91c7\u63a7\u5e73\u53f0\u8bbe\u8ba1\u3001Agent\u5f00\u53d1\u3001\u6d4b\u8bd5\u5de5\u5177\u5f00\u53d1\u548c\u9879\u76ee\u7ba1\u7406\u7b49\u5de5\u4f5c\u3002", 
+        "name": "Binxin Wang", 
+        "title": "\u963f\u91cc\u4e91 \u9ad8\u7ea7\u5f00\u53d1\u5de5\u7a0b\u5e08", 
+        "topic": {
+          "preview": "\u5728\u5bf9\u5916\u53d1\u884c Python \u5e94\u7528\u65f6\uff0c\u6211\u4eec\u53ef\u80fd\u51fa\u4e8e\u4e2a\u4eba\u6216\u5546\u4e1a\u7684\u4fdd\u5bc6\u8981\u6c42\uff0c\u9700\u8981\u52a0\u5bc6\u6e90\u7801\u3002\u4e3b\u6d41\u7684\u52a0\u5bc6\u65b9\u5f0f\u6709\u53d1\u884c .pyc \u6587\u4ef6\u3001\u6df7\u6dc6\u6e90\u7801\u3001\u4f7f\u7528 Cython \u7f16\u8bd1\u7b49\u3002\u672c\u6b21\u5206\u4eab\u5c06\u7b80\u5355\u4ecb\u7ecd\u73b0\u6709\u52a0\u5bc6\u65b9\u5f0f\u7684\u4f18\u70b9\u4e0e\u4e0d\u8db3\uff0c\u518d\u91cd\u70b9\u4ecb\u7ecd\u5982\u4f55\u57fa\u4e8e\u5bf9\u79f0\u52a0\u5bc6\u548c\u975e\u5bf9\u79f0\u52a0\u5bc6\u7b97\u6cd5\u5b9a\u5236 Python \u89e3\u91ca\u5668\uff0c\u4ece\u800c\u8fbe\u5230\u52a0\u89e3\u5bc6\u6e90\u7801\u7684\u76ee\u7684\u3002", 
+          "slide": null, 
+          "title": "Python \u6e90\u7801\u52a0\u5bc6"
+        }
+      }
+    }, 
+    "time": "<b>Time</b>\uff1a2018.11.04", 
+    "tips": "<b>\u5927\u4f1a\u65e5\u7a0b</b><p>2018\u5e7411\u670804\u65e5 \uff08 * \u5927\u4f1a\u8bae\u7a0b\u53ef\u80fd\u56e0\u4e3a\u4e0d\u53ef\u6297\u62d2\u529b\u8fdb\u884c\u8c03\u6574\uff0c\u8bf7\u4ee5\u5927\u4f1a\u5f53\u4f53\u73b0\u573a\u6d41\u7a0b\u4e3a\u51c6\u3002\uff09</p>", 
+    "title": "hangzhou", 
+    "volunteers": [
+      {
+        "avatar": "yemin.png", 
+        "description": "\u81ea\u52a8\u5316\u6d4b\u8bd5\u67b6\u6784\u5e08", 
+        "name": "\u53f6\u654f", 
+        "voltitle": "\u8bfa\u57fa\u4e9a\u8d1d\u5c14"
+      }, 
+      {
+        "avatar": "wangbinxin.png", 
+        "description": "\u9ad8\u7ea7\u5f00\u53d1\u5de5\u7a0b\u5e08", 
+        "name": "Eric", 
+        "voltitle": "\u963f\u91cc\u4e91"
+      }, 
+      {
+        "avatar": "zhanghongda.png", 
+        "description": "\u5927\u6570\u636e\u89c6\u89c9\u5f00\u53d1\u5de5\u7a0b\u5e08", 
+        "name": "\u5f20\u5b8f\u67ef", 
+        "voltitle": "\u70b9\u6211\u8fbe"
+      }, 
+      {
+        "avatar": "laixintao.png", 
+        "description": "SRE", 
+        "name": "\u8d56\u4fe1\u6d9b", 
+        "voltitle": "\u8682\u8681\u91d1\u670d"
+      }
+    ]
+  }, 
+  "city_shanghai": {
+    "address": "<b>Address</b>\uff1a(Shanghai, Putuo)2nd Floor, Shanghai No.1 Art Hotel (in the Mengqing Park), No.130, Yichang Road,\u00a0Putuo District", 
+    "agenda": [
+      {
+        "detail": [
+          {
+            "time": "08:00\uff5e08:50", 
+            "topic": "Check-in"
+          }, 
+          {
+            "time": "08:50\uff5e09:00", 
+            "topic": "\u5f00\u573a\u4ecb\u7ecd"
+          }, 
+          {
+            "time": "09:00\uff5e09:45", 
+            "topic": "\u3010\u673a\u5668\u667a\u80fd\u7684\u5c40\u9650\uff0c\u4ece\u56fe\u50cf\u8bc6\u522b\u5230\u81ea\u7136\u8bed\u8a00\u5904\u7406\u3011\u738b\u6653\u96f7\u00a0- ThoughtWorks - \u7b97\u6cd5\u79d1\u5b66\u5bb6"
+          }, 
+          {
+            "time": "09:45\uff5e10:30", 
+            "topic": "\u3010PyTorch\u5165\u95e8\u6307\u5317\u3011\u5f20\u6821\u6377\u00a0- \u82f1\u4f1f\u8fbe - \u6df1\u5ea6\u5b66\u4e60\u67b6\u6784\u5de5\u7a0b\u5e08"
+          }, 
+          {
+            "time": "10:30\uff5e10:45", 
+            "topic": "\u8336\u6b47"
+          }, 
+          {
+            "time": "10:45\uff5e11:30", 
+            "topic": "\u3010\u6269\u5c55Jupyter/IPythonNB\uff0c\u8d4b\u80fd\u4f60\u7684\u4e91\u670d\u52a1\u3011\u4e01\u6765\u5f3a\u00a0- \u963f\u91cc\u4e91\u65e5\u5fd7\u670d\u52a1 - \u4e0a\u6d77\u56e2\u961f\u8d1f\u8d23\u4eba"
+          }, 
+          {
+            "time": "11:30\uff5e11:45", 
+            "topic": "\u3010Python - Machine Learning vs Human Learning\u3011\uff08\u5feb\u901f\u6f14\u8bb2\uff09Jiyoon Lim\u00a0- Coupang Data Analyst"
+          }, 
+          {
+            "time": "11:45 \uff5e 13:00", 
+            "topic": "\u5348\u9910\uff08\u5927\u4f1a\u63d0\u4f9b\u5de5\u4f5c\u5feb\u9910\uff09"
+          }, 
+          {
+            "time": "13:00 \uff5e 13:45", 
+            "topic": "\u3010Python\u4ece\u5934\u5b9e\u73b0\u4ee5\u592a\u574a\u3011 - Jon\u00a0- Yield.IM\u00a0\u521b\u59cb\u4eba"
+          }, 
+          {
+            "time": "13:45 \uff5e 14:30", 
+            "topic": "\u3010 \u533a\u5757\u94fe\u8d44\u4ea7\u7ba1\u7406\u4e2d\u7684Python\u3011\u9648\u6653\u4f18\u00a0- \u4e0a\u6d77\u97e6\u6069\u5f00\u733f\u8f6f\u4ef6\u79d1\u6280\u6709\u9650\u516c\u53f8\u521b\u59cb\u4eba"
+          }, 
+          {
+            "time": "14:30 \uff5e 14:45", 
+            "topic": "\u8336\u6b47"
+          }, 
+          {
+            "time": "14:45 \uff5e 15:30", 
+            "topic": "\u3010Type Hints \u6700\u4f73\u5b9e\u8df5\u3011\u5f20\u4f73\u5706\u00a0- \u7231\u5947\u827a - \u540e\u7aef\u5f00\u53d1\u5de5\u7a0b\u5e08"
+          }, 
+          {
+            "time": "15:30 \uff5e 16: 45", 
+            "topic": "\u3010\u00a0Python \u6587\u5316\u4e2d\u7684\u63a5\u53e3\u548c\u534f\u8bae\u3011- \u8d56\u4fe1\u6d9b\u00a0-\u00a0\u8682\u8681\u91d1\u670d -\u00a0SRE"
+          }, 
+          {
+            "time": "16:45 \uff5e 17:00", 
+            "topic": "\u3010\u4f7f\u7528numba\u4f18\u5316python\u4ee3\u7801\u3011-\u5434\u6c5f-\u6613\u5b89\u4fe1 - \u8d44\u6df1\u5de5\u7a0b\u5e08"
+          }, 
+          {
+            "time": "17:00 \uff5e 17:15", 
+            "topic": "\u3010Pyenv \u4ece\u5165\u95e8\u5230\u653e\u5f03\u2014\u2014Python \u591a\u7248\u672c\u591a\u73af\u5883\u5b9e\u6218\u3011\u4e01\u4fca\u8c6a\u00a0- \u4e0a\u6d77\u7eff\u5cb8\u7f51\u7edc\u79d1\u6280 - DevOps"
+          }, 
+          {
+            "time": "17:15 \uff5e 17:30", 
+            "topic": "\u62bd\u5956\uff0c\u62cd\u7167\uff0c\u7559\u5ff5"
+          }
+        ], 
+        "name": "2018\u5e7410\u670821\u65e5"
+      }
+    ], 
+    "buy_ticket_url": "http://www.huodongxing.com/event/5453261623411", 
+    "city_icon": "shanghai_icon.png", 
+    "city_name": "Shanghai", 
+    "description": "<p>Running around in the years, experiencing the vicissitudes of life,we grew up and become more matured unwittingly.</p>\n<p>During the year, we didn't dare to idle, and the annual Python Developers Conference has been prepared to show in a new look.</p>\n<p>Last year, nearly 10 lecturers had a heated discussion with the participants around the \u00a0frontier\u00a0topic of  big data and artificial intelligence.This year, we will continue to lead the way in the cutting-edge technology and add more wonderful sharing of areas where Python can do more, such as Web development, network security, Web Crawler, operations, testing, and so on.</p>\n<p>Slow down, do you think that's all? No, Since it is a conference about Python, we will return to the essence of the language .We will talk about the industrial application of the new features in new versions of Python and  the solutions of  Python multi-version, multi-environment coexistence that plague many development and operations engineers. Inspire interest and hit the pain point.</p>\n<p>Having said that much, here comes the three major philosophical questions :when and where, how to sign up? (Who am I? Where am I from? Where will I go?)</p>\n<p>The event will be held on October 21st, 2018 (Sunday), let us meet at the 2nd floor of No.1 Art Hotel. Address: No. 130, Yichang Road, Putuo, Shanghai (in the MengQingYuan Park).</p>\n<p>You or your company are welcome to sponsor this conference, sponsors' rights and details, please contact: cynthiaxin1@gmail.com</p>\n<p>PyCon is the world's largest annual gathering of Pythoneers, supported by the PSF (Python Foundation), dedicated to creating a delightful and diverse Python technology theme conference. PyConChina is a  PyCon Annual Conference in China ,authorized by CPyUG. No matter which programming language you use, you are welcome to participate this big fun event organized by the Python Chinese community.</p>\n", 
+    "detail_url": "city_shanghai.html", 
+    "donators": null, 
+    "intro": "", 
+    "speakers": {
+      "id_chenxiaoyou": {
+        "avatar": "lecturer_zhangxiaoyou.png", 
+        "intro": "Founder of Shanghai Wayne Kailuan Software Technology Co., Ltd., ever served as a quantitative trader and fund manager in large-scale quantitative private equity funds, developed the vn.py quantitative trading framework, which is currently one of the world's largest open source quantitative trading projects ( Github Star 6071). The current work focus is on the development of quantitative trading systems in the blockchain and digital currency sectors.", 
+        "name": "Xiaoyou Chen", 
+        "title": "Founder of Shanghai Wayne Kailuan Software Technology Co., Ltd.", 
+        "topic": {
+          "preview": "Theme introduction:The new asset types (digital currency and vouchers) brought about by the blockchain technology revolution, as well as its decentralized infrastructure, are bringing dramatic changes to the global asset management industry. With its mature large-scale financial application background and active user community, Python language has become the preferred solution in the blockchain asset management business. This presentation aims to share the application of Python in the various ecological aspects of blockchain asset management and to explore future directions.", 
+          "title": "Python in blockchain asset management"
+        }
+      }, 
+      "id_dingjunhao": {
+        "avatar": "lecturer_dingjunhao.png", 
+        "intro": "The web name of the speechmaker is ITXiaoPang. He's the\u00a0founder of the open source sky website. He has been programming since 2003.He is familiar with many languages, but loves Python only. Currently working on Python's operation and maintenance in a well-known game company.", 
+        "name": "Junhao Ding", 
+        "title": "iwgame</br>DevOps", 
+        "topic": {
+          "preview": "- Python multi-version, multi-environment coexistence analysis</br>\n- traditional solutions</br>\n- Pyenv advantage</br>\n- Did you install Pyenv right?</br>\n- Best practices of Pyenv</br>\n", 
+          "title": "Pyenv, from entry to giving up - Python multi-version multi-environment combat"
+        }
+      }, 
+      "id_dinglaiqiang": {
+        "avatar": "lecturer_dinglaiqiang.png", 
+        "intro": "Worked as an architect in Splunk (the first purely data-listed company on NASDAQ in the US)  and being in this field for 10+ years, Mr. Ding has a wide range of technical interests. He shared 5 well received topics at the PyCon 2015/2016 conference, covering the Big data analysis and Processing visualization, Python functional programming / design pattern, Python big data scheduling engine, Pythin core injection technology and other topics, etc.", 
+        "name": "Laiqiang Ding", 
+        "title": "Alibaba Cloud's log service</br>Shanghai team leader", 
+        "topic": {
+          "preview": "Jupyter (IPython Notebook) is cool and popular. Except for All-takenism, it seems difficult to extend Jupyter? This topic is an easy-to-understand example of how to extend Jupyter to link your cloud services, optimize the output of services, and make Jupyter smarter for your projects and customers.", 
+          "title": "Extend Jupyter/IPythonNB to empower your cloud service"
+        }
+      }, 
+      "id_jiyoonlim": {
+        "avatar": "lecturer_jiyoonlim.png", 
+        "intro": "Work as a Data Analyst at an SCM Data Science team at an ecommerce company. The team analyze everything related to SCM plus some of FC related topics. Getting to use and learning about Python on a daily basis has been a great experience!", 
+        "name": "Jiyoon Lim", 
+        "title": "Coupang</br>Data Analyst", 
+        "topic": {
+          "preview": "The topic of my speech is about the comparison between a non-Pythonic way and a Pythonic way of approaching business problems. As I switched from a business side to a technical field, I have experienced how two sides differ in solving business problems. I will cover the actual problems needed to be solved on FC Network Analysis using K-Means and how pro Excel users would approach this problem.", 
+          "title": "Python - Machine Learning vs Human Learning"
+        }
+      }, 
+      "id_jon": {
+        "avatar": "lecturer_jon.png", 
+        "intro": "Continuous entrepreneurs, more than 10 years experience in Web application architecture, mainly writing Python/Rust/JavaScript/Haskell language, Ethereum early fans and evangelists, open source software supporters. The current focus is on blockchain payment projects. Yield.IM", 
+        "name": "Jon", 
+        "title": "Founder", 
+        "topic": {
+          "preview": "The goal of using Python to implement Ethereum from scratch is to disassemble the Ethereum \"rocket\", to find out, and then reassemble it with Python. Our focus is not on recreating an Ethereum, but on getting an experience in the process. This series can be roughly divided into four chapters, namely P2P network protocol, blockchain structure, consensus calculation and the smart contract. This topic explores the P2P network protocol component, and we will try to connect to the Ethereum network and communicate smoothly in python.", 
+          "title": "realizes Ethereum with Python from scratch"
+        }
+      }, 
+      "id_laixintao": {
+        "avatar": "lecturer_laixintao.png", 
+        "intro": "", 
+        "name": "Xintao Lai", 
+        "title": "Ant Financial</br>Site Reliability Engineer", 
+        "topic": {
+          "preview": "Why is the length of the object being len() instead of obj.length() ? What is the difference between an iterator and an iterable object? Why do we rarely use design patterns when writing Python code? Behind this it is the idea of \"protocol\" in the Python language. This talk will discuss how to understand the protocol in Python, what is the design idea, and how to write Python code to implement this idea.", 
+          "title": "Interfaces and protocols in the Python culture"
+        }
+      }, 
+      "id_wangxiaolei": {
+        "avatar": "lecturer_wangxiaolei.png", 
+        "intro": "Wang Xiaolei, the chief algorithmic scientist of the China Consulting team, has provided data and algorithm related consulting services in  many domestic and overseas projects for a lot of companies, including banks and insurance companies, financial services institutions, real estate advertising companies, consumer goods companies, educational service organizations, and communication technology companies. It mainly includes mathematical modeling and optimization, unstructured data processing, natural language processing, image recognition, etc. It has end-to-end experience in human-computer interaction and precision marketing, and truly realizes the value of customized mining data.", 
+        "name": "Xiaolei Wang", 
+        "title": "ThoughtWorks</br>Algorithm scientist", 
+        "topic": {
+          "preview": "AI is math. Though we do not have to prove something mathematically when creating a deep neuro network, we are using statistical methods to learn the patterns from the data. Unsurprisingly, we've done some unseen assumption behind the model that will never lead to the result that an intelligence could understand and generalize about the world. Today we are going to discuss about the limitations of machine intelligence based on some real world projects, from image recognition to natural language processing, about both data and models.\u00a0</br>\n</br>\nTo python players, this talk may answer the following questions:</br>\n1. How to know whether my problem can be solved by Artificial Intelligence today?\u00a0</br>\n2. How to design the indictors for a real-life problem?\u00a0</br>\n3. How to know if a model is 'good enough'?\u00a0</br>\n4. How much data is enough to train a model?\u00a0</br>\n5. Tips and tricks when using Python for deep learning.\u00a0</br>\n", 
+          "title": "Speech topic: Limitations of machine intelligence, from image recognition to natural language processing"
+        }
+      }, 
+      "id_wujiang": {
+        "avatar": "lecturer_wujiang.png", 
+        "intro": "Responsible for web backend development in the Mozy group, Mr. Jiang has many Experience in the development and optimization of high-traffic Web backends for many years.", 
+        "name": "Jiang Wu", 
+        "title": "EMC Senior Engineer", 
+        "topic": {
+          "preview": "Because of the dynamic type, Python's performance has always been a headache. The release of Python3 did not bring performance improvements. The performance of pypy's interpreter that supports jit is still not good enough. This presentation will use a performance test code  to show the optimization step by step and show the tuning process, explaining how to optimize the performance of Python code with numba and cython, as fast as Go.", 
+          "title": "Optimize the python code with numba"
+        }
+      }, 
+      "id_zhangjiayuan": {
+        "avatar": "lecturer_zhangjiayuan.png", 
+        "intro": "Now working as a backend development engineer (Python) at iQiyi, 4 years of Python coding experience, and mainly use Python for web development at work. In this PyCon, Mr. Zhang will share some experience of using Type HInts in real projects.", 
+        "name": "Jiayuan Zhang", 
+        "title": "IQIYI</br>Backend development engineer", 
+        "topic": {
+          "preview": "1. Introduction to type system, comparison of static type and dynamic type</br>\n2. What is Type Hints</br>\n3. Why do I need to use Type Hints?</br>\n4.Some ways to use Type Hints</br>\n5. Some problems with Type Hints and the improvements in Python 3.7</br>\n6. How to start with Type Hints in a real project</br>\n7. Continuous integration of mypy for type checking</br>\n8. The future of Type HInts, CPython runtime optimization? JIT?</br>\n", 
+          "title": "Type Hints Best Practices"
+        }
+      }, 
+      "id_zhangxiaojie": {
+        "avatar": "lecturer_zhangxiaojie.png", 
+        "intro": "Now working as a deep learning architecture engineer at NVIDIA, he is responsible for the optimization of GPU-based deep learning models. The main application scenario of the  Python at work is to build the deep learning model. The main deep learning frameworks used are PyTorch and TensorFlow. Hope to share  the experience on PyTorch's with everyone in PyCon.", 
+        "name": "Xiaojie Zhang", 
+        "title": "Nvidia</br>Deep learning architecture engineer", 
+        "topic": {
+          "preview": "1. Introduction to PyTorch</br>\nIntroducing the characteristics of PyTorch dynamic graphs, and comparing PyTorch with other deep learning frameworks.</br>\n2. Introduction to new features of PyTorch (mainly for version 0.4)</br>\nIntroducing the new features of PyTorch 0.4 (which may include 1.0 if 1.0 is released) to help the programmers migrate the code to the new version.</br>\n3. How to build a simple neural network using PyTorch</br>\nIntroducing the simple use of PyTorch (use of nn.Module)</br>\n4. PyTorch's parallel training</br>\nDescribing how to use the multi-GPU to train the PyTorch model (using the apex library)</br>\n5. Deploy PyTorch model with ONNX</br>\nDescribing how to solidify the model with the ONNX format and deploy the model on Caffe2</br>\n6.Tips on PyTorch</br>\nIntroducing the various pits that you may encounter when writing PyTorch</br>\n7. Summary</br>\n", 
+          "title": "Getting started with PyTorch"
+        }
+      }
+    }, 
+    "time": "<b>Time</b>\uff1a2018.10.21", 
+    "tips": "<b>\u5927\u4f1a\u65e5\u7a0b</b><p>2018\u5e7410\u670821\u65e5 \uff08 * \u56e0\u4e3a\u573a\u5730\u9650\u5236\uff0c\u672c\u6b21\u5927\u4f1a\u5c06\u4e0d\u63d0\u4f9b\u5348\u9910\uff09</p>", 
+    "title": "shanghai", 
+    "volunteers": [
+      {
+        "avatar": "zhangxiaojie.png", 
+        "description": "\u6df1\u5ea6\u5b66\u4e60\u67b6\u6784\u5de5\u7a0b\u5e08", 
+        "name": "\u5f20\u6821\u6377", 
+        "voltitle": "NVIDIA"
+      }, 
+      {
+        "avatar": "shiyuankun.png", 
+        "description": "\u8f6f\u4ef6\u5de5\u7a0b\u5e08", 
+        "name": "\u77f3\u5143\u5764", 
+        "voltitle": "\u82f1\u7279\u5c14"
+      }, 
+      {
+        "avatar": "dinjunhao.png", 
+        "description": "DevOps", 
+        "name": "\u4e01\u4fca\u8c6a/\u6328\u8e22\u5c0f\u80d6", 
+        "voltitle": "\u8d5b\u53ef\u51fa\u884c"
+      }, 
+      {
+        "avatar": "huzhiqiang.png", 
+        "description": "\u5de5\u7a0b\u5e08", 
+        "name": "\u80e1\u5fd7\u5f3a", 
+        "voltitle": "\u897f\u90e8\u671f\u8d27\u90ae\u7bb1\u516c\u53f8"
+      }, 
+      {
+        "avatar": "zhangzhijun.png", 
+        "description": "\u6280\u672f\u603b\u76d1", 
+        "name": "\u5f20\u5fd7\u519b/water", 
+        "voltitle": "\u590d\u661f\u6709\u53fb\u4fe1\u606f\u79d1\u6280\u516c\u53f8"
+      }
+    ]
+  }, 
+  "city_shenzhen": {
+    "address": "<b>Address</b>\uff1a(Guangdong, Shenzhen)3rd Floor, Shenzhen Kexing Science Park International Conference Center, NO.15,\u00a0 Keyuan Road, Nanshan District", 
+    "agenda": [
+      {
+        "detail": [
+          {
+            "time": "08:30\uff5e08:50", 
+            "topic": "\u7b7e\u5230"
+          }, 
+          {
+            "time": "08:50\uff5e09:00", 
+            "topic": "\u6696\u573a\u4ecb\u7ecd"
+          }, 
+          {
+            "speaker": "id_lilong", 
+            "time": "09:00\uff5e09:45"
+          }, 
+          {
+            "speaker": "id_heshiyou", 
+            "time": "09:45\uff5e10:30"
+          }, 
+          {
+            "speaker": "id_hejian", 
+            "time": "10:30\uff5e11:15"
+          }, 
+          {
+            "speaker": "id_river4", 
+            "time": "11:15\uff5e12:00"
+          }, 
+          {
+            "time": "12:00\uff5e13:00", 
+            "topic": "\u5348\u95f4\u4f11\u606f"
+          }, 
+          {
+            "speaker": "id_dama", 
+            "time": "13:00\uff5e13:45"
+          }, 
+          {
+            "speaker": "id_chenshaoshen", 
+            "time": "13:45\uff5e14:30"
+          }, 
+          {
+            "time": "14:30\uff5e14:45", 
+            "topic": "\u4f11\u606f - \u6b66\u672f\u8868\u6f14"
+          }, 
+          {
+            "speaker": "id_huangyi", 
+            "time": "14:45\uff5e15:30"
+          }, 
+          {
+            "speaker": "id_zhuyehua", 
+            "time": "15:30\uff5e16:15"
+          }, 
+          {
+            "speaker": "id_anqur", 
+            "time": "16:15\uff5e17:00"
+          }, 
+          {
+            "time": "17:00 - 17:10", 
+            "topic": "\u4f1a\u8bae\u7ed3\u675f\uff0c\u62bd\u5956\uff0c\u5408\u5f71"
+          }
+        ], 
+        "name": "The main venue"
+      }
+    ], 
+    "buy_ticket_url": "http://www.huodongxing.com/go/pycon2018sz", 
+    "city_icon": "shenzhen_icon.png", 
+    "city_name": "Shenzhen", 
+    "description": "<p>\u6765\u4e86\u5c31\u662f\u6df1\u5733\u4eba\uff0c\u6765\u4e86\u5c31\u662fPythoneer\uff01 PyCon\u53c8\u8981\u5728\u6df1\u5733\u4e0e\u5927\u5bb6\u89c1\u9762\u4e86. \u8fd1\u5e74\u6765\u968f\u7740\u5927\u6570\u636e\uff0cAI\u7b49\u6280\u672f\u7684\u53d1\u5c55\uff0c\u4e00\u5411\u4f4e\u8c03\u7684python\u5df2\u7ecf\u9010\u6e10\u5750\u4e0a\u4e86\u7f16\u7a0b\u8bed\u8a00\u7684\u7b2c\u4e00\u628a\u4ea4\u6905\uff0e\u5728\u8fd9\u5ea7\u8bde\u751f\u4e86\u534e\u4e3a\uff0c\u817e\u8baf\u7b49\u4e00\u7ebf\u4e92\u8054\u7f51\u516c\u53f8\u7684\u57ce\u5e02\u91cc\uff0c\u6216\u8bb8\u4e0b\u4e00\u4e2a\u98ce\u53e3\u5c31\u8bde\u751f\u4e8ePython,\u8bde\u751f\u4e8ePyCon\u7684\u4ea4\u6d41\u4e2d\uff0e\u5e0c\u671b\u4e0e\u4f60\u76f8\u7ea6\u4e8ePyCon\u6df1\u5733\uff0c\u4e0d\u7ba1\u662f\u4ee5\u8bb2\u5e08\u7684\u777f\u667a\uff0c\u8fd8\u662f\u542c\u4f17\u7684\u70ed\u60c5\uff0c\u8ba9\u6211\u4eec\u8ba4\u8bc6\u90a3\u4e2a\u5353\u5c14\u4e0d\u51e1\u7684\u4f60\uff0e</p> <p>PyCon \u662f\u5168\u7403Pythonista\u6700\u76db\u5927\u7684\u5e74\u5ea6\u805a\u4f1a\uff0c\u81f4\u529b\u4e8e\u8425\u9020\u6109\u5feb\u7684\u3001\u591a\u5143\u5316\u7684Python\u6280\u672f\u4e3b\u9898\u5927\u4f1a\u3002PyCon China\u662f\u7531 CPyUG(\u534e\u880e\u7528\u6237\u7ec4)\u83b7\u5f97\u6388\u6743\u4e3e\u529e\u7684\u4e2d\u56fdPyCon\u5e74\u4f1a\u3002\u65e0\u8bba\u60a8\u4f7f\u7528\u54ea\u79cd\u7f16\u7a0b\u8bed\u8a00, \u90fd\u6b22\u8fce\u6765\u53c2\u52a0\u8fd9\u573a\u5b8c\u5168\u7531Python\u4e2d\u56fd\u793e\u533a\u7ec4\u7ec7\u7684\u6b22\u4e50\u96c6\u4f1a;-)</p> <p>\u73b0\u5728\uff0cPyCon 2018 \u6df1\u5733\u7ad9 \u6d3b\u52a8\u5c06\u4e8e2018\u5e7410\u670827\u65e5\uff08\u661f\u671f\u516d\u5168\u5929\uff09\u4e3e\u884c\u3002</p>", 
+    "detail_url": "city_shenzhen.html", 
+    "donators": null, 
+    "intro": "", 
+    "speakers": {
+      "id_anqur": {
+        "avatar": "lecturer_anqur.png", 
+        "intro": "Python \u7231\u597d\u8005, \u5173\u6ce8\u7cfb\u7edf\u7f16\u7a0b\u9886\u57df. 14 \u5e74\u87d2\u8425\u63a5\u89e6 Python \u81f3\u4eca, \u672c\u79d1\u6bd5\u4e1a\u7b2c\u4e00\u4e2a\u6708\u7684\u65b0\u5de5\u7a0b\u72ee\u4e00\u679a, \u73e0\u6d77 GDG \u6d3b\u8dc3\u5206\u5b50. ", 
+        "name": "Anqur", 
+        "title": "\u534e\u4e3a \u7f51\u7edc\u4ea7\u54c1\u5f00\u53d1\u5de5\u7a0b\u5e08", 
+        "topic": {
+          "preview": "\u5728\u5f02\u6b65\u7f16\u7a0b\u9886\u57df Python \u6709\u7740\u5341\u51e0\u5e74\u7684\u7ecf\u9a8c\u548c\u79ef\u7d2f, \u4ece asyncore, futures \u5230 tasks, coroutines, Python 3.x \u7684\u5f02\u6b65\u80fd\u529b\u56f4\u7ed5\u7740 asnycio \u5728\u8fd1\u51e0\u5e74\u5185\u8fc5\u731b\u63d0\u5347. \u672c\u6f14\u8bb2\u4e3b\u9898\u4ece\u4e00\u4e2a\u6781\u5c0f\u7684\u7591\u95ee\u53d1\u8d77, \u6d45\u8c08\u534f\u7a0b\u4e0e\u4e8b\u4ef6\u5faa\u73af\u5728 Python \u4e2d\u7684\u8054\u7cfb\u4e0e\u5b9e\u8df5\u3002", 
+          "slide": null, 
+          "title": "\u6d45\u8c08 Python \u4e8b\u4ef6\u5faa\u73af\u4e0e\u534f\u7a0b"
+        }
+      }, 
+      "id_chenshaoshen": {
+        "avatar": "lecturer_chenshaoshen.png", 
+        "intro": "2009\u5e74\u6bd5\u4e1a\u4e8e\u54c8\u5c14\u6ee8\u5de5\u7a0b\u5927\u5b66\u7855\u58eb\u5b66\u4f4d\u3002\u66fe\u5c31\u804c\u4e8e\u8bfa\u57fa\u4e9a\uff0c\u534e\u4e3a\u7b49\u516c\u53f8\uff0c2013\u5e74\u521d\u52a0\u5165\u6df1\u5733\u82b1\u679c\u5c71\u79d1\u6280\u6709\u9650\u516c\u53f8\u5de5\u4f5c\u81f3\u4eca\u3002\u7231\u597d\u7f16\u7a0b\uff0c\u4e2d\u533b\uff0c\u4f20\u7edf\u6b66\u672f\u7b49\u3002", 
+        "name": "Shaoshen Chen", 
+        "title": "\u6df1\u5733\u82b1\u679c\u5c71\u79d1\u6280\u6709\u9650\u516c\u53f8\u6280\u672f\u603b\u76d1", 
+        "topic": {
+          "preview": "\u4ee5\u4e00\u4e2a Pythoneer \u7684\u89d2\u5ea6\u89c1\u8bc1\u4e00\u4e2a\u7535\u55465\u5e74\u7684\u6c89\u6d6e\u53d1\u5c55\uff0c\u5206\u4eab\u5728\u6b64\u8fc7\u7a0b\u4e2d\u5982\u4f55\u5229\u7528\u5404\u79cd\u5f00\u6e90\u65b9\u6848\u89e3\u51b3\u6027\u80fd\u4f18\u5316\uff0c\u5982\u4f55\u5728\u4e0d\u65ad\u53d8\u5316\u7684\u4e1a\u52a1\u4e0e\u4e0d\u65ad\u8c03\u6574\u7684\u5546\u4e1a\u6a21\u578b\u4e2d\u4e3a\u516c\u53f8\u63d0\u4f9b\u9ad8\u6548\u7684\u5de5\u5177\u8ba9\u5176\u5904\u4e8e\u6709\u5229\u7684\u7ade\u4e89\u5730\u4f4d\u3002\u63a2\u8ba880\u540e\u7a0b\u5e8f\u5458\u5728\u4e0d\u65ad\u53d1\u5c55\u7684\u5f62\u52bf\u9762\u524d\u5982\u4f55\u4fdd\u6301\u81ea\u5df1\u7684\u7ade\u4e89\u529b\uff0c\u5982\u4f55\u7ec4\u5efa\u81ea\u5df1\u7684\u56e2\u961f\uff0c\u5982\u4f55\u5065\u5eb7\u7684\u751f\u6d3b\u3002", 
+          "slide": null, 
+          "title": "Python \u5728\u4e2d\u5c0f\u7535\u5546\u7684\u5e94\u7528\u4e0e\u5b9e\u8df5"
+        }
+      }, 
+      "id_dama": {
+        "avatar": "lecturer_dama.png", 
+        "intro": "<p>\u6c5f\u6e56\u4eba\u79f0\u5927\u5988\u7684\u5927\u5988 Pythoneer ;-)</p> <p>Python \u4e2d\u6587\u793e\u533a\u521b\u59cb\u4eba / \u7ba1\u7406\u5458,\u70ed\u5fc3\u4e8epython\u793e\u533a\u7684\u516c\u76ca\u4e8b\u4e1a,\u5927\u5bb6\u719f\u77e5\u7684\u793e\u533a\"\u5927\u5988\";OBP\u53ca\u87d2\u8425\u5de5\u7a0b\u8bbe\u8ba1\u8005 /\u4e3b\u6301\u4eba;\u53c2\u4e0e\u5e76\u4e3b\u6301\u5404\u79cd\u7ebf\u4e0a / \u7ebf\u4e0b\u6d3b\u52a8,\u4e3b\u6301\u7f16\u64b0\u4e86 \"\u53ef\u7231\u7684Python\";\u575a\u6301\u7528 Pythonic \u611f\u5316\u56fd\u4eba\u8fdb\u5165 FLOSS\u4e16\u754c\u8fdb\u884c\u5b66\u4e60 / \u5206\u4eab / \u521b\u9020!</p>", 
+        "name": "Zoom.Quiet", 
+        "title": "\u5317\u4eac\u4f18\u89c6\u773c\u52a8\u79d1\u6280 CTO", 
+        "topic": {
+          "preview": "", 
+          "slide": null, 
+          "title": "\u4f46\u884c\u597d\u4e8b \u83ab\u95ee\u524d\u7a0b"
+        }
+      }, 
+      "id_hejian": {
+        "avatar": "lecturer_hejian.png", 
+        "intro": "\u5341\u591a\u5e74IT\u4ece\u4e1a\u7ecf\u9a8c\uff0c\u4ece\u6280\u672f\u5230\u91d1\u878d\uff0c\u4ece\u91d1\u878d\u5230\u98ce\u63a7\uff0c\u4ece\u98ce\u63a7\u5230\u4e92\u8054\u7f51\uff0c\u4ece\u4e92\u8054\u7f51\u5230\u54a8\u8be2\u3002\u4e0d\u65ad\u8d70\u51fa\u8212\u9002\u533a\uff0c\u4f53\u9a8c\u591a\u7ef4\u7684\u4eba\u751f\u3002", 
+        "name": "Jian He", 
+        "title": "ThoughtWorks \u54a8\u8be2\u5e08 \u524d\u4e92\u8054\u7f51\u91d1\u878d\u516c\u53f8CTO", 
+        "topic": {
+          "preview": "\u7531\u4e8e\u79cd\u79cd\u539f\u56e0\uff0c\u5f88\u591a\u65f6\u5019\u8bf4\u5230\u5fae\u670d\u52a1\u8c8c\u4f3c\u4f7f\u7528\u7684\u8bed\u8a00\u53ea\u6709 Java\uff0c\u5176\u5b9e\u5fae\u670d\u52a1\u7684\u521d\u8877\u662f\u5e0c\u671b\u4e0d\u540c\u7684\u670d\u52a1\u80fd\u591f\u6839\u9009\u62e9\u81ea\u5df1\u64c5\u957f\u6216\u8005\u559c\u6b22\u7684\u8bed\u8a00\u6765\u5f00\u53d1\u3002\u8fd9\u4e2a\u8bdd\u9898\u5c31\u60f3\u804a\u804a\u7528 Python \u600e\u4e48\u5fae\u670d\u52a1\uff0c\u4e3b\u8981\u5185\u5bb9\u6709\u4e3a\u4ec0\u4e48\u8981\u4f7f\u7528 Python \u6765\u505a\u5fae\u670d\u52a1\uff0c\u4f7f\u7528 Python \u5982\u4f55\u8bbe\u8ba1\u4e00\u4e2a\u5fae\u670d\u52a1\u67b6\u6784\uff0c\u6709\u4e86\u67b6\u6784\u5728\u5b9e\u73b0\u7684\u65f6\u5019\u5982\u4f55\u7f16\u5199 Python \u5fae\u670d\u52a1\uff0c\u6700\u540e\u7b80\u5355\u4ecb\u7ecd\u4e00\u4e0b\u5728\u90e8\u7f72\u5fae\u670d\u52a1\u7684\u65f6\u5019\u5e94\u8be5\u6ce8\u610f\u4e9b\u4ec0\u4e48\u3002\u5e0c\u671b\u901a\u8fc7\u8fd9\u4e2a\u8bdd\u9898\u80fd\u591f\u8ba9\u5927\u5bb6\u80fd\u591f\u5efa\u7acb\u4e00\u4e2a Python \u5fae\u670d\u52a1\u7684\u4f53\u7cfb\uff0c\u5728\u67d0\u4e9b\u573a\u666f\u4e0b\u80fd\u591f\u5229\u7528 Python \u7684\u4f18\u52bf\u5feb\u901f\u5b9e\u73b0\u57fa\u4e8e\u5fae\u670d\u52a1\u67b6\u6784\u7684\u5e94\u7528\u3002", 
+          "slide": null, 
+          "title": "\u53ea\u80fd\u7528 Java \u505a\u5fae\u670d\u52a1\uff1fPython \u4e5f\u53ef\u4ee5"
+        }
+      }, 
+      "id_heshiyou": {
+        "avatar": "lecturer_heshiyou.png", 
+        "intro": "\u7231\u8303\u513f CTO\u3001\u77e5\u6653\u4e91\u8d1f\u8d23\u4eba\uff0c\u5927\u5b66\u5f00\u59cb\u521b\u4e1a\uff0c\u5148\u540e\u53c2\u4e0e\u8fc7\u591a\u4e2a\u521b\u65b0\u521b\u4e1a\u9879\u76ee\u3002\u8d44\u6df1\u79fb\u52a8\u4e92\u8054\u7f51\u5e94\u7528\u4e13\u5bb6\uff0c\u64c5\u957f\u67b6\u6784\u8bbe\u8ba1\uff0c\u4e13\u6ce8\u4e91\u8ba1\u7b97\u3001\u673a\u5668\u5b66\u4e60\u53ca\u79fb\u52a8\u5f00\u53d1\u3002", 
+        "name": "Shiyou He", 
+        "title": "\u7231\u8303\u513f CTO", 
+        "topic": {
+          "preview": "\u8fd1\u5e74\u6765\uff0c\u5e94\u7528\u5f62\u6001\u9010\u6e10\u671d\u7740 PWA\u3001\u5c0f\u7a0b\u5e8f\u7b49\u8303\u5ba2\u6237\u7aef\u5f62\u6001\u53d1\u5c55\uff1b\u4e91\u8ba1\u7b97\u5219\u671d\u7740 BaaS + FaaS \u7684 Serverless \u65e0\u670d\u52a1\u67b6\u6784\u5927\u6b65\u8fc8\u8fdb\u3002\u672c\u6b21\u5206\u4eab\u5411\u5927\u5bb6\u4ecb\u7ecd\u7231\u8303\u513f\u56e2\u961f\u5728\u7528 Python \u6253\u9020\u5c0f\u7a0b\u5e8f\u9886\u57df\u7684 Serverless \u5e73\u53f0\u77e5\u6653\u4e91\u7684\u8fc7\u7a0b\u4e2d\u9047\u5230\u7684\u6311\u6218\u548c\u6536\u83b7\uff0c\u4ee5\u53ca\u5bf9\u63a5\u4e0b\u6765\u7684\u4e91\u8ba1\u7b97\u5f62\u6001\u7684\u5c55\u671b\u3002", 
+          "slide": null, 
+          "title": "\u7528 Python \u6253\u9020 Serverless \u5e73\u53f0\uff0c\u4ece 0 \u5230 1"
+        }
+      }, 
+      "id_huangyi": {
+        "avatar": "lecturer_huangyi.png", 
+        "intro": "10\u591a\u5e74\u7684\u8001 Pythoneer\uff0c\u4ece\u4e8b\u8fc7 Web \u524d\u540e\u7aef\uff0c\u624b\u6e38\u524d\u540e\u7aef\uff0c\u6e38\u620f\u5f15\u64ce\u5f00\u53d1\uff0c\u6742\u4e03\u6742\u516b\u7684\u7f16\u7a0b\u8bed\u8a00\uff0c\u4ece\u7801\u519c\u5230 CTO\u3002\u8fd1\u5e74\u6765\u6df1\u5165\u7814\u7a76\u533a\u5757\u94fe\u76f8\u5173\u6280\u672f\u3002", 
+        "name": "Huangyi", 
+        "title": "\u98ce\u96f7\u4e92\u52a8 CTO", 
+        "topic": {
+          "preview": "- \u4f7f\u7528 Python \u5f00\u53d1\u5e76\u5b9e\u73b0Cardano\uff08\u533a\u5757\u94fe\uff09\u9879\u76ee\u3002 - \u5bf9\u6bd4 Python \u548c Haskell \u8bed\u8a00\u5728\u533a\u5757\u94fe\u9879\u76ee\u65b9\u9762\u7684\u7279\u70b9\u3002 - \u4ecb\u7ecd Cardano \u9879\u76ee\u672c\u8eab\u7684\u5f00\u53d1\u7ec6\u8282\u3002", 
+          "slide": null, 
+          "title": "Python \u548c\u516c\u94fe\u5f00\u53d1"
+        }
+      }, 
+      "id_lilong": {
+        "avatar": "lecturer_lilong.png", 
+        "intro": "\u674e\u9686\uff08debugtalk\uff09\uff0cDebugTalk \u535a\u4e3b\uff0cHttpRunner \u4f5c\u8005\u30027\u5e74\u8f6f\u4ef6\u6d4b\u8bd5\u884c\u4e1a\u7ecf\u5386\uff0c\u91cd\u5ea6 Python \u7231\u597d\u8005\uff0c\u59cb\u7ec8\u81f4\u529b\u4e8e Python \u5728\u8f6f\u4ef6\u6d4b\u8bd5\u9886\u57df\u7684\u5e94\u7528\u548c\u63a8\u5e7f\u3002\u4fe1\u5949 Python \u4e4b\u7985\uff0c\u8ffd\u6c42\u4ee3\u7801\u7684\u7b80\u6d01\u548c\u4f18\u96c5\uff0c\u4e8e\u4eba\u751f\u4ea6\u7136\u3002\u5f53\u524d\u5728\u5927\u7586\u521b\u65b0\u8d1f\u8d23\u6d4b\u8bd5\u5f00\u53d1\u65b9\u9762\u7684\u5de5\u4f5c\u3002", 
+        "name": "Long Li", 
+        "title": "(debugtalk\uff09 \u5927\u7586\u521b\u65b0\u6d4b\u8bd5 \u5f00\u53d1\u8d1f\u8d23\u4eba", 
+        "topic": {
+          "preview": "- Python \u5728\u8f6f\u4ef6\u6d4b\u8bd5\u9886\u57df\u7684\u751f\u6001 - HttpRunner \u7684\u8bde\u751f\u80cc\u666f - HttpRunner \u7684\u5f00\u53d1\u8bbe\u8ba1\u601d\u8def - \u57fa\u4e8e HttpRunner \u7684\u81ea\u52a8\u5316\u6d4b\u8bd5\u65b9\u6848 - \u57fa\u4e8e HttpRunner \u7684\u6210\u529f\u5b9e\u8df5\u6848\u4f8b", 
+          "slide": null, 
+          "title": "\u501f\u52a9 Python \u5f00\u6e90\u751f\u6001\u6253\u9020\u4f01\u4e1a\u7ea7\u81ea\u52a8\u5316\u6d4b\u8bd5\u6846\u67b6\uff08HttpRunner\uff09"
+        }
+      }, 
+      "id_river4": {
+        "avatar": "lecturer_river4.png", 
+        "intro": "\u4f18\u8da3\u5929\u4e0b\u521b\u59cb\u4eba\uff0c\u5168\u7403\u6700\u6d41\u884c\u7684\u5b89\u5353 Python \u5e94\u7528 QPython \u4f5c\u8005\uff0c\u524dZynga\u9ad8\u7ea7\u5f00\u53d1\u5de5\u7a0b\u5e08\u3001\u524d\u7eff\u76df\u79d1\u6280\u4ea7\u54c1\u7ecf\u7406\u3001\u524d\u65b0\u6d6a\u90ae\u4ef6\u9ad8\u7ea7\u5f00\u53d1\u5de5\u7a0b\u5e08\u3002", 
+        "name": "river4", 
+        "title": "\u4f18\u8da3\u5929\u4e0b \u521b\u59cb\u4eba", 
+        "topic": {
+          "preview": "\u901a\u8fc7\u5206\u4eab\u5728\u5b89\u5353\u4e0a\u79fb\u690d\u7f16\u8bd1 Python \u7684\u5b9e\u8df5\u7ecf\u9a8c\u4e0e\u5927\u5bb6\u4e00\u8d77\u6df1\u5165 Python \u8fd9\u4e2a\u8f6f\u4ef6\u5de5\u7a0b\u7684\u7ed3\u6784\u8bbe\u8ba1\uff0c\u4ee5\u53ca\u5982\u4f55\u9605\u8bfb Python \u6e90\u7801\uff0c\u751a\u81f3\u6269\u5c55 Python \u4ee3\u7801\u3002 \u6db5\u76d6\u7684\u5185\u5bb9\u5305\u62ec - \u5728\u5b89\u5353\u5e73\u53f0\u8fd0\u884c Python \u7684\u610f\u4e49 - \u5b89\u5353\u5e73\u53f0\u4e0e\u6807\u51c6 Linux \u5e73\u53f0\u7684\u4e00\u4e9b\u5171\u540c\u70b9\u548c\u5dee\u5f02 - \u7f16\u8bd1\u5de5\u5177\u94fe\u7684\u65b9\u6848\u53ca\u4e00\u4e9b\u95ee\u9898 - Python \u4ee3\u7801\u7ed3\u6784 - \u600e\u4e48\u8fd0\u8425\u4e00\u4e2a\u57fa\u4e8e\u7f16\u7a0b\u5de5\u5177\u7684\u793e\u533a", 
+          "slide": null, 
+          "title": "\u5b89\u5353\u4e0a\u7f16\u8bd1 Python \u5b9e\u8df5\u7b14\u8bb0"
+        }
+      }, 
+      "id_zhuyehua": {
+        "avatar": "lecturer_zhuyehua.png", 
+        "intro": "\u65af\u5766\u798f\u5927\u5b66\u8ba1\u7b97\u673a\u79d1\u5b66\u4e13\u4e1a\uff0c\u865a\u62df\u5316\u548c\u4e91\u8ba1\u7b97\u4e13\u5bb6\uff0c\u62e5\u6709\u591a\u9879\u4e91\u8ba1\u7b97\u7814\u53d1\u4e13\u5229\u3002\u66fe\u4efb\u804c\u5168\u7403\u6570\u636e\u5b58\u50a8\u884c\u4e1a\u9f99\u5934\u4f01\u4e1aEMC\u6280\u672f\u603b\u76d1\u7b49", 
+        "name": "Ed Zhu", 
+        "title": "\u6df1\u5733\u9886\u8109\u79d1\u6280 CEO", 
+        "topic": {
+          "preview": "\u6df1\u5ea6\u5b66\u4e60\u6846\u67b6\u4e0b\u7ef4\u62a4\u804a\u5929\u52a9\u624b\u4e2a\u6027\u4e00\u81f4\u7684\u6280\u672f\u6846\u67b6\uff0c\u5f88\u660e\u663e\u8fd8\u53ef\u4ee5\u884d\u751f\u51fa\u5f88\u591a\u79cd\u5176\u4ed6\u65b9\u6848\uff0c\u4f46\u662f\u6280\u672f\u601d\u8def\u5e94\u8be5\u662f\u7c7b\u4f3c\u7684\uff0c\u6838\u5fc3\u601d\u60f3\u662f\u628a\u804a\u5929\u52a9\u624b\u7684\u4e2a\u6027\u4fe1\u606f\u5728Decoder \u9636\u6bb5\u80fd\u591f\u4f53\u73b0\u51fa\u6765\uff0c\u4ee5\u8fbe\u5230\u7ef4\u62a4\u4e2a\u6027\u4e00\u81f4\u7684\u76ee\u7684\u3002", 
+          "slide": null, 
+          "title": "\u7528 Python \u548c\u6df1\u5ea6\u5b66\u4e60\u6784\u5efa\u4e0b\u4e00\u4ee3\u804a\u5929\u673a\u5668\u4eba"
+        }
+      }
+    }, 
+    "time": "<b>Time</b>\uff1a2018.10.27", 
+    "tips": "<b>\u5927\u4f1a\u65e5\u7a0b</b><p>2018\u5e7410\u670827\u65e5 \uff08 * \u5973\u6027 Pythoneer \u6ce8\u610f\u5566\uff0c\u672c\u6b21\u5927\u4f1a\u5c06\u4f1a\u4e3a\u5973\u540c\u80de\u51c6\u5907\u7279\u522b\u60ca\u559c\uff0c\u4e0d\u8981\u5fd8\u8bb0\u5411\u5fd7\u613f\u8005\u7d22\u53d6\u54e6\u3002\uff09</p>", 
+    "title": "shenzhen", 
+    "volunteers": [
+      {
+        "avatar": "spawnris.png", 
+        "description": "PyChina \u53d1\u8d77\u4eba", 
+        "name": "Spawnris", 
+        "voltitle": "\u6df1\u5733\u7ad9 | \u7ec4\u59d4"
+      }, 
+      {
+        "avatar": "liuzhijun.png", 
+        "description": "\u9ad8\u7ea7Python\u5f00\u53d1\u5de5\u7a0b\u5e08", 
+        "name": "\u5218\u5fd7\u519b", 
+        "voltitle": "\u6709\u5b9d\u79d1\u6280\u6709\u9650\u516c\u53f8"
+      }, 
+      {
+        "avatar": "shenshaoshen.png", 
+        "description": "\u6280\u672f\u603b\u76d1", 
+        "name": "\u9648\u7ecd\u741b", 
+        "voltitle": "\u6df1\u5733\u82b1\u679c\u5c71\u79d1\u6280\u6709\u9650\u516c\u53f8"
+      }, 
+      {
+        "avatar": "daishaofei.png", 
+        "description": "\u9ad8\u7ea7 Python \u5f00\u53d1\u5de5\u7a0b\u5e08", 
+        "name": "\u4ee3\u5c11\u98de", 
+        "voltitle": "\u5c0f\u6a59\u5954\u8dd1"
+      }
+    ]
+  }, 
+  "lang": "en", 
+  "lang_dir": "en", 
+  "lang_suffix": "_en", 
+  "nav": [
+    {
+      "title": "HOME", 
+      "url": "en/index.html"
+    }, 
+    {
+      "children": [
+        {
+          "title": "BEIJING__10.14", 
+          "url": "en/city_beijing.html"
+        }, 
+        {
+          "title": "SHANGHAI__10.21", 
+          "url": "en/city_shanghai.html"
+        }, 
+        {
+          "title": "SHENZHEN__10.27", 
+          "url": "en/city_shenzhen.html"
+        }, 
+        {
+          "title": "CHENGDU__10.27", 
+          "url": "en/city_chengdu.html"
+        }, 
+        {
+          "title": "HANGZHOU__11.04", 
+          "url": "en/city_hangzhou.html"
+        }
+      ], 
+      "title": "SCHEDULE"
+    }, 
+    {
+      "children": [
+        {
+          "title": 2011, 
+          "url": "http://cn.pycon.org/2011/", 
+          "url_external": 1
+        }, 
+        {
+          "title": 2012, 
+          "url": "http://cn.pycon.org/2012/", 
+          "url_external": 1
+        }, 
+        {
+          "title": 2013, 
+          "url": "http://cn.pycon.org/2013/", 
+          "url_external": 1
+        }, 
+        {
+          "title": 2014, 
+          "url": "http://cn.pycon.org/2014/en/index.html", 
+          "url_external": 1
+        }, 
+        {
+          "title": 2015, 
+          "url": "http://cn.pycon.org/2015/en/index.html", 
+          "url_external": 1
+        }, 
+        {
+          "title": 2016, 
+          "url": "http://cn.pycon.org/2016/en/index.html", 
+          "url_external": 1
+        }, 
+        {
+          "title": 2017, 
+          "url": "http://cn.pycon.org/2017/en/index.html", 
+          "url_external": 1
+        }
+      ], 
+      "title": "HISTORY"
+    }, 
+    {
+      "children": [
+        {
+          "title": "Beijing", 
+          "url": "https://shimo.im/docs/QgPUss7mLQYTOjWe/read", 
+          "url_external": 1
+        }, 
+        {
+          "title": "Shanghai", 
+          "url": "https://shimo.im/docs/snRnlx0NWCA2zuG7/read", 
+          "url_external": 1
+        }, 
+        {
+          "title": "Shenzhen", 
+          "url": "https://shimo.im/docs/Y0483j9UztooVYaQ/read", 
+          "url_external": 1
+        }, 
+        {
+          "title": "Chengdu", 
+          "url": "https://shimo.im/docs/qkxFxjQgLzMyjl7W/read", 
+          "url_external": 1
+        }, 
+        {
+          "title": "Hangzhou", 
+          "url": "https://shimo.im/docs/M0m31oLndqYdoXMc/read", 
+          "url_external": 1
+        }
+      ], 
+      "title": "Conference"
+    }, 
+    {
+      "title": "ORGANIZER", 
+      "url": "en/organizer_detail.html"
+    }, 
+    {
+      "title": "SPEAKER", 
+      "url": "en/speaker_detail.html"
+    }, 
+    {
+      "title": "SPONSER", 
+      "url": "en/support_detail.html"
+    }, 
+    {
+      "language": "zh-cn", 
+      "title": "\u4e2d\u6587", 
+      "url": "index.html"
+    }
+  ], 
+  "site": {
+    "base_url": "..", 
+    "button_buy": "Buy Now", 
+    "button_details": "Details", 
+    "home_url": "./en/", 
+    "title_donator": "Donator", 
+    "title_history": "History", 
+    "title_schedule": "Schedule", 
+    "title_speaker": "Speaker", 
+    "title_sponsor": "Sponsor", 
+    "title_support": "sponser", 
+    "title_volunteer": "Volunteer", 
+    "to_be_speaker": "To be Speaker", 
+    "to_be_speaker_url": "https://jinshuju.net/f/fjOUqZ", 
+    "to_be_volunteer": "To be Volunteer", 
+    "to_be_volunteer_url": ""
+  }, 
+  "sponsors": {
+    "assist": [
+      {
+        "intro": "ThoughtWorks", 
+        "link": "https://www.thoughtworks.com", 
+        "logo": "support_thoughtworks.png"
+      }
+    ], 
+    "book": [
+      {
+        "intro": "Turing Education", 
+        "link": "https://www.ituring.com.cn", 
+        "logo": "support_turing.png"
+      }, 
+      {
+        "intro": "BroadView", 
+        "link": "https://www.broadview.com.cn", 
+        "logo": "support_broadview.png"
+      }, 
+      {
+        "intro": "Asynchronous Community", 
+        "link": "https://www.epubit.com", 
+        "logo": "support_epubit.png"
+      }, 
+      {
+        "intro": "\u534e\u7ae0\u79d1\u6280", 
+        "link": "http://www.hzmedia.com.cn", 
+        "logo": "support_hzbooks.png"
+      }
+    ], 
+    "bronze": [
+      {
+        "intro": "Einplus", 
+        "link": "https://www.einplus.cn", 
+        "logo": "support_einplus.png"
+      }, 
+      {
+        "intro": "BXB", 
+        "link": "", 
+        "logo": "support_bxb.png"
+      }
+    ], 
+    "community": [
+      {
+        "intro": "Juejin", 
+        "link": "https://juejin.im", 
+        "logo": "support_juejin.png"
+      }, 
+      {
+        "intro": "GitChat", 
+        "link": "https://gitbook.cn", 
+        "logo": "support_gitchat.png"
+      }, 
+      {
+        "intro": "Open Source China", 
+        "link": "https://www.oschina.net", 
+        "logo": "support_oschina.png"
+      }, 
+      {
+        "intro": "DBAplus", 
+        "link": "https://dbaplus.cn", 
+        "logo": "support_dbaplus.png"
+      }, 
+      {
+        "intro": "Qianfeng Education", 
+        "link": "https://www.mobiletrain.org", 
+        "logo": "support_mobiletrain.png"
+      }, 
+      {
+        "intro": "\u77e5\u6653\u4e91", 
+        "link": "https://cloud.minapp.com", 
+        "logo": "support_zhixiaoyun.png"
+      }, 
+      {
+        "intro": "\u521b\u5ba2\u732b", 
+        "link": "https://www.chuangkem.com", 
+        "logo": "support_chuangkemao.png"
+      }, 
+      {
+        "intro": "Mockplus", 
+        "link": "http://www.mockplus.cn/", 
+        "logo": "support_mockplus.png"
+      }
+    ], 
+    "meta": [
+      {
+        "level": "organizer", 
+        "name": "Organizer", 
+        "style": "big"
+      }, 
+      {
+        "level": "silver", 
+        "name": "Silver", 
+        "style": "inline"
+      }, 
+      {
+        "level": "bronze", 
+        "name": "Bronze", 
+        "style": "inline"
+      }, 
+      {
+        "level": "support", 
+        "name": "Special", 
+        "style": "inline"
+      }, 
+      {
+        "level": "assist", 
+        "name": "Assist", 
+        "style": "big"
+      }, 
+      {
+        "level": "book", 
+        "name": "Book", 
+        "style": "inline"
+      }, 
+      {
+        "level": "video", 
+        "name": "Video", 
+        "style": "inline"
+      }, 
+      {
+        "level": "signup", 
+        "name": "Registration platform", 
+        "style": "inline"
+      }, 
+      {
+        "level": "community", 
+        "name": "Community partners", 
+        "style": "inline"
+      }
+    ], 
+    "organizer": [
+      {
+        "intro": "PyChina", 
+        "link": "https://pychina.org", 
+        "logo": "support_pychina.png"
+      }
+    ], 
+    "signup": [
+      {
+        "intro": "Accuvally", 
+        "link": "https://www.huodongxing.com", 
+        "logo": "support_huodongxing.png"
+      }
+    ], 
+    "silver": [
+      {
+        "intro": "GeTui", 
+        "link": "https://www.getui.com/", 
+        "logo": "support_getui.png"
+      }
+    ], 
+    "support": [
+      {
+        "intro": "Nokia\u4e0a\u6d77\u8d1d\u5c14", 
+        "link": "https://www.nokia-sbell.com", 
+        "logo": "support_nokiasbell.png"
+      }, 
+      {
+        "intro": "\u897f\u5357\u4ea4\u901a\u5927\u5b66\u4fe1\u606f\u79d1\u5b66\u4e0e\u6280\u672f\u5b66\u9662", 
+        "link": "", 
+        "logo": "support_sistswjtu.png"
+      }, 
+      {
+        "intro": "\u897f\u5357\u4ea4\u901a\u5927\u5b66\u4e2d\u7f8e\u9752\u5e74\u521b\u5ba2\u4ea4\u6d41\u4e2d\u5fc3", 
+        "link": "", 
+        "logo": "support_swjtu.png"
+      }
+    ], 
+    "video": [
+      {
+        "intro": "CC\u89c6\u9891", 
+        "link": "https://www.bokecc.com", 
+        "logo": "support_bokecc.png"
+      }, 
+      {
+        "intro": "OTPUB", 
+        "link": "http://www.otpub.com", 
+        "logo": "support_otpub.png"
+      }
+    ]
+  }, 
+  "support_detail": {
+    "supports": [
+      {
+        "description": "PyChina\u521b\u7acb\u4e8e2014\u5e74\uff0c\u662f\u7531CpyUG(\u534e\u87d2\u7528\u6237\u7ec4)\u83b7\u5f97\u6388\u6743\u4e3e\u529e\u7684\u4e2d\u56fdPyCon\u5e74\u4f1a\uff0c\u4ee5\u63a8\u52a8\u5404\u5730Python\u7ebf\u4e0b\u6d3b\u52a8\u548c\u5728\u7ebf\u6d3b\u52a8\u7b49\u4e3a\u5b97\u65e8\u3002", 
+        "logo": "support_pychina.png", 
+        "name": "PyChina"
+      }, 
+      {
+        "description": "GeTui (Zhejiang Merit Interactive Network Technology Co., Ltd.) is an independent provider of big data technology and artificial intelligence services, and is committed to driving industries forward through data intelligence. GeTui focuses on providing developer services, targeted mobile marketing, and big data applications in industries such as financial industry, smart tourism and public services.", 
+        "logo": "support_getui.png", 
+        "name": "GeTui"
+      }, 
+      {
+        "description": "\u7231\u56e0\u4e92\u52a8\u4e13\u6ce8\u4e8e\u4e3a\u4f01\u4e1a\u63d0\u4f9b\u552e\u524d\u9886\u57df\u7684\u5546\u7528\u5bf9\u8bdd\u673a\u5668\u4eba\uff0c\u7528\u53cb\u597d\u3001\u81ea\u7136\u7684\u4eba\u673a\u6c9f\u901a\u65b9\u5f0f\u63d0\u5347\u7528\u6237\u4f53\u9a8c\uff0c\u4fc3\u8fdb\u9500\u552e\u8f6c\u5316\u3002\u4ee5 NLP\u3001\u77e5\u8bc6\u5de5\u7a0b\u548c\u4e2a\u6027\u5316\u63a8\u8350\u6280\u672f\u4e3a\u4f9d\u6258\uff0c\u6211\u4eec\u6df1\u5ea6\u7ed3\u5408\u884c\u4e1a\u76f8\u5173\u77e5\u8bc6\u548c\u9886\u57df\u6a21\u578b\uff0c\u4e3a\u91cd\u70b9\u5ba2\u6237\u5b9a\u5236\u4e13\u5c5e\u89e3\u51b3\u65b9\u6848\uff0c\u63d0\u4f9b\u9ad8\u4ef7\u503c\u670d\u52a1\u3001\u964d\u4f4e\u9500\u552e\u548c\u5ba2\u670d\u6210\u672c\uff0c\u63d0\u5347\u8fbe\u5230\u9500\u552e\u8f6c\u5316\u7387\u548c\u7528\u6237\u6ee1\u610f\u5ea6\u7684\u76ee\u6807\u3002", 
+        "logo": "support_einplus.png", 
+        "name": "Einplus"
+      }, 
+      {
+        "description": "The vn.py open source community is one of the largest open source communities which focus on Python and Quantitative Trading in China. The community members mainly come from Financial and IT sectors including investment banks, hedge funds, financial brokers, data analysis firm and also other technology firms. Based on the vn.py open source quant trading framework, the community has contributed many ready-to-use open source projects for quantitative investment, algo trading and financial data analysis.", 
+        "logo": "support_bxb.png", 
+        "name": "BXB"
+      }, 
+      {
+        "description": "\u8bfa\u57fa\u4e9a\u4e0a\u6d77\u8d1d\u5c14", 
+        "logo": "support_nokiasbell.png", 
+        "name": "Nokia\u4e0a\u6d77\u8d1d\u5c14"
+      }, 
+      {
+        "description": "The school of Information Science & Technology (SIST) at Southwest Jiaotong University (SWJTU) has a history that was originated in 1960s, with the aim of meeting the trend of the times and the strategic demand of our country. At that time, SWJTU established three disciplines, i.e. computing technology, automation, and radio technology, becoming one of the earliest institutions in China which had electronics and information disciplines. In 1981, the discipline Computer and Its Applications was authorized as one of the first disciplines in China being able to award master degree, when there was only two in Sichuan Province. The department Computer Science and Engineering was founded in 1981, which was followed by the establishment of the School of Computer and Communications Engineering (SCCE) in 1993 (the predecessor of SIST). In 2005, the school was renamed SIST. With the solid construction and rapid development over 50 years, SIST has built a balanced and well developed disciplinary system, covering the whole area of Electronics and Information. With primary disciplines including Computer, Communications, Control and Electronics, SIST has become a base for producing IT talents and carrying out outstanding scientific research.", 
+        "logo": "support_sistswjtu.png", 
+        "name": "The school of Information Science & Technology (SIST) at Southwest Jiaotong University (SWJTU)"
+      }, 
+      {
+        "description": "Southwest Jiaotong University Makerspace (SWTJU Makerspace) was founded in December 2013 to create a making space for college students to provide support for innovation and entrepreneurship. Now the space is a sub-center of SWJTU, linked to the Engineering Training Center, is China''s first three makerspace founded by university.", 
+        "logo": "support_swjtu.png", 
+        "name": "Innovation Center for China-U.S. Youth Exchange of Southwest Jiaotong University"
+      }, 
+      {
+        "description": "ThoughtWorks was founded in 1993 in Chicago. There are 41 offices and more than 5,000 outstanding talents in 14 countries. A community of passionate individuals whose purpose is to revolutionize software design, creation and delivery, while advocating for positive social change.", 
+        "logo": "support_thoughtworks.png", 
+        "name": "ThoughtWorks"
+      }, 
+      {
+        "description": "Beijing Turing Culture Development Co., Ltd. has always been planning and publishing high-quality science and technology books as its core business. Since its establishment, it has accumulated more than 10 million books, affecting millions of readers. Its Turing education brand is one of the high-end brands in the domestic computer book field. The Turing Community is a comprehensive service platform created by Turing, which combines the production of book content, the service of translators, the sales of e-books, and the exchange of technical people.", 
+        "logo": "support_turing.png", 
+        "name": "Turing Education"
+      }, 
+      {
+        "description": "The 15-year-old Chinese-language IT book flagship brand is known as the miracle of Internet speed development in the traditional paper media publishing industry! Publishing philosophy deep cultivation of professional publishing, technology leading innovation. Over the years, it has continued to maintain strong growth, and the compound growth rate is considered to be the industry leader. The annual direct impact on the technical career of 10 million + professionals.", 
+        "logo": "support_broadview.png", 
+        "name": "BroadView"
+      }, 
+      {
+        "description": "The Asynchronous Community (www.epubit.com) is a leading IT professional book community in China. It is hosted by the People's Posts and Telecommunications Publishing House and is dedicated to the publication and sharing of quality learning content, providing readers with quality learning content and online communication for readers and authors.", 
+        "logo": "support_epubit.png", 
+        "name": "Asynchronous Community"
+      }, 
+      {
+        "description": "\u5317\u4eac\u534e\u7ae0\u56fe\u6587\u4fe1\u606f\u6709\u9650\u516c\u53f8\uff08\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e\u534e\u7ae0\u516c\u53f8\uff09\u6210\u7acb\u4e8e1995\u5e74\uff0c\u662f\u56fd\u5185\u7b2c\u4e00\u5bb6\u4e2d\u5916\u5408\u8d44\u7684\u51fa\u7248\u516c\u53f8\u300220\u591a\u5e74\u6765\u51fa\u7248\u4e86\u300a\u7b97\u6cd5\u5bfc\u8bba\u300b\u3001\u300a\u7f16\u8bd1\u539f\u7406\u300b\u3001\u300aJava\u7f16\u7a0b\u601d\u60f3\u300b\u3001\u300a\u6df1\u5165\u7406\u89e3\u8ba1\u7b97\u673a\u7cfb\u7edf\u300b\u3001\u300a\u70b9\u77f3\u6210\u91d1\uff1a\u8bbf\u5ba2\u81f3\u4e0a\u7684\u7f51\u9875\u8bbe\u8ba1\u79d8\u7b08\u300b\u3001\u7b49\u77e5\u540d\u7545\u9500\u4e66\uff0c\u7d2f\u8ba1\u51fa\u7248\u56fe\u4e663000\u591a\u79cd\uff0c\u56fe\u4e66\u9500\u552e\u518c\u6570\u8d85\u8fc72000\u4e07\u518c\u3002", 
+        "logo": "support_hzbooks.png", 
+        "name": "\u534e\u7ae0\u79d1\u6280"
+      }, 
+      {
+        "description": "CC\u89c6\u9891\u6210\u7acb\u4e8e2005\u5e744\u6708\uff0c\u662f\u9762\u5411\u5782\u76f4\u884c\u4e1a\u7528\u6237\u6253\u9020\u7684\u4e00\u7ad9\u5f0f\u573a\u666f\u5316\u89c6\u9891\u89e3\u51b3\u65b9\u6848\u7684\u670d\u52a1\u54c1\u724c\u3002CC\u89c6\u9891\u63d0\u4f9b\u57fa\u4e8e\u4e91\u8ba1\u7b97\u7684\u89c6\u9891\u4e91\u76f4\u64ad\u3001\u4e91\u70b9\u64ad\u3001\u4e91\u4e92\u52a8\u548c\u4e91\u52a0\u901f\u7684\u6574\u4f53\u89e3\u51b3\u65b9\u6848\uff0c\u6ee1\u8db3\u6559\u80b2\u3001\u91d1\u878d\u3001IT\u4e92\u8054\u7f51\u3001\u533b\u7597\u3001\u653f\u5e9c\u4f01\u4e1a\u7b49\u884c\u4e1a\u7528\u6237\u7684\u5728\u7ebf\u89c6\u9891\u5e94\u7528\u9700\u6c42\u3002CC\u89c6\u9891\u8fde\u7eed7\u5e74\u5728\u5728\u7ebf\u6559\u80b2\u9886\u57df\u5360\u6709\u7387\u8fbe72%\uff0c\u7eed\u7b7e\u670d\u52a1\u7684\u7528\u6237\u5360\u6bd4\u8fbe84.6%\u3002", 
+        "logo": "support_bokecc.png", 
+        "name": "CC\u89c6\u9891"
+      }, 
+      {
+        "description": "OTPUB\u9886\u5148IT\u6280\u672f\u5728\u7ebf\u5b66\u4e60&\u76f4\u64ad\u5e73\u53f0\uff0c\u5143\u9f0e\u65d7\u4e0b\u5168\u8d44\u5b50\u516c\u53f8\uff08\u5317\u4eac\u5965\u6cf0\u5e15\u535a\u79d1\u6280\u6709\u9650\u516c\u53f8\uff09\uff0c\u662f\u56fd\u5185\u9996\u5bb6\u4e0e\u5382\u5546\u76f4\u63a5\u5408\u4f5c\u7684\u6280\u672f\u4f01\u4e1a\uff0c\u4ece\u800c\u83b7\u5f97\u6700\u5148\u8fdb\u3001\u6700\u5b9e\u7528\u7684\u6280\u672f\u8d44\u6e90\uff0c\u6210\u4e3a\u6700\u6743\u5a01\u7684IT\u6280\u672f\u5728\u7ebf\u5b66\u4e60&\u76f4\u64ad\u5e73\u53f0\u3002\u5e73\u53f0\u6c47\u96c6\u5404\u5382\u5546\u53ca\u9ad8\u7ea7\u5de5\u7a0b\u5e08\u5171\u540c\u5236\u4f5c\u7684IT\u6280\u672f\u89c6\u9891\u8bfe\u7a0b\uff0c\u4e0e\u4e92\u8054\u7f51\u6700\u524d\u6cbf\u4e0e\u70ed\u95e8\u76f4\u64ad\u6d3b\u52a8\uff0c\u4ee5\u6ee1\u8db3\u4f01\u4e1a\u53ca\u4e2a\u4eba\u5728\u4ea7\u54c1\u77e5\u8bc6\u3001\u6280\u672f\u5e94\u7528\u3001\u6848\u4f8b\u5206\u6790\u3001\u4ea7\u54c1\u8d85\u878d\u5408\u7b49\u9886\u57df\u7684\u6280\u80fd\u63d0\u5347\u3002", 
+        "logo": "support_otpub.png", 
+        "name": "OTPUB"
+      }, 
+      {
+        "description": "Accuvally is an activity platform that is trusted by the organizers and loved by urban white-collar workers. It is also the industry's leading event technology service provider; it provides event venue reservations, event release, One-stop comprehensive event service, such as registration promotion, check-in ticket inspection, activity data analysis, custom assembly APP/small program, event service provider docking, etc.", 
+        "logo": "support_huodongxing.png", 
+        "name": "Accuvally"
+      }, 
+      {
+        "description": "Juejin.im \u2013 Becoming a better developer by sharing and learning. We provide premium and customized content covering all technical categories to our users through data mining. We boost the adoption of new technology. Juejin has already become the most popular online community for developers in China. You can visit our website or download our mobile app. Juejin is also available as a browser extension. Our key products include Juejin Book, Juejin Translation Project, etc.", 
+        "logo": "support_juejin.png", 
+        "name": "Juejin"
+      }, 
+      {
+        "description": "The Asynchronous Community (www.epubit.com) is a leading IT professional book community in China. It is hosted by the People's Posts and Telecommunications Publishing House and is dedicated to the publication and sharing of quality learning content, providing readers with quality learning content and online communication for readers and authors.", 
+        "logo": "support_epubit.png", 
+        "name": "Asynchronous Community"
+      }, 
+      {
+        "description": "GitChat brings together the industry's top technology experts, is the technology elite knowledge sharing community and learning platform, to create a new concept of \"reading + communication = knowledge + social\" to meet the changing needs of IT practitioners in knowledge learning, change the way of knowledge learning.", 
+        "logo": "support_gitchat.png", 
+        "name": "GitChat"
+      }, 
+      {
+        "description": "Open Source China (OSC) founded in August 2008 is the largest open source community in China. It has more than 2.3 million registered members and Alexa ranking 1400 in the world. OSC provides multiple channels including news, forum, code sharing, blogs, and translation, etc to help local developers study and utilize open soure technology.", 
+        "logo": "support_oschina.png", 
+        "name": "Open Source China"
+      }, 
+      {
+        "description": "dbaplus\uff1a\u6570\u636e\u8fde\u63a5\u672a\u6765\uff01\u56f4\u7ed5Data\u3001Blockchain\u3001AiOps\u7684\u4f01\u4e1a\u7ea7\u4e13\u4e1a\u793e\u7fa4\u3002\u884c\u4e1a\u5927\u5496\u3001\u6280\u672f\u5e72\u8d27\uff0c\u6bcf\u5929\u7cbe\u54c1\u539f\u521b\u6587\u7ae0\u63a8\u9001\uff0c\u6bcf\u5468\u7ebf\u4e0a\u6280\u672f\u5206\u4eab\uff0c\u6bcf\u6708\u7ebf\u4e0b\u6280\u672f\u6c99\u9f99\uff0c\u53d7\u4f1720W+\u3002", 
+        "logo": "support_dbaplus.png", 
+        "name": "DBAPlus"
+      }, 
+      {
+        "description": "Qianfeng Education belongs to Beijing Qianfeng Interconnection Technology Co., Ltd. It was founded in January 2011. Its headquarters is located in Beijing. At present, it has established branches in 15 cities, such as Shanghai, Shenzhen, Guangzhou and Hangzhou. Since its inception, Qianfeng has trained tens of thousands of technical personnel in Python, artificial intelligence, big data, Java, HTML5 and other fields, and has established cooperation with 10,000 IT-related enterprises in talent delivery, and is committed to building a talent service platform in the IT education industry chain.", 
+        "logo": "support_mobiletrain.png", 
+        "name": "Qianfeng Education"
+      }, 
+      {
+        "description": "\u77e5\u6653\u4e91\u662f\u56fd\u5185\u9996\u5bb6\u4e13\u6ce8\u4e8e\u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u5f00\u53d1\u7684\u540e\u7aef\u4e91\u670d\u52a1\uff0c\u4e3a\u5c0f\u7a0b\u5e8f\u5f00\u53d1\u8005\u63d0\u4f9b\u6700\u4f4e\u95e8\u69db\u7684 Serverless \u65e0\u670d\u52a1\u67b6\u6784\u63a5\u5165\u4f53\u9a8c\u3002\u5b83\u514d\u53bb\u4e86\u5c0f\u7a0b\u5e8f\u5f00\u53d1\u4e2d\u670d\u52a1\u5668\u642d\u5efa\u3001\u57df\u540d\u5907\u6848\u3001\u6570\u636e\u63a5\u53e3\u5f00\u53d1\u3001\u7ebfaoxig\u4e0a\u8fd0\u7ef4\u7b49\u7e41\u7410\u6d41\u7a0b\uff0c\u901a\u8fc7 BaaS\uff08Backend As A Service\uff09\u3001FaaS\uff08Function As A Service\uff09\u7ec4\u5408\u800c\u6210\u7684\u670d\u52a1\u77e9\u9635\uff0c\u8ba9\u5f00\u53d1\u8005\u4e13\u6ce8\u4e8e\u4e1a\u52a1\u903b\u8f91\u7684\u5b9e\u73b0\uff0c\u5feb\u901f\u4e0a\u7ebf\u5c0f\u7a0b\u5e8f\u3002", 
+        "logo": "support_zhixiaoyun.png", 
+        "name": "\u77e5\u6653\u4e91"
+      }, 
+      {
+        "description": "\u521b\u5ba2\u732b\u662f\u6d3b\u8dc3\u5728\u521b\u65b0\u521b\u4e1a\u7b2c\u4e00\u73b0\u573a\u7684\u65b0\u5a92\u4f53\u3002\u4e13\u6ce8\u4e3a\u5168\u56fd\u8303\u56f4\u5185\u7684\u521b\u65b0\u521b\u4e1a\u6d3b\u52a8\u63d0\u4f9b\u56fe\u6587\u76f4\u64ad\u3001\u73b0\u573a\u62a5\u9053\u3001\u4e13\u8bbf\u7b49\u670d\u52a1\uff0c\u4e3a\u521b\u4e1a\u8005\u548c\u4ea7\u4e1a\u521b\u65b0\u8005\u63d0\u4f9b\u5404\u884c\u4e1a\u6700\u524d\u6cbf\u7684\u8d44\u8baf\u52a8\u6001\u3002\u622a\u6b62\u76ee\u524d\uff0c\u6bcf\u6708\u9080\u8bf7\u521b\u5ba2\u732b\u8fdb\u884c\u56fe\u6587\u76f4\u64ad\u548c\u62a5\u9053\u7684\u5cf0\u4f1a\u5df2\u8fd1\u767e\u573a\uff0c\u521b\u5ba2\u732b\u4e5f\u7d2f\u8ba1\u4e13\u8bbf\u62a5\u9053\u4e86\u6570\u767e\u540d\u521b\u4e1a\u8005\u548c\u77e5\u540d\u6295\u8d44\u4eba\u3002", 
+        "logo": "support_chuangkemao.png", 
+        "name": "\u521b\u5ba2\u732b"
+      }, 
+      {
+        "description": "Mockplus is an all-in-one tool for designers and developers to prototype mobile, web and desktop apps quickly and easily. It's developed and well-maintained by Jongde Software LLC, a fast-growing start-up on a mission to improve the user experience of prototyping magic.", 
+        "logo": "support_mockplus.png", 
+        "name": "Mockplus"
+      }
+    ]
+  }
+}

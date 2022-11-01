@@ -1,0 +1,1118 @@
+{
+  "agenda": {
+    "beijing": {
+      "address": "Hopson Fortune Plaza No. 23 Beijing West Road Chaoyang District 2 floor",
+      "afternoon": [
+        {
+          "speaker": "id_zhanghuayi",
+          "time": "13:00-13:45"
+        },
+        {
+          "speaker": "id_yangshuguang",
+          "time": "13:45-14:30"
+        },
+        {
+          "speaker": "id_moyu",
+          "time": "14:30-15:15"
+        },
+        {
+          "time": "15:15-15:30",
+          "topic": ""
+        },
+        {
+          "speaker": "id_yangbaohua",
+          "time": "15:30-16:15"
+        },
+        {
+          "speaker": "id_wangyuchi",
+          "time": "16:15-17:00"
+        },
+        {
+          "speaker": "id_lvzhaogang",
+          "time": "17:00-17:45"
+        },
+        {
+          "time": "17:45-17:55",
+          "topic": ""
+        }
+      ],
+      "cancel_talks": null,
+      "city": "beijing",
+      "completed": false,
+      "date": "2016-10-15 09:00~18:00",
+      "lightening_talks": null,
+      "maplink": "http://j.map.baidu.com/KVS1F",
+      "morning": [
+        {
+          "time": "9:00-9:10",
+          "topic": "Check-in"
+        },
+        {
+          "speaker": "id_hongqiangning",
+          "time": "9:10-9:55"
+        },
+        {
+          "speaker": "id_dinglaiqiang",
+          "time": "9:55-10:40"
+        },
+        {
+          "time": "10:40-10:50",
+          "topic": ""
+        },
+        {
+          "speaker": "id_tiantaotao",
+          "time": "10:50-11:35"
+        },
+        {
+          "speaker": "id_huangxin",
+          "time": "11:35-11:45"
+        },
+        {
+          "speaker": "id_chenshixin",
+          "time": "11:45-11:55"
+        }
+      ],
+      "name": "Beijing",
+      "noon": [
+        {
+          "time": "11:55-13:00",
+          "topic": ""
+        }
+      ],
+      "notices": "",
+      "traffic": "",
+      "venue": "Hopson Fortune Plaza 2 floor",
+      "video": "http://live.busionline.com/home/activity/play/id/378"
+    },
+    "city_list": ["shanghai", "shenzhen", "beijing", "hangzhou"],
+    "hangzhou": {
+      "address": "Hangzhou Nokia office",
+      "afternoon": [
+        {
+          "speaker": "id_dengjingzhi",
+          "time": "13:00-13:45"
+        },
+        {
+          "speaker": "id_bendarnell",
+          "time": "13:45-14:30"
+        },
+        {
+          "speaker": "id_zhuxiadong",
+          "time": "14:30-15:15"
+        },
+        {
+          "time": "15:15-15:30",
+          "topic": ""
+        },
+        {
+          "speaker": "id_zhongjinwei",
+          "time": "15:30-16:15"
+        },
+        {
+          "speaker": "id_chenhaibo",
+          "time": "16:15-17:30"
+        }
+      ],
+      "cancel_talks": null,
+      "city": "hangzhou",
+      "completed": false,
+      "date": "2016-10-15 10:00~18:00",
+      "lightening_talks": null,
+      "maplink": "http://j.map.baidu.com/d0U1F",
+      "morning": [
+        {
+          "time": "10:00-10:10",
+          "topic": "Check-in"
+        },
+        {
+          "speaker": "id_zhanghaibo",
+          "time": "10:10-10:55"
+        },
+        {
+          "speaker": "id_liyiwei",
+          "time": "10:55-11:40"
+        },
+        {
+          "speaker": "id_maiweiqi",
+          "time": "11:40-11:50"
+        }
+      ],
+      "name": "Hangzhou",
+      "noon": [
+        {
+          "time": "11:50-13:00",
+          "topic": ""
+        }
+      ],
+      "notices": "",
+      "traffic": "",
+      "venue": "Nokia office",
+      "video": "http://e.vhall.com/799148004"
+    },
+    "shanghai": {
+      "address": "No.2 Boyun Road, Pudong, Shanghai",
+      "afternoon": [
+        {
+          "speaker": "id_jackon",
+          "time": "13:00-13:45"
+        },
+        {
+          "speaker": "id_qinxuye",
+          "time": "13:45-14:30"
+        },
+        {
+          "time": "14:30-14:45",
+          "topic": ""
+        },
+        {
+          "speaker": "id_lijushun",
+          "time": "14:45-15:30"
+        },
+        {
+          "speaker": "id_yejunqiang",
+          "time": "15:30-16:15"
+        },
+        {
+          "speaker": "id_wangchen",
+          "time": "16:15-17:00"
+        },
+        {
+          "speaker": "id_chenfan",
+          "time": "17:00-17:40"
+        },
+        {
+          "speaker": "id_xuzhixiang",
+          "time": "17:40-17:50"
+        }
+      ],
+      "cancel_talks": null,
+      "city": "shanghai",
+      "completed": false,
+      "date": "2016-09-10 09:00~18:00",
+      "lightening_talks": null,
+      "maplink": "http://f.amap.com/0FFE0i",
+      "morning": [
+        {
+          "speaker": "id_dongliping",
+          "time": ""
+        },
+        {
+          "time": "9:00-9:10",
+          "topic": "Check-in"
+        },
+        {
+          "speaker": "id_dinglaiqiang",
+          "time": "9:10-9:55"
+        },
+        {
+          "speaker": "id_chujinliang",
+          "time": "9:55-10:40"
+        },
+        {
+          "time": "10:40-10:50",
+          "topic": ""
+        },
+        {
+          "speaker": "id_chenxiaoyou",
+          "time": "10:50-11:35"
+        },
+        {
+          "speaker": "id_guohaochuan",
+          "time": "11:35-11:45"
+        },
+        {
+          "speaker": "id_ouyangmin",
+          "time": "11:45-11:55"
+        },
+        {
+          "speaker": "id_yanchao",
+          "time": "11:55-12:05"
+        }
+      ],
+      "name": "Shanghai",
+      "noon": [
+        {
+          "time": "11:55-13:00",
+          "topic": ""
+        }
+      ],
+      "notices": "",
+      "traffic": "Jinke Road Station at Metro Line 2",
+      "venue": "Meeting Hall at SPSP Building",
+      "video": "http://e.vhall.com/597478279"
+    },
+    "shenzhen": {
+      "address": "\u6df1\u5733\u5e02\u5357\u5c71\u533a\u79d1\u53d1\u8def1\u53f7\u5bcc\u5229\u81fb\u5927\u53a63F",
+      "afternoon": [
+        {
+          "speaker": "id_river",
+          "time": "13:15-14:00"
+        },
+        {
+          "speaker": "id_heshiyou",
+          "time": "14:00-14:45"
+        },
+        {
+          "time": "14:45-15:00",
+          "topic": ""
+        },
+        {
+          "speaker": "id_zhangqichuan",
+          "time": "15:00-15:45"
+        },
+        {
+          "speaker": "id_huguotao",
+          "time": "15:45-16:30"
+        },
+        {
+          "speaker": "id_chanshi",
+          "time": "16:30-16:40"
+        },
+        {
+          "speaker": "id_shienming",
+          "time": "16:40-16:50"
+        },
+        {
+          "speaker": "id_tangyingkang",
+          "time": "16:50-17:00"
+        },
+        {
+          "time": "17:00-17:10",
+          "topic": ""
+        }
+      ],
+      "cancel_talks": null,
+      "city": "shenzhen",
+      "completed": false,
+      "date": "2016-09-25 10:00~18:00",
+      "lightening_talks": null,
+      "maplink": "http://j.map.baidu.com/nc3B8",
+      "morning": [
+        {
+          "time": "9:50-10:00",
+          "topic": "Check-in"
+        },
+        {
+          "speaker": "id_panjunyong",
+          "time": "10:00-10:45"
+        },
+        {
+          "speaker": "id_dinglaiqiang",
+          "time": "10:45-11:30"
+        },
+        {
+          "speaker": "id_lili",
+          "time": "11:30-12:15"
+        }
+      ],
+      "name": "Shenzhen",
+      "noon": [
+        {
+          "time": "12:15-13:15",
+          "topic": ""
+        }
+      ],
+      "notices": "",
+      "traffic": "\u5730\u94c11\u53f7\u7ebf\u9ad8\u65b0\u56ed\u7ad9B\u51fa\u53e3\u6b65\u884c800\u7c73",
+      "venue": "\u5bcc\u5229\u81fb\u5927\u53a6",
+      "video": "http://e.vhall.com/906981757"
+    }
+  },
+  "donators": [
+    "\u674e\u6653\u5149",
+    "\u5218\u5cf0",
+    "Zagfai",
+    "Myth",
+    "Kelvin",
+    "\u9646\u4e2d\u79cb",
+    "\u6768\u6770",
+    "\u7ba1\u704f",
+    "\u5362\u6587\u6cc9",
+    "\u5f20\u519b",
+    "\u90ed\u9e3f\u7a0b",
+    "\u5b59\u8d1d\u78ca",
+    "\u9ec4\u798f\u6c5f",
+    "mozillazg",
+    "\u4faf\u54f2\u704f",
+    "\u5b59\u5f3a",
+    "\u4e01\u660e\u4eae",
+    "\u5f20\u6625\u5efa",
+    "\u652f\u652f",
+    "\u5f20\u6500\u6500",
+    "\u4ee3\u5c11\u98de",
+    "\u9648\u7ecd\u741b",
+    "newliver",
+    "\u4f55\u6797\u7ea2",
+    "Kevin Wang",
+    "\u5218\u5bb6\u8d22",
+    "\u5510\u56fd\u6590",
+    "\u738b\u5c0f\u78ca",
+    "\u5f20\u5929",
+    "\u725f\u8611\u83c7",
+    "CyleeX",
+    "Sid Cao",
+    "\u65f6\u6167",
+    "\u8fde\u9ad8\u6b23",
+    "\u8521\u52a0\u5f3a",
+    "\u738b\u5251\u5cf0",
+    "\u9648\u94a7\u96f7",
+    "Nicole Zeng",
+    "\u5218\u6653\u7167",
+    "\u5468\u78ca",
+    "\u4e25\u6590\u96c4",
+    "\u5218\u5176\u5cf0",
+    "\u7b26\u4f20\u575a",
+    "\u7eff\u91ce",
+    "\u674e\u6653\u5149",
+    "\u5218\u5cf0",
+    "Myth",
+    "\u6768\u6770",
+    "\u4e01\u660e\u4eae",
+    "\u5f20\u6625\u5efa",
+    "\u5218\u5bb6\u8d22",
+    "Sid Cao",
+    "\u5415\u7965\u948a",
+    "\u7b26\u4f20\u575a",
+    "\u7eff\u91ce",
+    "\u5218\u4e00\u9e23",
+    "\u5f20\u665f\u6e90",
+    "\u5927\u5ddd",
+    "\u5218\u8000",
+    "\u5f20\u94c1\u5229",
+    "\u5b8b\u6600\u73ca",
+    "\u5f90\u51ef",
+    "\u8bb8\u6052",
+    "\u674e\u79cb\u6797",
+    "\u5468\u519b",
+    "Lyon",
+    "\u5f20\u88d5",
+    "\u6df1\u6d77",
+    "\u80e1\u6dfc",
+    "\u5468\u5c0f\u6bdb",
+    "\u738b\u827a\u7487",
+    "\u5b5f\u8d85",
+    "\u5f20\u7281",
+    "Tony Zhao"
+  ],
+  "lang": "en",
+  "lang_dir": "en",
+  "lang_suffix": "_en",
+  "message": {
+    "address": "Address",
+    "afternoon": "Afternoon",
+    "booking_now": "Enroll",
+    "conference": "Conference Volunteers",
+    "date": "Date",
+    "donators": "Personal Sponsorship",
+    "donators_orderby": "(sorted by time of sponsorship)",
+    "map": "Map",
+    "morning": "Morning",
+    "noon": "Noon",
+    "organizers": "Coordinators",
+    "page_title_beijing": "Schedule in Beijing",
+    "page_title_donators": "Personal Sponsorship",
+    "page_title_guangzhou": "Schedule in GuangZhou",
+    "page_title_hangzhou": "Schedule in Hangzhou",
+    "page_title_index": "HOME",
+    "page_title_shanghai": "Schedule in Shanghai",
+    "page_title_speakers": "Speakers",
+    "page_title_sponsors": "Sponsors",
+    "page_title_suzhou": "Schedule in Suzhou",
+    "page_title_volunteers": "Volunteers",
+    "page_title_zhuhai": "Schedule in Zhuhai",
+    "pycon_intro": "PyCon, the party of world-wide Pythoneers! Supported by PSF(Python Software Foundation), this is the sixth year of PyCon China. Organized by CPyUG(Chinese Python User Group), PyCon China will be held simultaneously in Shanghai/Shenzhen/Beijing this year!",
+    "pycon_intro_title": "PyCon China",
+    "pythoneer": "<b><A NAME=\"anchor\">pythoneer</a></b> ~ \"A pioneer within the Python programming language community.\" means Pythoneer COOL than Pythonista. btw Pythoner just Python beginner.",
+    "slide": "slides",
+    "slogan": "Pythonic, C'est la vie!",
+    "slogan_title": "PyCon China 2016",
+    "speakers": " Speakers",
+    "technicians": "Technical Volunteers",
+    "traffic": "Traffic",
+    "user_evaluation_left": "User evaluation left",
+    "user_evaluation_right": "User evaluation right",
+    "venue": "Venue",
+    "video": "video"
+  },
+  "nav": [
+    {
+      "title": "PyConChina2016",
+      "url": "en/index.html"
+    },
+    {
+      "title": "SPEECH",
+      "url": "en/speakers.html"
+    },
+    {
+      "children": [
+        {
+          "title": "SPONSORS",
+          "url": "en/sponsor_com.html"
+        },
+        {
+          "title": "DONATOR",
+          "url": "en/donators.html"
+        }
+      ],
+      "title": "SUPPORT"
+    },
+    {
+      "children": [
+        {
+          "title": "Shanghai",
+          "url": "en/shanghai.html"
+        },
+        {
+          "title": "Shenzhen",
+          "url": "en/shenzhen.html"
+        },
+        {
+          "title": "Beijing",
+          "url": "en/beijing.html"
+        },
+        {
+          "title": "Hangzhou",
+          "url": "en/hangzhou.html"
+        }
+      ],
+      "title": "SCHEDULE",
+      "url": "en/schedule.html"
+    },
+    {
+      "title": "VOLUNTEERS",
+      "url": "en/volunteers.html"
+    },
+    {
+      "children": [
+        {
+          "title": 2011,
+          "url": "http://cn.pycon.org/2011/",
+          "url_external": 1
+        },
+        {
+          "title": 2012,
+          "url": "http://cn.pycon.org/2012/",
+          "url_external": 1
+        },
+        {
+          "title": 2013,
+          "url": "http://cn.pycon.org/2013/",
+          "url_external": 1
+        },
+        {
+          "title": 2014,
+          "url": "http://cn.pycon.org/2014/en/index.html",
+          "url_external": 1
+        },
+        {
+          "title": 2015,
+          "url": "http://cn.pycon.org/2015/en/index.html",
+          "url_external": 1
+        }
+      ],
+      "title": "HISTORY"
+    },
+    {
+      "title": "\u4e2d\u6587",
+      "url": "index.html"
+    }
+  ],
+  "site": {
+    "author": "support@PyChina.org",
+    "base_url": "..",
+    "booking_url": "http://event.3188.la/360382398",
+    "description": "The official site for PyCon China 2016",
+    "home_url": "./en/",
+    "name": "PyConChina2016",
+    "title": "PyCon 2016 China",
+    "url": "http://cn.pycon.org/2016/"
+  },
+  "speakers": {
+    "id_bendarnell": {
+      "avatar": "asset/images/avatar/BenDarnell.jpeg",
+      "city_hangzhou": 1,
+      "hangzhou_topic": {
+        "preview": "",
+        "slide": "asset/images/avatar/5%20%E3%80%8ATornado%20%28and%20Twisted%29%20in%20the%20age%20of%20asyncio%E3%80%8BBen%20Darnell.pdf",
+        "title": "Tornado (and Twisted) in the age of asyncio"
+      },
+      "intro": "Ben Darnell is the CTO and co-founder of Cockroach Labs where he works on the distributed consensus protocols that underpin its transactional model. He has been the maintainer of the Tornado web framework since 2010. He started his career at Google and then went on to a series of startups including Dropbox, FriendFeed, Brizzly, and Viewfinder. ",
+      "name": "Ben Darnell"
+    },
+    "id_chanshi": {
+      "avatar": "asset/images/avatar/chanshi.jpg",
+      "city_shenzhen": 1,
+      "intro": "...",
+      "name": "\u998b\u5e08",
+      "shenzhen_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/8\u300aPython\u5f00\u53d1\u8f85\u52a9\u8f6f\u4ef6\u63d0\u5347\u5de5\u4f5c\u6548\u7387\u300b\u998b\u5e08.pdf",
+        "title": "..."
+      }
+    },
+    "id_chenfan": {
+      "avatar": "asset/images/avatar/chenfan.jpg",
+      "city_shanghai": 1,
+      "intro": "",
+      "name": "jeffery",
+      "shanghai_topic": {
+        "preview": "",
+        "slide": "asset/images/avatar/12%20%E3%80%8AOdoo%E4%B8%8E%20python%E3%80%8B%E9%99%88%E5%B8%86.pdf",
+        "title": ""
+      }
+    },
+    "id_chenhaibo": {
+      "avatar": "asset/images/avatar/chenhaibo.jpg",
+      "city_hangzhou": 1,
+      "hangzhou_topic": {
+        "preview": "",
+        "slide": "http://zrey.com/pycon",
+        "title": ""
+      },
+      "intro": "",
+      "name": "\u9648\u6d77\u6ce2"
+    },
+    "id_chenshixin": {
+      "avatar": "asset/images/avatar/chenshixin.jpg",
+      "beijing_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/5\u300a\u7528Python\u505a\u589e\u957f\u9ed1\u5ba2\u7684\u5b9e\u8df5\u300b\u9648\u4e16\u6b23.pdf",
+        "title": "..."
+      },
+      "city_beijing": 1,
+      "intro": "...",
+      "name": "\u9648\u4e16\u6b23"
+    },
+    "id_chenxiaoyou": {
+      "avatar": "asset/images/avatar/chenxiaoyou.jpg",
+      "city_shanghai": 1,
+      "intro": "",
+      "name": "\u9648\u6653\u4f18",
+      "shanghai_topic": {
+        "preview": "",
+        "slide": "asset/images/avatar/3%20%E3%80%8A%E8%81%8A%E8%81%8APython%E5%92%8C%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84%E3%80%8B%E9%99%88%E6%99%93%E4%BC%98.pdf",
+        "title": ""
+      }
+    },
+    "id_chujinliang": {
+      "avatar": "asset/images/avatar/chujinliang.jpg",
+      "city_shanghai": 1,
+      "intro": "",
+      "name": "\u8bf8\u91d1\u826f",
+      "shanghai_topic": {
+        "preview": "",
+        "slide": "asset/images/avatar/2%E3%80%8APython%E9%AB%98%E6%80%A7%E8%83%BDWeb%E6%9C%8D%E5%8A%A1%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5%E3%80%8B%E8%AF%B8%E9%87%91%E8%89%AF.pdf",
+        "title": ""
+      }
+    },
+    "id_dengjingzhi": {
+      "avatar": "asset/images/avatar/dengjingzhi.jpg",
+      "city_hangzhou": 1,
+      "hangzhou_topic": {
+        "preview": "",
+        "slide": null,
+        "title": ""
+      },
+      "intro": "",
+      "name": "\u9093\u9759\u829d"
+    },
+    "id_dinglaiqiang": {
+      "avatar": "asset/images/avatar/dinglaiqiang.jpg",
+      "beijing_topic": {
+        "preview": "",
+        "slide": "asset/images/avatar/2\u300aPython and Design Pattern\u300b\u4e01\u6765\u5f3a.pdf",
+        "title": "Python and Design Pattern"
+      },
+      "city_beijing": 1,
+      "city_shanghai": 1,
+      "city_shenzhen": 1,
+      "intro": "...",
+      "name": "\u4e01\u6765\u5f3a",
+      "shanghai_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/1%E3%80%8A%E4%BD%BF%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E9%AB%98%E6%95%88%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%B8%8E%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E3%80%8B%E4%B8%81%E6%9D%A5%E5%BC%BA.pdf",
+        "title": "..."
+      },
+      "shenzhen_topic": {
+        "preview": "",
+        "slide": "asset/images/avatar/2\u300aPython hooking, patching and injection\u300b\u4e01\u6765\u5f3a.pdf",
+        "title": "Python hooking, patching and injection"
+      }
+    },
+    "id_dongliping": {
+      "avatar": "asset/images/avatar/dongliping.jpg",
+      "city_shanghai": 1,
+      "intro": "",
+      "name": "\u8463\u8389\u840d",
+      "shanghai_topic": {
+        "preview": "",
+        "slide": null,
+        "title": ""
+      }
+    },
+    "id_guohaochuan": {
+      "avatar": "asset/images/avatar/guohaochuan.jpg",
+      "city_shanghai": 1,
+      "intro": "",
+      "name": "\u90ed\u6d69\u5ddd",
+      "shanghai_topic": {
+        "preview": "",
+        "slide": "asset/images/avatar/4%20%E3%80%8A%E7%94%A8%E9%AB%98%E9%AD%94%E7%9A%84%E5%A7%BF%E5%8A%BF%E8%B0%83%20python%20%E7%A8%8B%E5%BA%8F%E3%80%8B%E9%83%AD%E6%B5%A9%E5%B7%9D.pdf",
+        "title": ""
+      }
+    },
+    "id_heshiyou": {
+      "avatar": "asset/images/avatar/heshiyou.jpg",
+      "city_shenzhen": 1,
+      "intro": "...",
+      "name": "\u4f55\u4e16\u53cb",
+      "shenzhen_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/5\u300aASGI \u8349\u6848\uff0cPython \u7ec8\u4e8e\u7b49\u5230\u4e86\u300b\u4f55\u4e16\u53cb.pdf",
+        "title": "..."
+      }
+    },
+    "id_hongqiangning": {
+      "avatar": "asset/images/avatar/hongqiangning.jpg",
+      "beijing_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/1\u300aPython\u4e0e\u5bf9\u8bdd\u673a\u5668\u4eba\u300b \u6d2a\u5f3a\u5b81.pdf",
+        "title": "..."
+      },
+      "city_beijing": 1,
+      "intro": "CTO...",
+      "name": "\u6d2a\u5f3a\u5b81"
+    },
+    "id_huangxin": {
+      "avatar": "asset/images/avatar/huangxin.jpg",
+      "beijing_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/4\u300aSaltStack \u5b9e\u8df5\u300b\u9ec4\u946b.pdf",
+        "title": "..."
+      },
+      "city_beijing": 1,
+      "intro": "...",
+      "name": "\u9ec4\u946b"
+    },
+    "id_huguotao": {
+      "avatar": "asset/images/avatar/huguotao.jpg",
+      "city_shenzhen": 1,
+      "intro": "...",
+      "name": "\u80e1\u56fd\u6d9b",
+      "shenzhen_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/7\u300aWEGO \u7684\u5f00\u6e90\u4e4b\u65c5\u300b\u80e1\u56fd\u6d9b.pdf",
+        "title": "..."
+      }
+    },
+    "id_jackon": {
+      "avatar": "asset/images/avatar/jackon.jpg",
+      "city_shanghai": 1,
+      "intro": "",
+      "name": "Jackon",
+      "shanghai_topic": {
+        "preview": "",
+        "slide": "asset/images/avatar/7%E3%80%8APython%20%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9A%84%E5%BA%94%E7%94%A8%E4%B8%8E%E4%BB%B7%E5%80%BC%E3%80%8BJackon.pdf",
+        "title": ""
+      }
+    },
+    "id_lijushun": {
+      "avatar": "asset/images/avatar/lijushun.jpg",
+      "city_shanghai": 1,
+      "intro": "",
+      "name": "\u674e\u4ff1\u987a",
+      "shanghai_topic": {
+        "preview": "",
+        "slide": "asset/images/avatar/9%E3%80%8Aasyncio%E5%9C%A8web%E4%B8%AD%E7%9A%84%E6%8A%80%E6%9C%AF%E6%A0%88%E3%80%8B%E6%9D%8E%E4%BF%B1%E9%A1%BA.pdf",
+        "title": ""
+      }
+    },
+    "id_lili": {
+      "avatar": "asset/images/avatar/lili.jpg",
+      "city_shenzhen": 1,
+      "intro": "...",
+      "name": "\u674e\u529b",
+      "shenzhen_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/3\u300aPython\u7528\u4e8e\u516c\u6709\u4e91\u7cfb\u7edf\u7684\u5b9e\u8df5\u300b\u674e\u529b.pdf",
+        "title": "..."
+      }
+    },
+    "id_liyiwei": {
+      "avatar": "asset/images/avatar/liyiwei.jpg",
+      "city_hangzhou": 1,
+      "hangzhou_topic": {
+        "preview": "",
+        "slide": null,
+        "title": ""
+      },
+      "intro": "",
+      "name": "\u674e\u6bc5\u4e3a"
+    },
+    "id_lvzhaogang": {
+      "avatar": "asset/images/avatar/lvzhaogang.jpg",
+      "beijing_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/11 \u300a\u5f15\u7206\u4f60\u7684\u751f\u4ea7\u529b-\u6316\u51faDjango\u7684\u6f5c\u80fd\u300b\u5415\u53ec\u521a.pdf",
+        "title": "..."
+      },
+      "city_beijing": 1,
+      "intro": "...",
+      "name": "\u5415\u53ec\u521a"
+    },
+    "id_maiweiqi": {
+      "avatar": "asset/images/avatar/maiweiqi.jpg",
+      "city_hangzhou": 1,
+      "hangzhou_topic": {
+        "preview": "",
+        "slide": null,
+        "title": ""
+      },
+      "intro": "",
+      "name": "\u9ea6\u4f1f\u797a"
+    },
+    "id_moyu": {
+      "avatar": "asset/images/avatar/moyu.jpg",
+      "beijing_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/8 \u300a\u6765\u4e00\u5757\u4e8c\u5411\u7b94\uff0c\u5206\u6790\u7528 - Python\u9ad8\u7ef4\u6570\u636e\u53ef\u89c6\u5316\u300b\u83ab\u745c.pdf",
+        "title": "..."
+      },
+      "city_beijing": 1,
+      "intro": "...",
+      "name": "\u83ab\u745c"
+    },
+    "id_ouyangmin": {
+      "avatar": "asset/images/avatar/ouyangmin.jpg",
+      "city_shanghai": 1,
+      "intro": "",
+      "name": "\u6b27\u9633\u654f",
+      "shanghai_topic": {
+        "preview": "",
+        "slide": "asset/images/avatar/5%20%E3%80%8A%E5%B5%8C%E5%85%A5%E5%BC%8F%E8%BD%AF%E4%BB%B6%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E5%AE%9E%E8%B7%B5%E5%92%8C%E4%BE%8B%E5%AD%90%E3%80%8B%E6%AC%A7%E9%98%B3%E6%95%8F.pdf",
+        "title": ""
+      }
+    },
+    "id_panjunyong": {
+      "avatar": "asset/images/avatar/panjunyong.jpg",
+      "city_shenzhen": 1,
+      "intro": "...",
+      "name": "\u6f58\u4fca\u52c7",
+      "shenzhen_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/1%20\u300a\u811a\u672c\u5316\u548cBlockly\u53ef\u89c6\u5316\u7684\u5e94\u7528\u5f00\u53d1\u5b9e\u8df5\u300b\u6f58\u4fca\u52c7.pdf",
+        "title": "..."
+      }
+    },
+    "id_qinxuye": {
+      "avatar": "asset/images/avatar/qinxuye.jpg",
+      "city_shanghai": 1,
+      "intro": "",
+      "name": "\u79e6\u7eed\u4e1a",
+      "shanghai_topic": {
+        "preview": "",
+        "slide": "asset/images/avatar/8%E3%80%8A%E5%8F%8C%E5%89%91%E5%90%88%E5%A3%81%E2%80%94%E2%80%94Python%E5%92%8C%E5%A4%A7%E6%95%B0%E6%8D%AE%E8%AE%A1%E7%AE%97%E5%B9%B3%E5%8F%B0%E7%9A%84%E7%BB%93%E5%90%88%E3%80%8B%E7%A7%A6%E7%BB%AD%E4%B8%9A.pdf",
+        "title": ""
+      }
+    },
+    "id_river": {
+      "avatar": "asset/images/avatar/river.jpg",
+      "city_shenzhen": 1,
+      "intro": "...",
+      "name": "river",
+      "shenzhen_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/4\u300aPython in Android\u300bRiver.pdf",
+        "title": "..."
+      }
+    },
+    "id_shienming": {
+      "avatar": "asset/images/avatar/shienming.jpg",
+      "city_shenzhen": 1,
+      "intro": "...",
+      "name": "\u77f3\u6069\u540d",
+      "shenzhen_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/9\u300a\u4e00\u79cd\u53ef\u89c6\u5316\u722c\u866b\u6280\u672f\u5206\u4eab\u300b\u77f3\u6069\u540d.pdf",
+        "title": "..."
+      }
+    },
+    "id_tangyingkang": {
+      "avatar": "asset/images/avatar/tangyingkang.jpg",
+      "city_shenzhen": 1,
+      "intro": "...",
+      "name": "\u6c64\u82f1\u5eb7",
+      "shenzhen_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/10\u300a\u5927\u6570\u636e\u76d1\u63a7\u544a\u8b66\u7cfb\u7edf\u300b\u6c64\u82f1\u5eb7.pdf",
+        "title": "..."
+      }
+    },
+    "id_tiantaotao": {
+      "avatar": "asset/images/avatar/tiantaotao.jpg",
+      "city_beijing": 1,
+      "intro": "CTO...",
+      "name": "\u7530\u6d9b\u6d9b",
+      "topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/3\u300aInfrastructure as Code In Aliyun\u300b\u7530\u6d9b\u6d9b.pdf",
+        "title": "Infrastructure as Code In Aliyun"
+      }
+    },
+    "id_wangchen": {
+      "avatar": "asset/images/avatar/wangchen.jpg",
+      "city_beijing": 1,
+      "intro": "...",
+      "name": "\u738b\u741b",
+      "shanghai_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/11%20%E3%80%8ATensorFlow%E6%A1%86%E6%9E%B6%E5%89%96%E6%9E%90%E5%8F%8A%E5%BA%94%E7%94%A8%E3%80%8B%E7%8E%8B%E7%90%9B.pdf",
+        "title": "..."
+      }
+    },
+    "id_wangyuchi": {
+      "avatar": "asset/images/avatar/guifei.jpg",
+      "beijing_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/10%E3%80%8A%E7%94%A8Python%E6%8A%80%E6%9C%AF%E6%A0%88%E6%9E%84%E5%BB%BA%E7%9F%A5%E4%B9%8E%E7%B3%BB%E7%BB%9F%E8%BF%90%E7%BB%B4%E5%B9%B3%E5%8F%B0%E3%80%8B%E7%8E%8B%E7%8E%89%E9%A9%B0.pdf",
+        "title": "..."
+      },
+      "city_beijing": 1,
+      "intro": "...",
+      "name": "\u738b\u7389\u9a70"
+    },
+    "id_xuzhixiang": {
+      "avatar": "asset/images/avatar/xuzhixiang.jpg",
+      "city_shanghai": 1,
+      "intro": "",
+      "name": "\u8bb8\u667a\u7fd4",
+      "shanghai_topic": {
+        "preview": "",
+        "slide": "asset/images/avatar/13%E3%80%8A%E7%A8%8B%E5%BA%8F%E7%8C%BF%E8%AE%AD%E7%BB%83%E5%B8%88%E5%85%BB%E6%88%90%E8%AE%A1%E5%88%921.0%E3%80%8B%E8%AE%B8%E6%99%BA%E7%BF%94.pdf",
+        "title": ""
+      }
+    },
+    "id_yanchao": {
+      "avatar": "asset/images/avatar/yanchao.jpg",
+      "city_shanghai": 1,
+      "intro": "",
+      "name": "\u4e25\u8d85",
+      "shanghai_topic": {
+        "preview": "",
+        "slide": "asset/images/avatar/6%E3%80%8A%E4%B8%8D%E5%AE%B9%E9%94%99%E8%BF%87%E7%9A%84Python%E5%B0%8F%E8%B4%B4%E5%A3%AB%E2%80%94%E6%8A%80%E5%B7%A7,%20%E9%A3%8E%E6%A0%BC%E5%92%8C%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%E3%80%8B%E4%B8%A5%E8%B6%85.pdf",
+        "title": ""
+      }
+    },
+    "id_yangbaohua": {
+      "avatar": "asset/images/avatar/yangbaohua.jpg",
+      "beijing_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/9 \u300a\u5feb\u901f\u6784\u5efa\u533a\u5757\u94fe\u670d\u52a1\u5e73\u53f0\u300b\u6768\u4fdd\u534e.pdf",
+        "title": "..."
+      },
+      "city_beijing": 1,
+      "intro": "...",
+      "name": "\u6768\u4fdd\u534e"
+    },
+    "id_yangshuguang": {
+      "avatar": "asset/images/avatar/yangshuguang.jpg",
+      "beijing_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/7\u300a\u7528Python\u5f00\u53d1\u6570\u636e\u6d41\u6c34\u7ebf\u4efb\u52a1\u667a\u80fd\u8c03\u5ea6\u7cfb\u7edf\u300b\u9633\u66d9\u5149.pdf",
+        "title": "..."
+      },
+      "city_beijing": 1,
+      "intro": "...",
+      "name": "\u9633\u66d9\u5149"
+    },
+    "id_yejunqiang": {
+      "avatar": "asset/images/avatar/yejunqiang.jpg",
+      "city_shanghai": 1,
+      "intro": "",
+      "name": "\u53f6\u4fca\u5f3a",
+      "shanghai_topic": {
+        "preview": "",
+        "slide": "asset/images/avatar/10%E3%80%8APython%20Flask%E5%AE%9E%E6%88%98%E3%80%8B%E5%8F%B6%E4%BF%8A%E5%BC%BA.pdf",
+        "title": ""
+      }
+    },
+    "id_zhanghaibo": {
+      "avatar": "asset/images/avatar/zhanghaibo.jpg",
+      "city_hangzhou": 1,
+      "hangzhou_topic": {
+        "preview": "",
+        "slide": null,
+        "title": ""
+      },
+      "intro": "",
+      "name": "\u5f20\u6d77\u6ce2"
+    },
+    "id_zhanghuayi": {
+      "avatar": "asset/images/avatar/zhanghuayi.jpg",
+      "beijing_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/6\u300a\u4f7f\u7528 Python \u6784\u5efa\u670d\u52a1\u5316\u67b6\u6784\u4e2d\u7684\u57fa\u7840\u8bbe\u65bd\u300b\u5f20\u534e\u7ffc.pdf",
+        "title": "..."
+      },
+      "city_beijing": 1,
+      "intro": "",
+      "name": "\u5f20\u534e\u7ffc"
+    },
+    "id_zhangliaoyuan": {
+      "avatar": "asset/images/avatar/zhangliaoyuan.jpg",
+      "city_hangzhou": 1,
+      "hangzhou_topic": {
+        "preview": "",
+        "slide": null,
+        "title": ""
+      },
+      "intro": "",
+      "name": "\u5f20\u71ce\u539f"
+    },
+    "id_zhangqichuan": {
+      "avatar": "asset/images/avatar/zhangqichuan.jpg",
+      "city_shenzhen": 1,
+      "intro": "...",
+      "name": "\u5f20\u5176\u5ddd",
+      "shenzhen_topic": {
+        "preview": "...",
+        "slide": "asset/images/avatar/6\u300a\u81ea\u52a8\u5316\u8fd0\u7ef4\u548c\u5de5\u5177\u300b\u5f20\u5176\u5ddd.pdf",
+        "title": "..."
+      }
+    },
+    "id_zhongjinwei": {
+      "avatar": "asset/images/avatar/zhongjinwei.jpg",
+      "city_hangzhou": 1,
+      "hangzhou_topic": {
+        "preview": "",
+        "slide": null,
+        "title": ""
+      },
+      "intro": "",
+      "name": "\u949f\u9526\u5a01"
+    },
+    "id_zhuxiadong": {
+      "avatar": "asset/images/avatar/zhuxiadong.jpg",
+      "city_hangzhou": 1,
+      "hangzhou_topic": {
+        "preview": "",
+        "slide": "asset/images/avatar/6%20%E3%80%8AHead%20First%20SaltStack%E3%80%8B%E7%AB%BA%E5%A4%8F%E6%A0%8B.pdf",
+        "title": ""
+      },
+      "intro": "",
+      "name": "\u7afa\u590f\u680b"
+    }
+  },
+  "sponsors": {
+    "bronze": [
+      {
+        "intro": "Shanghai ChuanglanCommunication Co. Ltd. was established in 2009, it is a verification code SMS,SMS notification, speech codes, international codes, phone traffic one set ofproduct marketing communications services PaaS cloud platform! 2016, Year of the Chuanglan\u00a0brand changed its name to 253, more diversified business model to meet the diverse mobile Internet business communications services needs. So far, team size exceeded\u00a0500 people, Shenzhen, Changsha, Beijing, and other cities nationwide 29 partner\u00a0teams have been constructed complete. Up to now, a total of 200,000 customers\u00a0breakthrough.",
+        "link": "http://www.253.com/",
+        "logo": "asset/images/avatar/253-logo.jpg"
+      },
+      {
+        "intro": "Turing Co., Ltd persists in planning publishing high quality books of science and technology as the core business, launched a series of high quality best-selling technology books, it's one of China famous and influential computer books publisher and Professional technical & Reading community. Set up nine years, accumulative total sold more than 500 copies of books and have impress millions of readers. Turing Co., Ltd that provide first-class content is its responsibility. Rapid growth in recent years has been for domestic famous ebook sales platform of science and technology.",
+        "link": "http://www.ituring.com.cn/",
+        "logo": "asset/images/avatar/turing-logo.png"
+      },
+      {
+        "intro": "",
+        "link": "http://www.jetbrains.com/",
+        "logo": "asset/images/avatar/logo_JetBrains_3.png"
+      }
+    ],
+    "diamond": null,
+    "gold": [
+      {
+        "intro": "Established\u00a0in\u00a0September2009,\u00a0AliCloud\u00a0(intl.aliyun.com),\u00a0Alibaba\u00a0Group's\u00a0cloudcomputing\u00a0arm,\u00a0developshighly\u00a0scalable\u00a0platforms\u00a0forcloud\u00a0computing and\u00a0datamanagement. It\u00a0provides\u00a0acomprehensive\u00a0suite\u00a0of\u00a0cloudcomputing\u00a0services\u00a0to\u00a0supportthe\u00a0participants\u00a0of\u00a0AlibabaGroup's\u00a0online and\u00a0mobilecommerce\u00a0ecosystem,\u00a0includingsellers,\u00a0and\u00a0other\u00a0third-party\u00a0customers\u00a0andbusinesses.\u00a0AliCloud\u00a0is\u00a0abusiness\u00a0within\u00a0Alibaba\u00a0Group.",
+        "link": "https://www.aliyun.com/",
+        "logo": "asset/images/avatar/aliyun.png"
+      }
+    ],
+    "meta": [
+      {
+        "level": "gold",
+        "name": "Gold"
+      },
+      {
+        "level": "silver",
+        "name": "Silver"
+      },
+      {
+        "level": "bronze",
+        "name": "Bronze"
+      }
+    ],
+    "platinum": null,
+    "silver": [
+      {
+        "intro": "UCloud is one of the leading cloud-computing service providers in China. By independent research and development, UCloud provide a range of innovative products which include high performance host, key-value database, SDN and hybrid-cloud. Now, more than thirty thousands of enterprises and startups in fin-tech, live apps, E-commerce, Internet-plus, PaaS/SaaS operate on UCloud platform, earning \uffe515 billion revenue in total.",
+        "link": "https://www.ucloud.cn/",
+        "logo": "asset/images/avatar/ucloud-logo.png"
+      },
+      {
+        "intro": "Relying on the software and information industrial agglomeration advantages of Shanghai Pudong Software Park (SPSP), we set up an innovative and entrepreneurial technology exchange platform named WiseTEK. By sharing  state of the art of IT industry , WiseTEK forum is aimed at being one of Shanghai ICT industry summit forums and the driving force of SPSP for gathering more professional and technical talents.",
+        "link": "http://www.spsp.com.cn/",
+        "logo": "asset/images/avatar/HuiZhiTEK-logo.png"
+      },
+      {
+        "intro": "Founded by a group of young entrepreneurs,SimplyWork is Shenzhen\u2019s coolest and most international co-working space.Currently we have four spaces (11,600 square meters in total) in the High-TechPark/Shenzhen University area. We provide comfortable collaborative spaces,local and international venture capital resources, professional and thoughtfulentrepreneurial services, unique and inspiring events, and exciting casualatmosphere. SimplyWork can\u2019t wait to be your best buddy along your startupjourney!",
+        "link": "http://www.simplywork.cn/",
+        "logo": "asset/images/avatar/siwei-logo.png"
+      }
+    ]
+  },
+  "volunteers": {
+    "conference": null,
+    "organizers": [
+      {
+        "avatar": "http://dn-pyconcn.qbox.me/images/volunteer/chenshixin_2013.png",
+        "blog": "http://sting.topgeek.org/",
+        "intro": "\u6c38\u6cf0\u7ea2\u78e1\u517b\u8001\u4ea7\u4e1a\u6295\u8d44\u96c6\u56e2\u7684\u4fe1\u606f\u6280\u672f\u603b\u76d1;\u572814\u5e74\u7684\u4e92\u8054\u7f51\u751f\u6daf\u540e,\u6295\u8eab\u5230\u5230\u6c38\u6cf0\u7ea2\u78e1\u517b\u8001\u4ea7\u4e1a\u6295\u8d44\u96c6\u56e2\u505a\u5915\u9633\u4e8b\u4e1a,\u8de8\u754c\u53d1\u5c55. \u4ed6\u662fTopGeek\u6280\u672f\u793e\u533a\u7684\u521b\u529e\u4eba\u4e5f\u662f\u4e0a\u6d77GDG\u7684\u8d1f\u8d23\u4eba,\u5e76\u53c2\u4e0eCPyUG\u793e\u533a\u7684\u7ba1\u7406. \u8fd8\u53d1\u8d77PMCamp\u4ea7\u54c1\u7ecf\u7406\u793e\u533a,\u513f\u7ae5\u793e\u533a\u4e50\u521b\u56ed\u7b49",
+        "name": "StingChen(\u9648\u4e16\u6b23)",
+        "role": "organizer",
+        "role_organizer": 1,
+        "weibo": "http://weibo.com/stingchen"
+      },
+      {
+        "avatar": "http://dn-pyconcn.qbox.me/images/volunteer/zhouqi.png",
+        "blog": "http://zoomquiet.io/",
+        "intro": "One of originator for CPyUG(China Python User Group) / administrator; Enthusiastic python community welfare, well-known community \"DAMA\"; OBP and PythoniCamp project designer / manager; attend and originator all kinds of  online / offline tech evnets, presided compiled \"lovely Python\"; keeping usage Pythonic to reclaim people entering the FLOSS world learning / sharing / innovate! currently work for CMCM.",
+        "name": "Zoom.Quiet (\u5927\u5988)",
+        "role": "organizer",
+        "role_organizer": 1,
+        "weibo": "http://weibo.com/zoomquiet"
+      },
+      {
+        "avatar": "asset/images/avatar/spawnris.jpg",
+        "blog": null,
+        "intro": "Python\u7231\u597d\u8005/GDG\u73e0\u6d77\u7ec4\u7ec7\u8005/\u548c\u5c0f\u4f19\u4f34\u66fe\u5171\u540c\u7ffb\u8bd1/\u5f80\u5e74\u7684PyCon\u5fd7\u613f\u8005\uff0c\u4eca\u5e74\u4ece\u5e55\u540e\u8d70\u5230\u53f0\u524d/\u5c06Pythonic\u8fdb\u884c\u5230\u5e95",
+        "name": "Spawnris\uff08\u8001\u9ad8)",
+        "role": "organizer",
+        "role_organizer": 1,
+        "weibo": null
+      }
+    ],
+    "role_list": ["organizers", "technicians", "conference"],
+    "technicians": [
+      {
+        "avatar": "asset/images/avatar/NsLib.png",
+        "blog": "http://blog.csdn.net/MDL13412",
+        "intro": "\u5c0f\u7c73\u7f51DevOPS, \u5168\u6808\u5de5\u7a0b\u5e08. \u66fe\u5c31\u804c\u4e8e\u53bb\u54ea\u513f\u7f51.",
+        "name": "NsLib(\u9a6c\u51ac\u4eae)",
+        "role": "technician",
+        "role_technician": 1,
+        "weibo": "http://weibo.com/hackersdelight"
+      },
+      {
+        "avatar": "asset/images/avatar/TaoBeier.png",
+        "blog": "http://moelove.info/",
+        "intro": "\u5168\u6808\u5de5\u7a0b\u5e08, \u73b0\u5c31\u804c\u4e8e\u7f8e\u56fe\u516c\u53f8",
+        "name": "TaoBeier",
+        "role": "technician",
+        "role_technician": 1,
+        "weibo": "http://weibo.com/9020taobeier"
+      }
+    ]
+  }
+}
