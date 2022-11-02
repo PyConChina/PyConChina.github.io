@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="zh">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="shortcut icon" href="../pychina.png?h=621881a7" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../static/style.css" />
+    <link rel="stylesheet" href="../static/custom.css" />
+    <title>讲师/议题征集 | PyConChina 2022</title>
+  </head>
+  <body class="bg-primary">
+    <!-- Navbar goes here -->
+<nav>
+  <div class="max-w-6xl mx-auto px-4">
+    <div class="flex justify-between">
+      <div class="flex space-x-7">
+        <div>
+          <!-- Website Logo -->
+          <a href="../" class="flex items-center py-4 px-2">
+            <img src="../pychina.png?h=621881a7" alt="Logo" class="h-10 w-10 mr-2" />
+          </a>
+        </div>
+        <!-- Primary Navbar items -->
+        <div class="hidden md:flex items-center space-x-1 text-xl">
+          
+          
+            <a
+              href="../"
+              class="py-4 px-2 font-bitmap text-black transition duration-300 hover:text-shadow"
+              >首页</a
+            >
+          
+          
+          
+            <a
+              href="../about/"
+              class="py-4 px-2 font-bitmap text-black transition duration-300 hover:text-shadow"
+              >大会</a
+            >
+          
+          
+          
+            <a
+              href="https://jinshuju.net/f/qh1MX5"
+              class="py-4 px-2 font-bitmap text-black transition duration-300 hover:text-shadow"
+              >日程</a
+            >
+          
+          
+          
+            <div class="menu">
+              <div class="py-4 px-2 font-bitmap cursor-pointer text-black transition duration-300 hover:text-shadow">线下</div>
+              <div class="menu-item shadow-lg border-2 border-solid border-black bg-white">
+                
+                <a href="./" class="block py-2 pl-2 pr-6 text-base transition duration-300 hover:bg-black hover:text-white" target="_blank">北京</a>
+                
+                <a href="./" class="block py-2 pl-2 pr-6 text-base transition duration-300 hover:bg-black hover:text-white" target="_blank">深圳</a>
+                
+                <a href="./" class="block py-2 pl-2 pr-6 text-base transition duration-300 hover:bg-black hover:text-white" target="_blank">青岛</a>
+                
+              </div>
+            </div>
+          
+          
+        </div>
+      </div>
+      <!-- Secondary Navbar items -->
+      <div class="hidden md:flex items-center space-x-3">
+        
+        <a
+          href="./"
+          class="py-2 px-2 font-medium text-black bg-white hover:bg-gray-200 transition duration-300 border-solid border-2 border-black shadow-lg"
+          >购票</a
+        >
+        
+        <a
+          href="./"
+          class="py-2 px-2 font-medium text-black bg-white hover:bg-gray-200 transition duration-300 border-solid border-2 border-black shadow-lg"
+          >问卷</a
+        >
+        
+      </div>
+      <!-- Mobile menu button -->
+      <div class="md:hidden flex items-center">
+        <button class="outline-none mobile-menu-button">
+          <svg
+            class="w-6 h-6 text-black hover:text-white"
+            x-show="!showMenu"
+            fill="none"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path d="M4 6h16M4 12h16M4 18h16"></path>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  <!-- mobile menu -->
+  <div class="hidden mobile-menu">
+    <ul>
+      
+      <li>
+        
+        <a
+          href="../"
+          class="block text-sm px-2 py-4 hover:bg-gray-900 transition duration-300"
+        >
+          首页</a
+        >
+        
+      </li>
+      
+      <li>
+        
+        <a
+          href="../about/"
+          class="block text-sm px-2 py-4 hover:bg-gray-900 transition duration-300"
+        >
+          大会</a
+        >
+        
+      </li>
+      
+      <li>
+        
+        <a
+          href="https://jinshuju.net/f/qh1MX5"
+          class="block text-sm px-2 py-4 hover:bg-gray-900 transition duration-300"
+        >
+          日程</a
+        >
+        
+      </li>
+      
+      <li>
+        
+        <div class="block text-sm px-2 py-4">线下</div>
+        <ul>
+          
+          <li>
+            <a href="./" class="block text-sm py-2 pl-4 hover:bg-gray-900 transition duration-300">北京</a>
+          </li>
+          
+          <li>
+            <a href="./" class="block text-sm py-2 pl-4 hover:bg-gray-900 transition duration-300">深圳</a>
+          </li>
+          
+          <li>
+            <a href="./" class="block text-sm py-2 pl-4 hover:bg-gray-900 transition duration-300">青岛</a>
+          </li>
+          
+        </ul>
+        
+      </li>
+      
+      
+      <li>
+        <a href="./" class="block text-sm px-2 py-4 hover:bg-gray-900 transition duration-300"
+          >购票</a
+        >
+      </li>
+      
+      <li>
+        <a href="./" class="block text-sm px-2 py-4 hover:bg-gray-900 transition duration-300"
+          >问卷</a
+        >
+      </li>
+      
+    </ul>
+  </div>
+  <script>
+    const btn = document.querySelector("button.mobile-menu-button");
+    const menu = document.querySelector(".mobile-menu");
+
+    btn.addEventListener("click", () => {
+      menu.classList.toggle("hidden");
+    });
+  </script>
+</nav>
+    <main class="mx-auto max-w-6xl p-2">
+  <h1 class="font-bold text-4xl my-6">讲师/议题征集</h1>
+  <article class="prose lg:prose-lg shadow-xl border-2 border-black border-solid bg-white p-4 max-w-none">
+    <p>今年，我们将聚焦语言特性、工程实践、人工智能、 运维、Web开发、量化交易、安全几大话题。
+如果你在这些领域有所涉猎，同时想向全国的 Python 开发者们分享你自己的经验与理解，那么别犹豫，请务必联系我们！</p>
+<p>请填写表单成为大会讲师：</p>
+<p><a href="https://jinshuju.net/f/qh1MX5">https://jinshuju.net/f/qh1MX5</a></p>
+
+  </article>
+</main>
+    <footer class="bg-white mt-8 py-4 border-t-2 border-solid border-black">
+  <div class="max-w-6xl mx-auto px-4 flex justify-between">
+    <section class="grow">
+      <h1 class="text-lg font-bold p-2">导航</h1>
+      
+        <a href="../" class="block p-2">首页</a>
+      
+        <a href="../about/" class="block p-2">大会</a>
+      
+        <a href="https://jinshuju.net/f/qh1MX5" class="block p-2">日程</a>
+      
+    </section>
+    <section class="grow border-l border-gray-200">
+      <h1 class="text-lg font-bold p-2">线下</h1>
+      
+        <a href="./" class="block p-2">北京</a>
+      
+        <a href="./" class="block p-2">深圳</a>
+      
+        <a href="./" class="block p-2">青岛</a>
+      
+    </section>
+    <section class="grow border-l border-gray-200">
+      <h1 class="text-lg font-bold p-2">主办方</h1>
+      <p class="p-2"><a href="https://pychina.org"><img class="w-60" src="../pychina-logo.jpeg" alt="PyChina"></a></p>
+    </section>
+  </div>
+</footer>
+  </body>
+</html>
