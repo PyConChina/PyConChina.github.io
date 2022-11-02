@@ -1,6 +1,6 @@
 @font-face {
   font-family: Bitmap;
-  src: url('./fonts/DinkieBitmap-9pxDemo.woff2') format('woff2');
+  src: url('./fonts/DinkieBitmap-9px.woff2') format('woff2');
 }
 
 .text-shadow {
