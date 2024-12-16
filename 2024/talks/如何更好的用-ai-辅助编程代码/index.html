@@ -1,0 +1,246 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>
+            
+            如何更好的用 AI 辅助编程代码
+            
+            
+            
+            - PyCon China 2024
+            
+        </title>
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" href="/2023/pychina.png?h=621881a7" />
+
+        
+        
+
+        
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
+        <link rel="stylesheet" href="/2024/static/css/pycon.7e36de3a8635.css">
+
+        
+<style>
+.authors {
+    list-style: none;
+    padding: 0;
+}
+.author {
+    display: flex;
+    align-items: flex-start;
+}
+.author + .author {
+    margin-top: 1rem;
+}
+
+.author > div:first-child {
+    flex-grow: 1;
+}
+.author-info {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+}
+.author-name {
+    font-weight: bold;
+    font-size: 1.75em;
+}
+</style>
+
+        <script defer src="https://umami.fming.dev/script.js" data-website-id="b6ee8ee3-e60c-4604-872b-5cd2594594e3"></script>
+    </head>
+
+    <body class="">
+        
+
+        
+
+<nav class="navbar">
+    <!-- Add button for mobile menu -->
+    <div class="menu-toggle" id="menuToggle">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    
+    <ul class="nav-links">
+        <li><a href="/2024/" class="nav-link">首页</a></li>
+        
+            <li><a href="/2024/supporter/" class="nav-link">合作与赞助</a></li>
+        
+            <li><a href="/2024/talks/" class="nav-link">演讲</a></li>
+        
+            <li><a href="/2024/schedule/" class="nav-link">日程</a></li>
+        
+            <li><a href="/2024/staff/" class="nav-link">组委会</a></li>
+        
+            <li><a href="/2024/marketplace/" class="nav-link">Python 集市展</a></li>
+        
+            <li><a href="/2024/hackathon/" class="nav-link">开源松</a></li>
+        
+        <li>
+          <a href="https://wj.qq.com/s2/16521138/481c/" class="nav-link" target="_blank">会后问卷</a>
+        </li>
+    </ul>
+</nav>
+
+
+        
+<main>
+    <h1 class="title">
+        如何更好的用 AI 辅助编程代码
+    </h1>
+    <span class="talk-badge roundtable">
+    
+        <i class="fa-solid fa-users"></i> 圆桌
+    
+</span>
+
+    <div class="card content">
+        <div class="card-body">
+            <ul class="authors">
+                
+                    <li class="author">
+                        <div>
+                            <div class="author-info">
+                                <span class="author-name">张晋涛</span>
+                                <span class="author-bio">云原生技术专家，Microsoft MVP</span>
+                            </div>
+                            <div class="content"><p data-block-key="ls72t">云原生技术专家，Kubernetes ingress-nginx maintainer，Microsoft MVP，CNCF Ambassador ，『K8S 生态周报』的维护者。国内外多个业内知名大会讲师，PyCon China 核心组织者。公众号：MoeLove</p><p data-block-key="29fsb">Kubernetes ingress-nginx maintainer，Microsoft MVP， CNCF Ambassador</p></div>
+                        </div>
+                        
+                            <img alt="zhangjintao" height="240" src="/2024/media/images/image_6.2e16d0ba.fill-240x240.png" width="240">
+                        
+                    </li>
+                
+                    <li class="author">
+                        <div>
+                            <div class="author-info">
+                                <span class="author-name">贾安亚</span>
+                                <span class="author-bio">商汤科技产品总监，小浣熊家族产品负责人</span>
+                            </div>
+                            <div class="content"><p data-block-key="3bdbk">Boston University 数学和经济学学位、金融工程硕士学位；Tufts University 国际关系和工商管理硕士学位。</p><p data-block-key="etfu3">曾于 EverQuote 和 Charles River Development 等科技公司担任产品经理，负责产品从概念到市场的全过程。加入商汤后参与了各技术阶段 AI 产品在 ToG、ToB 等领域的创新和落地，现负责「小浣熊家族」系列AI Native 生产力系列工具产品从day 1的概念、模型、产品到商业闭环验证。</p></div>
+                        </div>
+                        
+                            <img alt="贾安亚" height="240" src="/2024/media/images/JiaAnYa.2e16d0ba.fill-240x240.jpg" width="240">
+                        
+                    </li>
+                
+                    <li class="author">
+                        <div>
+                            <div class="author-info">
+                                <span class="author-name">孙涛</span>
+                                <span class="author-bio">JetBrains 解决方案专家</span>
+                            </div>
+                            <div class="content"><p data-block-key="gk6m2">JetBrains 的解决方案专家，负责 .NET 和游戏开发产品的技术推广工作，涵盖 Rider、ReSharper、dotTools 等开发工具，以及 TeamCity 、YouTrack等团队工具的整合解决方案。他擅长为不同开发场景提供高效的应对方法，乐于与一线开发者深入交流，帮助他们解决技术难题，并通过分享实践经验，助力优化开发人员的效能与体验。</p></div>
+                        </div>
+                        
+                            <img alt="suntao" height="240" src="/2024/media/images/1833175802.2e16d0ba.fill-240x240.jpg" width="240">
+                        
+                    </li>
+                
+                    <li class="author">
+                        <div>
+                            <div class="author-info">
+                                <span class="author-name">张燎原</span>
+                                <span class="author-bio">阿里云通义灵码产品负责人</span>
+                            </div>
+                            <div class="content"><p data-block-key="xs7pb">阿里云通义灵码产品负责人，经历过消费电子、通信及互联网多个行业，长期从事软件研发管理、效能改进及产品创新，负责组织级效能改进实施和转型，及数字化研发管理体系的建设。目前致力于打造数字化产品研发体系，服务于中国软件研发行业，推动企业数字化转型。译有《程序员度量》、《软件驱魔》等，是《研发效能36计》、《阿里巴巴研发效能三板斧》课程主讲人。BizDevOps共促计划专家。</p></div>
+                        </div>
+                        
+                            <img alt="zhangliaoyuan" height="240" src="/2024/media/images/tinywow_resize_69454877.2e16d0ba.fill-240x240.jpg" width="240">
+                        
+                    </li>
+                
+                    <li class="author">
+                        <div>
+                            <div class="author-info">
+                                <span class="author-name">张海龙</span>
+                                <span class="author-bio">Babel CEO，开源中国联合创始人、CODING 创始人。</span>
+                            </div>
+                            <div class="content"><p data-block-key="pakfb">复旦大学软件工程学士、CMU 计算机硕士。</p><p data-block-key="e02vo">主导的新项目 Gru.ai 旨在创造全自动的软件开发 Agent，提高软件工程效率。</p><p data-block-key="1bdrh">今年 9 月，Gru.ai 在 OpenAI 主导的测评 SWE-Bench-Verified 中以 45.2% 的高分排名第一，在 Coding Agent 领域处于世界领先地位。</p></div>
+                        </div>
+                        
+                            <img alt="zhanghailong" height="240" src="/2024/media/images/1280X1280.2e16d0ba.fill-240x240.png" width="240">
+                        
+                    </li>
+                
+            </ul>
+            
+                <div class="schedule">
+                    <i class="fa-solid fa-clock"></i>
+                    11:40 a.m. - 12:20 p.m.
+                    <i class="fa-solid fa-location-arrow"></i>
+                    ()
+                </div>
+            
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="card-body content">
+            
+        </div>
+    </div>
+</main>
+
+
+        <footer>
+    <div class="footer-content">
+        <div class="footer-section">
+            <h3>PyCon China 2024</h3>
+
+            
+                
+                    <p>
+                        
+                          <a href="https://github.com/PyConChina" aria-label="GitHub"><i class="fab fa-github"></i></a>
+                        
+                          <a href="https://x.com/PyConChina" aria-label="X/Twitter"><i class="fab fa-x-twitter"></i></a>
+                        
+                          <a href="https://space.bilibili.com/474764697" aria-label="Bilibili"><i class="fab fa-bilibili"></i></a>
+                        
+                          <a href="https://www.youtube.com/channel/UC6wdANyncX4Bc59wTVKrUlw" aria-label="Youtube"><i class="fab fa-youtube"></i></a>
+                        
+                          <a href="https://weibo.com/PyConCN" aria-label="Weibo"><i class="fab fa-weibo"></i></a>
+                        
+                          <a href="https://pychina.org" aria-label="Home"><i class="fas fa-house"></i></a>
+                        
+                    </p>
+                
+            
+        </div>
+
+        <div class="footer-section">
+            <h3>往届大会</h3>
+            <ul class="past-conferences">
+                <li><a href="https://cn.pycon.org/2023/" target="_blank">2023</a></li>
+                <li><a href="https://cn.pycon.org/2022/" target="_blank">2022</a></li>
+                <li><a href="https://cn.pycon.org/2021/" target="_blank">2021</a></li>
+                <li><a href="https://cn.pycon.org/2020/" target="_blank">2020</a></li>
+                <li><a href="https://cn.pycon.org/2019/" target="_blank">2019</a></li>
+                <li><a href="https://cn.pycon.org/2018/" target="_blank">2018</a></li>
+                <li><a href="https://cn.pycon.org/2017/" target="_blank">2017</a></li>
+                <li><a href="https://cn.pycon.org/2016/" target="_blank">2016</a></li>
+                <li><a href="https://cn.pycon.org/2015/" target="_blank">2015</a></li>
+                <li><a href="https://cn.pycon.org/2014/" target="_blank">2014</a></li>
+                <li><a href="https://cn.pycon.org/2013/" target="_blank">2013</a></li>
+                <li><a href="https://cn.pycon.org/2012/" target="_blank">2012</a></li>
+                <li><a href="https://cn.pycon.org/2011/" target="_blank">2011</a></li>
+            </ul>
+        </div>
+    </div>
+</footer>
+
+        
+        <script type="text/javascript" src="/2024/static/js/pycon.593780372416.js"></script>
+
+        
+        
+        
+    </body>
+</html>

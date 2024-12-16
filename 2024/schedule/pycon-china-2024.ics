@@ -1,0 +1,560 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0.dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:/ics.py/2020.1/Asia/Shanghai
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+RDATE:19700101T000000
+TZNAME:CST
+END:STANDARD
+LAST-MODIFIED:20200620T153818Z
+X-LIC-LOCATION:Asia/Shanghai
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T090000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T092500
+UID:75a8ed19-8d10-4198-8f8c-9b7eb72a3b70
+LOCATION:主会场
+DTSTAMP:20241216T020638Z
+SUMMARY:现场签到/社区展
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T092500
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T093000
+UID:d63a6898-6677-4ee1-afc6-0747563922cc
+LOCATION:主会场
+DTSTAMP:20241216T020638Z
+SUMMARY:主持人开场
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T093000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T094000
+UID:9bad3606-5422-4b96-a84b-5ee86d6a0c33
+LOCATION:主会场
+DTSTAMP:20241216T020638Z
+SUMMARY:开场致辞
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T094000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T102000
+UID:1273565e-60bc-46c3-ad9e-a8a72e480bcd
+DESCRIPTION:演讲人：Aber\n\n<p data-block-key="t3cr2">由于 asyncio 的设计原因，Python 
+ 的同步 IO 生态和异步 IO 生态彻底被撕裂，很多的时候作为库作者，我们需要同时兼容这两种不同的 IO 
+ 形式。本次主题演讲我将介绍几种不同的方法，用于编写兼容不同 IO 模式的代码。他们分别在我的开源项目 baize、typedmongo、fish-
+ audio-sdk 中被应用。</p><p data-block-key="epln3">演示文稿：<a linktype="document" 
+ id="23">sync_async_aber</a></p>
+LOCATION:主会场
+URL:http://cn.pycon.org/2024/talks/%E6%80%8E%E4%B9%88%E7%BC%96%E5%86%99%E5%
+ 85%BC%E5%AE%B9%E5%90%8C%E6%AD%A5-io-%E5%92%8C%E5%BC%82%E6%AD%A5-io-
+ %E7%9A%84-python-%E4%BB%A3%E7%A0%81/
+DTSTAMP:20241216T020638Z
+SUMMARY:怎么编写兼容同步 IO 和异步 IO 的 Python 代码
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T102000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T110000
+UID:6140012c-872f-479a-ad51-f7b5692645e3
+DESCRIPTION:演讲人：梁之川\n\n<p data-block-key="3trw9">自从 eBPF 
+ 问世，内核态和用户态的观测性都得到了革命性的提升，Python 也持续在这个领域做出贡献 （BCC）。可惜大多数项目都是利用 Python 
+ 的胶水性质观测其他事件，少有关于使用 eBPF 观测 Python 自身的讨论。主要原因之一是 Python 本身有一套虚拟机，直接使用 eBPF 
+ 观测 Python 只能看到 CPython 的实现而非 Python 业务代码。</p><p data-block-
+ key="bldit">这个主题将提供一种使用 eBPF 观测 Python 虚拟机的方案，并分享使用此法排查若干开源项目 bug 
+ 的案例。</p><p data-block-key="be5m1">演示文稿：<a linktype="document" id="1">Pycon
+  China 2024 BPF CPython-3</a></p>
+LOCATION:主会场
+URL:http://cn.pycon.org/2024/talks/%E7%94%A8-ebpf-%E8%A7%82%E6%B5%8B-
+ python/
+DTSTAMP:20241216T020638Z
+SUMMARY:用 eBPF 观测 Python
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T110000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T114000
+UID:c62d0ca4-72bf-44fb-8399-2e71e719f78a
+DESCRIPTION:演讲人：古思为\n\n<p data-block-key="i2ypg">从去年我们首次提出 GraphRAG 
+ 并给出开源实现，并在 PyCon China 2023 首次分享了 Chain of Exploration 等方法，又经过了一年，RAG 与 
+ GraphRAG 已经有很多令人兴奋的演进，借此机会我们来一起尝试讨论、回答 GraphRAG 
+ 到底可以做什么、怎么做、它到底贵不贵等问题。</p><p data-block-key="aldhj">演示文稿：<a href="https://
+ siwei.io/talks/pycon2024">https://siwei.io/talks/pycon2024</a></p>
+LOCATION:主会场
+URL:http://cn.pycon.org/2024/talks/graphrag-revisited/
+DTSTAMP:20241216T020638Z
+SUMMARY:GraphRAG Revisited
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T114000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T122000
+UID:115a9faf-3b8a-4e6a-aa9c-3b374a092f72
+DESCRIPTION:演讲人：张晋涛\n\n
+LOCATION:主会场
+URL:http://cn.pycon.org/2024/talks/%E5%A6%82%E4%BD%95%E6%9B%B4%E5%A5%BD%E7%
+ 9A%84%E7%94%A8-ai-%E8%BE%85%E5%8A%A9%E7%BC%96%E7%A8%8B%E4%BB%A3%E7%A0%81/
+DTSTAMP:20241216T020638Z
+SUMMARY:如何更好的用 AI 辅助编程代码
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T122000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T133000
+UID:ffd9805b-9400-402e-8f47-c31293dd6e80
+LOCATION:主会场
+DTSTAMP:20241216T020638Z
+SUMMARY:合影/午休/社区展
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T133000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T140000
+UID:4e1681ad-718f-4e3a-addd-0aa0c51fff21
+DESCRIPTION:演讲人：明希\n\n<p data-block-key="i7isq">Pydantic 是 Python 
+ 中一个被广泛使用的数据校验及序列化库。知名 web 框架 FastAPI 即是利用它生成了自己的 OpenAPI 页面。2.0 
+ 版本后，pydantic 的核心改为用 Rust 实现，在性能提升的同时，对于扩展性有影响吗？</p><p data-block-
+ key="2qcv1">本主题将逐步展示我们是如何扩展 pydantic， 实现一个易于用户使用的 API 数据描述方式，并生成 UI</p><p 
+ data-block-key="ea9h5">演示文稿：<a href="https://slides.fming.dev/pydantic">ht
+ tps://slides.fming.dev/pydantic</a></p>
+LOCATION:分会场 A (506 教室)
+URL:http://cn.pycon.org/2024/talks/%E5%88%A9%E7%94%A8-pydantic-%E4%B8%BA-
+ python-%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90-ui/
+DTSTAMP:20241216T020638Z
+SUMMARY:利用 Pydantic 提升 Python 代码的开发体验
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T133000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T140000
+UID:34766ad4-13dd-4161-a9f6-2b2db17bfa6b
+DESCRIPTION:演讲人：张丙儒\n\n<p data-block-key="ny5xn">MicroPython 
+ 在嵌入式设备上开发机器视觉应用的潜力，结合主流 RTOS 部署 Python 相关的人工智能应用，实现实时的机器视觉任务。通过 TensorFlow
+  Lite 与 Python 的结合，开发者可以轻松实现图像识别、目标检测等任务，并充分发挥 TensorFlow Lite 
+ 在嵌入式设备上高效运行深度学习模型的优势。</p><p data-block-key="970cf">演示文稿：<a 
+ linktype="document" id="2">pycon演讲稿-rtthread</a></p>
+LOCATION:分会场 B (326 教室)
+URL:http://cn.pycon.org/2024/talks/%E4%BA%BA%E7%94%9F%E8%8B%A6%E7%9F%AD%E5%
+ B5%8C%E5%85%A5%E5%BC%8F-ai-%E7%94%A8-python/
+DTSTAMP:20241216T020638Z
+SUMMARY:人生苦短，嵌入式 AI 用 Python
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T133000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T140000
+UID:21d98083-8e68-4dd6-86da-00a5c935c14b
+DESCRIPTION:演讲人：张海立\n\n<p data-block-key="iz3hr">本次演讲将探讨如何使用 
+ LangGraph（一个强大的 Python 框架）构建可靠且可控的 AI Agent 系统。LangGraph 成功地在灵活的 AI Agent 
+ 和可靠的控制系统之间搭建了桥梁。我们将结合实际案例和最佳实践，展示解决 AI Agent 开发中常见挑战的实用方法。</p><p data-
+ block-key="33jcl">演示文稿：<a linktype="document" id="7">1-张海立</a></p>
+LOCATION:分会场 C (108 教室)
+URL:http://cn.pycon.org/2024/talks/%E5%9F%BA%E4%BA%8E-langgraph-
+ %E6%9E%84%E5%BB%BA%E5%8F%AF%E9%9D%A0%E7%9A%84-ai-agent-
+ %E7%B3%BB%E7%BB%9F%E4%BB%8E%E7%90%86%E8%AE%BA%E5%88%B0%E5%AE%9E%E8%B7%B5/
+DTSTAMP:20241216T020638Z
+SUMMARY:基于 LangGraph 构建可靠的 AI Agent 系统：从理论到实践
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T133000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T140000
+UID:c3f3c34b-6add-4475-ae76-f818f09dd99a
+LOCATION:分会场 D (215 教室)
+DTSTAMP:20241216T020638Z
+SUMMARY:签到打卡 & 开源小班培训
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T140000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T142000
+UID:a04f8bc4-0329-46f2-ace6-e5bcf798e40b
+DESCRIPTION:演讲人：李辉\n\n<p data-block-key="3enl2">除了开源松的参与流程介绍，这个分享还会试图展开代码厨房
+ 社区的短暂历史和暂不明朗的未来图景。我想要建立一个什么样的技术社区？或者说我们需要什么样的技术社区？脱离商业公司支撑下的技术社区应该如何存在和发展？
+ 一方面是介绍实验过程和结果，另一方面也是寻求答案和讨论。</p>
+LOCATION:分会场 D (215 教室)
+URL:http://cn.pycon.org/2024/talks/codekitchen/
+DTSTAMP:20241216T020638Z
+SUMMARY:代码厨房社区的最初和最终幻想
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T141000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T144000
+UID:aa412c38-873b-4bb1-919c-272b5bc200ab
+DESCRIPTION:演讲人：周煦林\n\n<p data-block-key="5y2gg">深度介绍一个简洁高效的 Python 后端元框架 
+ UtilMeta，以及如何使用 UtilMeta 框架大幅提高 Python 后端开发者的开发与运维效率</p><ol><li data-
+ block-key="57mg2">介绍 UtilMeta 框架的声明式接口定义方式，大幅度提高 RESTful 
+ 接口开发效率，自动解析请求参数，自动生成 OpenAPI 文档</li><li data-block-key="bg613">介绍 UtilMeta
+  框架独创的声明式 ORM 机制，使用原生的 Python 类型语法，使用简洁的数据结构定义出任意复杂度的 ORM 
+ 查询与关系查询，并自动对关系查询在执行时进行优化，避免手写关系查询可能带来的 N + 1 查询问题</li><li data-block-
+ key="eiurg">介绍 UtilMeta 渐进式元框架的特性，使用一套标准支持任意主流 Python 框架（Django / Flask / 
+ FastAPI / Sanic / Tornado）作为后端服务的 HTTP 运行时实现，无缝兼容现有的 Python 应用部署模式，支持现有 
+ Python 项目以接口为粒度接入 UtilMeta 框架，UtilMeta 项目也支持接入其他 Python 框架接口</li><li data-
+ block-key="3lk0e">介绍如何使用 UtilMeta 管理平台一键管理上线后的 UtilMeta 服务和其他 Python 
+ 服务，涵盖数据管理，接口协调，日志查询，访问分析，链路监控，集成测试，事件管理等后端服务线上后需要的功能</li><li data-block-
+ key="5f6a5">展望 UtilMeta 项目未来的 RoadMap\, 邀请开发者一同建设 UtilMeta 
+ 项目的生态与开源社区</li></ol><p data-block-key="6hovs">演示文稿：<a linktype="document" 
+ id="17">UtilMeta PyCon 2024</a></p>
+LOCATION:分会场 A (506 教室)
+URL:http://cn.pycon.org/2024/talks/utilmeta/
+DTSTAMP:20241216T020638Z
+SUMMARY:UtilMeta -  面向服务端应用的 Python 渐进式元框架
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T141000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T144000
+UID:c52e4d78-bdfa-43d3-86cb-bf71e2fae478
+DESCRIPTION:演讲人：张晋涛\n\n<p data-block-
+ key="jj6ex">调试应用程序是每个开发者不得不面临的一项挑战，Python 提供了较为丰富和方便的工具，例如 pdb。但是 Python 
+ 发展这么多年，pdb 等 debugger 是如何演进的，我们又有哪些办法可以更高效的进行 Python 项目的调试呢？本次分享将会深入 
+ Python debugger，一起揭开 Python 应用调试的面纱。</p><p data-block-key="d4g87">演示文稿：<a 
+ linktype="document" id="6">深入 Python debugger 及其演进</a></p>
+LOCATION:分会场 B (326 教室)
+URL:http://cn.pycon.org/2024/talks/%E6%B7%B1%E5%85%A5-python-
+ debugger-%E5%8F%8A%E5%85%B6%E6%BC%94%E8%BF%9B/
+DTSTAMP:20241216T020638Z
+SUMMARY:深入 Python debugger 及其演进
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T141000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T144000
+UID:e5ceec90-9b34-4cfe-9e77-ef6b81b5cfab
+DESCRIPTION:演讲人：孙海林\n\n<p data-block-key="dms03">介绍 pyecharts 的项目历程；</p><p 
+ data-block-key="9nsov">深入浅出介绍 pyecharts 的实现方式以及对于 Python 数据可视化的帮助。</p><p 
+ data-block-key="cp47l">在本次演讲中，我们将探讨 pyecharts 的项目历程，介绍这一工具如何通过封装 Echarts，为
+  Python 用户提供易于使用的数据可视化解决方案。我们将深入了解其实现方式，并讨论 pyecharts 
+ 如何帮助用户更有效地展示和理解数据，从而在数据分析和报告中获得更佳的视觉效果。</p><p data-block-
+ key="at0ia">演示文稿：<a linktype="document" id="9">2-孙海林-深入浅出 
+ pyecharts</a></p>
+LOCATION:分会场 C (108 教室)
+URL:http://cn.pycon.org/2024/talks/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA-
+ pyecharts/
+DTSTAMP:20241216T020638Z
+SUMMARY:深入浅出 pyecharts
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T142000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T152000
+UID:f17af2db-7e84-41a8-a9e6-8f9262360685
+LOCATION:分会场 D (215 教室)
+DTSTAMP:20241216T020638Z
+SUMMARY:项目路演
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T145000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T152000
+UID:b2eade67-5fdb-4e72-96d3-d2b271b2fe56
+DESCRIPTION:演讲人：王宏府\n\n<p data-block-key="2p8gv">在当今的 Python 开发中，类型提示（Type 
+ Hinting）和静态类型检查工具的普及，使得代码的可读性和可靠性得到了显著提升。然而，在这个类型体系中，存在着一个特殊的角色——NoneType。
+ </p><p data-block-key="rfe3">本次演讲将从 PEP 483 中的子类化定义出发，将结合编程界长期以来对 NULL（在 
+ Python 中即为 None）的争议，分析 NoneType 作为一个特殊类型在实践中的挑战和影响。</p><p data-block-
+ key="e2fta">演示文稿：<a linktype="document" id="22">PyCon-
+ China-2024-NoneType是类型系统的奇点吗？</a></p>
+LOCATION:分会场 A (506 教室)
+URL:http://cn.pycon.org/2024/talks/nonetype/
+DTSTAMP:20241216T020638Z
+SUMMARY:NoneType 会是类型系统的奇点吗？
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T145000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T152000
+UID:9735df14-f625-4cd5-a451-3e92f0f77895
+DESCRIPTION:演讲人：高朋\n\n<p data-block-key="lq0ve">本次演讲将聚焦如何使用 Python 编写 
+ Kubernetes 控制器，结合一个云节点预留的实际案例，深入解析其应用。在云计算环境中，科学高效地分配和管理资源对各类应用至关重要。通过实际项目
+ 的演示，我将展示如何利用 Python 和 Kubernetes 的控制器扩展功能来实现资源的动态管理。我们将探讨自定义控制器的设计，以便对节点进行
+ 预留和灵活调配资源，从而在满足业务需求的同时，提升系统的稳定性和资源利用率。该议题适合对云平台开发和资源管理感兴趣的技术人员，为其提供一种高效的资源
+ 控制方法和思路。</p><p data-block-key="ohu8">演示文稿：<a linktype="document" 
+ id="5">pycon-高朋-k8s-python控制器</a></p>
+LOCATION:分会场 B (326 教室)
+URL:http://cn.pycon.org/2024/talks/%E4%BD%BF%E7%94%A8-python-
+ %E7%BC%96%E5%86%99-kubernetes-
+ %E9%9B%86%E7%BE%A4%E6%8E%A7%E5%88%B6%E5%99%A8%E7%9A%84%E5%AE%9E%E8%B7%B5/
+DTSTAMP:20241216T020638Z
+SUMMARY:使用 Python 编写 Kubernetes 集群控制器的实践
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T145000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T152000
+UID:bf0d766e-6226-4f12-bfc4-89be46da2095
+DESCRIPTION:演讲人：李枫\n\n<p data-block-
+ key="vz7e7">由于具有提高生产率、改善可读性、更好的可维护性等优点，领域专用语言（DSL）在现代软硬件开发中正变得越来越重要。而 
+ Python 所具备的易学易用等特点以及强大的元编程能力和丰富的生态，使得更容易利用它来构造各种 DSL。</p><p data-block-
+ key="8gnsn">本议题将着重探讨 DSL 的设计与应用，特别以时下三种基于 Python 的新兴 DSL 
+ 为例，提纲如下：</p><ol><li data-block-key="6kf31">背景<ol><li data-block-
+ key="he5q">DSL 技术综述；</li><li data-block-
+ key="aiuem">我们的测试台\;</li></ol></li><li data-block-key="1dqni">Triton 
+ 语言（用于编写异构并行计算中的内核的 Python DSL，基于 MLIR 实现）<ol><li data-block-
+ key="9kc1f">架构与设计\;</li><li data-block-
+ key="4b2qn">示例解析及其在测试台上的实践；</li></ol></li><li data-block-key="d2s0u">Mojo 
+ 语言（面向 AI 编程的 Python 超集，由 LLVM 之父创建，结合了 Python 和 Rust 的优点）<ol><li data-
+ block-key="6e0qb">设计思想；</li><li data-block-key="37b5h">llama3.mojo 
+ 项目及其在测试台上的实践；</li></ol></li><li data-block-key="600v">Amaranth 语言（基于 
+ Python 的现代硬件描述语言）<ol><li data-block-key="3u3jp">使用 Amaranth 
+ 进行硬件开发；</li><li data-block-key="78ln0">Amaranth 
+ 工具链及其在测试台上的实践。</li></ol></li></ol><p data-block-
+ key="buhs2">另附议题涉及的主要技术栈参考链接如下：</p><ol><li data-block-key="6chvq"><a 
+ href="https://en.wikipedia.org/wiki/Domain-
+ specific_language">https://en.wikipedia.org/wiki/Domain-
+ specific_language</a></li><li data-block-key="5n7gv"><a href="https://en.w
+ ikipedia.org/wiki/Python_(programming_language)">https://en.wikipedia.org/
+ wiki/Python_(programming_language)</a></li><li data-block-key="6v1kk"><a 
+ href="https://triton-lang.org/">https://triton-lang.org/</a></li><li data-
+ block-key="60e0a"><a 
+ href="https://mlir.llvm.org/">https://mlir.llvm.org/</a></li><li data-
+ block-key="nlku"><a href="https://www.modular.com/mojo">https://www.modula
+ r.com/mojo</a></li><li data-block-key="ejv7r"><a href="https://en.wikipedi
+ a.org/wiki/Rust_(programming_language)">https://en.wikipedia.org/wiki/Rust
+ _(programming_language)</a></li><li data-block-key="fl96u"><a href="https:
+ //github.com/Terapines/llama3.mojo">https://github.com/Terapines/llama3.mo
+ jo</a></li><li data-block-key="7510e"><a href="https://amaranth-
+ lang.org/">https://amaranth-lang.org/</a></li></ol><p data-block-
+ key="bg0kl">演示文稿：<a linktype="document" id="10">3-李枫-
+ PyConChina2024__Python-based emerging DSLs__FengLi-20241123</a></p>
+LOCATION:分会场 C (108 教室)
+URL:http://cn.pycon.org/2024/talks/%E5%9F%BA%E4%BA%8E-python-
+ %E7%9A%84%E6%96%B0%E5%85%B4%E9%A2%86%E5%9F%9F%E4%B8%93%E7%94%A8%E8%AF%AD%E
+ 8%A8%80python-based-dsls/
+DTSTAMP:20241216T020638Z
+SUMMARY:基于 Python 的新兴领域专用语言（Python-based  DSLs）
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T152000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T172000
+UID:b4a2aa8b-9f77-484c-807a-decff2bd3c39
+LOCATION:分会场 D (215 教室)
+DTSTAMP:20241216T020638Z
+SUMMARY:爱发电时间
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T153000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T160000
+UID:fde5307c-0b1d-49d5-b033-3cd2f1a671e8
+DESCRIPTION:演讲人：王惟一\n\n<p data-block-key="h263q">当你的 Python Web 
+ 应用开发完成之后，下一步就是如何将它部署上线。一次完整部署不仅仅是部署应用本身，还包括部署 
+ ingress、数据库、监控等一系列运维工作。我们将介绍不同的开源工具来简化这些运维操作，包括使用 helm charts 直接管理 k8s、基于 
+ fly.io 的 PaaS 方案，以及 Canonical 推出的 juju 
+ 新工具。你将了解每种工具的优劣势，帮助你做出适合自己需求的选择！</p><p data-block-key="7f932">演示文稿：<a 
+ linktype="document" id="18">I want to deploy my Flask app（中文） 2</a></p>
+LOCATION:分会场 A (506 教室)
+URL:http://cn.pycon.org/2024/talks/%E7%AE%80%E5%8C%96-python-web-
+ %E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E5%9F%BA%E4%BA%8E%E5%BC%80%E6%BA%90%E
+ 5%B7%A5%E5%85%B7%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96-k8s-
+ %E8%BF%90%E7%BB%B4/
+DTSTAMP:20241216T020638Z
+SUMMARY:简化 Python Web 应用部署：基于开源工具的自动化 K8s 运维
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T153000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T160000
+UID:047b0a24-b86b-43e0-9b6c-5bcabd1990f2
+DESCRIPTION:演讲人：张士欢\n\n<ol><li data-block-key="hlih7">Python 
+ 在不同风险管理领域中的运用差异（包含常用的库、函数、模型区别）；</li><li data-block-
+ key="ebeoq">什么是量化交易？（介绍量化交易的特点，量化交易偏重于海量数据分析和算法模型）；</li><li data-block-
+ key="du1uq">用 Python 实现量化风控中的风险计量和组合优化（包括在险价值的计算、因子暴露的分析等等）。</li></ol><p 
+ data-block-key="5te2">演示文稿：<a linktype="document" 
+ id="4">Python在量化交易风险管理中的实务应用--zsh</a></p>
+LOCATION:分会场 B (326 教室)
+URL:http://cn.pycon.org/2024/talks/python-
+ %E5%9C%A8%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E9%A3%8E%E9%99%A9%E7%AE%A1%E
+ 7%90%86%E4%B8%AD%E7%9A%84%E5%AE%9E%E5%8A%A1%E5%BA%94%E7%94%A8/
+DTSTAMP:20241216T020638Z
+SUMMARY:Python 在量化交易风险管理中的实务应用
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T153000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T160000
+UID:da75bb68-8e82-4134-b9cf-b62bf802d454
+DESCRIPTION:演讲人：杨权\n\n<p data-block-key="rjwif">随着深度学习在工业视觉系统中的广泛应用，PyTorch
+  训练的模型往往需要进行优化和转换，以满足高实时性生产环境的需求。本次分享将通过一个异常检测模型的部署实例，深入剖析 PyTorch 
+ 模型优化与部署背后的关键技术，重点介绍 Tracing 和 Scripting 
+ 两种模式的工作原理及应用场景，展示如何将模型转换为高效的部署格式，并实现推理加速。本次分享将结合代码示例与实际项目案例，帮助开发者更好地掌握 
+ PyTorch 模型的优化与部署方法。</p><p data-block-key="9q21u">演示文稿：<a 
+ linktype="document" id="11">4-杨权-Pytroch 模型优化部署背后的技术探究v2</a></p>
+LOCATION:分会场 C (108 教室)
+URL:http://cn.pycon.org/2024/talks/pytorch-jit/
+DTSTAMP:20241216T020638Z
+SUMMARY:Pytorch 模型优化部署背后的技术探究
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T161000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T164000
+UID:53723531-ded5-49f0-8645-3d1f6daa5d68
+DESCRIPTION:演讲人：梁志远\n\n<p data-block-key="nfn4w">该演讲将会分享 TiDB.AI 
+ 团队如何应用知识图谱增强技术（GraphRAG）优化文档问答型 AI 机器人的回答准确性和全面性，以及如何将 Llamaindex、DSPy 等主流
+  Python AI 应用框架与 TiDB Vector 数据库进行快速集成并构建生产可用的 AI 企业级应用。</p><p data-block-
+ key="16lqn">演示文稿：<a linktype="document" id="20">TiDB.AI_ 
+ 如何应用知识图谱增强文档问答型机器人</a></p>
+LOCATION:分会场 A (506 教室)
+URL:http://cn.pycon.org/2024/talks/tidbai%E5%A6%82%E4%BD%95%E5%BA%94%E7%94%
+ A8%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%A2%9E%E5%BC%BA%E6%96%87%E6%A1%A3
+ %E9%97%AE%E7%AD%94%E5%9E%8B%E6%9C%BA%E5%99%A8%E4%BA%BA/
+DTSTAMP:20241216T020638Z
+SUMMARY:TIDB.AI：如何应用知识图谱增强文档问答型机器人
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T161000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T164000
+UID:cdd526d8-5854-4462-a325-4ff4b83aec7b
+DESCRIPTION:演讲人：韩骏\n\n<p data-block-key="s3s91">如果想要构建高质量的 Python API 
+ 应用，在编写 Python 代码之前，往往需要设计一个高质量的 API 规范（比如 OpenAPI）。然而，要设计出一个高质量的 OpenAPI 
+ 文档，并非易事。</p><p data-block-key="h5e4">于是，API Copilot 应运而生。API Copilot 
+ 可以帮助开发者通过自然语言来轻松地生成 OpenAPI 文档，并且是符合开发者定义的 Spectral API 规则的。</p><p data-
+ block-key="egeqg">不仅如此，如果开发者已经有一个现成的 Python API 应用，无论是使用了 
+ Django、FastAPI、Flask 或是其他的 Python API 框架，API Copilot 都可以把你的代码转一键换成 OpenAPI
+  文档。</p><p data-block-key="88m5">那么，你也许会更加好奇，API Copilot 是如何基于 LLM 
+ 进行开发并实现的？</p><p data-block-key="djubm">演示文稿：<a linktype="document" 
+ id="3">API Copilot 助力开发高质量 Python API 应用</a></p>
+LOCATION:分会场 B (326 教室)
+URL:http://cn.pycon.org/2024/talks/api-copilot-
+ %E5%8A%A9%E5%8A%9B%E5%BC%80%E5%8F%91%E9%AB%98%E8%B4%A8%E9%87%8F-python-
+ api-%E5%BA%94%E7%94%A8/
+DTSTAMP:20241216T020638Z
+SUMMARY:API Copilot 助力开发高质量 Python API 应用
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T161000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T162000
+UID:1b302811-83ef-4d6c-aa21-e6299e5486c4
+DESCRIPTION:演讲人：程序员晚枫\n\n<p data-block-
+ key="8j4jk">随着数字化的普及和AI应用的火爆，越来越多的非程序员群体，也开始关注 Python 的学习。</p><p data-
+ block-key="7modi">我将针对非程序员群体，围绕以下3点，进行 Python 的推广和学习引导：</p><ol><li data-
+ block-key="clsn0">Python 越来越流行，不是程序员的朋友也学习了起来，背后的原因是什么？</li><li data-
+ block-key="astca">Python 方向众多，非程序员如何选择学习方向？</li><li data-block-
+ key="f6hgl">非程序员如何快速入门并掌握适合自己的 Python 技术？</li></ol><p data-block-
+ key="cqsnj">演示文稿：<a linktype="document" id="12">5-晚枫-非程序员的Python</a></p>
+LOCATION:分会场 C (108 教室)
+URL:http://cn.pycon.org/2024/talks/%E9%9D%9E%E7%A8%8B%E5%BA%8F%E5%91%98%E5%
+ A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%E5%92%8C%E4%BD%BF%E7%94%A8-python/
+DTSTAMP:20241216T020638Z
+SUMMARY:非程序员如何学习和使用 Python
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T162000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T163000
+UID:616994aa-411a-4683-a2e0-97efd4e0e35c
+DESCRIPTION:演讲人：石辰杰\n\n<p data-block-key="e8sbr">所有云服务厂商都面临着需要为自家的所有云服务提供多语
+ 言、标准化、一致性高、易于调试、安全高的SDK体验。为了解决这一问题，我们构建了围绕TypeSpec的一系列生态，将API 
+ Fisrt的理念落实到了云服务SDK的开发流程中。本次演讲会介绍什么是TypeSpec以及TypeSpec的生态，同时探讨API 
+ First在构建云服务Python SDK中的实践，演示如何基于TypeSpec从0开始实现一个云服务的Python SDK。</p><p 
+ data-block-key="8274n">演示文稿：<a linktype="document" id="13">6-石辰杰-API 
+ First在构建云服务Python SDK中的实践.pptx</a></p>
+LOCATION:分会场 C (108 教室)
+URL:http://cn.pycon.org/2024/talks/api-
+ first-%E5%9C%A8%E6%9E%84%E5%BB%BA%E4%BA%91%E6%9C%8D%E5%8A%A1-python-
+ sdk-%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5/
+DTSTAMP:20241216T020638Z
+SUMMARY:API First 在构建云服务 Python SDK 中的实践
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T163000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T164000
+UID:7deb7131-3aed-4a7d-8dbf-742ca80c6f81
+DESCRIPTION:演讲人：Aber\n\n<p data-block-key="p0rqw">在开源项目里，type hint 
+ 由于能提供更好的代码提示和预检查，所以大行其道。但由于 type hint 本身设计的缺陷以及某些老 Python 程序员并不懂如何编写 type 
+ hint 所以大量错误或 Any 存在于知名开源项目里。本次闪电演讲，我要把我经常使用的著名开源项目拿出来鞭打他们的 type hint 
+ 编写问题。</p><p data-block-key="ce9cd">演示文稿：<a linktype="document" 
+ id="14">7-Aber-Type hint</a></p>
+LOCATION:分会场 C (108 教室)
+URL:http://cn.pycon.org/2024/talks/%E6%AE%8B%E7%BC%BA%E7%9A%84-type-
+ hint-%E8%AE%BE%E8%AE%A1%E4%B8%8E-any-%E7%9A%84%E6%BB%A5%E7%94%A8/
+DTSTAMP:20241216T020638Z
+SUMMARY:残缺的 Type hint 设计与 Any 的滥用
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T164000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T165000
+UID:f0d02543-b86c-4871-8b21-94d272a00f4d
+DESCRIPTION:演讲人：阮正鑫\n\n<p data-block-key="31i9j">基础设施即代码（Infrastructure as 
+ Code\, IaC） 是一种云资源部署与管理的方式，使得基础设施的创建、配置和管理可以通过代码来定义。在实际使用IaC工具时，开发者会面临的问题是
+ 编写和管理基础设施模板（如 阿里云ROS、Terraform 等）可能涉及许多细节和配置选项，导致学习成本高。本次分享将介绍如何基于AI来解决此问题
+ 。我们借助大模型的内容理解与生成的能力，结合RAG、FunctionCall等方法构建ROS模板生成的Agent，实现了根据用户自然语言描述云资源架
+ 构需求生成模板的能力，降低了用户使用IaC的门槛。</p><p data-block-key="f2d8t">演示文稿：<a 
+ linktype="document" id="15">8-阮正鑫-基于大模型自动生成IaC模板</a></p>
+LOCATION:分会场 C (108 教室)
+URL:http://cn.pycon.org/2024/talks/iac-
+ %E9%A2%86%E5%9F%9F%E4%B8%AD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%BA%94%E
+ 7%94%A8/
+DTSTAMP:20241216T020638Z
+SUMMARY:IaC 领域中大模型的应用
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T165000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T172000
+UID:b8503991-890b-45fe-9de5-2de33f87be2e
+DESCRIPTION:演讲人：单以盟\n\n<p data-block-key="0hdmf">类脑计算领域的研究可大体分为两部分：类脑模型以及类脑
+ 计算模型，前者探索生物大脑的可解释性，后者借此开发高效的计算模型。人脑的全脑模型过于复杂，人们至今也没有成功进行全面的建模和探索，但神经元数量较少、
+ 神经结构相对简单的秀丽隐杆线虫和黑腹果蝇已被成功探索。有研究者基于此开发了 Flywares 和 Openworms 框架以分别模拟两种生物的每一个
+ 神经元，借此可以探索两种生物的神经元如何连接和如何参与决策，为类脑计算模型的研究提供支持。类脑计算模型的重心主要集中在脉冲神经网络（SNN）上，其具
+ 有的天然的 Spike-driven 特性与类脑芯片的独特设计搭配可以以不到百分之一的计算量和能耗实现与人工神经网络相似的性能。近年来的一些工作已经
+ 在目标检测、语义分割、视频时间定位和大语言模型等领域利用 SNN 
+ 进行了低功耗实现。随着人脑全脑模型的进一步完善以及类脑计算模型的进一步研究，类脑计算领域将在未来绽放更璀璨的光芒。</p><p data-
+ block-key="dsrs9">主题演讲中将介绍：</p><ol><li data-block-
+ key="57ers">生物全脑模型的模拟，它们如何利用 Python 实现。</li><li data-block-
+ key="6rj9j">脉冲神经网络（SNN）的最新研究进展，以及它的独特特性。</li><li data-block-key="7oimo">基于
+  Python 脉冲神经网络模拟框架的设计。</li></ol><p data-block-key="5a95h">演示文稿：<a 
+ linktype="document" id="21">A-类脑计算-单以盟</a></p>
+LOCATION:分会场 A (506 教室)
+URL:http://cn.pycon.org/2024/talks/%E7%B1%BB%E8%84%91%E8%AE%A1%E7%AE%97%E9%
+ A2%86%E5%9F%9F%E4%B8%AD%E7%9A%84-python/
+DTSTAMP:20241216T020638Z
+SUMMARY:类脑计算领域中的 Python
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T165000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T172000
+UID:bc1149cd-9bd0-4cf1-8b3c-2819e4ebd76b
+DESCRIPTION:演讲人：张晋涛\n\n
+LOCATION:分会场 B (326 教室)
+URL:http://cn.pycon.org/2024/talks/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%A4%9A%E6%
+ A0%B7%E5%8C%96%E7%9A%84%E6%88%90%E9%95%BF%E8%B7%AF%E5%BE%84/
+DTSTAMP:20241216T020638Z
+SUMMARY:程序员多样化的成长路径
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T165000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T170000
+UID:e5dafec0-5a02-4302-85ae-8ed1d3be6d26
+DESCRIPTION:演讲人：shell\n\n<p data-block-key="to74e">使用 
+ Pandas，分析中国的人口数据。计算每个年龄层的人口数据和变化。推算生育率，劳动供养率等数据的变化趋势，并对未来做有限预测。</p><p 
+ data-block-key="18nhu">演示文稿：<a linktype="document" id="16">9-shell-
+ pycon2024 slides</a></p>
+LOCATION:分会场 C (108 教室)
+URL:http://cn.pycon.org/2024/talks/pandas-
+ %E4%BA%BA%E5%8F%A3%E5%92%8C%E5%8A%B3%E5%8A%A8%E4%BE%9B%E5%85%BB%E6%95%B0%E
+ 6%8D%AE%E5%88%86%E6%9E%90/
+DTSTAMP:20241216T020638Z
+SUMMARY:Pandas 人口和劳动供养数据分析
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T170000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T171000
+UID:1826e632-594b-469d-b13b-057a1b1e5744
+DESCRIPTION:演讲人：李剑楠\n\n<p data-block-key="zaebt">ChatDBA 
+ 是由上海爱可生开发的一款数据库运维领域的智能辅助系统，通过对话交互，提供数据库故障诊断、专业知识学习、SQL 生成和优化等功能，旨在提升 DBA 
+ 工作效率。本次分享将主要介绍 ChatDBA 是如何利用大语言模型实现其数据库故障诊断智能助手功能。</p><p data-block-
+ key="9uien">演示文稿：<a linktype="document" id="8">10-李剑楠PyCon2024</a></p>
+LOCATION:分会场 C (108 教室)
+URL:http://cn.pycon.org/2024/talks/chatdba%E6%95%B0%E6%8D%AE%E5%BA%93%E6%99
+ %BA%E8%83%BD%E5%8A%A9%E6%89%8B%E5%AE%9E%E8%B7%B5/
+DTSTAMP:20241216T020638Z
+SUMMARY:ChatDBA：数据库智能助手实践
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T172000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T173000
+UID:7212637a-b9ff-4672-af8f-7afab9233ef9
+LOCATION:分会场 D (215 教室)
+DTSTAMP:20241216T020638Z
+SUMMARY:代码厨房乐队演出
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T173000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T180000
+UID:12874811-7163-4a75-bedf-282a3501dea1
+DESCRIPTION:演讲人：Manjusaka\n\n
+LOCATION:分会场 A (506 教室)
+URL:http://cn.pycon.org/2024/talks/%E4%BB%8E%E5%A4%B4%E8%81%8A%E8%81%8A-
+ python-%E7%9A%84-jit-%E5%AE%9E%E7%8E%B0/
+DTSTAMP:20241216T020638Z
+SUMMARY:从头聊聊 Python 的 JIT 实现
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T173000
+DTEND;TZID=/ics.py/2020.1/Asia/Shanghai:20241123T180000
+UID:68b23c0e-3fb5-4598-ba5d-70289c8228a9
+LOCATION:分会场 D (215 教室)
+DTSTAMP:20241216T020638Z
+SUMMARY:茶歇 & 交流
+END:VEVENT
+END:VCALENDAR

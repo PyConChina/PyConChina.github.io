@@ -1,0 +1,194 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>
+            
+            基于 Python 的新兴领域专用语言（Python-based  DSLs）
+            
+            
+            
+            - PyCon China 2024
+            
+        </title>
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" href="/2023/pychina.png?h=621881a7" />
+
+        
+        
+
+        
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
+        <link rel="stylesheet" href="/2024/static/css/pycon.7e36de3a8635.css">
+
+        
+<style>
+.authors {
+    list-style: none;
+    padding: 0;
+}
+.author {
+    display: flex;
+    align-items: flex-start;
+}
+.author + .author {
+    margin-top: 1rem;
+}
+
+.author > div:first-child {
+    flex-grow: 1;
+}
+.author-info {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+}
+.author-name {
+    font-weight: bold;
+    font-size: 1.75em;
+}
+</style>
+
+        <script defer src="https://umami.fming.dev/script.js" data-website-id="b6ee8ee3-e60c-4604-872b-5cd2594594e3"></script>
+    </head>
+
+    <body class="">
+        
+
+        
+
+<nav class="navbar">
+    <!-- Add button for mobile menu -->
+    <div class="menu-toggle" id="menuToggle">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    
+    <ul class="nav-links">
+        <li><a href="/2024/" class="nav-link">首页</a></li>
+        
+            <li><a href="/2024/supporter/" class="nav-link">合作与赞助</a></li>
+        
+            <li><a href="/2024/talks/" class="nav-link">演讲</a></li>
+        
+            <li><a href="/2024/schedule/" class="nav-link">日程</a></li>
+        
+            <li><a href="/2024/staff/" class="nav-link">组委会</a></li>
+        
+            <li><a href="/2024/marketplace/" class="nav-link">Python 集市展</a></li>
+        
+            <li><a href="/2024/hackathon/" class="nav-link">开源松</a></li>
+        
+        <li>
+          <a href="https://wj.qq.com/s2/16521138/481c/" class="nav-link" target="_blank">会后问卷</a>
+        </li>
+    </ul>
+</nav>
+
+
+        
+<main>
+    <h1 class="title">
+        基于 Python 的新兴领域专用语言（Python-based  DSLs）
+    </h1>
+    <span class="talk-badge keynote">
+    
+        <i class="fa-solid fa-medal"></i> 主题
+    
+</span>
+
+    <div class="card content">
+        <div class="card-body">
+            <ul class="authors">
+                
+                    <li class="author">
+                        <div>
+                            <div class="author-info">
+                                <span class="author-name">李枫</span>
+                                <span class="author-bio">独立开发者</span>
+                            </div>
+                            <div class="content"><p data-block-key="c36zr">先后就职于摩托罗拉, 三星等 IT 公司, 现为独立开发者。在移动平台上积累了十年以上的研发经验, 近几年主要专注于云计算/边缘计算基础设施（包括 AI,  Virtualization, Program Runtime, Network, 5G, RISC-V, EDA 等软硬件领域）。</p><p data-block-key="v3h2">是《灰帽黑客 第4版：正义黑客的道德规范、渗透测试、攻击方法和漏洞分析技术》（ISBN：9787302428671）和《恶意网络环境下的Linux防御之道 》（ISBN: 9787115544384）中文版的主要译者。</p><p data-block-key="ahgho">对技术创新具有浓厚的兴趣和实践能力，热心参与开源社区的各种活动，多次参加各类 IT 会议并作技术分享。之前做过的各种技术演讲（皆为第一作者）可见于以下链接：</p><p data-block-key="futl8"><a href="https://github.com/XianBeiTuoBaFeng2015/MySlides">https://github.com/XianBeiTuoBaFeng2015/MySlides</a></p></div>
+                        </div>
+                        
+                            <img alt="lifeng" height="240" src="/2024/media/images/image_4.2e16d0ba.fill-240x240.png" width="240">
+                        
+                    </li>
+                
+            </ul>
+            
+                <div class="schedule">
+                    <i class="fa-solid fa-clock"></i>
+                    2:50 p.m. - 3:20 p.m.
+                    <i class="fa-solid fa-location-arrow"></i>
+                    分会场 C(108 教室)
+                </div>
+            
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="card-body content">
+            <p data-block-key="vz7e7">由于具有提高生产率、改善可读性、更好的可维护性等优点，领域专用语言（DSL）在现代软硬件开发中正变得越来越重要。而 Python 所具备的易学易用等特点以及强大的元编程能力和丰富的生态，使得更容易利用它来构造各种 DSL。</p><p data-block-key="8gnsn">本议题将着重探讨 DSL 的设计与应用，特别以时下三种基于 Python 的新兴 DSL 为例，提纲如下：</p><ol><li data-block-key="6kf31">背景<ol><li data-block-key="he5q">DSL 技术综述；</li><li data-block-key="aiuem">我们的测试台;</li></ol></li><li data-block-key="1dqni">Triton 语言（用于编写异构并行计算中的内核的 Python DSL，基于 MLIR 实现）<ol><li data-block-key="9kc1f">架构与设计;</li><li data-block-key="4b2qn">示例解析及其在测试台上的实践；</li></ol></li><li data-block-key="d2s0u">Mojo 语言（面向 AI 编程的 Python 超集，由 LLVM 之父创建，结合了 Python 和 Rust 的优点）<ol><li data-block-key="6e0qb">设计思想；</li><li data-block-key="37b5h">llama3.mojo 项目及其在测试台上的实践；</li></ol></li><li data-block-key="600v">Amaranth 语言（基于 Python 的现代硬件描述语言）<ol><li data-block-key="3u3jp">使用 Amaranth 进行硬件开发；</li><li data-block-key="78ln0">Amaranth 工具链及其在测试台上的实践。</li></ol></li></ol><p data-block-key="buhs2">另附议题涉及的主要技术栈参考链接如下：</p><ol><li data-block-key="6chvq"><a href="https://en.wikipedia.org/wiki/Domain-specific_language">https://en.wikipedia.org/wiki/Domain-specific_language</a></li><li data-block-key="5n7gv"><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">https://en.wikipedia.org/wiki/Python_(programming_language)</a></li><li data-block-key="6v1kk"><a href="https://triton-lang.org/">https://triton-lang.org/</a></li><li data-block-key="60e0a"><a href="https://mlir.llvm.org/">https://mlir.llvm.org/</a></li><li data-block-key="nlku"><a href="https://www.modular.com/mojo">https://www.modular.com/mojo</a></li><li data-block-key="ejv7r"><a href="https://en.wikipedia.org/wiki/Rust_(programming_language)">https://en.wikipedia.org/wiki/Rust_(programming_language)</a></li><li data-block-key="fl96u"><a href="https://github.com/Terapines/llama3.mojo">https://github.com/Terapines/llama3.mojo</a></li><li data-block-key="7510e"><a href="https://amaranth-lang.org/">https://amaranth-lang.org/</a></li></ol><p data-block-key="bg0kl">演示文稿：<a href="/2024/documents/10/3-%E6%9D%8E%E6%9E%AB-PyConChina2024__Python-based_emerging_DSLs__FengLi-20241123.pdf">3-李枫-PyConChina2024__Python-based emerging DSLs__FengLi-20241123</a></p>
+        </div>
+    </div>
+</main>
+
+
+        <footer>
+    <div class="footer-content">
+        <div class="footer-section">
+            <h3>PyCon China 2024</h3>
+
+            
+                
+                    <p>
+                        
+                          <a href="https://github.com/PyConChina" aria-label="GitHub"><i class="fab fa-github"></i></a>
+                        
+                          <a href="https://x.com/PyConChina" aria-label="X/Twitter"><i class="fab fa-x-twitter"></i></a>
+                        
+                          <a href="https://space.bilibili.com/474764697" aria-label="Bilibili"><i class="fab fa-bilibili"></i></a>
+                        
+                          <a href="https://www.youtube.com/channel/UC6wdANyncX4Bc59wTVKrUlw" aria-label="Youtube"><i class="fab fa-youtube"></i></a>
+                        
+                          <a href="https://weibo.com/PyConCN" aria-label="Weibo"><i class="fab fa-weibo"></i></a>
+                        
+                          <a href="https://pychina.org" aria-label="Home"><i class="fas fa-house"></i></a>
+                        
+                    </p>
+                
+            
+        </div>
+
+        <div class="footer-section">
+            <h3>往届大会</h3>
+            <ul class="past-conferences">
+                <li><a href="https://cn.pycon.org/2023/" target="_blank">2023</a></li>
+                <li><a href="https://cn.pycon.org/2022/" target="_blank">2022</a></li>
+                <li><a href="https://cn.pycon.org/2021/" target="_blank">2021</a></li>
+                <li><a href="https://cn.pycon.org/2020/" target="_blank">2020</a></li>
+                <li><a href="https://cn.pycon.org/2019/" target="_blank">2019</a></li>
+                <li><a href="https://cn.pycon.org/2018/" target="_blank">2018</a></li>
+                <li><a href="https://cn.pycon.org/2017/" target="_blank">2017</a></li>
+                <li><a href="https://cn.pycon.org/2016/" target="_blank">2016</a></li>
+                <li><a href="https://cn.pycon.org/2015/" target="_blank">2015</a></li>
+                <li><a href="https://cn.pycon.org/2014/" target="_blank">2014</a></li>
+                <li><a href="https://cn.pycon.org/2013/" target="_blank">2013</a></li>
+                <li><a href="https://cn.pycon.org/2012/" target="_blank">2012</a></li>
+                <li><a href="https://cn.pycon.org/2011/" target="_blank">2011</a></li>
+            </ul>
+        </div>
+    </div>
+</footer>
+
+        
+        <script type="text/javascript" src="/2024/static/js/pycon.593780372416.js"></script>
+
+        
+        
+        
+    </body>
+</html>
